@@ -1,7 +1,7 @@
 {
-  "name": "zurb-f6-boilerplate",
+  "name": "studio-n-creations",
   "version": "1.0.0",
-  "description": "New project boilerplate using ZURB's 'Advanced' Foundation 6 framework",
+  "description": "GitHub repo for www.studioncreations.com",
   "main": "gulpfile.js",
   "scripts": {
     "start": "gulp",
@@ -35,7 +35,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/nico-watine/zurb-f6-boilerplate.git"
+    "url": "https://github.com/nico-watine/studio-n-creations.git"
   },
   "babel": {
     "presets": ["es2015"]
