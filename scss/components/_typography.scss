@@ -2,3 +2,8 @@
 @import "typography/_fonts.scss";
 
 
+.heading {
+	font-family: $heading-font;
+	font-weight: $heading-font-weight;
+	line-height: $heading-line-height;
+}
