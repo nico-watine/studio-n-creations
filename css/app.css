@@ -1,6 +1,7 @@
 @charset "UTF-8";
 /** Foundation for Sites by ZURB Version 6.2.3 foundation.zurb.com Licensed under MIT Open Source */
 @import 'https://fonts.googleapis.com/css?family=Lato:300|Source+Code+Pro:600';
+@import url("https://fonts.googleapis.com/css?family=Lato:300,400,700|Source+Code+Pro:600");
 .slide-in-down.mui-enter { transition-duration: 500ms; transition-timing-function: linear; transform: translateY(-100%); transition-property: transform, opacity; backface-visibility: hidden; }
 
 .slide-in-down.mui-enter.mui-enter-active { transform: translateY(0); }
