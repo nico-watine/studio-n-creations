@@ -2065,7 +2065,7 @@ table.hover tr:nth-of-type(even):hover { background-color: #ececec; }
 
 .long-delay { animation-delay: 700ms !important; }
 
-h1, h3 { font-family: 'Source Code Pro', Consolas, 'Liberation Mono', Courier, monospace; font-weight: 600; }
+h1, h3 { font-family: 'Source Code Pro', Consolas, 'Liberation Mono', Courier, monospace; font-weight: 600; text-transform: uppercase; }
 
 h2 { font-weight: 700; }
 
