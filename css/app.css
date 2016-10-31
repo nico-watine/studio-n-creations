@@ -325,7 +325,7 @@ html { font-size: 100%; box-sizing: border-box; }
 
 *, *::before, *::after { box-sizing: inherit; }
 
-body { padding: 0; margin: 0; font-family: "Lato", "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-weight: normal; line-height: 1.5; color: #222; background: #fefefe; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
+body { padding: 0; margin: 0; font-family: "Lato", "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-weight: normal; line-height: 1.2; color: #222; background: #fefefe; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
 
 img { max-width: 100%; height: auto; -ms-interpolation-mode: bicubic; display: inline-block; vertical-align: middle; }
 
@@ -721,7 +721,7 @@ strong, b { font-weight: bold; line-height: inherit; }
 
 small { font-size: 80%; line-height: inherit; }
 
-h1, h2, h3, h4, h5, h6 { font-family: "Lato", "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-weight: normal; font-style: normal; color: inherit; text-rendering: optimizeLegibility; margin-top: 0; margin-bottom: 0.5rem; line-height: 1.4; }
+h1, h2, h3, h4, h5, h6 { font-family: "Lato", "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-weight: normal; font-style: normal; color: inherit; text-rendering: optimizeLegibility; margin-top: 0; margin-bottom: 0.5rem; line-height: 1.2; }
 
 h1 small, h2 small, h3 small, h4 small, h5 small, h6 small { color: #cacaca; line-height: 0; }
 
@@ -780,7 +780,7 @@ code { font-family: Consolas, "Liberation Mono", Courier, monospace; font-weight
 
 kbd { padding: 0.125rem 0.25rem 0; margin: 0; background-color: #e6e6e6; color: #222; font-family: Consolas, "Liberation Mono", Courier, monospace; }
 
-.subheader { margin-top: 0.2rem; margin-bottom: 0.5rem; font-weight: normal; line-height: 1.4; color: #8a8a8a; }
+.subheader { margin-top: 0.2rem; margin-bottom: 0.5rem; font-weight: normal; line-height: 1.2; color: #8a8a8a; }
 
 .lead { font-size: 125%; line-height: 1.6; }
 
