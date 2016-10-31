@@ -2067,9 +2067,9 @@ table.hover tr:nth-of-type(even):hover { background-color: #ececec; }
 
 h1, h3 { font-family: 'Source Code Pro', Consolas, 'Liberation Mono', Courier, monospace; font-weight: 600; }
 
-h2 { font-family: "Lato", "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-weight: 700; }
+h2 { font-weight: 700; }
 
-p, h6 { font-family: "Lato", "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-weight: 300; }
+p, h6 { font-weight: 300; }
 
 h5, h6 { text-transform: uppercase; letter-spacing: 0.09375rem; }
 
