@@ -21,3 +21,15 @@ body-class: index
 	</div>
 	<div class="gradient"></div>
 </header>
+<section class="intro-slogan">
+	<div class="row">
+		<div class="medium-6 columns">
+			<h2>We create phone-friendly websites for projects of all sizes *</h2>	
+		</div>
+		<div class="medium-5 columns end">
+			<div class="prose">
+				<p>No client is too big or too small. Whether you need a single brochure-type landing page or a full featured e-commerce site, we’ve got you covered.</p>
+			</div>
+		</div>
+	</div>
+</section>

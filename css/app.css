@@ -2087,6 +2087,14 @@ h5, h6 { text-transform: uppercase; letter-spacing: 0.09375rem; }
 
 @media screen and (min-width: 40em) { .index-header-tagline { font-size: 1.75rem; float: right; } }
 
+#index .intro-slogan { background: #8D959E; padding: 3.75rem 0; }
+
+#index .intro-slogan h2 { color: #fff; text-shadow: -0.125rem 0.1875rem 0 rgba(0, 0, 0, 0.45); text-align: right; }
+
+#index .intro-slogan .prose { padding: 1.875rem 1rem; background: #fff; border-radius: 0.1875rem; }
+
+#index .intro-slogan .prose p { margin: 0; }
+
 .p-0 { padding: 0; }
 
 .m-0 { margin: 0; }

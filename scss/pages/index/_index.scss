@@ -44,3 +44,25 @@
 	}
 }
 
+#index {
+	.intro-slogan {
+		background: $dark-blue;
+		padding: rem(60) 0;
+
+		h2 {
+			color: #fff;
+			text-shadow: rem(-2) rem(3) 0 rgba(0,0,0,0.45);
+			text-align: right;
+		}
+
+		.prose {
+			padding: rem(30) rem(16);
+			background: #fff;
+			border-radius: rem(3);
+			
+			p {
+				margin: 0;
+			}
+		}
+	}
+}
