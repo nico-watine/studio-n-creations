@@ -6,8 +6,9 @@
 		background: #fff url('#{$url}/img/index/landing/isometric-ipads.png') center top/cover no-repeat;
 		position: relative;
 
-		.row {
+		.absolute-wrapper {
 			@include vertical-center;
+			width: 100%;
 			z-index: 5;
 
 			h1 {
