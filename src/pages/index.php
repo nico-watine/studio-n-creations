@@ -33,3 +33,46 @@ body-class: index
 		</div>
 	</div>
 </section>
+<section class="recent-projects">
+	<div class="row">
+		<div class="small-12 columns text-center">
+			<h3>Recent Projects</h3>
+		</div>
+	</div>
+	<div class="row">
+		<div class="medium-6 columns">
+			<div class="project">
+				<a href="#"><img src="/img/index/recent-projects/project-thumbnail.png" alt=""></a>
+			</div>
+		</div>
+		<div class="medium-6 columns">
+			<div class="project">
+				<a href="#"><img src="/img/index/recent-projects/project-thumbnail.png" alt=""></a>
+			</div>
+		</div>
+	</div>
+	<div class="row">
+		<div class="medium-6 columns">
+			<div class="project">
+				<a href="#"><img src="/img/index/recent-projects/project-thumbnail.png" alt=""></a>
+			</div>
+		</div>
+		<div class="medium-6 columns">
+			<div class="project">
+				<a href="#"><img src="/img/index/recent-projects/project-thumbnail.png" alt=""></a>
+			</div>
+		</div>
+	</div>
+	<div class="row">
+		<div class="medium-6 columns">
+			<div class="project">
+				<a href="#"><img src="/img/index/recent-projects/project-thumbnail.png" alt=""></a>
+			</div>
+		</div>
+		<div class="medium-6 columns">
+			<div class="project">
+				<a href="#"><img src="/img/index/recent-projects/project-thumbnail.png" alt=""></a>
+			</div>
+		</div>
+	</div>
+</section>
