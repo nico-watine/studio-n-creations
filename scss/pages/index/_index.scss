@@ -1,6 +1,10 @@
 @import "../../_settings.scss";
 
 #index {
+	background: #F4F4F4;
+}
+
+#index {
 	header {
 		height: rem(600);
 		background: #fff url('#{$url}/img/index/landing/isometric-ipads.png') center top/cover no-repeat;
@@ -73,6 +77,27 @@
 
 		.project {
 			margin-bottom: rem(20);
+		}
+	}
+}
+
+#index {
+	.graphic-branding {
+		background: #fff;
+		margin-bottom: rem(60);
+
+		.prose {
+			padding: rem(30) rem(16) 0;
+		}
+
+		.top-row {
+			position: relative;
+			min-height: 305px;
+		}
+
+		.sub-row {
+			background: #F9F9F9;
+			@include vertical-center;
 		}
 	}
 }
