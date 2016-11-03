@@ -97,6 +97,20 @@
 
 			.columns:nth-child(1) {
 				background: #1571C1;
+
+				@include breakpoint(small only) {
+					padding-top: rem(12);
+				}
+			}
+
+			.columns:nth-child(2) {
+				@include breakpoint(small only) {
+					height: rem(150);
+
+					img {
+						margin-top: rem(30);
+					}
+				}
 			}
 
 			.columns:nth-child(3) {
