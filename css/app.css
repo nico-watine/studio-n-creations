@@ -2105,9 +2105,18 @@ h5, h6 { text-transform: uppercase; letter-spacing: 0.09375rem; }
 
 #index .graphic-branding .prose { padding: 1.875rem 1rem 0; }
 
-#index .graphic-branding .top-row { position: relative; min-height: 305px; }
+#index .graphic-branding .sub-row { margin-top: 1.25rem; background: #F9F9F9; }
 
-#index .graphic-branding .sub-row { background: #F9F9F9; position: absolute; top: 50%; transform: translateY(-50%); }
+#index .graphic-branding .sub-row .columns:nth-child(1) { background: #1571C1; }
+
+@media screen and (min-width: 40em) and (max-width: 63.9375em) { #index .graphic-branding .sub-row { position: relative; }
+  #index .graphic-branding .sub-row .columns:nth-child(1), #index .graphic-branding .sub-row .columns:nth-child(2) { position: absolute; height: 100%; }
+  #index .graphic-branding .sub-row .columns:nth-child(1) img, #index .graphic-branding .sub-row .columns:nth-child(2) img { position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); }
+  #index .graphic-branding .sub-row .columns:nth-child(1) img { max-height: 90%; } }
+
+@media screen and (min-width: 64em) { #index .graphic-branding .sub-row { margin-top: 0; }
+  #index .graphic-branding .sub-row .columns:nth-child(1) { background: none; }
+  #index .graphic-branding .sub-row .columns:nth-child(1) img:nth-child(2) { padding-top: 0.625rem; } }
 
 .p-0 { padding: 0; }
 

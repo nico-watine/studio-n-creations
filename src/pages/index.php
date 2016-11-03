@@ -78,19 +78,22 @@ body-class: index
 </section>
 <section class="graphic-branding">
 	<div class="row top-row collapse">
-		<div class="medium-4 columns">
+		<div class="medium-push-1 medium-11 large-4 large-push-0 columns">
 			<div class="prose">
 				<h3>Graphic Branding</h3>
 				<p>Web design is deeper than page design. Having a solid visual brand, such as through logos and colors, helps maintain design consistency, leaving a professional impression on the visitor. Here are a few of the custom logos we have created for clients.</p>
 			</div>
 		</div>
-		<div class="medium-8 columns">
+		<div class="medium-12 large-8 columns">
 			<div class="row sub-row collapse">
-				<div class="medium-4 columns">
-					<img style="margin-bottom: 10px;" src="/img/index/graphic-branding/dynasty-sports-report.png" alt="">
-					<img src="/img/index/graphic-branding/dmesa-home-logo.png" alt="">
+				<div class="medium-4 columns text-center">
+					<img src="/img/index/graphic-branding/dynasty-sports-report.png" alt="">
+					<img class="show-for-large" src="/img/index/graphic-branding/dmesa-home-logo.png" alt="">
 				</div>
-				<div class="medium-8 columns">
+				<div class="medium-push-4 medium-3 columns hide-for-large text-center">
+					<img  src="/img/index/graphic-branding/dmesa-home-logo.png" alt="">
+				</div>
+				<div class="medium-5 large-8 columns">
 					<img style="width: 100%;" src="/img/index/graphic-branding/jardin-de-france-logo.png" alt="">
 				</div>
 			</div>
