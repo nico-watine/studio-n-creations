@@ -86,7 +86,6 @@ $max-730: "only screen and (max-width : 45.625em)";
 #index {
 	.graphic-branding {
 		background: #fff;
-		margin-bottom: rem(60);
 
 		.prose {
 			padding: rem(30) rem(16) 0;
@@ -177,9 +176,6 @@ $max-730: "only screen and (max-width : 45.625em)";
 			background: #F4F4F4;
 
 			.image {
-				// background: #566372;
-				// padding: 0;
-
 				img {
 					max-width: 240px;
 					width: 100%;
