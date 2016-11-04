@@ -170,14 +170,14 @@
 	.about-us {
 		background: #566372;
 		border: rem(3) solid #566372;
-		padding: 0 rem(30);
+		padding: 0 rem(40);
 
 		.row {
 			background: #F4F4F4;
 
 			.image {
-				background: #566372;
-				padding-right: 0;
+				// background: #566372;
+				// padding: 0;
 
 				img {
 					max-width: 240px;
@@ -188,7 +188,46 @@
 
 			.prose {
 				padding-top: rem(90);
-				padding-right: rem(30);
+			}
+		}
+	}
+}
+
+@include breakpoint(medium) {
+	#index {
+		.about-us {
+			background: #566372;
+			border: rem(3) solid #566372;
+			padding: 0 rem(20);
+
+			.row {
+				.image {
+					background: linear-gradient(90deg, #566372 50%, #F4F4F4 50%);
+					text-align: center;
+					padding: 0;
+				}
+
+				.prose {
+					padding-top: rem(10);
+				}
+			}
+		}
+	}
+}
+
+@include breakpoint(large) {
+	#index {
+		.about-us {
+			padding: 0 rem(40);
+
+			.row {
+				.image {
+					text-align: right;
+					background: #566372;
+				}
+				.prose {
+					padding-top: rem(90);
+				}
 			}
 		}
 	}
