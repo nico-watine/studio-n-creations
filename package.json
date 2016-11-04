@@ -1,7 +1,7 @@
 {
   "name": "studio-n-creations",
   "version": "1.0.0",
-  "description": "GitHub repo for www.studioncreations.com",
+  "description": "www.studioncreations.com project repo. Site built on zurb-f6-boilerplate",
   "main": "gulpfile.js",
   "scripts": {
     "start": "gulp",
