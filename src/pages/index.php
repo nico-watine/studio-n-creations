@@ -100,3 +100,15 @@ body-class: index
 		</div>
 	</div>
 </section>
+<section class="about-us">
+	<div class="row">
+		<div class="medium-3 columns image text-right">
+			<img src="/img/index/about-us/lanyard.jpg" alt="">
+		</div>
+		<div class="medium-8 columns end prose">
+			<h3>About Us</h3>
+			<h4>My name is Nico Watine, and I am the Studio N Creations team.</h4>
+			<p>I'm team leader of the Design Department and in charge of the Coding Division. I do Administrative work, too - I'm also the head of Human Resources! That tends to work out well whenever I get unhappy with working conditions. I'm a web developer and am passionate about what I do. I love working with people who are excited about their new web project.</p>
+		</div>
+	</div>
+</section>

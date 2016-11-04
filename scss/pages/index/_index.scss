@@ -165,3 +165,31 @@
 		}
 	}
 }
+
+#index {
+	.about-us {
+		background: #566372;
+		border: rem(3) solid #566372;
+		padding: 0 rem(30);
+
+		.row {
+			background: #F4F4F4;
+
+			.image {
+				background: #566372;
+				padding-right: 0;
+
+				img {
+					max-width: 240px;
+					width: 100%;
+					border-right: rem(3) solid #566372;
+				}
+			}
+
+			.prose {
+				padding-top: rem(90);
+				padding-right: rem(30);
+			}
+		}
+	}
+}
