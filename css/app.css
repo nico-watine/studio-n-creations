@@ -6417,6 +6417,12 @@ h6 {
     padding: 0;
   }
   #index .about-us .row .prose {
+    padding-top: 3.125rem;
+  }
+}
+
+@media only screen and (min-width: 40em) and (max-width: 45.625em) {
+  #index .about-us .row .prose {
     padding-top: 0.625rem;
   }
 }

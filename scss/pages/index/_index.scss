@@ -1,5 +1,6 @@
 @import "../../_settings.scss";
 
+$max-730: "only screen and (max-width : 45.625em)";
 
 #index {
 	background: #F4F4F4;
@@ -193,6 +194,7 @@
 	}
 }
 
+
 @include breakpoint(medium) {
 	#index {
 		.about-us {
@@ -208,7 +210,11 @@
 				}
 
 				.prose {
-					padding-top: rem(10);
+					@media #{$max-730} {
+						padding-top: rem(10);
+					}
+
+					padding-top: rem(50);
 				}
 			}
 		}
