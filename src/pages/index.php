@@ -91,7 +91,7 @@ body-class: index
 					<img class="show-for-large" src="/img/index/graphic-branding/dmesa-home-logo.png" alt="d'Mesa Home logo" title="The d'Mesa Home website logo, designed by Studio N Creations">
 				</div>
 				<div class="medium-push-4 medium-3 columns hide-for-large text-center">
-					<img  src="/img/index/graphic-branding/dmesa-home-logo.png" alt="d'Mesa Home logo" title="The d'Mesa Home website logo, designed by Studio N Creations">
+					<img  src="/img/index/graphic-branding/dmesa-home-logo.png" alt="d'Mesa Home logo" title="The d'Mesa Home company logo, designed by Studio N Creations">
 				</div>
 				<div class="medium-5 large-8 columns">
 					<img src="/img/index/graphic-branding/jardin-de-france-logo.png" alt="Jardin de France TX logo" title="The Jardin de France company logo, shown here on a price tag">
