@@ -42,36 +42,36 @@ body-class: index
 	<div class="row">
 		<div class="medium-6 columns">
 			<div class="project">
-				<a href="#"><img src="/img/index/recent-projects/houston-pals.png" alt=""></a>
+				<a href="http://houstonpals.com/" target="_blank"><img src="/img/index/recent-projects/houston-pals.png" alt="Houston PALS website mockup"></a>
 			</div>
 		</div>
 		<div class="medium-6 columns">
 			<div class="project">
-				<a href="#"><img src="/img/index/recent-projects/essential-sound-production.png" alt=""></a>
-			</div>
-		</div>
-	</div>
-	<div class="row">
-		<div class="medium-6 columns">
-			<div class="project">
-				<a href="#"><img src="/img/index/recent-projects/greencaretx.png" alt=""></a>
-			</div>
-		</div>
-		<div class="medium-6 columns">
-			<div class="project">
-				<a href="#"><img src="/img/index/recent-projects/lisa-esposito.png" alt=""></a>
+				<a href="http://essentialsoundproduction.com/" target="_blank"><img src="/img/index/recent-projects/essential-sound-production.png" alt="Essential Sound Production website mockup"></a>
 			</div>
 		</div>
 	</div>
 	<div class="row">
 		<div class="medium-6 columns">
 			<div class="project">
-				<a href="#"><img src="/img/index/recent-projects/starhill-farms.png" alt=""></a>
+				<a href="http://greencaretx.com/" target="_blank"><img src="/img/index/recent-projects/greencaretx.png" alt="Greencare Interior Plants website mockup"></a>
 			</div>
 		</div>
 		<div class="medium-6 columns">
 			<div class="project">
-				<a href="#"><img src="/img/index/recent-projects/jardin-de-france.png" alt=""></a>
+				<a href="http://www.lisaesposito.com/" target="_blank"><img src="/img/index/recent-projects/lisa-esposito.png" alt="Dr Lisa Esposito website mockup"></a>
+			</div>
+		</div>
+	</div>
+	<div class="row">
+		<div class="medium-6 columns">
+			<div class="project">
+				<a href="http://starhillfarms.com/" target="_blank"><img src="/img/index/recent-projects/starhill-farms.png" alt="Starhill Farms website mockup"></a>
+			</div>
+		</div>
+		<div class="medium-6 columns">
+			<div class="project">
+				<a href="http://jardindefrancetx.com/" target="_blank"><img src="/img/index/recent-projects/jardin-de-france.png" alt="Jardin de France TX website mockup"></a>
 			</div>
 		</div>
 	</div>
