@@ -103,7 +103,7 @@ body-class: index
 <section class="about-us">
 	<div class="row">
 		<div class="medium-4 large-3 columns image">
-			<img src="/img/index/about-us/lanyard.jpg" alt="">
+			<img src="/img/index/about-us/lanyard.jpg" alt="Nico Watine ID lanyard" title="Hello my name is Nico Watine">
 		</div>
 		<div class="medium-8 large-9 columns prose">
 			<h3>About Us</h3>
