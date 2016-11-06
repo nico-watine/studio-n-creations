@@ -6272,23 +6272,26 @@ h6 {
 
 .recent-projects-modal .modal-container .modal-images {
   border-radius: 0 0 0.25rem 0.25rem;
+}
+
+.recent-projects-modal#essential-sound-production-modal .modal-container .modal-images {
   overflow: hidden;
   position: relative;
 }
 
-.recent-projects-modal .modal-container .modal-images .image-1 {
+.recent-projects-modal#essential-sound-production-modal .modal-container .modal-images .image-1 {
   position: absolute;
   background: #fff;
   height: 100%;
 }
 
 @media screen and (min-width: 64em) {
-  .recent-projects-modal .modal-container .modal-images .image-1 img {
+  .recent-projects-modal#essential-sound-production-modal .modal-container .modal-images .image-1 img {
     margin-top: 0.5rem;
   }
 }
 
-.recent-projects-modal .modal-container .modal-images .image-3 img {
+.recent-projects-modal#essential-sound-production-modal .modal-container .modal-images .image-3 img {
   position: absolute;
   height: 100%;
 }

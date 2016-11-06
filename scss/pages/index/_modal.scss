@@ -1,5 +1,6 @@
 @import "../../_settings.scss";
 
+// Specific project-modal styles imported at bottom of file //
 
 .recent-projects-modal {
 	width: 100%;
@@ -35,27 +36,9 @@
 
 		.modal-images {
 			border-radius: 0 0 rem(4) rem(4); 
-			overflow: hidden; 
-			position: relative;
-
-			.image-1 {
-				position: absolute; 
-				background: #fff; 
-				height: 100%;
-
-				@include breakpoint(large) {
-					img {
-						margin-top: rem(8);
-					}
-				}
-			}
-
-			.image-3 {
-				img {
-					position: absolute;
-					height: 100%;
-				}
-			}
 		}
 	}
 }
+
+// Individual modal styles::
+@import "modal/_essential-sound-production.scss";
