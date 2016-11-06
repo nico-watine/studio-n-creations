@@ -2,25 +2,16 @@
 
 // Specific project-modal styles imported at bottom of file //
 
+// BEFORE UN-NESTING MODAL SASS STYLES ::
+// 126,108
+// AFTER ::
+
+
+
+
 .recent-projects-modal {
 	width: 100%;
 	background: none;
-
-	@include breakpoint(medium) {
-		padding-bottom: rem(15);
-
-		.modal-container {
-			border-radius: rem(4);
-
-			.modal-header {
-				border-radius: rem(4) rem(4) 0 0;
-			}
-		}
-
-		.modal-images {
-			border-radius: 0 0 rem(4) rem(4); 
-		}
-	}
 
 	.modal-container {
 		background: #F4F4F4;
@@ -48,6 +39,26 @@
 		}
 	}
 }
+
+@include breakpoint(medium) {
+	.recent-projects-modal {
+		padding-bottom: rem(15);
+
+		.modal-container {
+			border-radius: rem(4);
+
+			.modal-header {
+				border-radius: rem(4) rem(4) 0 0;
+			}
+		}
+
+		.modal-images {
+			border-radius: 0 0 rem(4) rem(4); 
+		}
+	}
+}
+
+
 
 // Individual modal styles::
 @import "modal/_essential-sound-production.scss";
