@@ -1,13 +1,61 @@
 @import "../../_settings.scss";
 
-.reveal.row {
-	width: 100%;
-}
 
 .recent-projects-modal {
-	background: #F4F4F4;
-	box-shadow: rem(-6) rem(8) 0 0 rgba(86,99,113,0.50);
-	border-radius: rem(4);
+	width: 100%;
+	background: none;
+	padding-bottom: rem(16);
+
+	.modal-container {
+		background: #F4F4F4;
+		box-shadow: rem(-6) rem(8) 0 0 rgba(86,99,113,0.50);
+		border-radius: rem(4);
+		padding: 0;
+
+		.modal-header {
+			background: #fff;
+			padding: rem(25);
+			border-radius: rem(4) rem(4) 0 0;
+
+			* {
+				margin: 0;
+			}
+		}
+
+		.modal-prose {
+			padding: rem(25) rem(16);
+
+			.modal-site-link {
+				border-radius: rem(2); 
+				box-shadow: rem(-4) rem(4) 0 0 rgba(141,149,158,0.50); 
+				background: #566372; 
+				font-size: rem(16);
+			}
+		}
+
+		.modal-images {
+			border-radius: 0 0 rem(4) rem(4); 
+			overflow: hidden; 
+			position: relative;
+
+			.image-1 {
+				position: absolute; 
+				background: #fff; 
+				height: 100%;
+
+				@include breakpoint(large) {
+					img {
+						margin-top: rem(8);
+					}
+				}
+			}
+
+			.image-3 {
+				img {
+					position: absolute;
+					height: 100%;
+				}
+			}
+		}
+	}
 }
-
-

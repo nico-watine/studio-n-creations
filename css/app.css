@@ -6236,14 +6236,61 @@ h6 {
   letter-spacing: 0.09375rem;
 }
 
-.reveal.row {
+.recent-projects-modal {
   width: 100%;
+  background: none;
+  padding-bottom: 1rem;
 }
 
-.recent-projects-modal {
+.recent-projects-modal .modal-container {
   background: #F4F4F4;
   box-shadow: -0.375rem 0.5rem 0 0 rgba(86, 99, 113, 0.5);
   border-radius: 0.25rem;
+  padding: 0;
+}
+
+.recent-projects-modal .modal-container .modal-header {
+  background: #fff;
+  padding: 1.5625rem;
+  border-radius: 0.25rem 0.25rem 0 0;
+}
+
+.recent-projects-modal .modal-container .modal-header * {
+  margin: 0;
+}
+
+.recent-projects-modal .modal-container .modal-prose {
+  padding: 1.5625rem 1rem;
+}
+
+.recent-projects-modal .modal-container .modal-prose .modal-site-link {
+  border-radius: 0.125rem;
+  box-shadow: -0.25rem 0.25rem 0 0 rgba(141, 149, 158, 0.5);
+  background: #566372;
+  font-size: 1rem;
+}
+
+.recent-projects-modal .modal-container .modal-images {
+  border-radius: 0 0 0.25rem 0.25rem;
+  overflow: hidden;
+  position: relative;
+}
+
+.recent-projects-modal .modal-container .modal-images .image-1 {
+  position: absolute;
+  background: #fff;
+  height: 100%;
+}
+
+@media screen and (min-width: 64em) {
+  .recent-projects-modal .modal-container .modal-images .image-1 img {
+    margin-top: 0.5rem;
+  }
+}
+
+.recent-projects-modal .modal-container .modal-images .image-3 img {
+  position: absolute;
+  height: 100%;
 }
 
 #index {
