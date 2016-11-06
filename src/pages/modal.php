@@ -26,13 +26,13 @@ body-class: modal-page
 		</div>
 		<div class="row collapse modal-images">
 			<div class="small-8 medium-5 columns image-1">
-				<img src="/img/index/recent-projects/modals/essential-sound-production/essential-sound-production-laptop-splash.png" alt="">
+				<img src="/img/index/recent-projects/modals/essential-sound-production/essential-sound-production-laptop-splash.png" alt="Essential Sound Production landing-screen laptop mockup">
 			</div>
 			<div class="small-4 medium-3 medium-push-5 columns image-2">
-				<img src="/img/index/recent-projects/modals/essential-sound-production/essential-sound-production-dj-scene.png" alt="">
+				<img src="/img/index/recent-projects/modals/essential-sound-production/essential-sound-production-dj-scene.png" alt="Essential Sound Production iPad DJ scene mockup">
 			</div>
 			<div class="small-12 medium-4 columns image-3">
-				<img src="/img/index/recent-projects/modals/essential-sound-production/essential-sound-production-about-tablet.jpg" alt="">
+				<img src="/img/index/recent-projects/modals/essential-sound-production/essential-sound-production-about-tablet.jpg" alt="Essential Sound Production about-section tablet mockup">
 			</div>
 		</div>
 		<button class="close-button" data-close aria-label="Close modal" type="button">
