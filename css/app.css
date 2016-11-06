@@ -6246,11 +6246,6 @@ h6 {
   border-radius: 0.25rem;
 }
 
-.recent-projects-modal .image-row img {
-  display: inline-block;
-  max-height: 225px;
-}
-
 #index {
   background: #F4F4F4;
 }
