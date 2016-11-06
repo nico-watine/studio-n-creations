@@ -32,8 +32,8 @@ PATHS:
     - "bower_components/what-input/what-input.js"
     # Core Foundation files
     - "bower_components/foundation-sites/js/foundation.core.js"
-    # - "bower_components/foundation-sites/js/foundation.util.*.js"
-    - "bower_components/foundation-sites/js/foundation.util.mediaQuery.js"
+    - "bower_components/foundation-sites/js/foundation.util.*.js"
+    # - "bower_components/foundation-sites/js/foundation.util.mediaQuery.js"
     # Individual Foundation components
     # If you aren't using a component, just remove it from the list
     # - "bower_components/foundation-sites/js/foundation.abide.js"
@@ -49,7 +49,7 @@ PATHS:
     # - "bower_components/foundation-sites/js/foundation.orbit.js"
     # - "bower_components/foundation-sites/js/foundation.responsiveMenu.js"
     # - "bower_components/foundation-sites/js/foundation.responsiveToggle.js"
-    # - "bower_components/foundation-sites/js/foundation.reveal.js"
+    - "bower_components/foundation-sites/js/foundation.reveal.js"
     # - "bower_components/foundation-sites/js/foundation.slider.js"
     # - "bower_components/foundation-sites/js/foundation.sticky.js"
     # - "bower_components/foundation-sites/js/foundation.tabs.js"

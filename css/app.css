@@ -4780,8 +4780,8 @@ html.is-reveal-open body {
 .reveal {
   display: none;
   z-index: 1006;
-  padding: 1rem;
-  border: 1px solid #cacaca;
+  padding: 0;
+  border: 0;
   background-color: #fefefe;
   border-radius: 0;
   position: relative;
@@ -6234,6 +6234,12 @@ h5,
 h6 {
   text-transform: uppercase;
   letter-spacing: 0.09375rem;
+}
+
+.recent-projects-modal {
+  background: #F4F4F4;
+  box-shadow: -0.375rem 0.5rem 0 0 rgba(86, 99, 113, 0.5);
+  border-radius: 0.25rem;
 }
 
 #index {
