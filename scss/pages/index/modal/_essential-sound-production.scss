@@ -6,25 +6,27 @@
 	.modal-container {
 
 		.modal-images {
-			overflow: hidden; 
-			position: relative;
+			overflow: hidden;
 
-			.image-1 {
-				position: absolute; 
-				background: #fff; 
-				height: 100%;
+			@include breakpoint(medium) {
+				position: relative;
 
-				@include breakpoint(large) {
+				.image-1 {
+					position: absolute; 
+					background: #fff; 
+					height: 100%;
+
 					img {
-						margin-top: rem(8);
+
+						@include vertical-center;
 					}
 				}
-			}
 
-			.image-3 {
-				img {
-					position: absolute;
-					height: 100%;
+				.image-3 {
+					img {
+						position: absolute;
+						height: 100%;
+					}
 				}
 			}
 		}

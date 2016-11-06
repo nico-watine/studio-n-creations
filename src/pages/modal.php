@@ -25,13 +25,13 @@ body-class: modal-page
 			</div>
 		</div>
 		<div class="row collapse modal-images">
-			<div class="medium-5 columns image-1">
+			<div class="small-8 medium-5 columns image-1">
 				<img src="/img/index/recent-projects/modals/essential-sound-production/essential-sound-production-laptop-splash.png" alt="">
 			</div>
-			<div class="medium-3 medium-push-5 columns image-2">
-				<img src="/img/index/recent-projects/modals/essential-sound-production/essential-sound-production-dj-set.png" alt="">
+			<div class="small-4 medium-3 medium-push-5 columns image-2">
+				<img src="/img/index/recent-projects/modals/essential-sound-production/essential-sound-production-dj-scene.png" alt="">
 			</div>
-			<div class="medium-4 columns image-3">
+			<div class="small-12 medium-4 columns image-3">
 				<img src="/img/index/recent-projects/modals/essential-sound-production/essential-sound-production-about-tablet.jpg" alt="">
 			</div>
 		</div>
