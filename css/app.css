@@ -6236,10 +6236,19 @@ h6 {
   letter-spacing: 0.09375rem;
 }
 
+.reveal.row {
+  width: 100%;
+}
+
 .recent-projects-modal {
   background: #F4F4F4;
   box-shadow: -0.375rem 0.5rem 0 0 rgba(86, 99, 113, 0.5);
   border-radius: 0.25rem;
+}
+
+.recent-projects-modal .image-row img {
+  display: inline-block;
+  max-height: 225px;
 }
 
 #index {
