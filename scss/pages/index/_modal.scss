@@ -7,9 +7,12 @@
 	width: 100%;
 	background: none;
 
+	&:focus {
+		outline: none;
+	}
+
 	.modal-container {
 		background: #F4F4F4;
-		box-shadow: rem(-6) rem(8) 0 0 rgba(86,99,113,0.50);
 		padding: 0;
 	}
 
@@ -44,6 +47,7 @@
 
 		.modal-container {
 			border-radius: rem(4);
+			box-shadow: rem(-6) rem(8) 0 0 rgba(86,99,113,0.50);
 		}
 
 		.modal-header {
