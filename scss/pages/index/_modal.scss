@@ -4,7 +4,7 @@
 .recent-projects-modal {
 	width: 100%;
 	background: none;
-	padding-bottom: rem(16);
+	padding-bottom: rem(15);
 
 	.modal-container {
 		background: #F4F4F4;
@@ -14,7 +14,7 @@
 
 		.modal-header {
 			background: #fff;
-			padding: rem(25);
+			padding: rem(25) rem(15);
 			border-radius: rem(4) rem(4) 0 0;
 
 			* {
@@ -23,7 +23,7 @@
 		}
 
 		.modal-prose {
-			padding: rem(25) rem(16);
+			padding: rem(25) rem(15);
 
 			.modal-site-link {
 				border-radius: rem(2); 

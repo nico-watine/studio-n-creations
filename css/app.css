@@ -6239,7 +6239,7 @@ h6 {
 .recent-projects-modal {
   width: 100%;
   background: none;
-  padding-bottom: 1rem;
+  padding-bottom: 0.9375rem;
 }
 
 .recent-projects-modal .modal-container {
@@ -6251,7 +6251,7 @@ h6 {
 
 .recent-projects-modal .modal-container .modal-header {
   background: #fff;
-  padding: 1.5625rem;
+  padding: 1.5625rem 0.9375rem;
   border-radius: 0.25rem 0.25rem 0 0;
 }
 
@@ -6260,7 +6260,7 @@ h6 {
 }
 
 .recent-projects-modal .modal-container .modal-prose {
-  padding: 1.5625rem 1rem;
+  padding: 1.5625rem 0.9375rem;
 }
 
 .recent-projects-modal .modal-container .modal-prose .modal-site-link {
