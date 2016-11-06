@@ -1,34 +1,28 @@
 @import "../../../_settings.scss";
 
 
-.recent-projects-modal#essential-sound-production-modal {
-
-	.modal-container {
-
+@include breakpoint(medium) {
+	.recent-projects-modal#essential-sound-production-modal {
 		.modal-images {
-			overflow: hidden;
+			position: relative;
 
-			@include breakpoint(medium) {
-				position: relative;
+			.image-1 {
+				position: absolute; 
+				background: #fff; 
+				height: 100%;
 
-				.image-1 {
-					position: absolute; 
-					background: #fff; 
-					height: 100%;
-
-					img {
-
-						@include vertical-center;
-					}
+				img {
+					@include vertical-center;
 				}
+			}
 
-				.image-3 {
-					img {
-						position: absolute;
-						height: 100%;
-					}
+			.image-3 {
+				img {
+					position: absolute;
+					height: 100%;
 				}
 			}
 		}
 	}
 }
+

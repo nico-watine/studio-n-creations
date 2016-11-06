@@ -2,12 +2,6 @@
 
 // Specific project-modal styles imported at bottom of file //
 
-// BEFORE UN-NESTING MODAL SASS STYLES ::
-// 126,108
-// AFTER ::
-
-
-
 
 .recent-projects-modal {
 	width: 100%;
@@ -17,26 +11,30 @@
 		background: #F4F4F4;
 		box-shadow: rem(-6) rem(8) 0 0 rgba(86,99,113,0.50);
 		padding: 0;
+	}
 
-		.modal-header {
-			background: #fff;
-			padding: rem(25) rem(35) rem(25) rem(15);
+	.modal-header {
+		background: #fff;
+		padding: rem(25) rem(35) rem(25) rem(15);
 
-			* {
-				margin: 0;
-			}
+		* {
+			margin: 0;
 		}
+	}
 
-		.modal-prose {
-			padding: rem(25) rem(15);
+	.modal-prose {
+		padding: rem(25) rem(15);
 
-			.modal-site-link {
-				border-radius: rem(2); 
-				box-shadow: rem(-4) rem(4) 0 0 rgba(141,149,158,0.50); 
-				background: #566372; 
-				font-size: rem(16);
-			}
+		.modal-site-link {
+			border-radius: rem(2); 
+			box-shadow: rem(-4) rem(4) 0 0 rgba(141,149,158,0.50); 
+			background: #566372; 
+			font-size: rem(16);
 		}
+	}
+
+	.modal-images {
+		overflow: hidden;
 	}
 }
 
@@ -46,10 +44,10 @@
 
 		.modal-container {
 			border-radius: rem(4);
+		}
 
-			.modal-header {
-				border-radius: rem(4) rem(4) 0 0;
-			}
+		.modal-header {
+			border-radius: rem(4) rem(4) 0 0;
 		}
 
 		.modal-images {

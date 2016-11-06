@@ -6247,24 +6247,28 @@ h6 {
   padding: 0;
 }
 
-.recent-projects-modal .modal-container .modal-header {
+.recent-projects-modal .modal-header {
   background: #fff;
   padding: 1.5625rem 2.1875rem 1.5625rem 0.9375rem;
 }
 
-.recent-projects-modal .modal-container .modal-header * {
+.recent-projects-modal .modal-header * {
   margin: 0;
 }
 
-.recent-projects-modal .modal-container .modal-prose {
+.recent-projects-modal .modal-prose {
   padding: 1.5625rem 0.9375rem;
 }
 
-.recent-projects-modal .modal-container .modal-prose .modal-site-link {
+.recent-projects-modal .modal-prose .modal-site-link {
   border-radius: 0.125rem;
   box-shadow: -0.25rem 0.25rem 0 0 rgba(141, 149, 158, 0.5);
   background: #566372;
   font-size: 1rem;
+}
+
+.recent-projects-modal .modal-images {
+  overflow: hidden;
 }
 
 @media screen and (min-width: 40em) {
@@ -6274,7 +6278,7 @@ h6 {
   .recent-projects-modal .modal-container {
     border-radius: 0.25rem;
   }
-  .recent-projects-modal .modal-container .modal-header {
+  .recent-projects-modal .modal-header {
     border-radius: 0.25rem 0.25rem 0 0;
   }
   .recent-projects-modal .modal-images {
@@ -6282,25 +6286,21 @@ h6 {
   }
 }
 
-.recent-projects-modal#essential-sound-production-modal .modal-container .modal-images {
-  overflow: hidden;
-}
-
 @media screen and (min-width: 40em) {
-  .recent-projects-modal#essential-sound-production-modal .modal-container .modal-images {
+  .recent-projects-modal#essential-sound-production-modal .modal-images {
     position: relative;
   }
-  .recent-projects-modal#essential-sound-production-modal .modal-container .modal-images .image-1 {
+  .recent-projects-modal#essential-sound-production-modal .modal-images .image-1 {
     position: absolute;
     background: #fff;
     height: 100%;
   }
-  .recent-projects-modal#essential-sound-production-modal .modal-container .modal-images .image-1 img {
+  .recent-projects-modal#essential-sound-production-modal .modal-images .image-1 img {
     position: absolute;
     top: 50%;
     transform: translateY(-50%);
   }
-  .recent-projects-modal#essential-sound-production-modal .modal-container .modal-images .image-3 img {
+  .recent-projects-modal#essential-sound-production-modal .modal-images .image-3 img {
     position: absolute;
     height: 100%;
   }
