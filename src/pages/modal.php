@@ -24,15 +24,15 @@ body-class: modal-page
 				<a class="button custom" style="border-radius: 2px; box-shadow: -4px 4px 0px 0px rgba(141,149,158,0.50); background: #566372; font-size: 16px;" href="#">www.EssentialSoundProduction.com</a>
 			</div>
 		</div>
-		<div class="row image-row collapse" style="border-radius: 0 0 4px 4px; overflow: hidden;">
-			<div class="medium-5 columns">
+		<div class="row image-row collapse" style="border-radius: 0 0 4px 4px; overflow: hidden; position: relative;">
+			<div class="medium-5 columns" style="position: absolute; background: #fff; height: 100%;">
 				<img src="/img/index/recent-projects/modals/essential-sound-production/essential-sound-production-laptop-splash.png" alt="">
 			</div>
-			<div class="medium-3 columns">
+			<div class="medium-3 medium-push-5 columns">
 				<img src="/img/index/recent-projects/modals/essential-sound-production/essential-sound-production-dj-set.png" alt="">
 			</div>
 			<div class="medium-4 columns">
-				<img src="/img/index/recent-projects/modals/essential-sound-production/essential-sound-production-about-tablet.jpg" alt="">
+				<img style="position: absolute; height: 100%;" src="/img/index/recent-projects/modals/essential-sound-production/essential-sound-production-about-tablet.jpg" alt="">
 			</div>
 		</div>
 		<button class="close-button" data-close aria-label="Close modal" type="button">
