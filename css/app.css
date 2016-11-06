@@ -6241,9 +6241,12 @@ h6 {
   background: none;
 }
 
+.recent-projects-modal:focus {
+  outline: none;
+}
+
 .recent-projects-modal .modal-container {
   background: #F4F4F4;
-  box-shadow: -0.375rem 0.5rem 0 0 rgba(86, 99, 113, 0.5);
   padding: 0;
 }
 
@@ -6277,6 +6280,7 @@ h6 {
   }
   .recent-projects-modal .modal-container {
     border-radius: 0.25rem;
+    box-shadow: -0.375rem 0.5rem 0 0 rgba(86, 99, 113, 0.5);
   }
   .recent-projects-modal .modal-header {
     border-radius: 0.25rem 0.25rem 0 0;
