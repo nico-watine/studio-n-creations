@@ -465,7 +465,8 @@ $reveal-padding: 0;
 $reveal-border: 0;
 $reveal-radius: $global-radius;
 $reveal-zindex: 1005;
-$reveal-overlay-background: rgba($black, 0.45);
+// $reveal-overlay-background: rgba($black, 0.45);
+$reveal-overlay-background: rgba(141,149,158,0.75);
 
 // 29. Slider
 // ----------
