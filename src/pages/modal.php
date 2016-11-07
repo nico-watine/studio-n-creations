@@ -21,7 +21,7 @@ body-class: modal-page
 				<p>We’re currently in the middle of creating detailed project profile pages. In the meantime, why don’t you visit this project’s website?</p>
 			</div>
 			<div class="large-5 columns text-center">
-				<a class="button modal-site-link" href="#">www.EssentialSoundProduction.com</a>
+				<a class="button modal-site-link" href="http://essentialsoundproduction.com" target="_blank">www.EssentialSoundProduction.com</a>
 			</div>
 		</div>
 		<div class="row collapse modal-images">
