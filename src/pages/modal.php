@@ -20,7 +20,7 @@ body-class: modal-page
 			<div class="large-7 columns">
 				<p>We’re currently in the middle of creating detailed project profile pages. In the meantime, why don’t you visit this project’s website?</p>
 			</div>
-			<div class="large-5 columns text-center">
+			<div class="large-5 columns large-text-center">
 				<a class="button modal-site-link" href="http://www.lisaesposito.com" target="_blank">www.LisaEsposito.com</a>
 			</div>
 		</div>
