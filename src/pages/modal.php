@@ -8,12 +8,12 @@ og-image:
 body-id: modal-page
 body-class: modal-page
 ---
-<p><a data-open="essential-sound-production-modal">Click me for a modal</a></p>
+<p><a data-open="lisa-esposito-modal">Click me for a modal</a></p>
 
-<div class="reveal row recent-projects-modal" id="essential-sound-production-modal" data-reveal>
+<div class="reveal row recent-projects-modal" id="lisa-esposito-modal" data-reveal>
 	<div class="medium-10 medium-push-1 columns end modal-container">
 		<div class="modal-header">
-			<h3>Essential Sound Production</h3>
+			<h3>Artist Lisa Esposito</h3>
 			<h4>Project Name</h4>
 		</div>
 		<div class="row collapse modal-prose">
@@ -21,18 +21,15 @@ body-class: modal-page
 				<p>We’re currently in the middle of creating detailed project profile pages. In the meantime, why don’t you visit this project’s website?</p>
 			</div>
 			<div class="large-5 columns text-center">
-				<a class="button modal-site-link" href="http://essentialsoundproduction.com" target="_blank">www.EssentialSoundProduction.com</a>
+				<a class="button modal-site-link" href="http://www.lisaesposito.com" target="_blank">www.LisaEsposito.com</a>
 			</div>
 		</div>
 		<div class="row collapse modal-images">
-			<div class="small-8 medium-5 columns image-1">
-				<img src="/img/index/recent-projects/modals/essential-sound-production/essential-sound-production-laptop-splash.png" alt="Essential Sound Production landing-screen laptop mockup">
+			<div class="medium-6 columns">
+				<img src="/img/index/recent-projects/modals/lisa-esposito/lisa-esposito-index-landing.jpg" alt="Artist Lisa Esposito Welcome Screen mockup">
 			</div>
-			<div class="small-4 medium-3 medium-push-5 columns image-2">
-				<img src="/img/index/recent-projects/modals/essential-sound-production/essential-sound-production-dj-scene.png" alt="Essential Sound Production iPad DJ scene mockup">
-			</div>
-			<div class="small-12 medium-4 columns image-3">
-				<img src="/img/index/recent-projects/modals/essential-sound-production/essential-sound-production-about-tablet.jpg" alt="Essential Sound Production about-section tablet mockup">
+			<div class="medium-6 columns">
+				<img src="/img/index/recent-projects/modals/lisa-esposito/lisa-esposito-upcoming-events.png" alt="Artist Lisa Esposito Upcoming Events mockup">
 			</div>
 		</div>
 		<button class="close-button" data-close aria-label="Close modal" type="button">
