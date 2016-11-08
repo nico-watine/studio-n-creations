@@ -71,7 +71,7 @@ body-class: index
 		</div>
 		<div class="medium-6 columns">
 			<div class="project">
-				<a href="http://jardindefrancetx.com/" target="_blank" title="Studio N Creations project link to JardinDeFranceTX.com"><img src="/img/index/recent-projects/jardin-de-france.png" alt="Jardin de France TX website mockup"></a>
+				<a data-open="jardin-de-france-tx-modal" title="Jardin de France TX"><img src="/img/index/recent-projects/jardin-de-france.png" alt="Jardin de France TX website mockup"></a>
 			</div>
 		</div>
 	</div>
@@ -163,6 +163,33 @@ body-class: index
 			</div>
 			<div class="medium-6 columns">
 				<img src="/img/index/recent-projects/modals/lisa-esposito/lisa-esposito-upcoming-events.png" alt="Artist Lisa Esposito Upcoming Events mockup">
+			</div>
+		</div>
+		<button class="close-button" data-close aria-label="Close modal" type="button">
+			<span aria-hidden="true">&times;</span>
+		</button>
+	</div>
+</div>
+<div class="reveal row recent-projects-modal" id="jardin-de-france-tx-modal" data-reveal>
+	<div class="medium-10 medium-push-1 columns end modal-container">
+		<div class="modal-header">
+			<h3>Jardin de France</h3>
+			<h4>Project Name</h4>
+		</div>
+		<div class="row collapse modal-prose">
+			<div class="large-7 columns">
+				<p>We’re currently in the middle of creating detailed project profile pages. In the meantime, why don’t you visit this project’s website?</p>
+			</div>
+			<div class="large-5 columns large-text-center">
+				<a class="button modal-site-link" href="http://jardindefrancetx.com/" target="_blank">www.JardinDeFranceTX</a>
+			</div>
+		</div>
+		<div class="row collapse modal-images">
+			<div class="medium-6 columns">
+				<img src="/img/index/recent-projects/modals/jardin-de-france-tx/jardin-de-france-tx-iphone.png" alt="Jardin de France TX iPhone mockup">
+			</div>
+			<div class="medium-6 columns">
+				<img src="/img/index/recent-projects/modals/jardin-de-france-tx/jardin-de-france-tx-about.png" alt="Jardin de France TX About Section mockup">
 			</div>
 		</div>
 		<button class="close-button" data-close aria-label="Close modal" type="button">
