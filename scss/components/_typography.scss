@@ -21,5 +21,19 @@ h6 {
 h5,
 h6 {
 	text-transform: uppercase;
-	letter-spacing: rem(1.5);
+}
+
+h5 {
+	letter-spacing: rem-calc(1.2);
+}
+
+h6 {
+	letter-spacing: rem-calc(1);
+}
+
+@include breakpoint(medium) {
+	h5,
+	h6 {
+		letter-spacing: rem-calc(1.5);
+	}
 }
