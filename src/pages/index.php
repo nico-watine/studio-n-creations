@@ -15,7 +15,7 @@ body-class: index
 				<h1 class="brand-wordmark">Studio N Creations</h1>
 			</div>
 			<div class="medium-9 medium-push-1 columns end">
-				<h2 class="brand-services"><span>Web Design <strong>|</strong></span> <span>Graphic Branding <strong>|</strong></span> <span class="inline-block">Site Maintenance</span></h2>
+				<h2 class="brand-services"><span>Web Design <strong>|</strong></span> <span>Graphic Branding</span> <span class="inline-block"><strong>|</strong> Site Maintenance</span></h2>
 			</div>
 		</div>
 	</div>
