@@ -104,10 +104,6 @@ $max-730: "only screen and (max-width : 45.625em)";
 
 			.columns:nth-child(1) {
 				background: #1571C1;
-
-				@include breakpoint(small only) {
-					padding-top: rem(12);
-				}
 			}
 
 			.columns:nth-child(2) {

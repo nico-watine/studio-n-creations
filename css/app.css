@@ -4789,9 +4789,6 @@ h6 {
     background: #F9F9F9; }
     #index .graphic-branding .logos-row .columns:nth-child(1) {
       background: #1571C1; }
-      @media screen and (max-width: 39.9375em) {
-        #index .graphic-branding .logos-row .columns:nth-child(1) {
-          padding-top: 0.75rem; } }
     @media screen and (max-width: 39.9375em) {
       #index .graphic-branding .logos-row .columns:nth-child(2) {
         height: 9.375rem; }
