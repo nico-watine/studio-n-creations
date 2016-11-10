@@ -11,11 +11,11 @@ body-class: index
 <header>
 	<div class="absolute-wrapper">
 		<div class="row">
-			<div class="medium-6 large-5 columns">
+			<div class="medium-11 medium-push-1 columns end">
 				<h1 class="brand-wordmark">Studio N Creations</h1>
 			</div>
-			<div class="medium-6 large-7 columns">
-				<h2 class="brand-services">Web Design <strong>|</strong> Graphic Branding <span class="inline-block"><strong>|</strong> Site Maintenance</span></h2>
+			<div class="medium-9 medium-push-1 columns end">
+				<h2 class="brand-services"><span>Web Design <strong>|</strong></span> <span>Graphic Branding <strong>|</strong></span> <span class="inline-block">Site Maintenance</span></h2>
 			</div>
 		</div>
 	</div>

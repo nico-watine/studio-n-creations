@@ -4740,12 +4740,19 @@ h6 {
     z-index: 5; }
     #index header .absolute-wrapper .brand-wordmark {
       color: #fff;
-      text-shadow: -0.25rem 0.3125rem 0 rgba(0, 0, 0, 0.45); }
+      text-shadow: -0.25rem 0.3125rem 0 rgba(0, 0, 0, 0.45);
+      margin-bottom: 1rem; }
     #index header .absolute-wrapper .brand-services {
       color: #fff;
       text-shadow: -0.0625rem 0.125rem 0.0625rem rgba(0, 0, 0, 0.45);
       font-weight: 300;
       font-size: 1.75rem; }
+      @media screen and (max-width: 39.9375em) {
+        #index header .absolute-wrapper .brand-services span {
+          display: block; }
+          #index header .absolute-wrapper .brand-services span strong {
+            display: none;
+            visibility: hidden; } }
   #index header .gradient {
     background-image: linear-gradient(-180deg, rgba(204, 204, 204, 0.55) 0%, rgba(86, 99, 113, 0.9) 36%, rgba(86, 99, 113, 0.9) 63%, rgba(204, 204, 204, 0.55) 100%);
     position: absolute;

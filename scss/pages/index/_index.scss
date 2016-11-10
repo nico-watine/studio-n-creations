@@ -22,6 +22,7 @@ $max-730: "only screen and (max-width : 45.625em)";
 			.brand-wordmark {
 				color: #fff;
 				text-shadow: rem(-4) rem(5) 0 rgba(0,0,0,0.45);
+				margin-bottom: rem-calc(16);
 			}
 
 			.brand-services {
@@ -29,6 +30,18 @@ $max-730: "only screen and (max-width : 45.625em)";
 				text-shadow: rem(-1) rem(2) rem(1) rgba(0,0,0,0.45);
 				font-weight: 300;
 				font-size: rem-calc(28);
+
+				@include breakpoint(small only) {
+					span {
+						display: block;
+
+						strong {
+							display: none;
+							visibility: hidden;
+						}
+					}					
+				}
+
 				// float: right; @large?
 				// margin-top: rem(75); @large?
 			}
@@ -51,14 +64,7 @@ $max-730: "only screen and (max-width : 45.625em)";
 	}
 }
 
-// .brand-services {
-	// font-weight: 300;
 
-// 	@include breakpoint(medium) {
-// 		font-size: rem(28);
-// 		float: right;
-// 	}
-// }
 
 #index {
 	.intro-slogan {
