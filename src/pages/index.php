@@ -66,7 +66,7 @@ body-class: index
 	<div class="row">
 		<div class="medium-6 columns">
 			<div class="project">
-				<a data-open="starhill-farms-modal" title="StarHill Farms"><img src="/img/index/recent-projects/starhill-farms.png" alt="Starhill Farms website mockup"></a>
+				<a data-open="starhill-farms-modal" title="StarHill Farms"><img srcset="/img/projects/starhill-farms/index-modal/modal-thumb_2x.jpg 2x" src="/img/projects/starhill-farms/index-modal/modal-thumb.jpg" alt="Starhill Farms website mockup"></a>
 			</div>
 		</div>
 		<div class="medium-6 columns">
