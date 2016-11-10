@@ -59,7 +59,7 @@ body-class: index
 		</div>
 		<div class="medium-6 columns">
 			<div class="project">
-				<a data-open="lisa-esposito-modal" title="Artist Lisa Esposito"><img src="/img/index/recent-projects/lisa-esposito.png" alt="Dr Lisa Esposito website mockup"></a>
+				<a data-open="lisa-esposito-modal" title="Artist Lisa Esposito"><img srcset="/img/projects/lisa-esposito/index-modal/modal-thumb_2x.jpg 2x" src="/img/projects/lisa-esposito/index-modal/modal-thumb.jpg" alt="Dr Lisa Esposito website mockup"></a>
 			</div>
 		</div>
 	</div>
