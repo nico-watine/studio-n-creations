@@ -81,7 +81,7 @@ body-class: index
 		<div class="medium-push-1 medium-11 large-4 large-push-0 columns">
 			<div class="prose">
 				<h3>Graphic Branding</h3>
-				<p>Web design is deeper than page design. Having a solid visual brand, such as through logos and colors, helps maintain design consistency, leaving a professional impression on the visitor. Here are a few of the custom logos we have created for clients.</p>
+				<p>Web design means more than just a page design. Having a solid visual brand, such as through logos and colors, helps maintain design consistency, leaving a professional impression on the visitor. Here are a few of the custom logos we have created for clients.</p>
 			</div>
 		</div>
 		<div class="medium-12 large-8 columns">
