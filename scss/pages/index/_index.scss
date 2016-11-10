@@ -19,15 +19,18 @@ $max-730: "only screen and (max-width : 45.625em)";
 			width: 100%;
 			z-index: 5;
 
-			h1 {
+			.brand-wordmark {
 				color: #fff;
 				text-shadow: rem(-4) rem(5) 0 rgba(0,0,0,0.45);
 			}
 
-			h2 {
+			.brand-services {
 				color: #fff;
 				text-shadow: rem(-1) rem(2) rem(1) rgba(0,0,0,0.45);
-				margin-top: rem(75);
+				font-weight: 300;
+				font-size: rem-calc(28);
+				// float: right; @large?
+				// margin-top: rem(75); @large?
 			}
 		}
 
@@ -48,14 +51,14 @@ $max-730: "only screen and (max-width : 45.625em)";
 	}
 }
 
-.index-header-tagline {
-	font-weight: 300;
+// .brand-services {
+	// font-weight: 300;
 
-	@include breakpoint(medium) {
-		font-size: rem(28);
-		float: right;
-	}
-}
+// 	@include breakpoint(medium) {
+// 		font-size: rem(28);
+// 		float: right;
+// 	}
+// }
 
 #index {
 	.intro-slogan {
