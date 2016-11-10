@@ -87,14 +87,14 @@ body-class: index
 		<div class="medium-12 large-8 columns">
 			<div class="row logos-row collapse">
 				<div class="medium-4 columns text-center">
-					<img src="/img/index/graphic-branding/dynasty-sports-report.png" alt="Dynasty Sports Report logo" title="The DynastySportsReport.com website logo, designed by Studio N Creations">
-					<img class="show-for-large" src="/img/index/graphic-branding/dmesa-home-logo.png" alt="d'Mesa Home logo" title="The d'Mesa Home website logo, designed by Studio N Creations">
+					<img srcset="/img/index/graphic-branding/dynasty-sports-report/dynasty-sports-report-logo_2x.png 2x" src="/img/index/graphic-branding/dynasty-sports-report/dynasty-sports-report-logo.png" alt="Dynasty Sports Report logo" title="DynastySportsReport.com website logo - a Studio N Creation">
+					<img class="show-for-large" srcset="/img/index/graphic-branding/dmesa/dmesa-logo_2x.png 2x" src="/img/index/graphic-branding/dmesa/dmesa-logo.png" alt="d'Mesa Home logo" title="d'Mesa Home company logo - a Studio N Creation">
 				</div>
 				<div class="medium-push-4 medium-3 columns hide-for-large text-center">
-					<img  src="/img/index/graphic-branding/dmesa-home-logo.png" alt="d'Mesa Home logo" title="The d'Mesa Home company logo, designed by Studio N Creations">
+					<img srcset="/img/index/graphic-branding/dmesa/dmesa-logo_2x.png 2x" src="/img/index/graphic-branding/dmesa/dmesa-logo.png" alt="d'Mesa Home logo" title="d'Mesa Home company logo - a Studio N Creation">
 				</div>
 				<div class="medium-5 large-8 columns">
-					<img src="/img/index/graphic-branding/jardin-de-france-logo.png" alt="Jardin de France TX logo" title="The Jardin de France company logo, shown here on a price tag">
+					<img srcset="/img/index/graphic-branding/jardin-de-france/jardin-de-france-price-tag_2x.jpg 2x" src="/img/index/graphic-branding/jardin-de-france/jardin-de-france-price-tag.jpg" alt="Jardin de France TX logo" title="Jardin de France TX product price tag design - a Studio N Creation">
 				</div>
 			</div>
 		</div>
