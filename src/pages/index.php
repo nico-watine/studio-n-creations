@@ -102,12 +102,12 @@ body-class: index
 </section>
 <section class="about-us">
 	<div class="row">
-		<div class="medium-4 large-3 columns image">
-			<div class="small-6 columns">
+		<div class="medium-4 large-3 columns image no-padding">
+			<div class="small-6 medium-12 columns no-padding">
 				<img src="/img/index/about-us/lanyard.jpg" alt="Nico Watine ID lanyard" title="Hello my name is Nico Watine">
 			</div>
-			<div class="small-6 columns">
-				<h3 class="hide-for-medium">About Us</h3>
+			<div class="small-6 columns hide-for-medium">
+				<h3>About Us</h3>
 			</div>
 		</div>
 		<div class="medium-8 large-9 columns prose">
