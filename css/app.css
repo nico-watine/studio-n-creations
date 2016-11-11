@@ -4731,6 +4731,10 @@ h6 {
 #index header {
   height: 28.75rem;
   background: #fff url("/img/index/header/1-small/small.jpg") left top/cover no-repeat; }
+  @media screen and (min-width: 40em) {
+    #index header {
+      height: 37.5rem;
+      background-image: url("/img/index/header/2-medium/medium.jpg"); } }
 
 #index header {
   position: relative; }
