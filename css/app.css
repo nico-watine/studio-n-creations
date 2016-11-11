@@ -4673,16 +4673,28 @@ h6 {
 
 #index .about-us {
   background: #566372;
-  border: 0.1875rem solid #566372;
-  padding: 0 2.5rem; }
+  border: 0.1875rem solid #566372; }
   #index .about-us .row {
     background: #F4F4F4; }
-    #index .about-us .row .image img {
-      max-width: 240px;
-      width: 100%;
-      border-right: 0.1875rem solid #566372; }
+    #index .about-us .row .image {
+      background: #566372;
+      padding: 0 1rem;
+      border-right: 0.1875rem solid #566372;
+      border-bottom: 0.1875rem solid #566372; }
+      @media only screen and (max-width: 26.875em) {
+        #index .about-us .row .image {
+          padding: 0; } }
+      #index .about-us .row .image img {
+        max-width: 240px;
+        width: 100%; }
+      #index .about-us .row .image h3 {
+        padding-top: 8.75rem;
+        color: #fff; }
+        @media only screen and (max-width: 26.875em) {
+          #index .about-us .row .image h3 {
+            padding-top: 5rem; } }
     #index .about-us .row .prose {
-      padding-top: 5.625rem; }
+      padding-top: 0.75rem; }
 
 @media screen and (min-width: 40em) {
   #index .about-us {
@@ -4692,7 +4704,8 @@ h6 {
     #index .about-us .row .image {
       background: linear-gradient(90deg, #566372 50%, #F4F4F4 50%);
       text-align: center;
-      padding: 0; }
+      padding: 0;
+      border-bottom: 0; }
     #index .about-us .row .prose {
       padding-top: 3.125rem; } }
     @media only screen and (min-width: 40em) and (max-width: 45.625em) {
