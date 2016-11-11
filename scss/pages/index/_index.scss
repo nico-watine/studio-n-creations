@@ -1,6 +1,7 @@
 @import "../../_settings.scss";
 @import "_modal.scss";
 
+$min-1441: "only screen and (min-width : 90.063em)";
 $min-1025: "only screen and (min-width : 64.063em)";
 $max-730: "only screen and (max-width : 45.625em)";
 $max-430: "only screen and (max-width : 26.875em)";
@@ -22,6 +23,10 @@ $max-430: "only screen and (max-width : 26.875em)";
 
 		@media #{$min-1025} { //@large mq, but +1px so iPad tablet loads same image in landscape and portrait
 			background-image: url('/img/index/header/3-min-1025/large.jpg')
+		}
+
+		@media #{$min-1441} { //maximum size image, starting at minimum width of 1441, targeted for yuuuge screens, for example 1920
+			background-image: url('/img/index/header/4-min-1441/max.jpg');
 		}
 	}
 }
