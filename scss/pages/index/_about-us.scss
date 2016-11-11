@@ -1,0 +1,73 @@
+@import "../../_settings.scss";
+
+$max-730: "only screen and (max-width : 45.625em)";
+
+
+#index {
+	.about-us {
+		background: #566372;
+		border: rem(3) solid #566372;
+		padding: 0 rem(40);
+
+		.row {
+			background: #F4F4F4;
+
+			.image {
+				img {
+					max-width: 240px;
+					width: 100%;
+					border-right: rem(3) solid #566372;
+				}
+			}
+
+			.prose {
+				padding-top: rem(90);
+			}
+		}
+	}
+}
+
+
+@include breakpoint(medium) {
+	#index {
+		.about-us {
+			background: #566372;
+			border: rem(3) solid #566372;
+			padding: 0 rem(20);
+
+			.row {
+				.image {
+					background: linear-gradient(90deg, #566372 50%, #F4F4F4 50%);
+					text-align: center;
+					padding: 0;
+				}
+
+				.prose {
+					@media #{$max-730} {
+						padding-top: rem(10);
+					}
+
+					padding-top: rem(50);
+				}
+			}
+		}
+	}
+}
+
+@include breakpoint(large) {
+	#index {
+		.about-us {
+			padding: 0 rem(40);
+
+			.row {
+				.image {
+					text-align: right;
+					background: #566372;
+				}
+				.prose {
+					padding-top: rem(90);
+				}
+			}
+		}
+	}
+}
