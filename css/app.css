@@ -4735,6 +4735,9 @@ h6 {
     #index header {
       height: 37.5rem;
       background-image: url("/img/index/header/2-medium/medium.jpg"); } }
+  @media only screen and (min-width: 64.063em) {
+    #index header {
+      background-image: url("/img/index/header/3-min-1025/large.jpg"); } }
 
 #index header {
   position: relative; }
