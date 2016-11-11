@@ -4729,8 +4729,10 @@ h6 {
   background: #F4F4F4; }
 
 #index header {
-  height: 37.5rem;
-  background: #fff url("/img/index/landing/isometric-ipads.png") center top/cover no-repeat;
+  height: 28.75rem;
+  background: #fff url("/img/index/header/1-small/small.jpg") left top/cover no-repeat; }
+
+#index header {
   position: relative; }
   #index header .absolute-wrapper {
     position: absolute;
