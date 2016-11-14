@@ -4679,12 +4679,12 @@ h6 {
     #index .about-us .row .image {
       background: #566372;
       padding: 0 1rem;
-      border-right: 0.1875rem solid #566372;
       border-bottom: 0.1875rem solid #566372; }
       @media only screen and (max-width: 26.875em) {
         #index .about-us .row .image {
           padding: 0; } }
       #index .about-us .row .image img {
+        border-right: 0.1875rem solid #566372;
         max-width: 240px;
         width: 100%; }
       #index .about-us .row .image h3 {
@@ -4705,7 +4705,7 @@ h6 {
       background: linear-gradient(90deg, #566372 50%, #F4F4F4 50%);
       text-align: center;
       padding: 0;
-      border-bottom: 0; }
+      border: 0; }
     #index .about-us .row .prose {
       padding-top: 3.125rem; } }
     @media only screen and (min-width: 40em) and (max-width: 45.625em) {
