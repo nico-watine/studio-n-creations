@@ -104,7 +104,7 @@ body-class: index
 	<div class="row">
 		<div class="medium-4 large-3 columns medium-text-center large-text-right image">
 			<div class="small-6 medium-12 columns no-padding">
-				<img src="/img/index/about-us/lanyard.jpg" alt="Nico Watine ID lanyard" title="Hello my name is Nico Watine">
+				<img srcset="/img/index/about-us/hello-lanyard_2x.jpg 2x" src="/img/index/about-us/hello-lanyard.jpg" alt="Nico Watine is Studio N Creations" title="HELLO my name is Nico Watine">
 			</div>
 			<div class="small-6 columns hide-for-medium">
 				<h3>About Us</h3>
