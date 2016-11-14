@@ -4703,7 +4703,6 @@ h6 {
     padding: 0 1.25rem; }
     #index .about-us .row .image {
       background: linear-gradient(90deg, #566372 50%, #F4F4F4 50%);
-      text-align: center;
       padding: 0;
       border: 0; }
     #index .about-us .row .prose {
@@ -4716,7 +4715,6 @@ h6 {
   #index .about-us {
     padding: 0 2.5rem; }
     #index .about-us .row .image {
-      text-align: right;
       background: #566372; }
     #index .about-us .row .prose {
       padding-top: 5.625rem; } }

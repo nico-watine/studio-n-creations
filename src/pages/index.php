@@ -102,7 +102,7 @@ body-class: index
 </section>
 <section class="about-us">
 	<div class="row">
-		<div class="medium-4 large-3 columns image">
+		<div class="medium-4 large-3 columns medium-text-center large-text-right image">
 			<div class="small-6 medium-12 columns no-padding">
 				<img src="/img/index/about-us/lanyard.jpg" alt="Nico Watine ID lanyard" title="Hello my name is Nico Watine">
 			</div>
