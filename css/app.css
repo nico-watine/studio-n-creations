@@ -4694,7 +4694,7 @@ h6 {
           #index .about-us .row .image h3 {
             padding-top: 5rem; } }
     #index .about-us .row .prose {
-      padding-top: 0.75rem; }
+      padding: 1.875rem 1rem; }
 
 @media screen and (min-width: 40em) {
   #index .about-us {
@@ -4710,7 +4710,7 @@ h6 {
       padding-top: 3.125rem; } }
     @media only screen and (min-width: 40em) and (max-width: 45.625em) {
       #index .about-us .row .prose {
-        padding-top: 0.625rem; } }
+        padding: 1rem 1rem 0; } }
 
 @media screen and (min-width: 64em) {
   #index .about-us {
