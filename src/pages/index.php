@@ -122,6 +122,34 @@ body-class: index
 		<h2>Have a project in mind?</h2>
 		<h3>Let’s talk!</h3>
 	</div>
+	<form action="">
+		<div class="row">
+			<div class="large-4 columns">
+				<div class="row">
+					<div class="medium-6 large-12 columns">
+						<label for="">Large 4 Columns
+							<input type="text" placeholder="placeholder">
+						</label>
+					</div>
+					<div class="medium-6 large-12 columns">
+						<label for="">Large 4 Columns
+							<input type="text" placeholder="placeholder">
+						</label>
+					</div>
+				</div>
+			</div>
+			<div class="large-6 columns">
+				<label for="">Large 6 Columns
+					<input type="text" placeholder="placeholder">
+				</label>
+			</div>
+			<div class="large-2 columns">
+				<div class="input-group-button">
+					<input type="submit" class="button" value="Submit">
+				</div>
+			</div>
+		</div>
+	</form>
 </section>
 <div class="reveal row recent-projects-modal" id="essential-sound-production-modal" data-reveal>
 	<div class="medium-10 medium-push-1 columns end modal-container">
