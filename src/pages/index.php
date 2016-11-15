@@ -117,7 +117,12 @@ body-class: index
 		</div>
 	</div>
 </section>
-
+<section class="contact-form">
+	<div class="row text-center">
+		<h2>Have a project in mind?</h2>
+		<h3>Let’s talk!</h3>
+	</div>
+</section>
 <div class="reveal row recent-projects-modal" id="essential-sound-production-modal" data-reveal>
 	<div class="medium-10 medium-push-1 columns end modal-container">
 		<div class="modal-header">

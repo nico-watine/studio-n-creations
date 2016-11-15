@@ -1,0 +1,14 @@
+@import "../../_settings.scss";
+
+#index {
+	.contact-form {
+		padding: rem-calc(40 0);
+		background: #fff url('#{$url}/img/index/contact/bubbles.png') center center/100% auto no-repeat;	
+
+		h2,
+		h3 {
+			color: #fff;
+			text-shadow: rem-calc(-2) rem-calc(3) 0 rgba(0,0,0,0.45);
+		}
+	}
+}

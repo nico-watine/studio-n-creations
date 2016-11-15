@@ -4719,6 +4719,14 @@ h6 {
     #index .about-us .row .prose {
       padding-top: 5.625rem; } }
 
+#index .contact-form {
+  padding: 2.5rem 0;
+  background: #fff url("/img/index/contact/bubbles.png") center center/100% auto no-repeat; }
+  #index .contact-form h2,
+  #index .contact-form h3 {
+    color: #fff;
+    text-shadow: -0.125rem 0.1875rem 0 rgba(0, 0, 0, 0.45); }
+
 .recent-projects-modal {
   width: 100%;
   background: none; }
