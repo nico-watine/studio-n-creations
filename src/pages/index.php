@@ -118,11 +118,11 @@ body-class: index
 	</div>
 </section>
 <section class="contact-form">
-	<div class="row text-center">
+	<div class="row text-center section-title">
 		<h2>Have a project in mind?</h2>
 		<h3>Let’s talk!</h3>
 	</div>
-	<form action="">
+	<form id="index-contact-form" action="">
 		<div class="row">
 			<div class="large-4 columns">
 				<div class="row">
@@ -144,7 +144,7 @@ body-class: index
 				</label>
 			</div>
 			<div class="large-2 columns">
-				<div class="input-group-button">
+				<div class="contact-form-input-group-button input-group-button">
 					<input type="submit" class="button" value="Send">
 				</div>
 			</div>

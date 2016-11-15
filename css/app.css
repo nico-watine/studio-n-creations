@@ -1644,6 +1644,7 @@ li,
 h1,
 h2,
 h3,
+form#index-contact-form .contact-form-input-group-button input,
 h4,
 h5,
 h6,
@@ -1679,6 +1680,7 @@ small {
 h1,
 h2,
 h3,
+form#index-contact-form .contact-form-input-group-button input,
 h4,
 h5,
 h6 {
@@ -1692,7 +1694,7 @@ h6 {
   line-height: 1.2; }
   h1 small,
   h2 small,
-  h3 small,
+  h3 small, form#index-contact-form .contact-form-input-group-button input small,
   h4 small,
   h5 small,
   h6 small {
@@ -1705,7 +1707,7 @@ h1 {
 h2 {
   font-size: 2.125rem; }
 
-h3 {
+h3, form#index-contact-form .contact-form-input-group-button input {
   font-size: 2.125rem; }
 
 h4 {
@@ -1722,7 +1724,7 @@ h6 {
     font-size: 5.0625rem; }
   h2 {
     font-size: 2.375rem; }
-  h3 {
+  h3, form#index-contact-form .contact-form-input-group-button input {
     font-size: 2.125rem; }
   h4 {
     font-size: 1.3125rem; }
@@ -1917,11 +1919,13 @@ kbd {
     margin: 0.5cm; }
   p,
   h2,
-  h3 {
+  h3,
+  form#index-contact-form .contact-form-input-group-button input {
     orphans: 3;
     widows: 3; }
   h2,
-  h3 {
+  h3,
+  form#index-contact-form .contact-form-input-group-button input {
     page-break-after: avoid; } }
 
 .button {
@@ -4638,7 +4642,8 @@ table.hover tbody tr:nth-of-type(even):hover {
   animation-delay: 700ms !important; }
 
 h1,
-h3 {
+h3,
+form#index-contact-form .contact-form-input-group-button input {
   font-family: 'Source Code Pro', Consolas, 'Liberation Mono', Courier, monospace;
   font-weight: 600;
   text-transform: uppercase; }
@@ -4687,11 +4692,11 @@ h6 {
         border-right: 0.1875rem solid #566372;
         max-width: 240px;
         width: 100%; }
-      #index .about-us .row .image h3 {
+      #index .about-us .row .image h3, #index .about-us .row .image form#index-contact-form .contact-form-input-group-button input, form#index-contact-form .contact-form-input-group-button #index .about-us .row .image input {
         padding-top: 8.75rem;
         color: #fff; }
         @media only screen and (max-width: 26.875em) {
-          #index .about-us .row .image h3 {
+          #index .about-us .row .image h3, #index .about-us .row .image form#index-contact-form .contact-form-input-group-button input, form#index-contact-form .contact-form-input-group-button #index .about-us .row .image input {
             padding-top: 5rem; } }
     #index .about-us .row .prose {
       padding: 1.875rem 1rem; }
@@ -4722,10 +4727,31 @@ h6 {
 #index .contact-form {
   padding: 2.5rem 0;
   background: #fff url("/img/index/contact/bubbles.png") center center/100% auto no-repeat; }
-  #index .contact-form h2,
-  #index .contact-form h3 {
+  #index .contact-form .section-title h2,
+  #index .contact-form .section-title h3,
+  #index .contact-form .section-title form#index-contact-form .contact-form-input-group-button input, form#index-contact-form .contact-form-input-group-button
+  #index .contact-form .section-title input {
     color: #fff;
     text-shadow: -0.125rem 0.1875rem 0 rgba(0, 0, 0, 0.45); }
+
+form#index-contact-form .contact-form-input-group-button input {
+  background: #566372;
+  box-shadow: -0.25rem 0.25rem 0 0 rgba(141, 149, 158, 0.5);
+  border-radius: 0.125rem;
+  margin-bottom: 0.125rem;
+  color: #fff;
+  min-width: 11.25rem;
+  padding: 0.5rem 0;
+  line-height: 1; }
+  @media screen and (min-width: 64em) {
+    form#index-contact-form .contact-form-input-group-button input {
+      min-width: 0;
+      width: 90%; } }
+  form#index-contact-form .contact-form-input-group-button input:hover {
+    margin-top: 0.125rem;
+    margin-right: 0.125rem;
+    margin-bottom: 0;
+    box-shadow: -0.125rem 0.125rem 0 0 rgba(141, 149, 158, 0.5); }
 
 .recent-projects-modal {
   width: 100%;
