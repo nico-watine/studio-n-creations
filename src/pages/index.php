@@ -128,24 +128,24 @@ body-class: index
 				<div class="row">
 					<div class="medium-6 large-12 columns">
 						<label for="">Large 4 Columns
-							<input type="text" placeholder="placeholder">
+							<input type="text" placeholder="Name">
 						</label>
 					</div>
 					<div class="medium-6 large-12 columns">
 						<label for="">Large 4 Columns
-							<input type="text" placeholder="placeholder">
+							<input type="text" placeholder="Email">
 						</label>
 					</div>
 				</div>
 			</div>
 			<div class="large-6 columns">
 				<label for="">Large 6 Columns
-					<input type="text" placeholder="placeholder">
+					<textarea style="min-height: 119px;" type="text" placeholder="Message"></textarea>
 				</label>
 			</div>
 			<div class="large-2 columns">
 				<div class="input-group-button">
-					<input type="submit" class="button" value="Submit">
+					<input type="submit" class="button" value="Send">
 				</div>
 			</div>
 		</div>
