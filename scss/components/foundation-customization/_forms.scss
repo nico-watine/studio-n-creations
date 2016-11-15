@@ -1,0 +1,10 @@
+@import "../../_settings.scss";
+
+input,
+textarea {
+	// Placeholder text
+	&::placeholder {
+		text-transform: uppercase;
+		letter-spacing: rem-calc(1.5);
+	}
+}

@@ -4940,3 +4940,8 @@ form#index-contact-form .contact-form-input-group-button input {
 
 .inline-block {
   display: inline-block; }
+
+input::placeholder,
+textarea::placeholder {
+  text-transform: uppercase;
+  letter-spacing: 0.09375rem; }
