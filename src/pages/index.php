@@ -151,6 +151,26 @@ body-class: index
 		</div>
 	</form>
 </section>
+<footer>
+	<div class="row">
+		<div class="large-4 columns">
+			<h5>nico@studioncreations.com</h5>
+		</div>
+		<div class="large-4 columns text-center">
+			<h5>&copy; Studio N Creations 2016</h5>
+			<h5>Coded with &hearts; in Houston, TX</h5>
+		</div>
+		<div class="large-push-1 large-1 columns">
+			<img src="/img/assets/icons/facebook.png" alt="">
+		</div>
+		<div class="large-push-1 large-1 columns">
+			<img src="/img/assets/icons/pinterest.png" alt="">
+		</div>
+		<div class="large-1 columns">
+			<img src="/img/assets/icons/instagram.png" alt="">
+		</div>
+	</div>
+</footer>
 <div class="reveal row recent-projects-modal" id="essential-sound-production-modal" data-reveal>
 	<div class="medium-10 medium-push-1 columns end modal-container">
 		<div class="modal-header">
