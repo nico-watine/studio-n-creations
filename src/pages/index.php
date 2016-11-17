@@ -161,13 +161,13 @@ body-class: index
 			<h5>Coded with &hearts; in Houston, TX</h5>
 		</div>
 		<div class="large-push-1 large-1 columns">
-			<img src="/img/assets/icons/facebook.png" alt="">
+			<a href="https://www.facebook.com/studio.n.creations" target="_blank"><img src="/img/assets/icons/facebook.png" alt=""></a>
 		</div>
 		<div class="large-push-1 large-1 columns">
-			<img src="/img/assets/icons/pinterest.png" alt="">
+			<a href="https://www.pinterest.com/studioncreation/" target="_blank"><img src="/img/assets/icons/pinterest.png" alt=""></a>
 		</div>
 		<div class="large-1 columns">
-			<img src="/img/assets/icons/instagram.png" alt="">
+			<a href="https://www.instagram.com/studio.n.creations/" target="_blank"><img src="/img/assets/icons/instagram.png" alt=""></a>
 		</div>
 	</div>
 </footer>
