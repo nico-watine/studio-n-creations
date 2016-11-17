@@ -127,19 +127,19 @@ body-class: index
 			<div class="large-4 columns">
 				<div class="row">
 					<div class="medium-6 large-12 columns">
-						<label for="">Large 4 Columns
+						<label for="">Name
 							<input type="text" placeholder="Name">
 						</label>
 					</div>
 					<div class="medium-6 large-12 columns">
-						<label for="">Large 4 Columns
+						<label for="">Email
 							<input type="text" placeholder="Email">
 						</label>
 					</div>
 				</div>
 			</div>
 			<div class="large-6 columns">
-				<label for="">Large 6 Columns
+				<label for="">Message
 					<textarea style="min-height: 119px;" type="text" placeholder="Message"></textarea>
 				</label>
 			</div>
