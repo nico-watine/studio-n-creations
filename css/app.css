@@ -4726,7 +4726,7 @@ h6 {
 
 #index .contact-form {
   padding: 2.5rem 0;
-  background: #fff url("/img/index/contact/bubbles.png") center center/100% auto no-repeat; }
+  background: #fff url("/img/index/contact/bubbles.png") center center/cover no-repeat; }
   #index .contact-form .section-title h2,
   #index .contact-form .section-title h3,
   #index .contact-form .section-title form#index-contact-form .contact-form-input-group-button input, form#index-contact-form .contact-form-input-group-button
@@ -4734,24 +4734,26 @@ h6 {
     color: #fff;
     text-shadow: -0.125rem 0.1875rem 0 rgba(0, 0, 0, 0.45); }
 
-form#index-contact-form .contact-form-input-group-button input {
-  background: #566372;
-  box-shadow: -0.25rem 0.25rem 0 0 rgba(141, 149, 158, 0.5);
-  border-radius: 0.125rem;
-  margin-bottom: 0.125rem;
-  color: #fff;
-  min-width: 11.25rem;
-  padding: 0.5rem 0;
-  line-height: 1; }
-  @media screen and (min-width: 64em) {
-    form#index-contact-form .contact-form-input-group-button input {
-      min-width: 0;
-      width: 90%; } }
-  form#index-contact-form .contact-form-input-group-button input:hover {
-    margin-top: 0.125rem;
-    margin-right: 0.125rem;
-    margin-bottom: 0;
-    box-shadow: -0.125rem 0.125rem 0 0 rgba(141, 149, 158, 0.5); }
+form#index-contact-form .contact-form-input-group-button {
+  padding-top: 2.5rem; }
+  form#index-contact-form .contact-form-input-group-button input {
+    background: #566372;
+    box-shadow: -0.25rem 0.25rem 0 0 rgba(141, 149, 158, 0.5);
+    border-radius: 0.125rem;
+    margin-bottom: 0.125rem;
+    color: #fff;
+    min-width: 11.25rem;
+    padding: 0.5rem 0;
+    line-height: 1; }
+    @media screen and (min-width: 64em) {
+      form#index-contact-form .contact-form-input-group-button input {
+        min-width: 0;
+        width: 90%; } }
+    form#index-contact-form .contact-form-input-group-button input:hover {
+      margin-top: 0.125rem;
+      margin-right: 0.125rem;
+      margin-bottom: 0;
+      box-shadow: -0.125rem 0.125rem 0 0 rgba(141, 149, 158, 0.5); }
 
 .recent-projects-modal {
   width: 100%;
