@@ -154,22 +154,22 @@ body-class: index
 	</section>
 	<footer>
 		<div class="row">
-			<div class="large-4 columns">
+			<div class="medium-6 large-4 columns">
 				<h5>nico@studioncreations.com</h5>
 			</div>
-			<div class="large-4 columns text-center">
+			<div class="medium-text-right large-text-center medium-6 large-4 columns">
 				<h5>&copy; Studio N Creations 2016</h5>
 				<h5>Coded with &hearts; in Houston, TX</h5>
 			</div>
 			<div class="large-4 columns">
-				<div class="row">
-					<div class="small-3 small-push-3 columns">
+				<div class="row social-icons">
+					<div class="small-4 medium-2 medium-push-3 large-4 large-push-0 text-right columns">
 						<a href="https://www.facebook.com/studio.n.creations" target="_blank"><img src="/img/assets/icons/facebook.png" alt=""></a>
 					</div>
-					<div class="small-3 small-push-3 columns">
+					<div class="small-4 medium-2 medium-push-3 large-4 large-push-0 text-center columns">
 						<a href="https://www.pinterest.com/studioncreation/" target="_blank"><img src="/img/assets/icons/pinterest.png" alt=""></a>
 					</div>
-					<div class="small-3 columns">
+					<div class="small-4 medium-2 medium-push-3 large-4 large-push-0 end columns">
 						<a href="https://www.instagram.com/studio.n.creations/" target="_blank"><img src="/img/assets/icons/instagram.png" alt=""></a>
 					</div>
 				</div>
