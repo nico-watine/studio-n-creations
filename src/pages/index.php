@@ -164,13 +164,13 @@ body-class: index
 			<div class="large-4 columns">
 				<div class="row social-icons">
 					<div class="small-4 medium-2 medium-push-3 large-4 large-push-0 text-right columns">
-						<a href="https://www.facebook.com/studio.n.creations" target="_blank"><img src="/img/assets/icons/facebook.png" alt=""></a>
+						<a href="https://www.facebook.com/studio.n.creations" target="_blank"><img srcset="/img/assets/icons/facebook_2x.png 2x" src="/img/assets/icons/facebook.png" alt=""></a>
 					</div>
 					<div class="small-4 medium-2 medium-push-3 large-4 large-push-0 text-center columns">
-						<a href="https://www.pinterest.com/studioncreation/" target="_blank"><img src="/img/assets/icons/pinterest.png" alt=""></a>
+						<a href="https://www.pinterest.com/studioncreation/" target="_blank"><img srcset="/img/assets/icons/pinterest_2x.png 2x" src="/img/assets/icons/pinterest.png" alt=""></a>
 					</div>
 					<div class="small-4 medium-2 medium-push-3 large-4 large-push-0 end columns">
-						<a href="https://www.instagram.com/studio.n.creations/" target="_blank"><img src="/img/assets/icons/instagram.png" alt=""></a>
+						<a href="https://www.instagram.com/studio.n.creations/" target="_blank"><img srcset="/img/assets/icons/instagram_2x.png 2x" src="/img/assets/icons/instagram.png" alt=""></a>
 					</div>
 				</div>
 			</div>
