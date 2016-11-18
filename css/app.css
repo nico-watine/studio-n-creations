@@ -4809,6 +4809,7 @@ form#index-contact-form .contact-form-input-group-button {
       height: 100%; } }
 
 #index footer {
+  margin-top: 2.5rem;
   border-top: 0.1875rem solid #5a5a5a;
   background: rgba(110, 110, 110, 0.8);
   padding: 5rem 0; }
