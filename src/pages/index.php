@@ -117,60 +117,62 @@ body-class: index
 		</div>
 	</div>
 </section>
-<section class="contact-form">
-	<div class="row text-center section-title">
-		<h2>Have a project in mind?</h2>
-		<h3>Let’s talk!</h3>
-	</div>
-	<form id="index-contact-form" action="">
+<div class="bubble-bg">
+	<section class="contact-form">
+		<div class="row text-center section-title">
+			<h2>Have a project in mind?</h2>
+			<h3>Let’s talk!</h3>
+		</div>
+		<form id="index-contact-form" action="">
+			<div class="row">
+				<div class="large-4 columns">
+					<div class="row">
+						<div class="medium-6 large-12 columns">
+							<label for="">Name
+								<input type="text" placeholder="Name">
+							</label>
+						</div>
+						<div class="medium-6 large-12 columns">
+							<label for="">Email
+								<input type="text" placeholder="Email">
+							</label>
+						</div>
+					</div>
+				</div>
+				<div class="large-6 columns">
+					<label for="">Message
+						<textarea style="min-height: 119px;" type="text" placeholder="Message"></textarea>
+					</label>
+				</div>
+				<div class="large-2 columns">
+					<div class="contact-form-input-group-button input-group-button">
+						<input type="submit" class="button" value="Send">
+					</div>
+				</div>
+			</div>
+		</form>
+	</section>
+	<footer>
 		<div class="row">
 			<div class="large-4 columns">
-				<div class="row">
-					<div class="medium-6 large-12 columns">
-						<label for="">Name
-							<input type="text" placeholder="Name">
-						</label>
-					</div>
-					<div class="medium-6 large-12 columns">
-						<label for="">Email
-							<input type="text" placeholder="Email">
-						</label>
-					</div>
-				</div>
+				<h5>nico@studioncreations.com</h5>
 			</div>
-			<div class="large-6 columns">
-				<label for="">Message
-					<textarea style="min-height: 119px;" type="text" placeholder="Message"></textarea>
-				</label>
+			<div class="large-4 columns text-center">
+				<h5>&copy; Studio N Creations 2016</h5>
+				<h5>Coded with &hearts; in Houston, TX</h5>
 			</div>
-			<div class="large-2 columns">
-				<div class="contact-form-input-group-button input-group-button">
-					<input type="submit" class="button" value="Send">
-				</div>
+			<div class="large-push-1 large-1 columns">
+				<a href="https://www.facebook.com/studio.n.creations" target="_blank"><img src="/img/assets/icons/facebook.png" alt=""></a>
+			</div>
+			<div class="large-push-1 large-1 columns">
+				<a href="https://www.pinterest.com/studioncreation/" target="_blank"><img src="/img/assets/icons/pinterest.png" alt=""></a>
+			</div>
+			<div class="large-1 columns">
+				<a href="https://www.instagram.com/studio.n.creations/" target="_blank"><img src="/img/assets/icons/instagram.png" alt=""></a>
 			</div>
 		</div>
-	</form>
-</section>
-<footer>
-	<div class="row">
-		<div class="large-4 columns">
-			<h5>nico@studioncreations.com</h5>
-		</div>
-		<div class="large-4 columns text-center">
-			<h5>&copy; Studio N Creations 2016</h5>
-			<h5>Coded with &hearts; in Houston, TX</h5>
-		</div>
-		<div class="large-push-1 large-1 columns">
-			<a href="https://www.facebook.com/studio.n.creations" target="_blank"><img src="/img/assets/icons/facebook.png" alt=""></a>
-		</div>
-		<div class="large-push-1 large-1 columns">
-			<a href="https://www.pinterest.com/studioncreation/" target="_blank"><img src="/img/assets/icons/pinterest.png" alt=""></a>
-		</div>
-		<div class="large-1 columns">
-			<a href="https://www.instagram.com/studio.n.creations/" target="_blank"><img src="/img/assets/icons/instagram.png" alt=""></a>
-		</div>
-	</div>
-</footer>
+	</footer>
+</div>
 <div class="reveal row recent-projects-modal" id="essential-sound-production-modal" data-reveal>
 	<div class="medium-10 medium-push-1 columns end modal-container">
 		<div class="modal-header">
