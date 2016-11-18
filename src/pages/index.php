@@ -161,14 +161,18 @@ body-class: index
 				<h5>&copy; Studio N Creations 2016</h5>
 				<h5>Coded with &hearts; in Houston, TX</h5>
 			</div>
-			<div class="large-push-1 large-1 columns">
-				<a href="https://www.facebook.com/studio.n.creations" target="_blank"><img src="/img/assets/icons/facebook.png" alt=""></a>
-			</div>
-			<div class="large-push-1 large-1 columns">
-				<a href="https://www.pinterest.com/studioncreation/" target="_blank"><img src="/img/assets/icons/pinterest.png" alt=""></a>
-			</div>
-			<div class="large-1 columns">
-				<a href="https://www.instagram.com/studio.n.creations/" target="_blank"><img src="/img/assets/icons/instagram.png" alt=""></a>
+			<div class="large-4 columns">
+				<div class="row">
+					<div class="small-3 small-push-3 columns">
+						<a href="https://www.facebook.com/studio.n.creations" target="_blank"><img src="/img/assets/icons/facebook.png" alt=""></a>
+					</div>
+					<div class="small-3 small-push-3 columns">
+						<a href="https://www.pinterest.com/studioncreation/" target="_blank"><img src="/img/assets/icons/pinterest.png" alt=""></a>
+					</div>
+					<div class="small-3 columns">
+						<a href="https://www.instagram.com/studio.n.creations/" target="_blank"><img src="/img/assets/icons/instagram.png" alt=""></a>
+					</div>
+				</div>
 			</div>
 		</div>
 	</footer>
