@@ -123,30 +123,30 @@ body-class: index
 			<h2>Have a project in mind?</h2>
 			<h3>Let’s talk!</h3>
 		</div>
-		<form id="index-contact-form" action="">
+		<form id="index-contact-form" action="/php/sendcontact">
 			<div class="row">
 				<div class="large-4 columns">
 					<div class="row">
 						<div class="medium-6 large-12 columns">
 							<label for="">Name
-								<input type="text" placeholder="Name">
+								<input type="text" name="name" placeholder="Name">
 							</label>
 						</div>
 						<div class="medium-6 large-12 columns">
 							<label for="">Email
-								<input type="text" placeholder="Email">
+								<input type="text" name="email" placeholder="Email">
 							</label>
 						</div>
 					</div>
 				</div>
 				<div class="large-6 columns">
 					<label for="">Message
-						<textarea style="min-height: 119px;" type="text" placeholder="Message"></textarea>
+						<textarea style="min-height: 119px;" name="message" type="text" placeholder="Message"></textarea>
 					</label>
 				</div>
 				<div class="large-2 columns">
 					<div class="contact-form-input-group-button input-group-button">
-						<input type="submit" class="button" value="Send">
+						<input type="submit" name="submit" class="button" value="Send">
 					</div>
 				</div>
 			</div>
