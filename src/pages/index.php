@@ -250,10 +250,10 @@ body-class: index
 		</div>
 		<div class="row collapse modal-images">
 			<div class="medium-6 columns">
-				<img src="/img/index/recent-projects/modals/jardin-de-france-tx/jardin-de-france-tx-iphone.png" alt="Jardin de France TX iPhone mockup">
+				<img srcset="/img/projects/jardin-de-france-tx/index-modal/modal-feature-1_2x.jpg 2x" src="/img/projects/jardin-de-france-tx/index-modal/modal-feature-1.jpg" alt="Jardin de France TX iPhone mockup">
 			</div>
 			<div class="medium-6 columns">
-				<img src="/img/index/recent-projects/modals/jardin-de-france-tx/jardin-de-france-tx-about.png" alt="Jardin de France TX About Section mockup">
+				<img srcset="/img/projects/jardin-de-france-tx/index-modal/modal-feature-2_2x.jpg 2x" src="/img/projects/jardin-de-france-tx/index-modal/modal-feature-2.jpg" alt="Jardin de France TX About Section mockup">
 			</div>
 		</div>
 		<button class="close-button" data-close aria-label="Close modal" type="button">
@@ -277,10 +277,10 @@ body-class: index
 		</div>
 		<div class="row collapse modal-images">
 			<div class="medium-6 columns">
-				<img src="/img/index/recent-projects/modals/starhill-farms/starhill-farms-reservations.png" alt="StarHill Farms Reservations Page Mockup">
+				<img srcset="/img/projects/starhill-farms/index-modal/modal-feature-1_2x.jpg 2x" src="/img/projects/starhill-farms/index-modal/modal-feature-1.jpg" alt="StarHill Farms Reservations Page Mockup">
 			</div>
 			<div class="medium-6 columns">
-				<img src="/img/index/recent-projects/modals/starhill-farms/starhill-farms-index.png" alt="Artist StarHill Farms Landing Screen Mockup">
+				<img srcset="/img/projects/starhill-farms/index-modal/modal-feature-2_2x.jpg 2x" src="/img/projects/starhill-farms/index-modal/modal-feature-2.jpg" alt="Artist StarHill Farms Landing Screen Mockup">
 			</div>
 		</div>
 		<button class="close-button" data-close aria-label="Close modal" type="button">
