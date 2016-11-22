@@ -4810,10 +4810,6 @@ form#index-contact-form .contact-form-input-group-button {
       position: absolute;
       height: 100%; } }
 
-@media screen and (min-width: 40em) {
-  .recent-projects-modal#houston-pals-project .modal-images img {
-    width: 100%; } }
-
 .reveal#thank-you {
   padding: 1rem; }
 
