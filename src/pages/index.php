@@ -219,7 +219,7 @@ body-class: index
 		</button>
 	</div>
 </div>
-<div class="reveal row recent-projects-modal" id="lisa-esposito-modal" data-reveal>
+<div class="reveal row recent-projects-modal" id="lisa-esposito-modal" data-reveal data-deep-link="true">
 	<div class="medium-10 medium-push-1 columns end modal-container">
 		<div class="modal-header">
 			<h3>Artist Lisa Esposito</h3>
@@ -246,7 +246,7 @@ body-class: index
 		</button>
 	</div>
 </div>
-<div class="reveal row recent-projects-modal" id="jardin-de-france-tx-modal" data-reveal>
+<div class="reveal row recent-projects-modal" id="jardin-de-france-tx-modal" data-reveal data-deep-link="true">
 	<div class="medium-10 medium-push-1 columns end modal-container">
 		<div class="modal-header">
 			<h3>Jardin de France</h3>
@@ -273,7 +273,7 @@ body-class: index
 		</button>
 	</div>
 </div>
-<div class="reveal row recent-projects-modal" id="starhill-farms-modal" data-reveal>
+<div class="reveal row recent-projects-modal" id="starhill-farms-modal" data-reveal data-deep-link="true">
 	<div class="medium-10 medium-push-1 columns end modal-container">
 		<div class="modal-header">
 			<h3>StarHill Farms</h3>
@@ -300,7 +300,7 @@ body-class: index
 		</button>
 	</div>
 </div>
-<div class="reveal row recent-projects-modal" id="houston-pals-modal" data-reveal>
+<div class="reveal row recent-projects-modal" id="houston-pals-modal" data-reveal data-deep-link="true">
 	<div class="medium-10 medium-push-1 columns end modal-container">
 		<div class="modal-header">
 			<h3>Houston PALS</h3>
@@ -327,7 +327,7 @@ body-class: index
 		</button>
 	</div>
 </div>
-<div class="reveal row recent-projects-modal" id="greencare-tx-modal" data-reveal>
+<div class="reveal row recent-projects-modal" id="greencare-tx-modal" data-reveal data-deep-link="true">
 	<div class="medium-10 medium-push-1 columns end modal-container">
 		<div class="modal-header">
 			<h3>Greencare Interior Plants</h3>
