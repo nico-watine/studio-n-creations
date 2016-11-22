@@ -177,7 +177,7 @@ body-class: index
 		</div>
 	</footer>
 </div>
-<div class="reveal" id="thanks-modal" data-reveal data-deep-link="true">
+<div class="reveal" id="thank-you" data-reveal data-deep-link="true">
 	<h2>Thanks!</h2>
 </div>
 <div class="reveal row recent-projects-modal" id="essential-sound-production-modal" data-reveal data-deep-link="true">
