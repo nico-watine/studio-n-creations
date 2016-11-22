@@ -177,7 +177,10 @@ body-class: index
 		</div>
 	</footer>
 </div>
-<div class="reveal row recent-projects-modal" id="essential-sound-production-modal" data-reveal>
+<div class="reveal" id="thanks-modal" data-reveal data-deep-link="true">
+	<h2>Thanks!</h2>
+</div>
+<div class="reveal row recent-projects-modal" id="essential-sound-production-modal" data-reveal data-deep-link="true">
 	<div class="medium-10 medium-push-1 columns end modal-container">
 		<div class="modal-header">
 			<h3>Essential Sound Production</h3>
