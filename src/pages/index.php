@@ -223,10 +223,10 @@ body-class: index
 		</div>
 		<div class="row collapse modal-images">
 			<div class="medium-6 columns">
-				<img src="/img/index/recent-projects/modals/lisa-esposito/lisa-esposito-index-landing.jpg" alt="Artist Lisa Esposito Welcome Screen mockup">
+				<img srcset="/img/projects/lisa-esposito/index-modal/modal-feature-1_2x.jpg 2x" src="/img/projects/lisa-esposito/index-modal/modal-feature-1.jpg" alt="Artist Lisa Esposito Welcome Screen mockup">
 			</div>
 			<div class="medium-6 columns">
-				<img src="/img/index/recent-projects/modals/lisa-esposito/lisa-esposito-upcoming-events.png" alt="Artist Lisa Esposito Upcoming Events mockup">
+				<img srcset="/img/projects/lisa-esposito/index-modal/modal-feature-2_2x.jpg 2x" src="/img/projects/lisa-esposito/index-modal/modal-feature-2.jpg" alt="Artist Lisa Esposito Upcoming Events mockup">
 			</div>
 		</div>
 		<button class="close-button" data-close aria-label="Close modal" type="button">
