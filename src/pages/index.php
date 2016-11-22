@@ -177,8 +177,17 @@ body-class: index
 		</div>
 	</footer>
 </div>
-<div class="reveal" id="thank-you" data-reveal data-deep-link="true">
-	<h2>Thanks!</h2>
+<div class="reveal small" id="thank-you" data-reveal data-deep-link="true">
+	<div class="row">
+		<div class="small-12 columns">
+			<h3>Awesome</h3>
+			<h4>Thank you for reaching out!</h4>
+			<p>I'm already responding, so look out for my message.</p>
+		</div>
+	</div>
+	<button class="close-button" data-close aria-label="Close modal" type="button">
+		<span aria-hidden="true">&times;</span>
+	</button>
 </div>
 <div class="reveal row recent-projects-modal" id="essential-sound-production-modal" data-reveal data-deep-link="true">
 	<div class="medium-10 medium-push-1 columns end modal-container">

@@ -4814,6 +4814,9 @@ form#index-contact-form .contact-form-input-group-button {
   .recent-projects-modal#houston-pals-modal .modal-images img {
     width: 100%; } }
 
+.reveal#thank-you {
+  padding: 1rem; }
+
 #index footer {
   margin-top: 2.5rem;
   border-top: 0.1875rem solid #5a5a5a;
