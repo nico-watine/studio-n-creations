@@ -155,10 +155,10 @@ body-class: index
 	<footer>
 		<div class="row">
 			<div class="text-center medium-text-left medium-6 large-4 columns">
-				<h5>nico@studioncreations.com</h5>
+				<h5>&copy; Studio N Creations 2016</h5>
+				<!-- <h5>nico@studioncreations.com</h5> -->
 			</div>
 			<div class="text-center medium-text-right large-text-center medium-6 large-4 columns">
-				<!-- <h5>&copy; Studio N Creations 2016</h5> -->
 				<h5>Coded with &hearts; in Houston, TX</h5>
 			</div>
 			<div class="large-4 columns">
