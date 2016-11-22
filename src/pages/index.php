@@ -331,10 +331,10 @@ body-class: index
 		</div>
 		<div class="row collapse modal-images">
 			<div class="medium-6 columns">
-				<img src="/img/index/recent-projects/modals/greencare-tx/greencare-2.png" alt="Houston PALS Desk Mockup">
+				<img srcset="/img/projects/greencare-tx/index-modal/modal-feature-1_2x.jpg 2x" src="/img/projects/greencare-tx/index-modal/modal-feature-1.jpg" alt="Houston PALS Desk Mockup">
 			</div>
 			<div class="medium-6 columns">
-				<img src="/img/index/recent-projects/modals/greencare-tx/greencare-1.png" alt="Houston PALS Mobile Device Spread">
+				<img srcset="/img/projects/greencare-tx/index-modal/modal-feature-2_2x.jpg 2x" src="/img/projects/greencare-tx/index-modal/modal-feature-2.jpg" alt="Houston PALS Mobile Device Spread">
 			</div>
 		</div>
 		<button class="close-button" data-close aria-label="Close modal" type="button">
