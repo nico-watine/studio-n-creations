@@ -42,36 +42,36 @@ body-class: index
 	<div class="row">
 		<div class="medium-6 columns">
 			<div class="project">
-				<a data-open="houston-pals-modal" title="Houston PALS"><img srcset="/img/projects/houston-pals/index-modal/modal-thumb_2x.jpg 2x" src="/img/projects/houston-pals/index-modal/modal-thumb.jpg" alt="Houston PALS website mockup"></a>
+				<a data-open="houston-pals-project" title="Houston PALS"><img srcset="/img/projects/houston-pals/index-modal/modal-thumb_2x.jpg 2x" src="/img/projects/houston-pals/index-modal/modal-thumb.jpg" alt="Houston PALS website mockup"></a>
 			</div>
 		</div>
 		<div class="medium-6 columns">
 			<div class="project">
-				<a data-open="essential-sound-production-modal" title="Essential Sound Production"><img srcset="/img/projects/essential-sound-production/index-modal/modal-thumb_2x.jpg 2x" src="/img/projects/essential-sound-production/index-modal/modal-thumb.jpg" alt="Essential Sound Production website mockup"></a>
-			</div>
-		</div>
-	</div>
-	<div class="row">
-		<div class="medium-6 columns">
-			<div class="project">
-				<a data-open="greencare-tx-modal" title="Greencare Interior Plants"><img srcset="/img/projects/greencare-tx/index-modal/modal-thumb_2x.jpg 2x" src="/img/projects/greencare-tx/index-modal/modal-thumb.jpg" alt="Greencare Interior Plants website mockup"></a>
-			</div>
-		</div>
-		<div class="medium-6 columns">
-			<div class="project">
-				<a data-open="lisa-esposito-modal" title="Artist Lisa Esposito"><img srcset="/img/projects/lisa-esposito/index-modal/modal-thumb_2x.jpg 2x" src="/img/projects/lisa-esposito/index-modal/modal-thumb.jpg" alt="Dr Lisa Esposito website mockup"></a>
+				<a data-open="essential-sound-production-project" title="Essential Sound Production"><img srcset="/img/projects/essential-sound-production/index-modal/modal-thumb_2x.jpg 2x" src="/img/projects/essential-sound-production/index-modal/modal-thumb.jpg" alt="Essential Sound Production website mockup"></a>
 			</div>
 		</div>
 	</div>
 	<div class="row">
 		<div class="medium-6 columns">
 			<div class="project">
-				<a data-open="starhill-farms-modal" title="StarHill Farms"><img srcset="/img/projects/starhill-farms/index-modal/modal-thumb_2x.jpg 2x" src="/img/projects/starhill-farms/index-modal/modal-thumb.jpg" alt="Starhill Farms website mockup"></a>
+				<a data-open="greencare-interior-plants-project" title="Greencare Interior Plants"><img srcset="/img/projects/greencare-tx/index-modal/modal-thumb_2x.jpg 2x" src="/img/projects/greencare-tx/index-modal/modal-thumb.jpg" alt="Greencare Interior Plants website mockup"></a>
 			</div>
 		</div>
 		<div class="medium-6 columns">
 			<div class="project">
-				<a data-open="jardin-de-france-tx-modal" title="Jardin de France TX"><img srcset="/img/projects/jardin-de-france-tx/index-modal/modal-thumb_2x.jpg 2x" src="/img/projects/jardin-de-france-tx/index-modal/modal-thumb.jpg" alt="Jardin de France TX website mockup"></a>
+				<a data-open="artist-lisa-esposito-project" title="Artist Lisa Esposito"><img srcset="/img/projects/lisa-esposito/index-modal/modal-thumb_2x.jpg 2x" src="/img/projects/lisa-esposito/index-modal/modal-thumb.jpg" alt="Dr Lisa Esposito website mockup"></a>
+			</div>
+		</div>
+	</div>
+	<div class="row">
+		<div class="medium-6 columns">
+			<div class="project">
+				<a data-open="starhill-farms-project" title="StarHill Farms"><img srcset="/img/projects/starhill-farms/index-modal/modal-thumb_2x.jpg 2x" src="/img/projects/starhill-farms/index-modal/modal-thumb.jpg" alt="Starhill Farms website mockup"></a>
+			</div>
+		</div>
+		<div class="medium-6 columns">
+			<div class="project">
+				<a data-open="jardin-de-france-tx-project" title="Jardin de France TX"><img srcset="/img/projects/jardin-de-france-tx/index-modal/modal-thumb_2x.jpg 2x" src="/img/projects/jardin-de-france-tx/index-modal/modal-thumb.jpg" alt="Jardin de France TX website mockup"></a>
 			</div>
 		</div>
 	</div>
@@ -189,7 +189,7 @@ body-class: index
 		<span aria-hidden="true">&times;</span>
 	</button>
 </div>
-<div class="reveal row recent-projects-modal" id="essential-sound-production-modal" data-reveal data-deep-link="true">
+<div class="reveal row recent-projects-modal" id="essential-sound-production-project" data-reveal data-deep-link="true">
 	<div class="medium-10 medium-push-1 columns end modal-container">
 		<div class="modal-header">
 			<h3>Essential Sound Production</h3>
@@ -219,7 +219,7 @@ body-class: index
 		</button>
 	</div>
 </div>
-<div class="reveal row recent-projects-modal" id="lisa-esposito-modal" data-reveal data-deep-link="true">
+<div class="reveal row recent-projects-modal" id="artist-lisa-esposito-project" data-reveal data-deep-link="true">
 	<div class="medium-10 medium-push-1 columns end modal-container">
 		<div class="modal-header">
 			<h3>Artist Lisa Esposito</h3>
@@ -246,7 +246,7 @@ body-class: index
 		</button>
 	</div>
 </div>
-<div class="reveal row recent-projects-modal" id="jardin-de-france-tx-modal" data-reveal data-deep-link="true">
+<div class="reveal row recent-projects-modal" id="jardin-de-france-tx-project" data-reveal data-deep-link="true">
 	<div class="medium-10 medium-push-1 columns end modal-container">
 		<div class="modal-header">
 			<h3>Jardin de France</h3>
@@ -273,7 +273,7 @@ body-class: index
 		</button>
 	</div>
 </div>
-<div class="reveal row recent-projects-modal" id="starhill-farms-modal" data-reveal data-deep-link="true">
+<div class="reveal row recent-projects-modal" id="starhill-farms-project" data-reveal data-deep-link="true">
 	<div class="medium-10 medium-push-1 columns end modal-container">
 		<div class="modal-header">
 			<h3>StarHill Farms</h3>
@@ -300,7 +300,7 @@ body-class: index
 		</button>
 	</div>
 </div>
-<div class="reveal row recent-projects-modal" id="houston-pals-modal" data-reveal data-deep-link="true">
+<div class="reveal row recent-projects-modal" id="houston-pals-project" data-reveal data-deep-link="true">
 	<div class="medium-10 medium-push-1 columns end modal-container">
 		<div class="modal-header">
 			<h3>Houston PALS</h3>
@@ -327,7 +327,7 @@ body-class: index
 		</button>
 	</div>
 </div>
-<div class="reveal row recent-projects-modal" id="greencare-tx-modal" data-reveal data-deep-link="true">
+<div class="reveal row recent-projects-modal" id="greencare-interior-plants-project" data-reveal data-deep-link="true">
 	<div class="medium-10 medium-push-1 columns end modal-container">
 		<div class="modal-header">
 			<h3>Greencare Interior Plants</h3>
