@@ -4804,6 +4804,8 @@ form#index-contact-form .contact-form-input-group-button {
         position: absolute;
         top: 50%;
         transform: translateY(-50%); }
+    .recent-projects-modal#essential-sound-production-modal .modal-images .image-2 img {
+      width: 100%; }
     .recent-projects-modal#essential-sound-production-modal .modal-images .image-3 img {
       position: absolute;
       height: 100%; } }
