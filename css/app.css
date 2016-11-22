@@ -4794,24 +4794,24 @@ form#index-contact-form .contact-form-input-group-button {
       border-radius: 0 0 0.25rem 0.25rem; } }
 
 @media screen and (min-width: 40em) {
-  .recent-projects-modal#essential-sound-production-modal .modal-images {
+  .recent-projects-modal#essential-sound-production-project .modal-images {
     position: relative; }
-    .recent-projects-modal#essential-sound-production-modal .modal-images .image-1 {
+    .recent-projects-modal#essential-sound-production-project .modal-images .image-1 {
       position: absolute;
       background: #fff;
       height: 100%; }
-      .recent-projects-modal#essential-sound-production-modal .modal-images .image-1 img {
+      .recent-projects-modal#essential-sound-production-project .modal-images .image-1 img {
         position: absolute;
         top: 50%;
         transform: translateY(-50%); }
-    .recent-projects-modal#essential-sound-production-modal .modal-images .image-2 img {
+    .recent-projects-modal#essential-sound-production-project .modal-images .image-2 img {
       width: 100%; }
-    .recent-projects-modal#essential-sound-production-modal .modal-images .image-3 img {
+    .recent-projects-modal#essential-sound-production-project .modal-images .image-3 img {
       position: absolute;
       height: 100%; } }
 
 @media screen and (min-width: 40em) {
-  .recent-projects-modal#houston-pals-modal .modal-images img {
+  .recent-projects-modal#houston-pals-project .modal-images img {
     width: 100%; } }
 
 .reveal#thank-you {
