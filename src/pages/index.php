@@ -42,36 +42,36 @@ body-class: index
 	<div class="row">
 		<div class="medium-6 columns">
 			<div class="project">
-				<a data-open="houston-pals-project" title="Houston PALS"><img srcset="/img/projects/houston-pals/index-modal/modal-thumb_2x.jpg 2x" src="/img/projects/houston-pals/index-modal/modal-thumb.jpg" alt="Houston PALS website mockup"></a>
+				<a data-open="houston-pals-project" title="Houston PALS"><img srcset="{{ cdn }}/img/projects/houston-pals/index-modal/modal-thumb_2x.jpg 2x" src="{{ cdn }}/img/projects/houston-pals/index-modal/modal-thumb.jpg" alt="Houston PALS website mockup"></a>
 			</div>
 		</div>
 		<div class="medium-6 columns">
 			<div class="project">
-				<a data-open="essential-sound-production-project" title="Essential Sound Production"><img srcset="/img/projects/essential-sound-production/index-modal/modal-thumb_2x.jpg 2x" src="/img/projects/essential-sound-production/index-modal/modal-thumb.jpg" alt="Essential Sound Production website mockup"></a>
-			</div>
-		</div>
-	</div>
-	<div class="row">
-		<div class="medium-6 columns">
-			<div class="project">
-				<a data-open="greencare-interior-plants-project" title="Greencare Interior Plants"><img srcset="/img/projects/greencare-tx/index-modal/modal-thumb_2x.jpg 2x" src="/img/projects/greencare-tx/index-modal/modal-thumb.jpg" alt="Greencare Interior Plants website mockup"></a>
-			</div>
-		</div>
-		<div class="medium-6 columns">
-			<div class="project">
-				<a data-open="artist-lisa-esposito-project" title="Artist Lisa Esposito"><img srcset="/img/projects/lisa-esposito/index-modal/modal-thumb_2x.jpg 2x" src="/img/projects/lisa-esposito/index-modal/modal-thumb.jpg" alt="Dr Lisa Esposito website mockup"></a>
+				<a data-open="essential-sound-production-project" title="Essential Sound Production"><img srcset="{{ cdn }}/img/projects/essential-sound-production/index-modal/modal-thumb_2x.jpg 2x" src="{{ cdn }}/img/projects/essential-sound-production/index-modal/modal-thumb.jpg" alt="Essential Sound Production website mockup"></a>
 			</div>
 		</div>
 	</div>
 	<div class="row">
 		<div class="medium-6 columns">
 			<div class="project">
-				<a data-open="starhill-farms-project" title="StarHill Farms"><img srcset="/img/projects/starhill-farms/index-modal/modal-thumb_2x.jpg 2x" src="/img/projects/starhill-farms/index-modal/modal-thumb.jpg" alt="Starhill Farms website mockup"></a>
+				<a data-open="greencare-interior-plants-project" title="Greencare Interior Plants"><img srcset="{{ cdn }}/img/projects/greencare-tx/index-modal/modal-thumb_2x.jpg 2x" src="{{ cdn }}/img/projects/greencare-tx/index-modal/modal-thumb.jpg" alt="Greencare Interior Plants website mockup"></a>
 			</div>
 		</div>
 		<div class="medium-6 columns">
 			<div class="project">
-				<a data-open="jardin-de-france-tx-project" title="Jardin de France TX"><img srcset="/img/projects/jardin-de-france-tx/index-modal/modal-thumb_2x.jpg 2x" src="/img/projects/jardin-de-france-tx/index-modal/modal-thumb.jpg" alt="Jardin de France TX website mockup"></a>
+				<a data-open="artist-lisa-esposito-project" title="Artist Lisa Esposito"><img srcset="{{ cdn }}/img/projects/lisa-esposito/index-modal/modal-thumb_2x.jpg 2x" src="{{ cdn }}/img/projects/lisa-esposito/index-modal/modal-thumb.jpg" alt="Dr Lisa Esposito website mockup"></a>
+			</div>
+		</div>
+	</div>
+	<div class="row">
+		<div class="medium-6 columns">
+			<div class="project">
+				<a data-open="starhill-farms-project" title="StarHill Farms"><img srcset="{{ cdn }}/img/projects/starhill-farms/index-modal/modal-thumb_2x.jpg 2x" src="{{ cdn }}/img/projects/starhill-farms/index-modal/modal-thumb.jpg" alt="Starhill Farms website mockup"></a>
+			</div>
+		</div>
+		<div class="medium-6 columns">
+			<div class="project">
+				<a data-open="jardin-de-france-tx-project" title="Jardin de France TX"><img srcset="{{ cdn }}/img/projects/jardin-de-france-tx/index-modal/modal-thumb_2x.jpg 2x" src="{{ cdn }}/img/projects/jardin-de-france-tx/index-modal/modal-thumb.jpg" alt="Jardin de France TX website mockup"></a>
 			</div>
 		</div>
 	</div>
@@ -87,14 +87,14 @@ body-class: index
 		<div class="medium-12 large-8 columns">
 			<div class="row logos-row collapse">
 				<div class="medium-4 columns text-center">
-					<img srcset="/img/index/graphic-branding/dynasty-sports-report/dynasty-sports-report-logo_2x.png 2x" src="/img/index/graphic-branding/dynasty-sports-report/dynasty-sports-report-logo.png" alt="Dynasty Sports Report logo" title="DynastySportsReport.com website logo - a Studio N Creation">
-					<img class="show-for-large padding-x" srcset="/img/index/graphic-branding/dmesa/dmesa-logo_2x.png 2x" src="/img/index/graphic-branding/dmesa/dmesa-logo.png" alt="d'Mesa Home logo" title="d'Mesa Home company logo - a Studio N Creation">
+					<img srcset="{{ cdn }}/img/index/graphic-branding/dynasty-sports-report/dynasty-sports-report-logo_2x.png 2x" src="{{ cdn }}/img/index/graphic-branding/dynasty-sports-report/dynasty-sports-report-logo.png" alt="Dynasty Sports Report logo" title="DynastySportsReport.com website logo - a Studio N Creation">
+					<img class="show-for-large padding-x" srcset="{{ cdn }}/img/index/graphic-branding/dmesa/dmesa-logo_2x.png 2x" src="{{ cdn }}/img/index/graphic-branding/dmesa/dmesa-logo.png" alt="d'Mesa Home logo" title="d'Mesa Home company logo - a Studio N Creation">
 				</div>
 				<div class="medium-push-4 medium-3 columns hide-for-large text-center">
-					<img class="padding-x" srcset="/img/index/graphic-branding/dmesa/dmesa-logo_2x.png 2x" src="/img/index/graphic-branding/dmesa/dmesa-logo.png" alt="d'Mesa Home logo" title="d'Mesa Home company logo - a Studio N Creation">
+					<img class="padding-x" srcset="{{ cdn }}/img/index/graphic-branding/dmesa/dmesa-logo_2x.png 2x" src="{{ cdn }}/img/index/graphic-branding/dmesa/dmesa-logo.png" alt="d'Mesa Home logo" title="d'Mesa Home company logo - a Studio N Creation">
 				</div>
 				<div class="medium-5 large-8 columns">
-					<img srcset="/img/index/graphic-branding/jardin-de-france/jardin-de-france-price-tag_2x.jpg 2x" src="/img/index/graphic-branding/jardin-de-france/jardin-de-france-price-tag.jpg" alt="Jardin de France TX logo" title="Jardin de France TX product price tag design - a Studio N Creation">
+					<img srcset="{{ cdn }}/img/index/graphic-branding/jardin-de-france/jardin-de-france-price-tag_2x.jpg 2x" src="{{ cdn }}/img/index/graphic-branding/jardin-de-france/jardin-de-france-price-tag.jpg" alt="Jardin de France TX logo" title="Jardin de France TX product price tag design - a Studio N Creation">
 				</div>
 			</div>
 		</div>
@@ -104,7 +104,7 @@ body-class: index
 	<div class="row">
 		<div class="medium-4 large-3 columns medium-text-center large-text-right image">
 			<div class="small-6 medium-12 columns no-padding">
-				<img srcset="/img/index/about-us/hello-lanyard_2x.jpg 2x" src="/img/index/about-us/hello-lanyard.jpg" alt="Nico Watine is Studio N Creations" title="HELLO my name is Nico Watine">
+				<img srcset="{{ cdn }}/img/index/about-us/hello-lanyard_2x.jpg 2x" src="{{ cdn }}/img/index/about-us/hello-lanyard.jpg" alt="Nico Watine is Studio N Creations" title="HELLO my name is Nico Watine">
 			</div>
 			<div class="small-6 columns hide-for-medium">
 				<h3>About Us</h3>
@@ -164,13 +164,13 @@ body-class: index
 			<div class="large-4 columns">
 				<div class="row social-icons">
 					<div class="small-4 medium-2 medium-push-3 large-4 large-push-0 text-right columns">
-						<a href="https://www.facebook.com/studio.n.creations" target="_blank"><img srcset="/img/assets/icons/facebook_2x.png 2x" src="/img/assets/icons/facebook.png" alt="Facebook Icon" title="Studio N Creations Facebook Page Link"></a>
+						<a href="https://www.facebook.com/studio.n.creations" target="_blank"><img srcset="{{ cdn }}/img/assets/icons/facebook_2x.png 2x" src="{{ cdn }}/img/assets/icons/facebook.png" alt="Facebook Icon" title="Studio N Creations Facebook Page Link"></a>
 					</div>
 					<div class="small-4 medium-2 medium-push-3 large-4 large-push-0 text-center columns">
-						<a href="https://www.pinterest.com/studioncreation/" target="_blank"><img srcset="/img/assets/icons/pinterest_2x.png 2x" src="/img/assets/icons/pinterest.png" alt="Pinterest Icon" title="Studio N Creations Pinterest Account Link"></a>
+						<a href="https://www.pinterest.com/studioncreation/" target="_blank"><img srcset="{{ cdn }}/img/assets/icons/pinterest_2x.png 2x" src="{{ cdn }}/img/assets/icons/pinterest.png" alt="Pinterest Icon" title="Studio N Creations Pinterest Account Link"></a>
 					</div>
 					<div class="small-4 medium-2 medium-push-3 large-4 large-push-0 end columns">
-						<a href="https://www.instagram.com/studio.n.creations/" target="_blank"><img srcset="/img/assets/icons/instagram_2x.png 2x" src="/img/assets/icons/instagram.png" alt="Instagram Icon" title="Studio N Creations Instagram Account Link"></a>
+						<a href="https://www.instagram.com/studio.n.creations/" target="_blank"><img srcset="{{ cdn }}/img/assets/icons/instagram_2x.png 2x" src="{{ cdn }}/img/assets/icons/instagram.png" alt="Instagram Icon" title="Studio N Creations Instagram Account Link"></a>
 					</div>
 				</div>
 			</div>
@@ -205,13 +205,13 @@ body-class: index
 		</div>
 		<div class="row collapse modal-images">
 			<div class="small-8 medium-5 columns image-1">
-				<img srcset="/img/projects/essential-sound-production/index-modal/modal-feature-1_2x.jpg 2x" src="/img/projects/essential-sound-production/index-modal/modal-feature-1.jpg" alt="Essential Sound Production landing-screen laptop mockup">
+				<img srcset="{{ cdn }}/img/projects/essential-sound-production/index-modal/modal-feature-1_2x.jpg 2x" src="{{ cdn }}/img/projects/essential-sound-production/index-modal/modal-feature-1.jpg" alt="Essential Sound Production landing-screen laptop mockup">
 			</div>
 			<div class="small-4 medium-3 medium-push-5 columns image-2">
-				<img srcset="/img/projects/essential-sound-production/index-modal/modal-feature-2_2x.jpg 2x" src="/img/projects/essential-sound-production/index-modal/modal-feature-2.jpg" alt="Essential Sound Production iPad DJ scene mockup">
+				<img srcset="{{ cdn }}/img/projects/essential-sound-production/index-modal/modal-feature-2_2x.jpg 2x" src="{{ cdn }}/img/projects/essential-sound-production/index-modal/modal-feature-2.jpg" alt="Essential Sound Production iPad DJ scene mockup">
 			</div>
 			<div class="small-12 medium-4 columns image-3">
-				<img srcset="/img/projects/essential-sound-production/index-modal/modal-feature-3_2x.jpg 2x" src="/img/projects/essential-sound-production/index-modal/modal-feature-3.jpg" alt="Essential Sound Production about-section tablet mockup">
+				<img srcset="{{ cdn }}/img/projects/essential-sound-production/index-modal/modal-feature-3_2x.jpg 2x" src="{{ cdn }}/img/projects/essential-sound-production/index-modal/modal-feature-3.jpg" alt="Essential Sound Production about-section tablet mockup">
 			</div>
 		</div>
 		<button class="close-button" data-close aria-label="Close modal" type="button">
@@ -235,10 +235,10 @@ body-class: index
 		</div>
 		<div class="row collapse modal-images">
 			<div class="medium-6 columns">
-				<img srcset="/img/projects/lisa-esposito/index-modal/modal-feature-1_2x.jpg 2x" src="/img/projects/lisa-esposito/index-modal/modal-feature-1.jpg" alt="Artist Lisa Esposito Welcome Screen mockup">
+				<img srcset="{{ cdn }}/img/projects/lisa-esposito/index-modal/modal-feature-1_2x.jpg 2x" src="{{ cdn }}/img/projects/lisa-esposito/index-modal/modal-feature-1.jpg" alt="Artist Lisa Esposito Welcome Screen mockup">
 			</div>
 			<div class="medium-6 columns">
-				<img srcset="/img/projects/lisa-esposito/index-modal/modal-feature-2_2x.jpg 2x" src="/img/projects/lisa-esposito/index-modal/modal-feature-2.jpg" alt="Artist Lisa Esposito Upcoming Events mockup">
+				<img srcset="{{ cdn }}/img/projects/lisa-esposito/index-modal/modal-feature-2_2x.jpg 2x" src="{{ cdn }}/img/projects/lisa-esposito/index-modal/modal-feature-2.jpg" alt="Artist Lisa Esposito Upcoming Events mockup">
 			</div>
 		</div>
 		<button class="close-button" data-close aria-label="Close modal" type="button">
@@ -262,10 +262,10 @@ body-class: index
 		</div>
 		<div class="row collapse modal-images">
 			<div class="medium-6 columns">
-				<img srcset="/img/projects/jardin-de-france-tx/index-modal/modal-feature-1_2x.jpg 2x" src="/img/projects/jardin-de-france-tx/index-modal/modal-feature-1.jpg" alt="Jardin de France TX iPhone mockup">
+				<img srcset="{{ cdn }}/img/projects/jardin-de-france-tx/index-modal/modal-feature-1_2x.jpg 2x" src="{{ cdn }}/img/projects/jardin-de-france-tx/index-modal/modal-feature-1.jpg" alt="Jardin de France TX iPhone mockup">
 			</div>
 			<div class="medium-6 columns">
-				<img srcset="/img/projects/jardin-de-france-tx/index-modal/modal-feature-2_2x.jpg 2x" src="/img/projects/jardin-de-france-tx/index-modal/modal-feature-2.jpg" alt="Jardin de France TX About Section mockup">
+				<img srcset="{{ cdn }}/img/projects/jardin-de-france-tx/index-modal/modal-feature-2_2x.jpg 2x" src="{{ cdn }}/img/projects/jardin-de-france-tx/index-modal/modal-feature-2.jpg" alt="Jardin de France TX About Section mockup">
 			</div>
 		</div>
 		<button class="close-button" data-close aria-label="Close modal" type="button">
@@ -289,10 +289,10 @@ body-class: index
 		</div>
 		<div class="row collapse modal-images">
 			<div class="medium-6 columns">
-				<img srcset="/img/projects/starhill-farms/index-modal/modal-feature-1_2x.jpg 2x" src="/img/projects/starhill-farms/index-modal/modal-feature-1.jpg" alt="StarHill Farms Reservations Page Mockup">
+				<img srcset="{{ cdn }}/img/projects/starhill-farms/index-modal/modal-feature-1_2x.jpg 2x" src="{{ cdn }}/img/projects/starhill-farms/index-modal/modal-feature-1.jpg" alt="StarHill Farms Reservations Page Mockup">
 			</div>
 			<div class="medium-6 columns">
-				<img srcset="/img/projects/starhill-farms/index-modal/modal-feature-2_2x.jpg 2x" src="/img/projects/starhill-farms/index-modal/modal-feature-2.jpg" alt="Artist StarHill Farms Landing Screen Mockup">
+				<img srcset="{{ cdn }}/img/projects/starhill-farms/index-modal/modal-feature-2_2x.jpg 2x" src="{{ cdn }}/img/projects/starhill-farms/index-modal/modal-feature-2.jpg" alt="Artist StarHill Farms Landing Screen Mockup">
 			</div>
 		</div>
 		<button class="close-button" data-close aria-label="Close modal" type="button">
@@ -316,10 +316,10 @@ body-class: index
 		</div>
 		<div class="row collapse modal-images">
 			<div class="medium-6 columns">
-				<img srcset="/img/projects/houston-pals/index-modal/modal-feature-1_2x.jpg 2x" src="/img/projects/houston-pals/index-modal/modal-feature-1.jpg" alt="Houston PALS Desk Mockup">
+				<img srcset="{{ cdn }}/img/projects/houston-pals/index-modal/modal-feature-1_2x.jpg 2x" src="{{ cdn }}/img/projects/houston-pals/index-modal/modal-feature-1.jpg" alt="Houston PALS Desk Mockup">
 			</div>
 			<div class="medium-6 columns">
-				<img srcset="/img/projects/houston-pals/index-modal/modal-feature-2_2x.jpg 2x" src="/img/projects/houston-pals/index-modal/modal-feature-2.jpg" alt="Houston PALS Mobile Device Spread">
+				<img srcset="{{ cdn }}/img/projects/houston-pals/index-modal/modal-feature-2_2x.jpg 2x" src="{{ cdn }}/img/projects/houston-pals/index-modal/modal-feature-2.jpg" alt="Houston PALS Mobile Device Spread">
 			</div>
 		</div>
 		<button class="close-button" data-close aria-label="Close modal" type="button">
@@ -343,10 +343,10 @@ body-class: index
 		</div>
 		<div class="row collapse modal-images">
 			<div class="medium-6 columns">
-				<img srcset="/img/projects/greencare-tx/index-modal/modal-feature-1_2x.jpg 2x" src="/img/projects/greencare-tx/index-modal/modal-feature-1.jpg" alt="Houston PALS Desk Mockup">
+				<img srcset="{{ cdn }}/img/projects/greencare-tx/index-modal/modal-feature-1_2x.jpg 2x" src="{{ cdn }}/img/projects/greencare-tx/index-modal/modal-feature-1.jpg" alt="Houston PALS Desk Mockup">
 			</div>
 			<div class="medium-6 columns">
-				<img srcset="/img/projects/greencare-tx/index-modal/modal-feature-2_2x.jpg 2x" src="/img/projects/greencare-tx/index-modal/modal-feature-2.jpg" alt="Houston PALS Mobile Device Spread">
+				<img srcset="{{ cdn }}/img/projects/greencare-tx/index-modal/modal-feature-2_2x.jpg 2x" src="{{ cdn }}/img/projects/greencare-tx/index-modal/modal-feature-2.jpg" alt="Houston PALS Mobile Device Spread">
 			</div>
 		</div>
 		<button class="close-button" data-close aria-label="Close modal" type="button">
