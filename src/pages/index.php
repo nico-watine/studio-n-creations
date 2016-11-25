@@ -23,7 +23,7 @@ body-class: index
 </header>
 <section class="intro-slogan">
 	<div class="row">
-		<div class="medium-6 columns">
+		<div class="medium-6 columns medium-text-right">
 			<h2>We create phone-friendly websites for projects of all sizes *</h2>	
 		</div>
 		<div class="medium-5 columns end">
