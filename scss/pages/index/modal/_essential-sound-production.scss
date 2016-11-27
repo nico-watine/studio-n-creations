@@ -1,6 +1,22 @@
 @import "../../../_settings.scss";
 
 
+.recent-projects-modal#essential-sound-production-project {
+	.modal-images {
+		.image-1 {
+			background: #fff; 
+			padding: 0 rem-calc(16);
+		}
+
+		.image-3 {
+			img {
+				width: 100%;
+			}
+		}
+	}
+}
+
+
 @include breakpoint(medium) {
 	.recent-projects-modal#essential-sound-production-project {
 		.modal-images {
@@ -10,6 +26,7 @@
 				position: absolute; 
 				background: #fff; 
 				height: 100%;
+				padding: 0;
 
 				img {
 					@include vertical-center;
@@ -26,6 +43,7 @@
 				img {
 					position: absolute;
 					height: 100%;
+					width: auto;
 				}
 			}
 		}
