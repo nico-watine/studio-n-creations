@@ -315,10 +315,10 @@ body-class: index
 			</div>
 		</div>
 		<div class="row collapse modal-images">
-			<div class="medium-6 columns">
+			<div class="medium-6 columns text-center">
 				<img srcset="{{ cdn }}/img/projects/houston-pals/index-modal/modal-feature-1_2x.jpg 2x" src="{{ cdn }}/img/projects/houston-pals/index-modal/modal-feature-1.jpg" alt="Houston PALS Desk Mockup">
 			</div>
-			<div class="medium-6 columns">
+			<div class="medium-6 columns text-center">
 				<img srcset="{{ cdn }}/img/projects/houston-pals/index-modal/modal-feature-2_2x.jpg 2x" src="{{ cdn }}/img/projects/houston-pals/index-modal/modal-feature-2.jpg" alt="Houston PALS Mobile Device Spread">
 			</div>
 		</div>
