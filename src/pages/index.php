@@ -288,10 +288,10 @@ body-class: index
 			</div>
 		</div>
 		<div class="row collapse modal-images">
-			<div class="medium-6 columns">
+			<div class="medium-6 columns text-center">
 				<img srcset="{{ cdn }}/img/projects/starhill-farms/index-modal/modal-feature-1_2x.jpg 2x" src="{{ cdn }}/img/projects/starhill-farms/index-modal/modal-feature-1.jpg" alt="StarHill Farms Reservations Page Mockup">
 			</div>
-			<div class="medium-6 columns">
+			<div class="medium-6 columns text-center">
 				<img srcset="{{ cdn }}/img/projects/starhill-farms/index-modal/modal-feature-2_2x.jpg 2x" src="{{ cdn }}/img/projects/starhill-farms/index-modal/modal-feature-2.jpg" alt="Artist StarHill Farms Landing Screen Mockup">
 			</div>
 		</div>
