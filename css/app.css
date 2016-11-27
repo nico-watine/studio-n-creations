@@ -4793,25 +4793,18 @@ form#index-contact-form .contact-form-input-group-button {
     .recent-projects-modal .modal-images {
       border-radius: 0 0 0.25rem 0.25rem; } }
 
-.recent-projects-modal#essential-sound-production-project .modal-images .image-1 {
-  background: #fff;
-  padding: 0 1rem; }
-
-.recent-projects-modal#essential-sound-production-project .modal-images .image-3 img {
-  width: 100%; }
+.recent-projects-modal#essential-sound-production-project .modal-images {
+  background: #fff; }
+  .recent-projects-modal#essential-sound-production-project .modal-images .image-1 {
+    padding: 0 1rem; }
+  .recent-projects-modal#essential-sound-production-project .modal-images .image-3 img {
+    width: 100%; }
 
 @media screen and (min-width: 40em) {
   .recent-projects-modal#essential-sound-production-project .modal-images {
     position: relative; }
     .recent-projects-modal#essential-sound-production-project .modal-images .image-1 {
-      position: absolute;
-      background: #fff;
-      height: 100%;
-      padding: 0; }
-      .recent-projects-modal#essential-sound-production-project .modal-images .image-1 img {
-        position: absolute;
-        top: 50%;
-        transform: translateY(-50%); }
+      padding: 0.25rem 0; }
     .recent-projects-modal#essential-sound-production-project .modal-images .image-2 img {
       width: 100%; }
     .recent-projects-modal#essential-sound-production-project .modal-images .image-3 img {

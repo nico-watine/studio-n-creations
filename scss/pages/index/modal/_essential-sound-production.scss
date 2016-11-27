@@ -3,8 +3,9 @@
 
 .recent-projects-modal#essential-sound-production-project {
 	.modal-images {
+		background: #fff;
+
 		.image-1 {
-			background: #fff; 
 			padding: 0 rem-calc(16);
 		}
 
@@ -23,14 +24,7 @@
 			position: relative;
 
 			.image-1 {
-				position: absolute; 
-				background: #fff; 
-				height: 100%;
-				padding: 0;
-
-				img {
-					@include vertical-center;
-				}
+				padding: rem-calc(4) 0;
 			}
 
 			.image-2 {

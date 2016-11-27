@@ -204,10 +204,10 @@ body-class: index
 			</div>
 		</div>
 		<div class="row collapse modal-images">
-			<div class="small-8 medium-5 columns image-1">
+			<div class="small-8 medium-5 columns text-center image-1">
 				<img srcset="{{ cdn }}/img/projects/essential-sound-production/index-modal/modal-feature-1_2x.jpg 2x" src="{{ cdn }}/img/projects/essential-sound-production/index-modal/modal-feature-1.jpg" alt="Essential Sound Production landing-screen laptop mockup">
 			</div>
-			<div class="small-4 medium-3 medium-push-5 columns image-2">
+			<div class="small-4 medium-3 columns image-2">
 				<img srcset="{{ cdn }}/img/projects/essential-sound-production/index-modal/modal-feature-2_2x.jpg 2x" src="{{ cdn }}/img/projects/essential-sound-production/index-modal/modal-feature-2.jpg" alt="Essential Sound Production iPad DJ scene mockup">
 			</div>
 			<div class="small-12 medium-4 columns image-3">
