@@ -234,10 +234,10 @@ body-class: index
 			</div>
 		</div>
 		<div class="row collapse modal-images">
-			<div class="medium-6 columns">
+			<div class="medium-6 columns text-center">
 				<img srcset="{{ cdn }}/img/projects/lisa-esposito/index-modal/modal-feature-1_2x.jpg 2x" src="{{ cdn }}/img/projects/lisa-esposito/index-modal/modal-feature-1.jpg" alt="Artist Lisa Esposito Welcome Screen mockup">
 			</div>
-			<div class="medium-6 columns">
+			<div class="medium-6 columns text-center">
 				<img srcset="{{ cdn }}/img/projects/lisa-esposito/index-modal/modal-feature-2_2x.jpg 2x" src="{{ cdn }}/img/projects/lisa-esposito/index-modal/modal-feature-2.jpg" alt="Artist Lisa Esposito Upcoming Events mockup">
 			</div>
 		</div>
