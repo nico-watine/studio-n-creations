@@ -101,10 +101,10 @@ body-class: index
 	</div>
 </section>
 <section class="about-us">
-	<div class="row">
+	<div class="row" itemscope itemtype="http://schema.org/Person">
 		<div class="medium-4 large-3 columns medium-text-center large-text-right image">
 			<div class="small-6 medium-12 columns no-padding">
-				<img srcset="{{ cdn }}/img/index/about-us/hello-lanyard_2x.jpg 2x" src="{{ cdn }}/img/index/about-us/hello-lanyard.jpg" alt="Nico Watine is Studio N Creations" title="HELLO my name is Nico Watine">
+				<img srcset="{{ cdn }}/img/index/about-us/hello-lanyard_2x.jpg 2x" src="{{ cdn }}/img/index/about-us/hello-lanyard.jpg" alt="Nico Watine is Studio N Creations" title="HELLO my name is Nico Watine" itemprop="image">
 			</div>
 			<div class="small-6 columns hide-for-medium">
 				<h3>About Us</h3>
@@ -112,8 +112,8 @@ body-class: index
 		</div>
 		<div class="medium-8 large-9 columns prose">
 			<h3 class="show-for-medium">About Us</h3>
-			<h4>My name is Nico Watine, and I am the <span class="inline-block">Studio N Creations</span> team.</h4>
-			<p>I'm team leader of the Design Department and in charge of the Coding Division. I do Administrative work, too - I'm also the head of Human Resources! That tends to work out well whenever I get unhappy with working conditions. I'm a web developer and am passionate about what I do. I love working with people who are excited about their new web project.</p>
+			<h4>My name is <span itemprop="name">Nico Watine</span>, and I am the <span class="inline-block" itemprop="affiliation">Studio N Creations</span> team.</h4>
+			<p>I'm team leader of the Design Department and in charge of the Coding Division. I do Administrative work, too - I'm also the head of Human Resources! That tends to work out well whenever I get unhappy with working conditions. I'm a <span itemprop="jobTitle">web developer</span> and am passionate about what I do. I love working with people who are excited about their new web project.</p>
 		</div>
 	</div>
 </section>
