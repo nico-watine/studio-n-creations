@@ -261,10 +261,10 @@ body-class: index
 			</div>
 		</div>
 		<div class="row collapse modal-images">
-			<div class="medium-6 columns">
+			<div class="medium-6 columns text-center">
 				<img srcset="{{ cdn }}/img/projects/jardin-de-france-tx/index-modal/modal-feature-1_2x.jpg 2x" src="{{ cdn }}/img/projects/jardin-de-france-tx/index-modal/modal-feature-1.jpg" alt="Jardin de France TX iPhone mockup">
 			</div>
-			<div class="medium-6 columns">
+			<div class="medium-6 columns text-center">
 				<img srcset="{{ cdn }}/img/projects/jardin-de-france-tx/index-modal/modal-feature-2_2x.jpg 2x" src="{{ cdn }}/img/projects/jardin-de-france-tx/index-modal/modal-feature-2.jpg" alt="Jardin de France TX About Section mockup">
 			</div>
 		</div>
