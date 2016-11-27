@@ -177,17 +177,32 @@ body-class: index
 		</div>
 	</footer>
 </div>
-<div class="reveal small" id="thank-you" data-reveal data-deep-link="true">
-	<div class="row">
-		<div class="small-12 columns">
-			<h3>Awesome</h3>
-			<h4>Thank you for reaching out!</h4>
-			<p>I'm already responding, so look out for my message.</p>
+<div class="reveal row recent-projects-modal" id="houston-pals-project" data-reveal data-deep-link="true">
+	<div class="medium-10 medium-push-1 columns end modal-container">
+		<div class="modal-header">
+			<h3>Houston PALS</h3>
+			<h4>Project Name</h4>
 		</div>
+		<div class="row collapse modal-prose">
+			<div class="large-7 columns">
+				<p>We’re currently in the middle of creating detailed project profile pages. In the meantime, why don’t you visit this project’s website?</p>
+			</div>
+			<div class="large-5 columns large-text-center">
+				<a class="button modal-site-link" href="http://houstonpals.com" target="_blank">www.HoustonPALS.com</a>
+			</div>
+		</div>
+		<div class="row collapse modal-images">
+			<div class="medium-6 columns text-center">
+				<img srcset="{{ cdn }}/img/projects/houston-pals/index-modal/modal-feature-1_2x.jpg 2x" src="{{ cdn }}/img/projects/houston-pals/index-modal/modal-feature-1.jpg" alt="Houston PALS Desk Mockup">
+			</div>
+			<div class="medium-6 columns text-center">
+				<img srcset="{{ cdn }}/img/projects/houston-pals/index-modal/modal-feature-2_2x.jpg 2x" src="{{ cdn }}/img/projects/houston-pals/index-modal/modal-feature-2.jpg" alt="Houston PALS Mobile Device Spread">
+			</div>
+		</div>
+		<button class="close-button" data-close aria-label="Close modal" type="button">
+			<span aria-hidden="true">&times;</span>
+		</button>
 	</div>
-	<button class="close-button" data-close aria-label="Close modal" type="button">
-		<span aria-hidden="true">&times;</span>
-	</button>
 </div>
 <div class="reveal row recent-projects-modal" id="essential-sound-production-project" data-reveal data-deep-link="true">
 	<div class="medium-10 medium-push-1 columns end modal-container">
@@ -212,6 +227,33 @@ body-class: index
 			</div>
 			<div class="small-12 medium-4 columns image-3">
 				<img srcset="{{ cdn }}/img/projects/essential-sound-production/index-modal/modal-feature-3_2x.jpg 2x" src="{{ cdn }}/img/projects/essential-sound-production/index-modal/modal-feature-3.jpg" alt="Essential Sound Production about-section tablet mockup">
+			</div>
+		</div>
+		<button class="close-button" data-close aria-label="Close modal" type="button">
+			<span aria-hidden="true">&times;</span>
+		</button>
+	</div>
+</div>
+<div class="reveal row recent-projects-modal" id="greencare-interior-plants-project" data-reveal data-deep-link="true">
+	<div class="medium-10 medium-push-1 columns end modal-container">
+		<div class="modal-header">
+			<h3>Greencare Interior Plants</h3>
+			<h4>Project Name</h4>
+		</div>
+		<div class="row collapse modal-prose">
+			<div class="large-7 columns">
+				<p>We’re currently in the middle of creating detailed project profile pages. In the meantime, why don’t you visit this project’s website?</p>
+			</div>
+			<div class="large-5 columns large-text-center">
+				<a class="button modal-site-link" href="http://greencaretx.com" target="_blank">www.GreencareTX.com</a>
+			</div>
+		</div>
+		<div class="row collapse modal-images">
+			<div class="medium-6 columns text-center">
+				<img srcset="{{ cdn }}/img/projects/greencare-tx/index-modal/modal-feature-1_2x.jpg 2x" src="{{ cdn }}/img/projects/greencare-tx/index-modal/modal-feature-1.jpg" alt="Houston PALS Desk Mockup">
+			</div>
+			<div class="medium-6 columns text-center">
+				<img srcset="{{ cdn }}/img/projects/greencare-tx/index-modal/modal-feature-2_2x.jpg 2x" src="{{ cdn }}/img/projects/greencare-tx/index-modal/modal-feature-2.jpg" alt="Houston PALS Mobile Device Spread">
 			</div>
 		</div>
 		<button class="close-button" data-close aria-label="Close modal" type="button">
@@ -246,33 +288,6 @@ body-class: index
 		</button>
 	</div>
 </div>
-<div class="reveal row recent-projects-modal" id="jardin-de-france-tx-project" data-reveal data-deep-link="true">
-	<div class="medium-10 medium-push-1 columns end modal-container">
-		<div class="modal-header">
-			<h3>Jardin de France</h3>
-			<h4>Project Name</h4>
-		</div>
-		<div class="row collapse modal-prose">
-			<div class="large-7 columns">
-				<p>We’re currently in the middle of creating detailed project profile pages. In the meantime, why don’t you visit this project’s website?</p>
-			</div>
-			<div class="large-5 columns large-text-center">
-				<a class="button modal-site-link" href="http://jardindefrancetx.com/" target="_blank">www.JardinDeFranceTX</a>
-			</div>
-		</div>
-		<div class="row collapse modal-images">
-			<div class="medium-6 columns text-center">
-				<img srcset="{{ cdn }}/img/projects/jardin-de-france-tx/index-modal/modal-feature-1_2x.jpg 2x" src="{{ cdn }}/img/projects/jardin-de-france-tx/index-modal/modal-feature-1.jpg" alt="Jardin de France TX iPhone mockup">
-			</div>
-			<div class="medium-6 columns text-center">
-				<img srcset="{{ cdn }}/img/projects/jardin-de-france-tx/index-modal/modal-feature-2_2x.jpg 2x" src="{{ cdn }}/img/projects/jardin-de-france-tx/index-modal/modal-feature-2.jpg" alt="Jardin de France TX About Section mockup">
-			</div>
-		</div>
-		<button class="close-button" data-close aria-label="Close modal" type="button">
-			<span aria-hidden="true">&times;</span>
-		</button>
-	</div>
-</div>
 <div class="reveal row recent-projects-modal" id="starhill-farms-project" data-reveal data-deep-link="true">
 	<div class="medium-10 medium-push-1 columns end modal-container">
 		<div class="modal-header">
@@ -300,10 +315,10 @@ body-class: index
 		</button>
 	</div>
 </div>
-<div class="reveal row recent-projects-modal" id="houston-pals-project" data-reveal data-deep-link="true">
+<div class="reveal row recent-projects-modal" id="jardin-de-france-tx-project" data-reveal data-deep-link="true">
 	<div class="medium-10 medium-push-1 columns end modal-container">
 		<div class="modal-header">
-			<h3>Houston PALS</h3>
+			<h3>Jardin de France</h3>
 			<h4>Project Name</h4>
 		</div>
 		<div class="row collapse modal-prose">
@@ -311,15 +326,15 @@ body-class: index
 				<p>We’re currently in the middle of creating detailed project profile pages. In the meantime, why don’t you visit this project’s website?</p>
 			</div>
 			<div class="large-5 columns large-text-center">
-				<a class="button modal-site-link" href="http://houstonpals.com" target="_blank">www.HoustonPALS.com</a>
+				<a class="button modal-site-link" href="http://jardindefrancetx.com/" target="_blank">www.JardinDeFranceTX</a>
 			</div>
 		</div>
 		<div class="row collapse modal-images">
 			<div class="medium-6 columns text-center">
-				<img srcset="{{ cdn }}/img/projects/houston-pals/index-modal/modal-feature-1_2x.jpg 2x" src="{{ cdn }}/img/projects/houston-pals/index-modal/modal-feature-1.jpg" alt="Houston PALS Desk Mockup">
+				<img srcset="{{ cdn }}/img/projects/jardin-de-france-tx/index-modal/modal-feature-1_2x.jpg 2x" src="{{ cdn }}/img/projects/jardin-de-france-tx/index-modal/modal-feature-1.jpg" alt="Jardin de France TX iPhone mockup">
 			</div>
 			<div class="medium-6 columns text-center">
-				<img srcset="{{ cdn }}/img/projects/houston-pals/index-modal/modal-feature-2_2x.jpg 2x" src="{{ cdn }}/img/projects/houston-pals/index-modal/modal-feature-2.jpg" alt="Houston PALS Mobile Device Spread">
+				<img srcset="{{ cdn }}/img/projects/jardin-de-france-tx/index-modal/modal-feature-2_2x.jpg 2x" src="{{ cdn }}/img/projects/jardin-de-france-tx/index-modal/modal-feature-2.jpg" alt="Jardin de France TX About Section mockup">
 			</div>
 		</div>
 		<button class="close-button" data-close aria-label="Close modal" type="button">
@@ -327,30 +342,15 @@ body-class: index
 		</button>
 	</div>
 </div>
-<div class="reveal row recent-projects-modal" id="greencare-interior-plants-project" data-reveal data-deep-link="true">
-	<div class="medium-10 medium-push-1 columns end modal-container">
-		<div class="modal-header">
-			<h3>Greencare Interior Plants</h3>
-			<h4>Project Name</h4>
+<div class="reveal small" id="thank-you" data-reveal data-deep-link="true">
+	<div class="row">
+		<div class="small-12 columns">
+			<h3>Awesome</h3>
+			<h4>Thank you for reaching out!</h4>
+			<p>I'm already responding, so look out for my message.</p>
 		</div>
-		<div class="row collapse modal-prose">
-			<div class="large-7 columns">
-				<p>We’re currently in the middle of creating detailed project profile pages. In the meantime, why don’t you visit this project’s website?</p>
-			</div>
-			<div class="large-5 columns large-text-center">
-				<a class="button modal-site-link" href="http://greencaretx.com" target="_blank">www.GreencareTX.com</a>
-			</div>
-		</div>
-		<div class="row collapse modal-images">
-			<div class="medium-6 columns text-center">
-				<img srcset="{{ cdn }}/img/projects/greencare-tx/index-modal/modal-feature-1_2x.jpg 2x" src="{{ cdn }}/img/projects/greencare-tx/index-modal/modal-feature-1.jpg" alt="Houston PALS Desk Mockup">
-			</div>
-			<div class="medium-6 columns text-center">
-				<img srcset="{{ cdn }}/img/projects/greencare-tx/index-modal/modal-feature-2_2x.jpg 2x" src="{{ cdn }}/img/projects/greencare-tx/index-modal/modal-feature-2.jpg" alt="Houston PALS Mobile Device Spread">
-			</div>
-		</div>
-		<button class="close-button" data-close aria-label="Close modal" type="button">
-			<span aria-hidden="true">&times;</span>
-		</button>
 	</div>
+	<button class="close-button" data-close aria-label="Close modal" type="button">
+		<span aria-hidden="true">&times;</span>
+	</button>
 </div>
