@@ -105,8 +105,15 @@ body-class: index
 			</div>
 		</div>
 		<div class="medium-6 columns">
-			<div class="project">
-				<a data-open="jardin-de-france-tx-project" title="Jardin de France TX"><img srcset="{{ cdn }}/img/projects/jardin-de-france-tx/index-modal/modal-thumb_2x.jpg 2x" src="{{ cdn }}/img/projects/jardin-de-france-tx/index-modal/modal-thumb.jpg" alt="Jardin de France TX website mockup"></a>
+			<div class="projectCard text-center">
+				<div class="projectCard-info">
+					<h3>Jardin de France TX</h3>
+					<h4>Project Name</h4>
+					<a class="button" href="http://jardindefrancetx.com/" target="_blank">www.JardinDeFranceTX.com</a>
+				</div>
+				<div class="projectCard-image">
+					<img srcset="{{ cdn }}/img/projects/jardin-de-france-tx/index-modal/modal-thumb_2x.jpg 2x" src="{{ cdn }}/img/projects/jardin-de-france-tx/index-modal/modal-thumb.jpg" alt="Jardin de France TX website mockup">
+				</div>
 			</div>
 		</div>
 	</div>
