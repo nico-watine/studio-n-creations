@@ -6564,12 +6564,12 @@ form#index-contact-form .contact-form-input-group-button input:hover {
   background: #fff url("/img/index/bubble-bg/bubble-background.png") center center/cover no-repeat;
 }
 
-#index .recent-projects .projectCard {
+.projectCard {
   position: relative;
   color: #fff;
 }
 
-#index .recent-projects .projectCard .projectCard-info {
+.projectCard-info {
   padding-top: 10%;
   position: absolute;
   width: 100%;
@@ -6578,19 +6578,19 @@ form#index-contact-form .contact-form-input-group-button input:hover {
   opacity: 0;
 }
 
-#index .recent-projects .projectCard .projectCard-info:hover {
+.projectCard-info:hover {
   opacity: 1;
 }
 
-#index .recent-projects .projectCard .projectCard-info h3, #index .recent-projects .projectCard .projectCard-info form#index-contact-form .contact-form-input-group-button input, form#index-contact-form .contact-form-input-group-button #index .recent-projects .projectCard .projectCard-info input {
+.projectCard-info h3, .projectCard-info form#index-contact-form .contact-form-input-group-button input, form#index-contact-form .contact-form-input-group-button .projectCard-info input {
   margin: 0;
 }
 
-#index .recent-projects .projectCard .projectCard-info h4 {
+.projectCard-info h4 {
   margin-bottom: 1.25rem;
 }
 
-#index .recent-projects .projectCard .projectCard-info a {
+.projectCard-info a {
   padding: 0.875rem 2.1875rem;
   border-radius: 0.125rem;
   border: 0.0625rem solid #f4f4f4;
@@ -6600,14 +6600,14 @@ form#index-contact-form .contact-form-input-group-button input:hover {
   color: #222;
 }
 
-#index .recent-projects .projectCard .projectCard-info a:hover {
+.projectCard-info a:hover {
   background: #566372;
   border: 0.0625rem solid #fff;
   border-radius: 0.125rem;
   color: #fff;
 }
 
-#index .recent-projects .projectCard .projectCard-image {
+.projectCard-image {
   border: 0.1875rem solid #566372;
 }
 

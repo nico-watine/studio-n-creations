@@ -1,53 +1,49 @@
 @import "../../_settings.scss";
 
-#index {
-	.recent-projects {
-		.projectCard {
-			position: relative;
+.projectCard {
+	position: relative;
+	color: #fff;
+}
+
+.projectCard-info {
+	padding-top: 10%;
+	position: absolute;
+	width: 100%;
+	background: rgba(68,68,68,0.75);
+	height: 100%;
+	opacity: 0;
+
+	&:hover {
+		opacity: 1;
+	}
+
+	h3 {
+		margin: 0;
+	}
+
+	h4 {
+		margin-bottom: rem-calc(20);
+	}
+
+	a {
+		padding: rem-calc(14) rem-calc(35);
+		border-radius: rem-calc(2);
+		border: rem-calc(1) solid #f4f4f4;
+		background: #f4f4f4;
+		font-size: 16px;
+		transition: none;
+		color: #222;
+
+		&:hover {
+			background: #566372;
+			border: rem-calc(1) solid #fff;
+			border-radius: rem-calc(2);
 			color: #fff;
-
-			.projectCard-info {
-				padding-top: 10%;
-				position: absolute;
-				width: 100%;
-				background: rgba(68,68,68,0.75);
-				height: 100%;
-				opacity: 0;
-
-				&:hover {
-					opacity: 1;
-				}
-
-				h3 {
-					margin: 0;
-				}
-
-				h4 {
-					margin-bottom: rem-calc(20);
-				}
-
-				a {
-					padding: rem-calc(14) rem-calc(35);
-					border-radius: rem-calc(2);
-					border: rem-calc(1) solid #f4f4f4;
-					background: #f4f4f4;
-					font-size: 16px;
-					transition: none;
-					color: #222;
-
-					&:hover {
-						background: #566372;
-						border: rem-calc(1) solid #fff;
-						border-radius: rem-calc(2);
-						color: #fff;
-					}
-				}
-			}
-
-			.projectCard-image {
-				border: rem-calc(3) solid #566372;
-			}
 		}
 	}
+}
+
+.projectCard-image {
+	border: rem-calc(3) solid #566372;
 }
 
