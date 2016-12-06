@@ -21,6 +21,10 @@
 
 	h3 {
 		margin: 0;
+
+		@include breakpoint(medium down) {
+			font-size: rem-calc(28);
+		}
 	}
 
 	h4 {

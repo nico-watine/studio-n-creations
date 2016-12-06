@@ -4693,16 +4693,6 @@
 		"oAP": "\/dist\/404.html",
 		"oF": 0
 		},
-	"\/dist\/css\/app-ck.css": {
-		"aP": 0,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/dist\/css\/app-ck-ck.css",
-		"oF": 0,
-		"oS": 0
-		},
 	"\/dist\/css\/app.css": {
 		"aP": 0,
 		"bl": 0,
@@ -4913,7 +4903,7 @@
 		},
 	"\/dist\/img\/projects\/essential-sound-production\/index-modal\/modal-thumb.jpg": {
 		"ft": 16384,
-		"iS": 45939,
+		"iS": 67290,
 		"oA": 1,
 		"oAP": "\/dist\/img\/projects\/essential-sound-production\/index-modal\/modal-thumb.jpg",
 		"oF": 0,
@@ -4921,7 +4911,7 @@
 		},
 	"\/dist\/img\/projects\/essential-sound-production\/index-modal\/modal-thumb_2x.jpg": {
 		"ft": 16384,
-		"iS": 62666,
+		"iS": 94410,
 		"oA": 1,
 		"oAP": "\/dist\/img\/projects\/essential-sound-production\/index-modal\/modal-thumb_2x.jpg",
 		"oF": 0,
@@ -4961,7 +4951,7 @@
 		},
 	"\/dist\/img\/projects\/greencare-tx\/index-modal\/modal-thumb.jpg": {
 		"ft": 16384,
-		"iS": 65888,
+		"iS": 63239,
 		"oA": 1,
 		"oAP": "\/dist\/img\/projects\/greencare-tx\/index-modal\/modal-thumb.jpg",
 		"oF": 0,
@@ -4969,7 +4959,7 @@
 		},
 	"\/dist\/img\/projects\/greencare-tx\/index-modal\/modal-thumb_2x.jpg": {
 		"ft": 16384,
-		"iS": 103123,
+		"iS": 97009,
 		"oA": 1,
 		"oAP": "\/dist\/img\/projects\/greencare-tx\/index-modal\/modal-thumb_2x.jpg",
 		"oF": 0,
@@ -5009,7 +4999,7 @@
 		},
 	"\/dist\/img\/projects\/houston-pals\/index-modal\/modal-thumb.jpg": {
 		"ft": 16384,
-		"iS": 62036,
+		"iS": 49611,
 		"oA": 1,
 		"oAP": "\/dist\/img\/projects\/houston-pals\/index-modal\/modal-thumb.jpg",
 		"oF": 0,
@@ -5017,7 +5007,7 @@
 		},
 	"\/dist\/img\/projects\/houston-pals\/index-modal\/modal-thumb_2x.jpg": {
 		"ft": 16384,
-		"iS": 100988,
+		"iS": 74727,
 		"oA": 1,
 		"oAP": "\/dist\/img\/projects\/houston-pals\/index-modal\/modal-thumb_2x.jpg",
 		"oF": 0,
@@ -5073,7 +5063,7 @@
 		},
 	"\/dist\/img\/projects\/jardin-de-france-tx\/index-modal\/modal-thumb.jpg": {
 		"ft": 16384,
-		"iS": 45678,
+		"iS": 68371,
 		"oA": 1,
 		"oAP": "\/dist\/img\/projects\/jardin-de-france-tx\/index-modal\/modal-thumb.jpg",
 		"oF": 0,
@@ -5081,7 +5071,7 @@
 		},
 	"\/dist\/img\/projects\/jardin-de-france-tx\/index-modal\/modal-thumb_2x.jpg": {
 		"ft": 16384,
-		"iS": 70802,
+		"iS": 122430,
 		"oA": 1,
 		"oAP": "\/dist\/img\/projects\/jardin-de-france-tx\/index-modal\/modal-thumb_2x.jpg",
 		"oF": 0,
@@ -5121,7 +5111,7 @@
 		},
 	"\/dist\/img\/projects\/lisa-esposito\/index-modal\/modal-thumb.jpg": {
 		"ft": 16384,
-		"iS": 73480,
+		"iS": 44500,
 		"oA": 1,
 		"oAP": "\/dist\/img\/projects\/lisa-esposito\/index-modal\/modal-thumb.jpg",
 		"oF": 0,
@@ -5129,7 +5119,7 @@
 		},
 	"\/dist\/img\/projects\/lisa-esposito\/index-modal\/modal-thumb_2x.jpg": {
 		"ft": 16384,
-		"iS": 135257,
+		"iS": 58303,
 		"oA": 1,
 		"oAP": "\/dist\/img\/projects\/lisa-esposito\/index-modal\/modal-thumb_2x.jpg",
 		"oF": 0,
@@ -5169,7 +5159,7 @@
 		},
 	"\/dist\/img\/projects\/starhill-farms\/index-modal\/modal-thumb.jpg": {
 		"ft": 16384,
-		"iS": 56175,
+		"iS": 46169,
 		"oA": 1,
 		"oAP": "\/dist\/img\/projects\/starhill-farms\/index-modal\/modal-thumb.jpg",
 		"oF": 0,
@@ -5177,7 +5167,7 @@
 		},
 	"\/dist\/img\/projects\/starhill-farms\/index-modal\/modal-thumb_2x.jpg": {
 		"ft": 16384,
-		"iS": 81985,
+		"iS": 71060,
 		"oA": 1,
 		"oAP": "\/dist\/img\/projects\/starhill-farms\/index-modal\/modal-thumb_2x.jpg",
 		"oF": 0,
@@ -6151,6 +6141,12 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/src\/layouts\/default.html",
+		"oF": 0
+		},
+	"\/src\/pages\/index.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/src\/pages\/index.php",
 		"oF": 0
 		},
 	"\/src\/partials\/_notes.txt": {

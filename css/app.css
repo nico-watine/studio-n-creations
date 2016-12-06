@@ -6587,6 +6587,12 @@ form#index-contact-form .contact-form-input-group-button input:hover {
   margin: 0;
 }
 
+@media screen and (max-width: 63.9375em) {
+  .projectCard-info h3, .projectCard-info form#index-contact-form .contact-form-input-group-button input, form#index-contact-form .contact-form-input-group-button .projectCard-info input {
+    font-size: 1.75rem;
+  }
+}
+
 .projectCard-info h4 {
   margin-bottom: 1.25rem;
 }
