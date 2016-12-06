@@ -176,3 +176,15 @@ body-class: index
 		</div>
 	</footer>
 </div>
+<div class="reveal small" id="thank-you" data-reveal data-deep-link="true">
+	<div class="row">
+		<div class="small-12 columns">
+			<h3>Awesome</h3>
+			<h4>Thank you for reaching out!</h4>
+			<p>I'm already responding, so look out for my message.</p>
+		</div>
+	</div>
+	<button class="close-button" data-close aria-label="Close modal" type="button">
+		<span aria-hidden="true">&times;</span>
+	</button>
+</div>
