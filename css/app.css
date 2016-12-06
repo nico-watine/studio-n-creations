@@ -6577,6 +6577,11 @@ form#index-contact-form .contact-form-input-group-button input:hover {
   width: 100%;
   background: rgba(68, 68, 68, 0.75);
   height: 100%;
+  opacity: 0;
+}
+
+#index .recent-projects .projectCard .projectCard-info:hover {
+  opacity: 1;
 }
 
 #index .recent-projects .projectCard .projectCard-info h3, #index .recent-projects .projectCard .projectCard-info form#index-contact-form .contact-form-input-group-button input, form#index-contact-form .contact-form-input-group-button #index .recent-projects .projectCard .projectCard-info input {
