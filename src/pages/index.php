@@ -33,7 +33,7 @@ body-class: index
 		</div>
 	</div>
 </section>
-<section class="recent-projects text-center">
+<section class="recent-projects">
 	<div class="row">
 		<div class="small-12 columns text-center">
 			<h3>Recent Projects</h3>
@@ -41,37 +41,97 @@ body-class: index
 	</div>
 	<div class="row">
 		<div class="medium-6 columns">
-			<div class="project">
-				<a data-open="houston-pals-project" title="Houston PALS"><img srcset="{{ cdn }}/img/projects/houston-pals/index-modal/modal-thumb_2x.jpg 2x" src="{{ cdn }}/img/projects/houston-pals/index-modal/modal-thumb.jpg" alt="Houston PALS website mockup"></a>
+			<div class="projectCard text-center">
+				<div class="projectCard-info">
+					<div class="prose">
+						<h3>Houston PALS</h3>
+						<h4>Project Name</h4>
+						<br>
+						<a class="button" href="http://houstonpals.com/" target="_blank">www.HoustonPALS.com</a>
+					</div>
+				</div>
+				<div class="projectCard-image">
+					<img srcset="{{ cdn }}/img/projects/houston-pals/index-modal/modal-thumb_2x.jpg 2x" src="{{ cdn }}/img/projects/houston-pals/index-modal/modal-thumb.jpg" alt="Houston PALS website mockup">
+				</div>
 			</div>
 		</div>
 		<div class="medium-6 columns">
-			<div class="project">
-				<a data-open="essential-sound-production-project" title="Essential Sound Production"><img srcset="{{ cdn }}/img/projects/essential-sound-production/index-modal/modal-thumb_2x.jpg 2x" src="{{ cdn }}/img/projects/essential-sound-production/index-modal/modal-thumb.jpg" alt="Essential Sound Production website mockup"></a>
+			<div class="projectCard text-center">
+				<div class="projectCard-info">
+					<div class="prose">
+						<h3>Essential Sound Production</h3>
+						<h4>Project Name</h4>
+						<br>
+						<a class="button long-word" href="http://essentialsoundproduction.com/" target="_blank">www.EssentialSoundProduction.com</a>
+					</div>
+				</div>
+				<div class="projectCard-image">
+					<img srcset="{{ cdn }}/img/projects/essential-sound-production/index-modal/modal-thumb_2x.jpg 2x" src="{{ cdn }}/img/projects/essential-sound-production/index-modal/modal-thumb.jpg" alt="Essential Sound Production website mockup">
+				</div>
 			</div>
 		</div>
 	</div>
 	<div class="row">
 		<div class="medium-6 columns">
-			<div class="project">
-				<a data-open="greencare-interior-plants-project" title="Greencare Interior Plants"><img srcset="{{ cdn }}/img/projects/greencare-tx/index-modal/modal-thumb_2x.jpg 2x" src="{{ cdn }}/img/projects/greencare-tx/index-modal/modal-thumb.jpg" alt="Greencare Interior Plants website mockup"></a>
+			<div class="projectCard text-center">
+				<div class="projectCard-info">
+					<div class="prose">
+						<h3>Greencare Interior Plants</h3>
+						<h4>Project Name</h4>
+						<br>
+						<a class="button" href="http://greencaretx.com/" target="_blank">www.GreencareTX.com</a>
+					</div>
+				</div>
+				<div class="projectCard-image">
+					<img srcset="{{ cdn }}/img/projects/greencare-tx/index-modal/modal-thumb_2x.jpg 2x" src="{{ cdn }}/img/projects/greencare-tx/index-modal/modal-thumb.jpg" alt="Greencare Interior Plants website mockup">
+				</div>
 			</div>
 		</div>
 		<div class="medium-6 columns">
-			<div class="project">
-				<a data-open="artist-lisa-esposito-project" title="Artist Lisa Esposito"><img srcset="{{ cdn }}/img/projects/lisa-esposito/index-modal/modal-thumb_2x.jpg 2x" src="{{ cdn }}/img/projects/lisa-esposito/index-modal/modal-thumb.jpg" alt="Dr Lisa Esposito website mockup"></a>
+			<div class="projectCard text-center">
+				<div class="projectCard-info">
+					<div class="prose">
+						<h3>Artist Lisa Esposito</h3>
+						<h4>Client Name</h4>
+						<br>
+						<a class="button" href="http://www.lisaesposito.com/" target="_blank">www.LisaEsposito.com</a>
+					</div>
+				</div>
+				<div class="projectCard-image">
+					<img srcset="{{ cdn }}/img/projects/lisa-esposito/index-modal/modal-thumb_2x.jpg 2x" src="{{ cdn }}/img/projects/lisa-esposito/index-modal/modal-thumb.jpg" alt="Dr Lisa Esposito website mockup">
+				</div>
 			</div>
 		</div>
 	</div>
 	<div class="row">
 		<div class="medium-6 columns">
-			<div class="project">
-				<a data-open="starhill-farms-project" title="StarHill Farms"><img srcset="{{ cdn }}/img/projects/starhill-farms/index-modal/modal-thumb_2x.jpg 2x" src="{{ cdn }}/img/projects/starhill-farms/index-modal/modal-thumb.jpg" alt="Starhill Farms website mockup"></a>
+			<div class="projectCard text-center">
+				<div class="projectCard-info">
+					<div class="prose">
+						<h3>StarHill Farms</h3>
+						<h4>Project Name</h4>
+						<br>
+						<a class="button" href="http://starhillfarms.com/" target="_blank">www.StarHillFarms.com</a>
+					</div>
+				</div>
+				<div class="projectCard-image">
+					<img srcset="{{ cdn }}/img/projects/starhill-farms/index-modal/modal-thumb_2x.jpg 2x" src="{{ cdn }}/img/projects/starhill-farms/index-modal/modal-thumb.jpg" alt="Starhill Farms website mockup">
+				</div>
 			</div>
 		</div>
 		<div class="medium-6 columns">
-			<div class="project">
-				<a data-open="jardin-de-france-tx-project" title="Jardin de France TX"><img srcset="{{ cdn }}/img/projects/jardin-de-france-tx/index-modal/modal-thumb_2x.jpg 2x" src="{{ cdn }}/img/projects/jardin-de-france-tx/index-modal/modal-thumb.jpg" alt="Jardin de France TX website mockup"></a>
+			<div class="projectCard text-center">
+				<div class="projectCard-info">
+					<div class="prose">
+						<h3>Jardin de France</h3>
+						<h4>Project Name</h4>
+						<br>
+						<a class="button" href="http://jardindefrancetx.com/" target="_blank">www.JardinDeFranceTX.com</a>
+					</div>
+				</div>
+				<div class="projectCard-image">
+					<img srcset="{{ cdn }}/img/projects/jardin-de-france-tx/index-modal/modal-thumb_2x.jpg 2x" src="{{ cdn }}/img/projects/jardin-de-france-tx/index-modal/modal-thumb.jpg" alt="Jardin de France TX website mockup">
+				</div>
 			</div>
 		</div>
 	</div>
