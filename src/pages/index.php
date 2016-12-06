@@ -67,8 +67,15 @@ body-class: index
 	</div>
 	<div class="row">
 		<div class="medium-6 columns">
-			<div class="project">
-				<a data-open="greencare-interior-plants-project" title="Greencare Interior Plants"><img srcset="{{ cdn }}/img/projects/greencare-tx/index-modal/modal-thumb_2x.jpg 2x" src="{{ cdn }}/img/projects/greencare-tx/index-modal/modal-thumb.jpg" alt="Greencare Interior Plants website mockup"></a>
+			<div class="projectCard text-center">
+				<div class="projectCard-info">
+					<h3>Greencare Interior Plants</h3>
+					<h4>Project Name</h4>
+					<a class="button" href="http://greencaretx.com/" target="_blank">www.GreencareTX.com</a>
+				</div>
+				<div class="projectCard-image">
+					<img srcset="{{ cdn }}/img/projects/greencare-tx/index-modal/modal-thumb_2x.jpg 2x" src="{{ cdn }}/img/projects/greencare-tx/index-modal/modal-thumb.jpg" alt="Greencare Interior Plants website mockup">
+				</div>
 			</div>
 		</div>
 		<div class="medium-6 columns">
