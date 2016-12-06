@@ -6583,6 +6583,13 @@ form#index-contact-form .contact-form-input-group-button input:hover {
   opacity: 1;
 }
 
+.projectCard-info .prose {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 100%;
+}
+
 .projectCard-info h3, .projectCard-info form#index-contact-form .contact-form-input-group-button input, form#index-contact-form .contact-form-input-group-button .projectCard-info input {
   margin: 0;
   padding: 0 0.75rem;
