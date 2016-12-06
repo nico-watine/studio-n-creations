@@ -4903,7 +4903,8 @@ form#index-contact-form .contact-form-input-group-button {
 #index .recent-projects {
   padding: 3.75rem 0; }
   #index .recent-projects .project {
-    margin-bottom: 1.25rem; }
+    margin-bottom: 1.25rem;
+    border: 0.1875rem solid #566372; }
 
 #index .graphic-branding {
   background: #fff; }
