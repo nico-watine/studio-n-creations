@@ -33,7 +33,7 @@ body-class: index
 		</div>
 	</div>
 </section>
-<section class="recent-projects text-center">
+<section class="recent-projects">
 	<div class="row">
 		<div class="small-12 columns text-center">
 			<h3>Recent Projects</h3>
@@ -41,37 +41,97 @@ body-class: index
 	</div>
 	<div class="row">
 		<div class="medium-6 columns">
-			<div class="project">
-				<a data-open="houston-pals-project" title="Houston PALS"><img srcset="{{ cdn }}/img/projects/houston-pals/index-modal/modal-thumb_2x.jpg 2x" src="{{ cdn }}/img/projects/houston-pals/index-modal/modal-thumb.jpg" alt="Houston PALS website mockup"></a>
+			<div class="projectCard text-center">
+				<div class="projectCard-info">
+					<div class="prose">
+						<h3>Houston PALS</h3>
+						<h4>Project Name</h4>
+						<br>
+						<a class="button" href="http://houstonpals.com/" target="_blank">www.HoustonPALS.com</a>
+					</div>
+				</div>
+				<div class="projectCard-image">
+					<img srcset="{{ cdn }}/img/projects/houston-pals/index-modal/modal-thumb_2x.jpg 2x" src="{{ cdn }}/img/projects/houston-pals/index-modal/modal-thumb.jpg" alt="Houston PALS website mockup">
+				</div>
 			</div>
 		</div>
 		<div class="medium-6 columns">
-			<div class="project">
-				<a data-open="essential-sound-production-project" title="Essential Sound Production"><img srcset="{{ cdn }}/img/projects/essential-sound-production/index-modal/modal-thumb_2x.jpg 2x" src="{{ cdn }}/img/projects/essential-sound-production/index-modal/modal-thumb.jpg" alt="Essential Sound Production website mockup"></a>
+			<div class="projectCard text-center">
+				<div class="projectCard-info">
+					<div class="prose">
+						<h3>Essential Sound Production</h3>
+						<h4>Project Name</h4>
+						<br>
+						<a class="button long-word" href="http://essentialsoundproduction.com/" target="_blank">www.EssentialSoundProduction.com</a>
+					</div>
+				</div>
+				<div class="projectCard-image">
+					<img srcset="{{ cdn }}/img/projects/essential-sound-production/index-modal/modal-thumb_2x.jpg 2x" src="{{ cdn }}/img/projects/essential-sound-production/index-modal/modal-thumb.jpg" alt="Essential Sound Production website mockup">
+				</div>
 			</div>
 		</div>
 	</div>
 	<div class="row">
 		<div class="medium-6 columns">
-			<div class="project">
-				<a data-open="greencare-interior-plants-project" title="Greencare Interior Plants"><img srcset="{{ cdn }}/img/projects/greencare-tx/index-modal/modal-thumb_2x.jpg 2x" src="{{ cdn }}/img/projects/greencare-tx/index-modal/modal-thumb.jpg" alt="Greencare Interior Plants website mockup"></a>
+			<div class="projectCard text-center">
+				<div class="projectCard-info">
+					<div class="prose">
+						<h3>Greencare Interior Plants</h3>
+						<h4>Project Name</h4>
+						<br>
+						<a class="button" href="http://greencaretx.com/" target="_blank">www.GreencareTX.com</a>
+					</div>
+				</div>
+				<div class="projectCard-image">
+					<img srcset="{{ cdn }}/img/projects/greencare-tx/index-modal/modal-thumb_2x.jpg 2x" src="{{ cdn }}/img/projects/greencare-tx/index-modal/modal-thumb.jpg" alt="Greencare Interior Plants website mockup">
+				</div>
 			</div>
 		</div>
 		<div class="medium-6 columns">
-			<div class="project">
-				<a data-open="artist-lisa-esposito-project" title="Artist Lisa Esposito"><img srcset="{{ cdn }}/img/projects/lisa-esposito/index-modal/modal-thumb_2x.jpg 2x" src="{{ cdn }}/img/projects/lisa-esposito/index-modal/modal-thumb.jpg" alt="Dr Lisa Esposito website mockup"></a>
+			<div class="projectCard text-center">
+				<div class="projectCard-info">
+					<div class="prose">
+						<h3>Artist Lisa Esposito</h3>
+						<h4>Client Name</h4>
+						<br>
+						<a class="button" href="http://www.lisaesposito.com/" target="_blank">www.LisaEsposito.com</a>
+					</div>
+				</div>
+				<div class="projectCard-image">
+					<img srcset="{{ cdn }}/img/projects/lisa-esposito/index-modal/modal-thumb_2x.jpg 2x" src="{{ cdn }}/img/projects/lisa-esposito/index-modal/modal-thumb.jpg" alt="Dr Lisa Esposito website mockup">
+				</div>
 			</div>
 		</div>
 	</div>
 	<div class="row">
 		<div class="medium-6 columns">
-			<div class="project">
-				<a data-open="starhill-farms-project" title="StarHill Farms"><img srcset="{{ cdn }}/img/projects/starhill-farms/index-modal/modal-thumb_2x.jpg 2x" src="{{ cdn }}/img/projects/starhill-farms/index-modal/modal-thumb.jpg" alt="Starhill Farms website mockup"></a>
+			<div class="projectCard text-center">
+				<div class="projectCard-info">
+					<div class="prose">
+						<h3>StarHill Farms</h3>
+						<h4>Project Name</h4>
+						<br>
+						<a class="button" href="http://starhillfarms.com/" target="_blank">www.StarHillFarms.com</a>
+					</div>
+				</div>
+				<div class="projectCard-image">
+					<img srcset="{{ cdn }}/img/projects/starhill-farms/index-modal/modal-thumb_2x.jpg 2x" src="{{ cdn }}/img/projects/starhill-farms/index-modal/modal-thumb.jpg" alt="Starhill Farms website mockup">
+				</div>
 			</div>
 		</div>
 		<div class="medium-6 columns">
-			<div class="project">
-				<a data-open="jardin-de-france-tx-project" title="Jardin de France TX"><img srcset="{{ cdn }}/img/projects/jardin-de-france-tx/index-modal/modal-thumb_2x.jpg 2x" src="{{ cdn }}/img/projects/jardin-de-france-tx/index-modal/modal-thumb.jpg" alt="Jardin de France TX website mockup"></a>
+			<div class="projectCard text-center">
+				<div class="projectCard-info">
+					<div class="prose">
+						<h3>Jardin de France</h3>
+						<h4>Project Name</h4>
+						<br>
+						<a class="button" href="http://jardindefrancetx.com/" target="_blank">www.JardinDeFranceTX.com</a>
+					</div>
+				</div>
+				<div class="projectCard-image">
+					<img srcset="{{ cdn }}/img/projects/jardin-de-france-tx/index-modal/modal-thumb_2x.jpg 2x" src="{{ cdn }}/img/projects/jardin-de-france-tx/index-modal/modal-thumb.jpg" alt="Jardin de France TX website mockup">
+				</div>
 			</div>
 		</div>
 	</div>
@@ -175,171 +235,6 @@ body-class: index
 			</div>
 		</div>
 	</footer>
-</div>
-<div class="reveal row recent-projects-modal" id="houston-pals-project" data-reveal data-deep-link="true">
-	<div class="medium-10 medium-push-1 columns end modal-container">
-		<div class="modal-header">
-			<h3>Houston PALS</h3>
-			<h4>Project Name</h4>
-		</div>
-		<div class="row collapse modal-prose">
-			<div class="large-7 columns">
-				<p>We’re currently in the middle of creating detailed project profile pages. In the meantime, why don’t you visit this project’s website?</p>
-			</div>
-			<div class="large-5 columns large-text-center">
-				<a class="button modal-site-link" href="http://houstonpals.com" target="_blank">www.HoustonPALS.com</a>
-			</div>
-		</div>
-		<div class="row collapse modal-images">
-			<div class="medium-6 columns text-center">
-				<img srcset="{{ cdn }}/img/projects/houston-pals/index-modal/modal-feature-1_2x.jpg 2x" src="{{ cdn }}/img/projects/houston-pals/index-modal/modal-feature-1.jpg" alt="Houston PALS Desk Mockup">
-			</div>
-			<div class="medium-6 columns text-center">
-				<img srcset="{{ cdn }}/img/projects/houston-pals/index-modal/modal-feature-2_2x.jpg 2x" src="{{ cdn }}/img/projects/houston-pals/index-modal/modal-feature-2.jpg" alt="Houston PALS Mobile Device Spread">
-			</div>
-		</div>
-		<button class="close-button" data-close aria-label="Close modal" type="button">
-			<span aria-hidden="true">&times;</span>
-		</button>
-	</div>
-</div>
-<div class="reveal row recent-projects-modal" id="essential-sound-production-project" data-reveal data-deep-link="true">
-	<div class="medium-10 medium-push-1 columns end modal-container">
-		<div class="modal-header">
-			<h3>Essential Sound Production</h3>
-			<h4>Project Name</h4>
-		</div>
-		<div class="row collapse modal-prose">
-			<div class="large-7 columns">
-				<p>We’re currently in the middle of creating detailed project profile pages. In the meantime, why don’t you visit this project’s website?</p>
-			</div>
-			<div class="large-5 columns text-center">
-				<a class="button modal-site-link" href="http://essentialsoundproduction.com" target="_blank">www.EssentialSoundProduction.com</a>
-			</div>
-		</div>
-		<div class="row collapse modal-images">
-			<div class="small-8 medium-5 columns text-center image-1">
-				<img srcset="{{ cdn }}/img/projects/essential-sound-production/index-modal/modal-feature-1_2x.jpg 2x" src="{{ cdn }}/img/projects/essential-sound-production/index-modal/modal-feature-1.jpg" alt="Essential Sound Production landing-screen laptop mockup">
-			</div>
-			<div class="small-4 medium-3 columns image-2">
-				<img srcset="{{ cdn }}/img/projects/essential-sound-production/index-modal/modal-feature-2_2x.jpg 2x" src="{{ cdn }}/img/projects/essential-sound-production/index-modal/modal-feature-2.jpg" alt="Essential Sound Production iPad DJ scene mockup">
-			</div>
-			<div class="small-12 medium-4 columns image-3">
-				<img srcset="{{ cdn }}/img/projects/essential-sound-production/index-modal/modal-feature-3_2x.jpg 2x" src="{{ cdn }}/img/projects/essential-sound-production/index-modal/modal-feature-3.jpg" alt="Essential Sound Production about-section tablet mockup">
-			</div>
-		</div>
-		<button class="close-button" data-close aria-label="Close modal" type="button">
-			<span aria-hidden="true">&times;</span>
-		</button>
-	</div>
-</div>
-<div class="reveal row recent-projects-modal" id="greencare-interior-plants-project" data-reveal data-deep-link="true">
-	<div class="medium-10 medium-push-1 columns end modal-container">
-		<div class="modal-header">
-			<h3>Greencare Interior Plants</h3>
-			<h4>Project Name</h4>
-		</div>
-		<div class="row collapse modal-prose">
-			<div class="large-7 columns">
-				<p>We’re currently in the middle of creating detailed project profile pages. In the meantime, why don’t you visit this project’s website?</p>
-			</div>
-			<div class="large-5 columns large-text-center">
-				<a class="button modal-site-link" href="http://greencaretx.com" target="_blank">www.GreencareTX.com</a>
-			</div>
-		</div>
-		<div class="row collapse modal-images">
-			<div class="medium-6 columns text-center">
-				<img srcset="{{ cdn }}/img/projects/greencare-tx/index-modal/modal-feature-1_2x.jpg 2x" src="{{ cdn }}/img/projects/greencare-tx/index-modal/modal-feature-1.jpg" alt="Houston PALS Desk Mockup">
-			</div>
-			<div class="medium-6 columns text-center">
-				<img srcset="{{ cdn }}/img/projects/greencare-tx/index-modal/modal-feature-2_2x.jpg 2x" src="{{ cdn }}/img/projects/greencare-tx/index-modal/modal-feature-2.jpg" alt="Houston PALS Mobile Device Spread">
-			</div>
-		</div>
-		<button class="close-button" data-close aria-label="Close modal" type="button">
-			<span aria-hidden="true">&times;</span>
-		</button>
-	</div>
-</div>
-<div class="reveal row recent-projects-modal" id="artist-lisa-esposito-project" data-reveal data-deep-link="true">
-	<div class="medium-10 medium-push-1 columns end modal-container">
-		<div class="modal-header">
-			<h3>Artist Lisa Esposito</h3>
-			<h4>Project Name</h4>
-		</div>
-		<div class="row collapse modal-prose">
-			<div class="large-7 columns">
-				<p>We’re currently in the middle of creating detailed project profile pages. In the meantime, why don’t you visit this project’s website?</p>
-			</div>
-			<div class="large-5 columns large-text-center">
-				<a class="button modal-site-link" href="http://www.lisaesposito.com" target="_blank">www.LisaEsposito.com</a>
-			</div>
-		</div>
-		<div class="row collapse modal-images">
-			<div class="medium-6 columns text-center">
-				<img srcset="{{ cdn }}/img/projects/lisa-esposito/index-modal/modal-feature-1_2x.jpg 2x" src="{{ cdn }}/img/projects/lisa-esposito/index-modal/modal-feature-1.jpg" alt="Artist Lisa Esposito Welcome Screen mockup">
-			</div>
-			<div class="medium-6 columns text-center">
-				<img srcset="{{ cdn }}/img/projects/lisa-esposito/index-modal/modal-feature-2_2x.jpg 2x" src="{{ cdn }}/img/projects/lisa-esposito/index-modal/modal-feature-2.jpg" alt="Artist Lisa Esposito Upcoming Events mockup">
-			</div>
-		</div>
-		<button class="close-button" data-close aria-label="Close modal" type="button">
-			<span aria-hidden="true">&times;</span>
-		</button>
-	</div>
-</div>
-<div class="reveal row recent-projects-modal" id="starhill-farms-project" data-reveal data-deep-link="true">
-	<div class="medium-10 medium-push-1 columns end modal-container">
-		<div class="modal-header">
-			<h3>StarHill Farms</h3>
-			<h4>Project Name</h4>
-		</div>
-		<div class="row collapse modal-prose">
-			<div class="large-7 columns">
-				<p>We’re currently in the middle of creating detailed project profile pages. In the meantime, why don’t you visit this project’s website?</p>
-			</div>
-			<div class="large-5 columns large-text-center">
-				<a class="button modal-site-link" href="http://starhillfarms.com/" target="_blank">www.StarHillFarms.com</a>
-			</div>
-		</div>
-		<div class="row collapse modal-images">
-			<div class="medium-6 columns text-center">
-				<img srcset="{{ cdn }}/img/projects/starhill-farms/index-modal/modal-feature-1_2x.jpg 2x" src="{{ cdn }}/img/projects/starhill-farms/index-modal/modal-feature-1.jpg" alt="StarHill Farms Reservations Page Mockup">
-			</div>
-			<div class="medium-6 columns text-center">
-				<img srcset="{{ cdn }}/img/projects/starhill-farms/index-modal/modal-feature-2_2x.jpg 2x" src="{{ cdn }}/img/projects/starhill-farms/index-modal/modal-feature-2.jpg" alt="Artist StarHill Farms Landing Screen Mockup">
-			</div>
-		</div>
-		<button class="close-button" data-close aria-label="Close modal" type="button">
-			<span aria-hidden="true">&times;</span>
-		</button>
-	</div>
-</div>
-<div class="reveal row recent-projects-modal" id="jardin-de-france-tx-project" data-reveal data-deep-link="true">
-	<div class="medium-10 medium-push-1 columns end modal-container">
-		<div class="modal-header">
-			<h3>Jardin de France</h3>
-			<h4>Project Name</h4>
-		</div>
-		<div class="row collapse modal-prose">
-			<div class="large-7 columns">
-				<p>We’re currently in the middle of creating detailed project profile pages. In the meantime, why don’t you visit this project’s website?</p>
-			</div>
-			<div class="large-5 columns large-text-center">
-				<a class="button modal-site-link" href="http://jardindefrancetx.com/" target="_blank">www.JardinDeFranceTX</a>
-			</div>
-		</div>
-		<div class="row collapse modal-images">
-			<div class="medium-6 columns text-center">
-				<img srcset="{{ cdn }}/img/projects/jardin-de-france-tx/index-modal/modal-feature-1_2x.jpg 2x" src="{{ cdn }}/img/projects/jardin-de-france-tx/index-modal/modal-feature-1.jpg" alt="Jardin de France TX iPhone mockup">
-			</div>
-			<div class="medium-6 columns text-center">
-				<img srcset="{{ cdn }}/img/projects/jardin-de-france-tx/index-modal/modal-feature-2_2x.jpg 2x" src="{{ cdn }}/img/projects/jardin-de-france-tx/index-modal/modal-feature-2.jpg" alt="Jardin de France TX About Section mockup">
-			</div>
-		</div>
-		<button class="close-button" data-close aria-label="Close modal" type="button">
-			<span aria-hidden="true">&times;</span>
-		</button>
-	</div>
 </div>
 <div class="reveal small" id="thank-you" data-reveal data-deep-link="true">
 	<div class="row">

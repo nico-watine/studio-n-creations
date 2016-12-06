@@ -1,0 +1,69 @@
+@import "../../_settings.scss";
+
+
+.projectCard {
+	position: relative;
+	color: #fff;
+	margin: 0 0 rem-calc(20);
+}
+
+.projectCard-info {
+	padding: 10% 0 0;
+	position: absolute;
+	width: 100%;
+	background: rgba(68,68,68,0.75);
+	height: 100%;
+	opacity: 0;
+
+	&:hover {
+		opacity: 1;
+	}
+
+	.prose {
+		@include vertical-center;
+		padding: 0 rem-calc(10);
+		width: 100%;
+
+		* {
+			margin: 0;
+		}
+	}
+
+	h3 {
+		@include breakpoint(760 down) {
+			font-size: rem-calc(28);
+		}
+	}
+
+	a {
+		padding: rem-calc(14) rem-calc(20);
+		border-radius: rem-calc(2);
+		border: rem-calc(1) solid #f4f4f4;
+		background: #f4f4f4;
+		font-size: 16px;
+		transition: none;
+		color: #222;
+
+		&:hover {
+			background: #566372;
+			border: rem-calc(1) solid #fff;
+			border-radius: rem-calc(2);
+			color: #fff;
+		}
+
+		@include breakpoint(760 up) {
+			padding: rem-calc(14) rem-calc(35);
+		}
+	}
+
+	a.long-word {
+		@include breakpoint(760 down) {
+			font-size: rem-calc(14);
+		}
+	}
+}
+
+.projectCard-image {
+	border: rem-calc(3) solid #566372;
+}
+
