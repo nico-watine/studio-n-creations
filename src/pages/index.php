@@ -79,8 +79,15 @@ body-class: index
 			</div>
 		</div>
 		<div class="medium-6 columns">
-			<div class="project">
-				<a data-open="artist-lisa-esposito-project" title="Artist Lisa Esposito"><img srcset="{{ cdn }}/img/projects/lisa-esposito/index-modal/modal-thumb_2x.jpg 2x" src="{{ cdn }}/img/projects/lisa-esposito/index-modal/modal-thumb.jpg" alt="Dr Lisa Esposito website mockup"></a>
+			<div class="projectCard text-center">
+				<div class="projectCard-info">
+					<h3>Artist Lisa Esposito</h3>
+					<h4>Client Name</h4>
+					<a class="button" href="http://www.lisaesposito.com/" target="_blank">www.LisaEsposito.com</a>
+				</div>
+				<div class="projectCard-image">
+					<img srcset="{{ cdn }}/img/projects/lisa-esposito/index-modal/modal-thumb_2x.jpg 2x" src="{{ cdn }}/img/projects/lisa-esposito/index-modal/modal-thumb.jpg" alt="Dr Lisa Esposito website mockup">
+				</div>
 			</div>
 		</div>
 	</div>
