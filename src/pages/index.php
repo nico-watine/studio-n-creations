@@ -33,7 +33,7 @@ body-class: index
 		</div>
 	</div>
 </section>
-<section class="recent-projects text-center">
+<section class="recent-projects">
 	<div class="row">
 		<div class="small-12 columns text-center">
 			<h3>Recent Projects</h3>
@@ -41,7 +41,7 @@ body-class: index
 	</div>
 	<div class="row">
 		<div class="medium-6 columns">
-			<div class="projectCard">
+			<div class="projectCard text-center">
 				<div class="projectCard-info">
 					<h3>Houston PALS</h3>
 					<h4>Project Name</h4>

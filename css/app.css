@@ -6571,9 +6571,7 @@ form#index-contact-form .contact-form-input-group-button input:hover {
 
 #index .recent-projects .projectCard .projectCard-info {
   padding-top: 10%;
-  text-align: center;
   position: absolute;
-  z-index: 10;
   width: 100%;
   background: rgba(68, 68, 68, 0.75);
   height: 100%;
@@ -6589,14 +6587,14 @@ form#index-contact-form .contact-form-input-group-button input:hover {
 }
 
 #index .recent-projects .projectCard .projectCard-info h4 {
-  margin-bottom: 20px;
+  margin-bottom: 1.25rem;
 }
 
 #index .recent-projects .projectCard .projectCard-info a {
-  padding: 14px 35px;
-  border-radius: 2px;
-  border: 1px solid #F4F4F4;
-  background: #F4F4F4;
+  padding: 0.875rem 2.1875rem;
+  border-radius: 0.125rem;
+  border: 0.0625rem solid #f4f4f4;
+  background: #f4f4f4;
   font-size: 16px;
   transition: none;
   color: #222;
@@ -6604,13 +6602,13 @@ form#index-contact-form .contact-form-input-group-button input:hover {
 
 #index .recent-projects .projectCard .projectCard-info a:hover {
   background: #566372;
-  border: 1px solid #FFFFFF;
-  border-radius: 2px;
+  border: 0.0625rem solid #fff;
+  border-radius: 0.125rem;
   color: #fff;
 }
 
 #index .recent-projects .projectCard .projectCard-image {
-  border: 3px solid #566372;
+  border: 0.1875rem solid #566372;
 }
 
 #index {
