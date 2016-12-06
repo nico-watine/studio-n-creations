@@ -4676,6 +4676,47 @@ h6 {
   h6 {
     letter-spacing: 0.09375rem; } }
 
+#index .graphic-branding {
+  background: #fff; }
+  #index .graphic-branding .prose {
+    padding: 1.875rem 1rem 0; }
+  #index .graphic-branding .logos-row {
+    margin-top: 1.25rem;
+    background: #F9F9F9; }
+    #index .graphic-branding .logos-row .columns:nth-child(1) {
+      background: #1571C1; }
+    @media screen and (max-width: 39.9375em) {
+      #index .graphic-branding .logos-row .columns:nth-child(2) {
+        height: 9.375rem; }
+        #index .graphic-branding .logos-row .columns:nth-child(2) img {
+          margin-top: 1.875rem; } }
+    #index .graphic-branding .logos-row .columns:nth-child(3) img {
+      width: 100%; }
+
+@media screen and (min-width: 40em) and (max-width: 63.9375em) {
+  #index .graphic-branding .logos-row {
+    position: relative; }
+    #index .graphic-branding .logos-row .columns:nth-child(1),
+    #index .graphic-branding .logos-row .columns:nth-child(2) {
+      position: absolute;
+      height: 100%; }
+      #index .graphic-branding .logos-row .columns:nth-child(1) img,
+      #index .graphic-branding .logos-row .columns:nth-child(2) img {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%); }
+    #index .graphic-branding .logos-row .columns:nth-child(1) img {
+      max-height: 90%; } }
+
+@media screen and (min-width: 64em) {
+  #index .graphic-branding .logos-row {
+    margin-top: 0; }
+    #index .graphic-branding .logos-row .columns:nth-child(1) {
+      background: none; }
+      #index .graphic-branding .logos-row .columns:nth-child(1) img:nth-child(2) {
+        padding-top: 0.625rem; } }
+
 #index .about-us {
   background: #566372;
   border: 0.1875rem solid #566372; }
@@ -4905,47 +4946,6 @@ form#index-contact-form .contact-form-input-group-button {
   #index .recent-projects .project {
     margin-bottom: 1.25rem;
     border: 0.1875rem solid #566372; }
-
-#index .graphic-branding {
-  background: #fff; }
-  #index .graphic-branding .prose {
-    padding: 1.875rem 1rem 0; }
-  #index .graphic-branding .logos-row {
-    margin-top: 1.25rem;
-    background: #F9F9F9; }
-    #index .graphic-branding .logos-row .columns:nth-child(1) {
-      background: #1571C1; }
-    @media screen and (max-width: 39.9375em) {
-      #index .graphic-branding .logos-row .columns:nth-child(2) {
-        height: 9.375rem; }
-        #index .graphic-branding .logos-row .columns:nth-child(2) img {
-          margin-top: 1.875rem; } }
-    #index .graphic-branding .logos-row .columns:nth-child(3) img {
-      width: 100%; }
-
-@media screen and (min-width: 40em) and (max-width: 63.9375em) {
-  #index .graphic-branding .logos-row {
-    position: relative; }
-    #index .graphic-branding .logos-row .columns:nth-child(1),
-    #index .graphic-branding .logos-row .columns:nth-child(2) {
-      position: absolute;
-      height: 100%; }
-      #index .graphic-branding .logos-row .columns:nth-child(1) img,
-      #index .graphic-branding .logos-row .columns:nth-child(2) img {
-        position: absolute;
-        top: 50%;
-        left: 50%;
-        transform: translate(-50%, -50%); }
-    #index .graphic-branding .logos-row .columns:nth-child(1) img {
-      max-height: 90%; } }
-
-@media screen and (min-width: 64em) {
-  #index .graphic-branding .logos-row {
-    margin-top: 0; }
-    #index .graphic-branding .logos-row .columns:nth-child(1) {
-      background: none; }
-      #index .graphic-branding .logos-row .columns:nth-child(1) img:nth-child(2) {
-        padding-top: 0.625rem; } }
 
 .p-0 {
   padding: 0; }
