@@ -53,8 +53,15 @@ body-class: index
 			</div>
 		</div>
 		<div class="medium-6 columns">
-			<div class="project">
-				<a data-open="essential-sound-production-project" title="Essential Sound Production"><img srcset="{{ cdn }}/img/projects/essential-sound-production/index-modal/modal-thumb_2x.jpg 2x" src="{{ cdn }}/img/projects/essential-sound-production/index-modal/modal-thumb.jpg" alt="Essential Sound Production website mockup"></a>
+			<div class="projectCard text-center">
+				<div class="projectCard-info">
+					<h3>Essential Sound Production</h3>
+					<h4>Project Name</h4>
+					<a class="button" href="http://essentialsoundproduction.com/" target="_blank">www.EssentialSoundProduction.com</a>
+				</div>
+				<div class="projectCard-image">
+					<img srcset="{{ cdn }}/img/projects/essential-sound-production/index-modal/modal-thumb_2x.jpg 2x" src="{{ cdn }}/img/projects/essential-sound-production/index-modal/modal-thumb.jpg" alt="Essential Sound Production website mockup">
+				</div>
 			</div>
 		</div>
 	</div>

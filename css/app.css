@@ -6571,7 +6571,7 @@ form#index-contact-form .contact-form-input-group-button input:hover {
 }
 
 .projectCard-info {
-  padding-top: 10%;
+  padding: 10% 1rem 0;
   position: absolute;
   width: 100%;
   background: rgba(68, 68, 68, 0.75);
