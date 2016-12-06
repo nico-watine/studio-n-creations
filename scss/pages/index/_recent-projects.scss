@@ -8,7 +8,7 @@
 }
 
 .projectCard-info {
-	padding: 10% rem-calc(16) 0;
+	padding: 10% 0 0;
 	position: absolute;
 	width: 100%;
 	background: rgba(68,68,68,0.75);
@@ -21,6 +21,7 @@
 
 	h3 {
 		margin: 0;
+		padding: 0 rem-calc(12);
 
 		@include breakpoint(medium down) {
 			font-size: rem-calc(28);

@@ -6571,7 +6571,7 @@ form#index-contact-form .contact-form-input-group-button input:hover {
 }
 
 .projectCard-info {
-  padding: 10% 1rem 0;
+  padding: 10% 0 0;
   position: absolute;
   width: 100%;
   background: rgba(68, 68, 68, 0.75);
@@ -6585,6 +6585,7 @@ form#index-contact-form .contact-form-input-group-button input:hover {
 
 .projectCard-info h3, .projectCard-info form#index-contact-form .contact-form-input-group-button input, form#index-contact-form .contact-form-input-group-button .projectCard-info input {
   margin: 0;
+  padding: 0 0.75rem;
 }
 
 @media screen and (max-width: 63.9375em) {
