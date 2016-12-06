@@ -75,9 +75,12 @@ body-class: index
 		<div class="medium-6 columns">
 			<div class="projectCard text-center">
 				<div class="projectCard-info">
-					<h3>Greencare Interior Plants</h3>
-					<h4>Project Name</h4>
-					<a class="button" href="http://greencaretx.com/" target="_blank">www.GreencareTX.com</a>
+					<div class="prose">
+						<h3>Greencare Interior Plants</h3>
+						<h4>Project Name</h4>
+						<br>
+						<a class="button" href="http://greencaretx.com/" target="_blank">www.GreencareTX.com</a>
+					</div>
 				</div>
 				<div class="projectCard-image">
 					<img srcset="{{ cdn }}/img/projects/greencare-tx/index-modal/modal-thumb_2x.jpg 2x" src="{{ cdn }}/img/projects/greencare-tx/index-modal/modal-thumb.jpg" alt="Greencare Interior Plants website mockup">
@@ -87,9 +90,12 @@ body-class: index
 		<div class="medium-6 columns">
 			<div class="projectCard text-center">
 				<div class="projectCard-info">
-					<h3>Artist Lisa Esposito</h3>
-					<h4>Client Name</h4>
-					<a class="button" href="http://www.lisaesposito.com/" target="_blank">www.LisaEsposito.com</a>
+					<div class="prose">
+						<h3>Artist Lisa Esposito</h3>
+						<h4>Client Name</h4>
+						<br>
+						<a class="button" href="http://www.lisaesposito.com/" target="_blank">www.LisaEsposito.com</a>
+					</div>
 				</div>
 				<div class="projectCard-image">
 					<img srcset="{{ cdn }}/img/projects/lisa-esposito/index-modal/modal-thumb_2x.jpg 2x" src="{{ cdn }}/img/projects/lisa-esposito/index-modal/modal-thumb.jpg" alt="Dr Lisa Esposito website mockup">
@@ -101,9 +107,12 @@ body-class: index
 		<div class="medium-6 columns">
 			<div class="projectCard text-center">
 				<div class="projectCard-info">
-					<h3>StarHill Farms</h3>
-					<h4>Project Name</h4>
-					<a class="button" href="http://starhillfarms.com/" target="_blank">www.StarHillFarms.com</a>
+					<div class="prose">
+						<h3>StarHill Farms</h3>
+						<h4>Project Name</h4>
+						<br>
+						<a class="button" href="http://starhillfarms.com/" target="_blank">www.StarHillFarms.com</a>
+					</div>
 				</div>
 				<div class="projectCard-image">
 					<img srcset="{{ cdn }}/img/projects/starhill-farms/index-modal/modal-thumb_2x.jpg 2x" src="{{ cdn }}/img/projects/starhill-farms/index-modal/modal-thumb.jpg" alt="Starhill Farms website mockup">
@@ -113,9 +122,12 @@ body-class: index
 		<div class="medium-6 columns">
 			<div class="projectCard text-center">
 				<div class="projectCard-info">
-					<h3>Jardin de France TX</h3>
-					<h4>Project Name</h4>
-					<a class="button" href="http://jardindefrancetx.com/" target="_blank">www.JardinDeFranceTX.com</a>
+					<div class="prose">
+						<h3>Jardin de France TX</h3>
+						<h4>Project Name</h4>
+						<br>
+						<a class="button" href="http://jardindefrancetx.com/" target="_blank">www.JardinDeFranceTX.com</a>
+					</div>
 				</div>
 				<div class="projectCard-image">
 					<img srcset="{{ cdn }}/img/projects/jardin-de-france-tx/index-modal/modal-thumb_2x.jpg 2x" src="{{ cdn }}/img/projects/jardin-de-france-tx/index-modal/modal-thumb.jpg" alt="Jardin de France TX website mockup">
