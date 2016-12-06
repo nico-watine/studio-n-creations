@@ -4693,6 +4693,16 @@
 		"oAP": "\/dist\/404.html",
 		"oF": 0
 		},
+	"\/dist\/css\/app-ck.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/dist\/css\/app-ck-ck.css",
+		"oF": 0,
+		"oS": 0
+		},
 	"\/dist\/css\/app.css": {
 		"aP": 0,
 		"bl": 0,
@@ -5779,7 +5789,7 @@
 		"oA": 0,
 		"oAP": "\/css\/app.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 1,
 		"uL": 1
 		},
 	"\/scss\/blocks\/_body.scss": {
@@ -6055,6 +6065,19 @@
 		"oS": 0,
 		"uL": 1
 		},
+	"\/scss\/pages\/index\/_recent-projects.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/scss\/pages\/css\/_recent-projects.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
 	"\/scss\/pages\/index\/modal\/_essential-sound-production.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -6128,6 +6151,12 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/src\/layouts\/default.html",
+		"oF": 0
+		},
+	"\/src\/pages\/index.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/src\/pages\/index.php",
 		"oF": 0
 		},
 	"\/src\/partials\/_notes.txt": {

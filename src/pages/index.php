@@ -41,13 +41,13 @@ body-class: index
 	</div>
 	<div class="row">
 		<div class="medium-6 columns">
-			<div class="projectCard" style="position: relative; color: #fff;">
-				<div class="projectCard-info" style="padding-top: 10%; text-align: center; position: absolute; z-index: 10; width: 100%; background: rgba(68,68,68,0.75); height: 100%;">
-					<h3 style="margin: 0;">Houston PALS</h3>
-					<h4 style="margin-bottom: 20px;">Project Name</h4>
-					<a class="button" href="http://houstonpals.com/" target="_blank" style="padding: 14px 45px; border-radius: 2px; box-shadow: -4px 4px 0 0 rgba(51,51,51,0.80); border: 3px solid #F4F4F4; background: #F4F4F4; font-size: 16px; color: #222;">www.HoustonPALS.com</a>
+			<div class="projectCard">
+				<div class="projectCard-info">
+					<h3>Houston PALS</h3>
+					<h4>Project Name</h4>
+					<a class="button" href="http://houstonpals.com/" target="_blank">www.HoustonPALS.com</a>
 				</div>
-				<div class="projectCard-image" style="border: 3px solid #566372;">
+				<div class="projectCard-image">
 					<img srcset="{{ cdn }}/img/projects/houston-pals/index-modal/modal-thumb_2x.jpg 2x" src="{{ cdn }}/img/projects/houston-pals/index-modal/modal-thumb.jpg" alt="Houston PALS website mockup">
 				</div>
 			</div>
