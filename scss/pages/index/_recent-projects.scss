@@ -38,7 +38,7 @@
 	}
 
 	a {
-		padding: rem-calc(14) rem-calc(35);
+		padding: rem-calc(14) rem-calc(20);
 		border-radius: rem-calc(2);
 		border: rem-calc(1) solid #f4f4f4;
 		background: #f4f4f4;
@@ -51,6 +51,16 @@
 			border: rem-calc(1) solid #fff;
 			border-radius: rem-calc(2);
 			color: #fff;
+		}
+
+		@include breakpoint(medium) {
+			padding: rem-calc(14) rem-calc(35);
+		}
+	}
+
+	a.long-word {
+		@include breakpoint(small only) {
+			font-size: rem-calc(14);
 		}
 	}
 }

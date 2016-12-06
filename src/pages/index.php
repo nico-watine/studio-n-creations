@@ -58,9 +58,12 @@ body-class: index
 		<div class="medium-6 columns">
 			<div class="projectCard text-center">
 				<div class="projectCard-info">
-					<h3>Essential Sound Production</h3>
-					<h4>Project Name</h4>
-					<a class="button" href="http://essentialsoundproduction.com/" target="_blank">www.EssentialSoundProduction.com</a>
+					<div class="prose">
+						<h3>Essential Sound Production</h3>
+						<h4>Project Name</h4>
+						<br>
+						<a class="button long-word" href="http://essentialsoundproduction.com/" target="_blank">www.EssentialSoundProduction.com</a>
+					</div>
 				</div>
 				<div class="projectCard-image">
 					<img srcset="{{ cdn }}/img/projects/essential-sound-production/index-modal/modal-thumb_2x.jpg 2x" src="{{ cdn }}/img/projects/essential-sound-production/index-modal/modal-thumb.jpg" alt="Essential Sound Production website mockup">

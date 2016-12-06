@@ -6602,7 +6602,7 @@ form#index-contact-form .contact-form-input-group-button input:hover {
 }
 
 .projectCard-info a {
-  padding: 0.875rem 2.1875rem;
+  padding: 0.875rem 1.25rem;
   border-radius: 0.125rem;
   border: 0.0625rem solid #f4f4f4;
   background: #f4f4f4;
@@ -6616,6 +6616,18 @@ form#index-contact-form .contact-form-input-group-button input:hover {
   border: 0.0625rem solid #fff;
   border-radius: 0.125rem;
   color: #fff;
+}
+
+@media screen and (min-width: 40em) {
+  .projectCard-info a {
+    padding: 0.875rem 2.1875rem;
+  }
+}
+
+@media screen and (max-width: 39.9375em) {
+  .projectCard-info a.long-word {
+    font-size: 0.875rem;
+  }
 }
 
 .projectCard-image {
