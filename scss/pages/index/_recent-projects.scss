@@ -21,20 +21,20 @@
 
 	.prose {
 		@include vertical-center;
+		padding: 0 rem-calc(10);
 		width: 100%;
+
+		* {
+			margin: 0;
+		}
 	}
 
 	h3 {
-		margin: 0;
-		padding: 0 rem-calc(12);
+		// padding: 0 rem-calc(10);
 
 		@include breakpoint(medium down) {
 			font-size: rem-calc(28);
 		}
-	}
-
-	h4 {
-		margin-bottom: rem-calc(20);
 	}
 
 	a {

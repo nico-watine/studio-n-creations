@@ -46,6 +46,7 @@ body-class: index
 					<div class="prose">
 						<h3>Houston PALS</h3>
 						<h4>Project Name</h4>
+						<br>
 						<a class="button" href="http://houstonpals.com/" target="_blank">www.HoustonPALS.com</a>
 					</div>
 				</div>
