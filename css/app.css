@@ -6567,6 +6567,7 @@ form#index-contact-form .contact-form-input-group-button input:hover {
 .projectCard {
   position: relative;
   color: #fff;
+  margin: 0 0 1.25rem;
 }
 
 .projectCard-info {
