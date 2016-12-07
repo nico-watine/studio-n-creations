@@ -2,7 +2,7 @@
 	include($_SERVER['DOCUMENT_ROOT'].'/php/autoVer.php');
 ?>
 <!DOCTYPE html>
-<html class="no-js" lang="en-US">
+<html prefix="og: http://ogp.me/ns#" class="no-js" lang="en-US">
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
@@ -12,6 +12,15 @@
 	<meta name="description" content="{{ description }}">
 	<link href="http://studioncreations.com{{ url }}" rel="canonical">
 	<link href="/humans.txt" rel="author">
+
+	<meta property="og:locale" content="en_US">
+	<meta property="og:type" content="website">
+	<meta property="og:title" content="{{ og-title }}">
+	<meta property="og:description" content="{{ og-description }}">
+	<meta property="og:url" content="http://studioncreations.com{{ url }}">
+	<meta property="og:site_name" content="Studio N Creations">
+	<meta property="og:image" content="//cdn.studioncreations.com{{ og-image}}">
+	<meta property="fb:app_id" content="123456789">
 
 	<link href="{{ cdn }}<?php autoVer('/css/app.css'); ?>" rel="stylesheet">
 		

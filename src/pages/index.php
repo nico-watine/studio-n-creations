@@ -1,6 +1,6 @@
 ---
 url: /
-title:
+title: Web Design & Site Management
 description:
 og-title:
 og-description:
