@@ -189,24 +189,41 @@ body-class: index
 					<div class="row">
 						<div class="medium-6 large-12 columns">
 							<label for="">Name
-								<input type="text" name="name" placeholder="Name">
+								<input type="text" id="name" name="name" placeholder="Name">
 							</label>
+							<!-- new stuff :: -->
+								<div id="fname" class="alert alert-error error">
+									<span>Error!!</span> <br>
+									What's your name? | ¿Cuál es tu nombre? | Comment t'appelles-tu? | 何があなたの名前だ? <br> <br>
+								</div>
+							<!-- end new stuff -->
 						</div>
 						<div class="medium-6 large-12 columns">
 							<label for="">Email
-								<input type="text" name="email" placeholder="Email">
+								<input type="text" id="email" name="email" placeholder="Email">
 							</label>
+							<!-- new stuff :: -->
+								<div id="fmail" class="alert alert-error  error">
+									I think you forgot to put your email address <br>
+									(I do that all the time, too) <br> <br>
+								</div>
+							<!-- end new stuff -->
 						</div>
 					</div>
 				</div>
 				<div class="large-6 columns">
 					<label for="">Message
-						<textarea style="min-height: 119px;" name="message" type="text" placeholder="Message"></textarea>
+						<textarea style="min-height: 119px;" id="msg" name="message" type="text" placeholder="Message"></textarea>
 					</label>
+					<!-- new stuff :: -->
+						<div id="fmsg" class="alert alert-error  error">
+							What did you have in mind? <br> <br>
+						</div>
+					<!-- end new stuff -->
 				</div>
 				<div class="large-2 columns">
 					<div class="contact-form-input-group-button input-group-button">
-						<input type="submit" name="submit" class="button" value="Send">
+						<input type="submit" id="submit" name="submit" class="button" value="Send">
 					</div>
 				</div>
 			</div>
