@@ -218,7 +218,7 @@ body-class: index
 				<h5>&copy; Studio N Creations 2016</h5>
 			</div>
 			<div class="text-center medium-text-right large-text-center medium-6 large-4 columns">
-				<h5>Coded with &hearts; in Houston, TX</h5>
+				<h5>Coded with care in Houston, TX</h5>
 			</div>
 			<div class="large-4 columns">
 				<div class="row social-icons">
