@@ -1,5 +1,5 @@
 <?php 
-$ToEmail = "nico.w@tine.rocks"; 
+$ToEmail = "nico@studioncreations.com"; 
 $EmailSubject = "SNC Message!!!"."\n"; 
 $mailheader = "From: " . "njwatine@gmail.com"."\n";
 $mailheader .= "Reply-To: " . "njwatine@gmail.com"."\n";  
