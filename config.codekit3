@@ -65,11 +65,33 @@
 		"oAP": "\/_ignores\/misc\/browser-upgrade-snippet.html",
 		"oF": 0
 		},
+	"\/_ignores\/old-contact-files\/_some-sass.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/_ignores\/css\/_some-sass.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
 	"\/_ignores\/old-contact-files\/form-markup.html": {
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_ignores\/old-contact-files\/form-markup.html",
 		"oF": 0
+		},
+	"\/_ignores\/old-contact-files\/form-validation.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/_ignores\/form-validation-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
 		},
 	"\/_ignores\/old-contact-files\/sendContact.php": {
 		"ft": 8192,
