@@ -183,7 +183,7 @@ body-class: index
 			<h2>Have a project in mind?</h2>
 			<h3>Let’s talk!</h3>
 		</div>
-		<form id="index-contact-form" name="contact-form" action="/php/sendContact.php" enctype="multipart/form-data" method="post"> 
+		<form id="index-contact-form" name="contact-form" action="/php/sendContact" enctype="multipart/form-data" method="post"> 
 			<div class="row">
 				<div class="large-4 columns">
 					<div class="row">
