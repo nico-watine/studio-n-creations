@@ -19,7 +19,7 @@ $(document).ready(function($) {
 		var name = $("input#name").val();
 		if(name == ""){
 			//$("#error").fadeIn().text("Name required.");
-			$('#fname').fadeIn('slow');
+			$('#error-name').fadeIn('slow');
 			$("input#name").focus();
 			return false;
 		}
@@ -29,7 +29,7 @@ $(document).ready(function($) {
 		//email (check if entered anything)
 		if(email == ""){
 			//$("#error").fadeIn().text("Email required");
-			$('#fmail').fadeIn('slow');
+			$('#error-email').fadeIn('slow');
 			$("input#email").focus();
 			return false;
 		}
@@ -38,7 +38,7 @@ $(document).ready(function($) {
 
 		if (email !== "") {  // If something was entered
 			if (!isValidEmailAddress(email)) {
-				$('#fmail').fadeIn('slow'); //error message
+				$('#error-email').fadeIn('slow'); //error message
 				$("input#email").focus();   //focus on email field
 				return false;  
 			}
@@ -57,7 +57,7 @@ function isValidEmailAddress(emailAddress) {
 		
 		if(comments == ""){
 			//$("#error").fadeIn().text("Email required");
-			$('#fmsg').fadeIn('slow');
+			$('#error-message').fadeIn('slow');
 			$("input#msg").focus();
 			return false;
 		}

@@ -192,7 +192,7 @@ body-class: index
 								<input type="text" id="name" name="name" placeholder="Name">
 							</label>
 							<!-- ERROR -->
-							<div id="fname" class="alert alert-error error">
+							<div id="error-name" class="alert alert-error error">
 								<span>What's your name?</span>
 							</div>
 						</div>
@@ -201,7 +201,7 @@ body-class: index
 								<input type="text" id="email" name="email" placeholder="Email">
 							</label>
 							<!-- ERROR -->
-							<div id="fmail" class="alert alert-error  error">
+							<div id="error-email" class="alert alert-error  error">
 								<span>What's your email address?</span>
 							</div>
 						</div>
@@ -212,7 +212,7 @@ body-class: index
 						<textarea style="min-height: 119px;" id="msg" name="message" type="text" placeholder="Message"></textarea>
 					</label>
 					<!-- ERROR -->
-					<div id="fmsg" class="alert alert-error  error">
+					<div id="error-message" class="alert alert-error  error">
 						<span>What did you have in mind?</span>
 					</div>
 				</div>
