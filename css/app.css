@@ -6404,87 +6404,6 @@ h6 {
   }
 }
 
-.details {
-  box-shadow: 0px 0px 0.125rem 0px #333;
-  background: #fff;
-  border-radius: 0.25em;
-  padding: 1.5625em 0;
-  margin-bottom: 1.875em;
-}
-
-.details h3#email a, .details form#index-contact-form .contact-form-input-group-button input#email a, form#index-contact-form .contact-form-input-group-button .details input#email a {
-  text-decoration: none;
-}
-
-.email-form {
-  margin-bottom: 4.375rem;
-  padding-top: 1.5625em;
-}
-
-.email-form h3, .email-form form#index-contact-form .contact-form-input-group-button input, form#index-contact-form .contact-form-input-group-button .email-form input {
-  margin-bottom: 1rem;
-}
-
-.details h3#email a, .details form#index-contact-form .contact-form-input-group-button input#email a, form#index-contact-form .contact-form-input-group-button .details input#email a {
-  font-size: 1.4375rem;
-}
-
-.details h3#email a, .details form#index-contact-form .contact-form-input-group-button input#email a, form#index-contact-form .contact-form-input-group-button .details input#email a {
-  font-size: 1.25rem;
-}
-
-#fname span {
-  color: red;
-}
-
-input[type="text"],
-input[type="password"],
-input[type="date"],
-input[type="datetime"],
-input[type="datetime-local"],
-input[type="month"],
-input[type="week"],
-input[type="email"],
-input[type="number"],
-input[type="search"],
-input[type="tel"],
-input[type="time"],
-input[type="url"],
-input[type="color"],
-textarea {
-  background-color: #FFF;
-  font-family: inherit;
-  border: 1px solid #CCC;
-  box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.1) inset;
-  color: rgba(0, 0, 0, 0.75);
-  display: block;
-  font-size: 0.875rem;
-  margin: 0px 0px 1rem;
-  padding: 0.5rem;
-  height: auto;
-  width: 100%;
-  box-sizing: border-box;
-  transition: box-shadow 0.45s ease 0s, border-color 0.45s ease-in-out 0s;
-}
-
-label {
-  font-size: 0.875rem;
-  color: #4D4D4D;
-  cursor: pointer;
-  display: block;
-  font-weight: 300;
-  line-height: 1.5;
-  margin-bottom: 0px;
-}
-
-.form-row#message-box {
-  margin: 1.5625em 0;
-}
-
-.form-row#message-box textarea {
-  height: 100px;
-}
-
 #index .contact-form {
   padding: 2.5rem 0;
 }
@@ -6524,6 +6443,13 @@ form#index-contact-form .contact-form-input-group-button input:hover {
   margin-right: 0.125rem;
   margin-bottom: 0;
   box-shadow: -0.125rem 0.125rem 0 0 rgba(141, 149, 158, 0.5);
+}
+
+form#index-contact-form span.input-group-label.error {
+  background: #F26B6C;
+  font-weight: bold;
+  color: #fff;
+  border: 1px solid #fff;
 }
 
 .recent-projects-modal {
