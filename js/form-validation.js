@@ -24,22 +24,30 @@ $(document).ready(function($) {
 			return false;
 		}
 
-		// Email (check if entered anything)
+		//email (check if entered anything)
 		var email = $("input#email").val();
-		// Make sure entered address is valid
+		//email (check if entered anything)
+		if(email == ""){
+			//$("#error").fadeIn().text("Email required");
+			$('#error-email').fadeIn('slow');
+			$("input#email").focus();
+			return false;
+		}
+		
+		//email (check if email entered is valid)
+
 		if (email !== "") {  // If something was entered
 			if (!isValidEmailAddress(email)) {
 				$('#error-email').fadeIn('slow'); //error message
 				$("input#email").focus();   //focus on email field
 				return false;  
 			}
-		}
+		} 
 
-		// Email regix validation string
-		function isValidEmailAddress(emailAddress) {
-		    var pattern = new RegExp(/^(("[\w-+\s]+")|([\w-+]+(?:\.[\w-+]+)*)|("[\w-+\s]+")([\w-+]+(?:\.[\w-+]+)*))(@((?:[\w-+]+\.)*\w[\w-+]{0,66})\.([a-z]{2,6}(?:\.[a-z]{2})?)$)|(@\[?((25[0-5]\.|2[0-4][\d]\.|1[\d]{2}\.|[\d]{1,2}\.))((25[0-5]|2[0-4][\d]|1[\d]{2}|[\d]{1,2})\.){2}(25[0-5]|2[0-4][\d]|1[\d]{2}|[\d]{1,2})\]?$)/i);
-		    return pattern.test(emailAddress);
-		};
+function isValidEmailAddress(emailAddress) {
+    var pattern = new RegExp(/^(("[\w-+\s]+")|([\w-+]+(?:\.[\w-+]+)*)|("[\w-+\s]+")([\w-+]+(?:\.[\w-+]+)*))(@((?:[\w-+]+\.)*\w[\w-+]{0,66})\.([a-z]{2,6}(?:\.[a-z]{2})?)$)|(@\[?((25[0-5]\.|2[0-4][\d]\.|1[\d]{2}\.|[\d]{1,2}\.))((25[0-5]|2[0-4][\d]|1[\d]{2}|[\d]{1,2})\.){2}(25[0-5]|2[0-4][\d]|1[\d]{2}|[\d]{1,2})\]?$)/i);
+    return pattern.test(emailAddress);
+};
 
 		// Message Text Input
 		var comments = $("#message").val();

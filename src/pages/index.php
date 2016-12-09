@@ -198,18 +198,16 @@ body-class: index
 							<label for="">Email</label>
 							<div class="input-group">
 								<span id="error-email" class="input-group-label error">?</span>
-								<input type="text" id="email" name="email" placeholder="Email">
+								<input class="input-group-field" type="text" id="email" name="email" placeholder="Email">
 							</div>
 						</div>
 					</div>
 				</div>
 				<div class="large-6 columns">
-					<label for="">Message
-						<textarea style="min-height: 119px;" id="message" name="message" type="text" placeholder="Message"></textarea>
-					</label>
-					<!-- ERROR -->
-					<div id="error-message" class="alert alert-error  error">
-						<span>What did you have in mind?</span>
+					<label for="">Message</label>
+					<div class="input-group">
+						<span id="error-message" class="input-group-label error">?</span>
+						<textarea class="input-group-field" style="min-height: 119px;" id="message" name="message" type="text" placeholder="Message"></textarea>
 					</div>
 				</div>
 				<div class="large-2 columns">
