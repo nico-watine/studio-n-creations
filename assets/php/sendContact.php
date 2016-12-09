@@ -1,7 +1,7 @@
 <?php 
 $ToEmail = "messages@studioncreations.com"; 
 $EmailSubject = "Website Message!" . "\n"; 
-$mailheader = "From: " . "nico@studioncreations.com" . "\n";
+$mailheader = "From: " . $_POST["email"] . "\n";
 $mailheader .= "Reply-To: " . $_POST["email"] . "\n";  
 $MESSAGE_BODY = "Name: " . "\n" . $_POST["name"] . "\n"; 
 $MESSAGE_BODY .= "Email: " . "\n" . $_POST["email"] . "\n";
