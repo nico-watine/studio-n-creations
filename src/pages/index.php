@@ -191,23 +191,19 @@ body-class: index
 							<label for="">Name
 								<input type="text" id="name" name="name" placeholder="Name">
 							</label>
-							<!-- new stuff :: -->
-								<div id="fname" class="alert alert-error error">
-									<span>Error!!</span> <br>
-									What's your name? | ¿Cuál es tu nombre? | Comment t'appelles-tu? | 何があなたの名前だ? <br> <br>
-								</div>
-							<!-- end new stuff -->
+							<!-- ERROR -->
+							<div id="fname" class="alert alert-error error">
+								<span>What's your name?</span>
+							</div>
 						</div>
 						<div class="medium-6 large-12 columns">
 							<label for="">Email
 								<input type="text" id="email" name="email" placeholder="Email">
 							</label>
-							<!-- new stuff :: -->
-								<div id="fmail" class="alert alert-error  error">
-									I think you forgot to put your email address <br>
-									(I do that all the time, too) <br> <br>
-								</div>
-							<!-- end new stuff -->
+							<!-- ERROR -->
+							<div id="fmail" class="alert alert-error  error">
+								<span>What's your email address?</span>
+							</div>
 						</div>
 					</div>
 				</div>
@@ -215,11 +211,10 @@ body-class: index
 					<label for="">Message
 						<textarea style="min-height: 119px;" id="msg" name="message" type="text" placeholder="Message"></textarea>
 					</label>
-					<!-- new stuff :: -->
-						<div id="fmsg" class="alert alert-error  error">
-							What did you have in mind? <br> <br>
-						</div>
-					<!-- end new stuff -->
+					<!-- ERROR -->
+					<div id="fmsg" class="alert alert-error  error">
+						<span>What did you have in mind?</span>
+					</div>
 				</div>
 				<div class="large-2 columns">
 					<div class="contact-form-input-group-button input-group-button">
