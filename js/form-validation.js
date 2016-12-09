@@ -3,7 +3,6 @@ $(document).ready(function($) {
 
 	// hide messages 
 	$(".error").hide();
-	$(".success").hide();
 	
 	$('#index-contact-form input').click(function(e) {
         $(".error").fadeOut();
@@ -61,14 +60,7 @@ function isValidEmailAddress(emailAddress) {
 			$("input#msg").focus();
 			return false;
 		}
-	});  
-		
-		
-	// on success...
-	 function success(){
-	 	$("#success").fadeIn();
-	 	$("#index-contact-form").fadeOut();
-	 }
+	}); 
 	
     return false;
 });
