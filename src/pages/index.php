@@ -209,7 +209,7 @@ body-class: index
 				</div>
 				<div class="large-6 columns">
 					<label for="">Message
-						<textarea style="min-height: 119px;" id="msg" name="message" type="text" placeholder="Message"></textarea>
+						<textarea style="min-height: 119px;" id="message" name="message" type="text" placeholder="Message"></textarea>
 					</label>
 					<!-- ERROR -->
 					<div id="error-message" class="alert alert-error  error">
