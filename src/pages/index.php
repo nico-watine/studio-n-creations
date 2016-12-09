@@ -192,19 +192,13 @@ body-class: index
 							<div class="input-group">
 								<span id="error-name" class="input-group-label error">?</span>
 								<input class="input-group-field" type="text" id="name" name="name" placeholder="Name">
-								<!-- ERROR -->
-								<!-- <div id="error-name" class="alert alert-error error">
-									<span>What's your name?</span>
-								</div> -->
 							</div>
 						</div>
 						<div class="medium-6 large-12 columns">
-							<label for="">Email
+							<label for="">Email</label>
+							<div class="input-group">
+								<span id="error-email" class="input-group-label error">?</span>
 								<input type="text" id="email" name="email" placeholder="Email">
-							</label>
-							<!-- ERROR -->
-							<div id="error-email" class="alert alert-error  error">
-								<span>What's your email address?</span>
 							</div>
 						</div>
 					</div>
