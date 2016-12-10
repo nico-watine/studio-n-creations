@@ -4,7 +4,7 @@ title: Web Design & Site Management
 description: We design, brand, code and maintain mobile-optimized websites for projects of all sizes. Located in Houston, TX, available anywhere.
 og-title: Web Design & Site Management
 og-description: We create phone-friendly websites for projects of all sizes. From the design and branding to the coding and maintenance, we've got your web needs covered. Located in Houston, TX, available anywhere.
-og-image:
+og-image: /img/assets/og-images/index/generic.jpg
 body-id: index
 body-class: index
 ---
