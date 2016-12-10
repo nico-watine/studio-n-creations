@@ -4774,6 +4774,14 @@
 		"oF": 0,
 		"opt": 0
 		},
+	"\/img\/assets\/og-images\/index\/generic.jpg": {
+		"ft": 16384,
+		"iS": 286856,
+		"oA": 1,
+		"oAP": "\/img\/assets\/og-images\/index\/generic.jpg",
+		"oF": 0,
+		"opt": 0
+		},
 	"\/img\/index\/about-us\/hello-lanyard.jpg": {
 		"ft": 16384,
 		"iS": 15823,
@@ -5634,12 +5642,6 @@
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/src\/helpers\/_notes.txt",
-		"oF": 0
-		},
-	"\/src\/layouts-production\/default.html": {
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/src\/layouts-production\/default.html",
 		"oF": 0
 		},
 	"\/src\/layouts\/_notes.txt": {
