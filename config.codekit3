@@ -4717,6 +4717,572 @@
 		"oF": 0,
 		"oS": 0
 		},
+	"\/dist\/.htaccess": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/.htaccess",
+		"oF": 0
+		},
+	"\/dist\/403.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/403.html",
+		"oF": 0
+		},
+	"\/dist\/404.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/404.html",
+		"oF": 0
+		},
+	"\/dist\/css\/app.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/dist\/css\/app-ck.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/dist\/humans.txt": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/humans.txt",
+		"oF": 0
+		},
+	"\/dist\/img\/assets\/icons\/facebook.png": {
+		"ft": 32768,
+		"iS": 497,
+		"oA": 1,
+		"oAP": "\/dist\/img\/assets\/icons\/facebook.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/dist\/img\/assets\/icons\/facebook_2x.png": {
+		"ft": 32768,
+		"iS": 721,
+		"oA": 1,
+		"oAP": "\/dist\/img\/assets\/icons\/facebook_2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/dist\/img\/assets\/icons\/instagram.png": {
+		"ft": 32768,
+		"iS": 610,
+		"oA": 1,
+		"oAP": "\/dist\/img\/assets\/icons\/instagram.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/dist\/img\/assets\/icons\/instagram_2x.png": {
+		"ft": 32768,
+		"iS": 1077,
+		"oA": 1,
+		"oAP": "\/dist\/img\/assets\/icons\/instagram_2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/dist\/img\/assets\/icons\/pinterest.png": {
+		"ft": 32768,
+		"iS": 741,
+		"oA": 1,
+		"oAP": "\/dist\/img\/assets\/icons\/pinterest.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/dist\/img\/assets\/icons\/pinterest_2x.png": {
+		"ft": 32768,
+		"iS": 1193,
+		"oA": 1,
+		"oAP": "\/dist\/img\/assets\/icons\/pinterest_2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/dist\/img\/assets\/og-images\/index\/generic.jpg": {
+		"ft": 16384,
+		"iS": 286856,
+		"oA": 1,
+		"oAP": "\/dist\/img\/assets\/og-images\/index\/generic.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/dist\/img\/index\/about-us\/hello-lanyard.jpg": {
+		"ft": 16384,
+		"iS": 15823,
+		"oA": 1,
+		"oAP": "\/dist\/img\/index\/about-us\/hello-lanyard.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/dist\/img\/index\/about-us\/hello-lanyard_2x.jpg": {
+		"ft": 16384,
+		"iS": 36555,
+		"oA": 1,
+		"oAP": "\/dist\/img\/index\/about-us\/hello-lanyard_2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/dist\/img\/index\/bubble-bg\/bubble-background.png": {
+		"ft": 32768,
+		"iS": 19539,
+		"oA": 1,
+		"oAP": "\/dist\/img\/index\/bubble-bg\/bubble-background.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/dist\/img\/index\/contact\/bubbles.png": {
+		"ft": 32768,
+		"iS": 152584,
+		"oA": 1,
+		"oAP": "\/dist\/img\/index\/contact\/bubbles.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/dist\/img\/index\/header\/1-small\/small.jpg": {
+		"ft": 16384,
+		"iS": 137744,
+		"oA": 1,
+		"oAP": "\/dist\/img\/index\/header\/1-small\/small.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/dist\/img\/index\/header\/2-medium\/medium.jpg": {
+		"ft": 16384,
+		"iS": 204918,
+		"oA": 1,
+		"oAP": "\/dist\/img\/index\/header\/2-medium\/medium.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/dist\/img\/index\/header\/3-min-1025\/large.jpg": {
+		"ft": 16384,
+		"iS": 285644,
+		"oA": 1,
+		"oAP": "\/dist\/img\/index\/header\/3-min-1025\/large.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/dist\/img\/index\/header\/4-min-1441\/max.jpg": {
+		"ft": 16384,
+		"iS": 386274,
+		"oA": 1,
+		"oAP": "\/dist\/img\/index\/header\/4-min-1441\/max.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/dist\/img\/projects\/dmesa\/index-graphic-design\/dmesa-logo.png": {
+		"ft": 32768,
+		"iS": 13601,
+		"oA": 1,
+		"oAP": "\/dist\/img\/projects\/dmesa\/index-graphic-design\/dmesa-logo.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/dist\/img\/projects\/dmesa\/index-graphic-design\/dmesa-logo_2x.png": {
+		"ft": 32768,
+		"iS": 32960,
+		"oA": 1,
+		"oAP": "\/dist\/img\/projects\/dmesa\/index-graphic-design\/dmesa-logo_2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/dist\/img\/projects\/dynasty-sports-report\/index-graphic-design\/dynasty-sports-report-logo.png": {
+		"ft": 32768,
+		"iS": 32540,
+		"oA": 1,
+		"oAP": "\/dist\/img\/projects\/dynasty-sports-report\/index-graphic-design\/dynasty-sports-report-logo.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/dist\/img\/projects\/dynasty-sports-report\/index-graphic-design\/dynasty-sports-report-logo_2x.png": {
+		"ft": 32768,
+		"iS": 75062,
+		"oA": 1,
+		"oAP": "\/dist\/img\/projects\/dynasty-sports-report\/index-graphic-design\/dynasty-sports-report-logo_2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/dist\/img\/projects\/essential-sound-production\/index-modal\/modal-feature-1.jpg": {
+		"ft": 16384,
+		"iS": 35511,
+		"oA": 1,
+		"oAP": "\/dist\/img\/projects\/essential-sound-production\/index-modal\/modal-feature-1.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/dist\/img\/projects\/essential-sound-production\/index-modal\/modal-feature-1_2x.jpg": {
+		"ft": 16384,
+		"iS": 49818,
+		"oA": 1,
+		"oAP": "\/dist\/img\/projects\/essential-sound-production\/index-modal\/modal-feature-1_2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/dist\/img\/projects\/essential-sound-production\/index-modal\/modal-feature-2.jpg": {
+		"ft": 16384,
+		"iS": 26594,
+		"oA": 1,
+		"oAP": "\/dist\/img\/projects\/essential-sound-production\/index-modal\/modal-feature-2.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/dist\/img\/projects\/essential-sound-production\/index-modal\/modal-feature-2_2x.jpg": {
+		"ft": 16384,
+		"iS": 42975,
+		"oA": 1,
+		"oAP": "\/dist\/img\/projects\/essential-sound-production\/index-modal\/modal-feature-2_2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/dist\/img\/projects\/essential-sound-production\/index-modal\/modal-feature-3.jpg": {
+		"ft": 16384,
+		"iS": 22159,
+		"oA": 1,
+		"oAP": "\/dist\/img\/projects\/essential-sound-production\/index-modal\/modal-feature-3.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/dist\/img\/projects\/essential-sound-production\/index-modal\/modal-feature-3_2x.jpg": {
+		"ft": 16384,
+		"iS": 30490,
+		"oA": 1,
+		"oAP": "\/dist\/img\/projects\/essential-sound-production\/index-modal\/modal-feature-3_2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/dist\/img\/projects\/essential-sound-production\/index-modal\/modal-thumb.jpg": {
+		"ft": 16384,
+		"iS": 67290,
+		"oA": 1,
+		"oAP": "\/dist\/img\/projects\/essential-sound-production\/index-modal\/modal-thumb.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/dist\/img\/projects\/essential-sound-production\/index-modal\/modal-thumb_2x.jpg": {
+		"ft": 16384,
+		"iS": 94410,
+		"oA": 1,
+		"oAP": "\/dist\/img\/projects\/essential-sound-production\/index-modal\/modal-thumb_2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/dist\/img\/projects\/greencare-tx\/index-modal\/modal-feature-1.jpg": {
+		"ft": 16384,
+		"iS": 61681,
+		"oA": 1,
+		"oAP": "\/dist\/img\/projects\/greencare-tx\/index-modal\/modal-feature-1.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/dist\/img\/projects\/greencare-tx\/index-modal\/modal-feature-1_2x.jpg": {
+		"ft": 16384,
+		"iS": 80562,
+		"oA": 1,
+		"oAP": "\/dist\/img\/projects\/greencare-tx\/index-modal\/modal-feature-1_2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/dist\/img\/projects\/greencare-tx\/index-modal\/modal-feature-2.jpg": {
+		"ft": 16384,
+		"iS": 68412,
+		"oA": 1,
+		"oAP": "\/dist\/img\/projects\/greencare-tx\/index-modal\/modal-feature-2.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/dist\/img\/projects\/greencare-tx\/index-modal\/modal-feature-2_2x.jpg": {
+		"ft": 16384,
+		"iS": 98077,
+		"oA": 1,
+		"oAP": "\/dist\/img\/projects\/greencare-tx\/index-modal\/modal-feature-2_2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/dist\/img\/projects\/greencare-tx\/index-modal\/modal-thumb.jpg": {
+		"ft": 16384,
+		"iS": 63239,
+		"oA": 1,
+		"oAP": "\/dist\/img\/projects\/greencare-tx\/index-modal\/modal-thumb.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/dist\/img\/projects\/greencare-tx\/index-modal\/modal-thumb_2x.jpg": {
+		"ft": 16384,
+		"iS": 97009,
+		"oA": 1,
+		"oAP": "\/dist\/img\/projects\/greencare-tx\/index-modal\/modal-thumb_2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/dist\/img\/projects\/houston-pals\/index-modal\/modal-feature-1.jpg": {
+		"ft": 16384,
+		"iS": 62757,
+		"oA": 1,
+		"oAP": "\/dist\/img\/projects\/houston-pals\/index-modal\/modal-feature-1.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/dist\/img\/projects\/houston-pals\/index-modal\/modal-feature-1_2x.jpg": {
+		"ft": 16384,
+		"iS": 84847,
+		"oA": 1,
+		"oAP": "\/dist\/img\/projects\/houston-pals\/index-modal\/modal-feature-1_2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/dist\/img\/projects\/houston-pals\/index-modal\/modal-feature-2.jpg": {
+		"ft": 16384,
+		"iS": 57992,
+		"oA": 1,
+		"oAP": "\/dist\/img\/projects\/houston-pals\/index-modal\/modal-feature-2.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/dist\/img\/projects\/houston-pals\/index-modal\/modal-feature-2_2x.jpg": {
+		"ft": 16384,
+		"iS": 78613,
+		"oA": 1,
+		"oAP": "\/dist\/img\/projects\/houston-pals\/index-modal\/modal-feature-2_2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/dist\/img\/projects\/houston-pals\/index-modal\/modal-thumb.jpg": {
+		"ft": 16384,
+		"iS": 49611,
+		"oA": 1,
+		"oAP": "\/dist\/img\/projects\/houston-pals\/index-modal\/modal-thumb.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/dist\/img\/projects\/houston-pals\/index-modal\/modal-thumb_2x.jpg": {
+		"ft": 16384,
+		"iS": 74727,
+		"oA": 1,
+		"oAP": "\/dist\/img\/projects\/houston-pals\/index-modal\/modal-thumb_2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/dist\/img\/projects\/jardin-de-france-tx\/index-graphic-design\/jardin-de-france-price-tag.jpg": {
+		"ft": 16384,
+		"iS": 60775,
+		"oA": 1,
+		"oAP": "\/dist\/img\/projects\/jardin-de-france-tx\/index-graphic-design\/jardin-de-france-price-tag.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/dist\/img\/projects\/jardin-de-france-tx\/index-graphic-design\/jardin-de-france-price-tag_2x.jpg": {
+		"ft": 16384,
+		"iS": 78426,
+		"oA": 1,
+		"oAP": "\/dist\/img\/projects\/jardin-de-france-tx\/index-graphic-design\/jardin-de-france-price-tag_2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/dist\/img\/projects\/jardin-de-france-tx\/index-modal\/modal-feature-1.jpg": {
+		"ft": 16384,
+		"iS": 44364,
+		"oA": 1,
+		"oAP": "\/dist\/img\/projects\/jardin-de-france-tx\/index-modal\/modal-feature-1.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/dist\/img\/projects\/jardin-de-france-tx\/index-modal\/modal-feature-1_2x.jpg": {
+		"ft": 16384,
+		"iS": 66033,
+		"oA": 1,
+		"oAP": "\/dist\/img\/projects\/jardin-de-france-tx\/index-modal\/modal-feature-1_2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/dist\/img\/projects\/jardin-de-france-tx\/index-modal\/modal-feature-2.jpg": {
+		"ft": 16384,
+		"iS": 49937,
+		"oA": 1,
+		"oAP": "\/dist\/img\/projects\/jardin-de-france-tx\/index-modal\/modal-feature-2.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/dist\/img\/projects\/jardin-de-france-tx\/index-modal\/modal-feature-2_2x.jpg": {
+		"ft": 16384,
+		"iS": 70775,
+		"oA": 1,
+		"oAP": "\/dist\/img\/projects\/jardin-de-france-tx\/index-modal\/modal-feature-2_2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/dist\/img\/projects\/jardin-de-france-tx\/index-modal\/modal-thumb.jpg": {
+		"ft": 16384,
+		"iS": 68371,
+		"oA": 1,
+		"oAP": "\/dist\/img\/projects\/jardin-de-france-tx\/index-modal\/modal-thumb.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/dist\/img\/projects\/jardin-de-france-tx\/index-modal\/modal-thumb_2x.jpg": {
+		"ft": 16384,
+		"iS": 122430,
+		"oA": 1,
+		"oAP": "\/dist\/img\/projects\/jardin-de-france-tx\/index-modal\/modal-thumb_2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/dist\/img\/projects\/lisa-esposito\/index-modal\/modal-feature-1.jpg": {
+		"ft": 16384,
+		"iS": 34908,
+		"oA": 1,
+		"oAP": "\/dist\/img\/projects\/lisa-esposito\/index-modal\/modal-feature-1.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/dist\/img\/projects\/lisa-esposito\/index-modal\/modal-feature-1_2x.jpg": {
+		"ft": 16384,
+		"iS": 56119,
+		"oA": 1,
+		"oAP": "\/dist\/img\/projects\/lisa-esposito\/index-modal\/modal-feature-1_2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/dist\/img\/projects\/lisa-esposito\/index-modal\/modal-feature-2.jpg": {
+		"ft": 16384,
+		"iS": 42886,
+		"oA": 1,
+		"oAP": "\/dist\/img\/projects\/lisa-esposito\/index-modal\/modal-feature-2.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/dist\/img\/projects\/lisa-esposito\/index-modal\/modal-feature-2_2x.jpg": {
+		"ft": 16384,
+		"iS": 76324,
+		"oA": 1,
+		"oAP": "\/dist\/img\/projects\/lisa-esposito\/index-modal\/modal-feature-2_2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/dist\/img\/projects\/lisa-esposito\/index-modal\/modal-thumb.jpg": {
+		"ft": 16384,
+		"iS": 44500,
+		"oA": 1,
+		"oAP": "\/dist\/img\/projects\/lisa-esposito\/index-modal\/modal-thumb.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/dist\/img\/projects\/lisa-esposito\/index-modal\/modal-thumb_2x.jpg": {
+		"ft": 16384,
+		"iS": 58303,
+		"oA": 1,
+		"oAP": "\/dist\/img\/projects\/lisa-esposito\/index-modal\/modal-thumb_2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/dist\/img\/projects\/starhill-farms\/index-modal\/modal-feature-1.jpg": {
+		"ft": 16384,
+		"iS": 73791,
+		"oA": 1,
+		"oAP": "\/dist\/img\/projects\/starhill-farms\/index-modal\/modal-feature-1.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/dist\/img\/projects\/starhill-farms\/index-modal\/modal-feature-1_2x.jpg": {
+		"ft": 16384,
+		"iS": 88536,
+		"oA": 1,
+		"oAP": "\/dist\/img\/projects\/starhill-farms\/index-modal\/modal-feature-1_2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/dist\/img\/projects\/starhill-farms\/index-modal\/modal-feature-2.jpg": {
+		"ft": 16384,
+		"iS": 37164,
+		"oA": 1,
+		"oAP": "\/dist\/img\/projects\/starhill-farms\/index-modal\/modal-feature-2.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/dist\/img\/projects\/starhill-farms\/index-modal\/modal-feature-2_2x.jpg": {
+		"ft": 16384,
+		"iS": 41244,
+		"oA": 1,
+		"oAP": "\/dist\/img\/projects\/starhill-farms\/index-modal\/modal-feature-2_2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/dist\/img\/projects\/starhill-farms\/index-modal\/modal-thumb.jpg": {
+		"ft": 16384,
+		"iS": 46169,
+		"oA": 1,
+		"oAP": "\/dist\/img\/projects\/starhill-farms\/index-modal\/modal-thumb.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/dist\/img\/projects\/starhill-farms\/index-modal\/modal-thumb_2x.jpg": {
+		"ft": 16384,
+		"iS": 71060,
+		"oA": 1,
+		"oAP": "\/dist\/img\/projects\/starhill-farms\/index-modal\/modal-thumb_2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/dist\/index.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/index.php",
+		"oF": 0
+		},
+	"\/dist\/js\/app-min.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/dist\/app-min-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/dist\/js\/form-validation.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/dist\/form-validation-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/dist\/js\/scripts-min.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/dist\/scripts-min-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/dist\/js\/vendor\/jquery\/2-2-4\/jquery-min.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/dist\/js\/vendor\/jquery\/jquery-min-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/dist\/php\/autoVer.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/php\/autoVer.php",
+		"oF": 0
+		},
+	"\/dist\/php\/sendContact.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/php\/sendContact.php",
+		"oF": 0
+		},
+	"\/dist\/robots.txt": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/robots.txt",
+		"oF": 0
+		},
 	"\/gulpfile.babel.js": {
 		"ft": 64,
 		"mi": 0,
@@ -5642,6 +6208,12 @@
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/src\/helpers\/_notes.txt",
+		"oF": 0
+		},
+	"\/src\/layouts-production\/default.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/src\/layouts-production\/default.html",
 		"oF": 0
 		},
 	"\/src\/layouts\/_notes.txt": {

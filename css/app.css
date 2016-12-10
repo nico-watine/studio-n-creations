@@ -6568,7 +6568,7 @@ form#index-contact-form span.input-group-label.error {
 }
 
 #index .bubble-bg {
-  background: #fff url("/img/index/bubble-bg/bubble-background.png") center center/cover no-repeat;
+  background: #fff url("http://cdn.studioncreations.com/img/index/bubble-bg/bubble-background.png") center center/cover no-repeat;
 }
 
 .projectCard {
@@ -6648,25 +6648,25 @@ form#index-contact-form span.input-group-label.error {
 #index header {
   height: 28.75rem;
   position: relative;
-  background: #fff url("/img/index/header/1-small/small.jpg") left top/cover no-repeat;
+  background: #fff url("http://cdn.studioncreations.com/img/index/header/1-small/small.jpg") left top/cover no-repeat;
 }
 
 @media screen and (min-width: 40em) {
   #index header {
     height: 37.5rem;
-    background-image: url("/img/index/header/2-medium/medium.jpg");
+    background-image: url("http://cdn.studioncreations.com/img/index/header/2-medium/medium.jpg");
   }
 }
 
 @media only screen and (min-width: 64.063em) {
   #index header {
-    background-image: url("/img/index/header/3-min-1025/large.jpg");
+    background-image: url("http://cdn.studioncreations.com/img/index/header/3-min-1025/large.jpg");
   }
 }
 
 @media only screen and (min-width: 90.063em) {
   #index header {
-    background-image: url("/img/index/header/4-min-1441/max.jpg");
+    background-image: url("http://cdn.studioncreations.com/img/index/header/4-min-1441/max.jpg");
   }
 }
 
