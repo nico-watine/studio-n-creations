@@ -1,0 +1,46 @@
+@import "../../../_settings.scss";
+
+
+.recent-projects-modal#essential-sound-production-project {
+	.modal-images {
+		background: #fff;
+
+		.image-1 {
+			padding: 0 rem-calc(16);
+		}
+
+		.image-3 {
+			img {
+				width: 100%;
+			}
+		}
+	}
+}
+
+
+@include breakpoint(medium) {
+	.recent-projects-modal#essential-sound-production-project {
+		.modal-images {
+			position: relative;
+
+			.image-1 {
+				padding: rem-calc(4) 0;
+			}
+
+			.image-2 {
+				img {
+					width: 100%;
+				}
+			}
+
+			.image-3 {
+				img {
+					position: absolute;
+					height: 100%;
+					width: auto;
+				}
+			}
+		}
+	}
+}
+

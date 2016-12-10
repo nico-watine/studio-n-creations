@@ -1,0 +1,74 @@
+@import "../../_settings.scss";
+
+// Specific project-modal styles imported at bottom of file //
+
+
+.recent-projects-modal {
+	width: 100%;
+	background: none;
+
+	&:focus {
+		outline: none;
+	}
+
+	.modal-container {
+		background: #F4F4F4;
+		padding: 0;
+	}
+
+	.modal-header {
+		background: #fff;
+		padding: rem(25) rem(35) rem(25) rem(15);
+
+		* {
+			margin: 0;
+		}
+	}
+
+	.modal-prose {
+		padding: rem(25) rem(15);
+
+		.modal-site-link {
+			border-radius: rem(2); 
+			box-shadow: rem(-4) rem(4) 0 0 rgba(141,149,158,0.50); 
+			background: #566372; 
+			font-size: rem(16);
+
+			&:hover {
+				margin-top: rem(2);
+				margin-right: rem(2);
+				margin-bottom: rem(14);
+				box-shadow: rem(-2) rem(2) 0 0 rgba(141,149,158,0.50); 
+			}
+		}
+	}
+
+	.modal-images {
+		overflow: hidden;
+	}
+}
+
+@include breakpoint(medium) {
+	.recent-projects-modal {
+		padding-bottom: rem(15);
+
+		.modal-container {
+			border-radius: rem(4);
+			box-shadow: rem(-6) rem(8) 0 0 rgba(86,99,113,0.50);
+		}
+
+		.modal-header {
+			border-radius: rem(4) rem(4) 0 0;
+		}
+
+		.modal-images {
+			border-radius: 0 0 rem(4) rem(4); 
+		}
+	}
+}
+
+
+
+// Individual modal styles::
+@import "modal/_essential-sound-production.scss";
+@import "modal/_thank-you.scss";

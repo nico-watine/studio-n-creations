@@ -2,7 +2,7 @@
 	include($_SERVER['DOCUMENT_ROOT'].'/php/autoVer.php');
 ?>
 <!DOCTYPE html>
-<html class="no-js" lang="en-US">
+<html prefix="og: http://ogp.me/ns#" class="no-js" lang="en-US">
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
@@ -13,7 +13,46 @@
 	<link href="http://studioncreations.com{{ url }}" rel="canonical">
 	<link href="/humans.txt" rel="author">
 
+	<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+	<link rel="icon" href="/android-chrome-192x192.png" sizes="192x192">
+	<link rel="manifest" href="/manifest.json">
+	
+	<meta property="og:locale" content="en_US">
+	<meta property="og:type" content="website">
+	<meta property="og:title" content="{{ og-title }}">
+	<meta property="og:description" content="{{ og-description }}">
+	<meta property="og:url" content="http://studioncreations.com{{ url }}">
+	<meta property="og:site_name" content="Studio N Creations">
+	<meta property="og:image" content="//cdn.studioncreations.com{{ og-image}}">
+	<!-- <meta property="fb:app_id" content=""> -->
+	
+	<meta name="google-site-verification" content="KRkK5A_Jr3_V2SvGIzpyRMNi37bKOmqS_vBphvOJV7g" />
+	<meta name="p:domain_verify" content="bc4789b1440b540e061b16da850cc42a"/>
+
 	<link href="{{ cdn }}<?php autoVer('/css/app.css'); ?>" rel="stylesheet">
+
+	<script type="application/ld+json">
+	{
+	  "@context" : "http://schema.org",
+	  "@type" : "LocalBusiness",
+	  "name" : "Studio N Creations",
+	  "description": "Studio N Creations is a Houston, Texas, based web design team that specializes in designing and coding mobile-optimized websites.",
+	  "url" : "http://studioncreations.com",
+	  "telephone": "713-443-3761",
+	  "address": {
+	    "@type": "PostalAddress",
+	    "addressLocality": "Houston",
+	    "addressRegion": "TX",
+	    "postalCode": "77007",
+	    "streetAddress": "5221 Center St"
+	  },
+	  "sameAs" : [
+	    "https://www.facebook.com/studio.n.creations",
+	    "https://www.pinterest.com/studioncreation/",
+	    "https://plus.google.com/+StudioNCreations/",
+	    "https://www.instagram.com/studio.n.creations/"
+	  ]
+	} </script>
 		
 </head>
 <body id="{{ body-id }}" class="{{ body-class }}">
@@ -27,6 +66,7 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
 <script>window.jQuery || document.write('<script src="/js/vendor/jquery/2-2-4/jquery-min.js"><\/script>')</script>
 <script src="{{ cdn }}<?php autoVer('/js/app-min.js'); ?>"></script>
+<script src="{{ cdn }}/js/form-validation.js"></script>
 
 {{> google-tracking-id}}
 

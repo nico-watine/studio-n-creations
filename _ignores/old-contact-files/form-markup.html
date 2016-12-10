@@ -1,0 +1,46 @@
+<div class="row side-padding">
+	<section class="email-form">
+		<h3>Email Form</h3>
+		<form name="myform" id="contactForm" action="/php/sendcontact" enctype="multipart/form-data" method="post" /> 
+			<div class="row">
+				<div class="form-row">
+					<label>My name is Nico, what's yours?
+						<input type="text" id="name" name="name" placeholder="your name" />
+					</label>
+					<div id="fname" class="alert alert-error error">
+						<span>Error!!</span> <br>
+						What's your name? | ¿Cuál es tu nombre? | Comment t'appelles-tu? | 何があなたの名前だ? <br> <br>
+					</div>
+				</div>
+				<div class="form-row">
+					<label>What's the best way to reach you?
+						<input type="text" id="email" name="email" placeholder="your email address" />
+					</label>
+					<div id="fmail" class="alert alert-error  error">
+						I think you forgot to put your email address <br>
+						(I do that all the time, too) <br> <br>
+					</div>
+				</div>
+				<div class="form-row" id="buttons">
+					<div class="form-button">
+						<input type="radio" name="site-status" value="I already have a website"><label for="have-site">I already have a website</label>
+					</div>
+					<div class="form-button" id="omega">
+						<input type="radio" name="site-status" value="I don't have my own site"><label for="no-site">I don't have my own site</label>
+					</div>
+				</div>
+				<div class="form-row" id="message-box">
+					<label>So how can I help?
+						<textarea type="text" id="msg" name="message" placeholder="your message"></textarea>
+					</label>
+					<div id="fmsg" class="alert alert-error  error">
+						What did you have in mind? <br> <br>
+					</div>
+				</div>
+				<div class="form-row">
+					<button type="submit" name="submit" id="submit" class="button big-green-button header">Send away...</button>
+				</div>
+			</div>
+		</form>
+	</section>
+</div>

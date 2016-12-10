@@ -1,0 +1,23 @@
+@import "../../_settings.scss";
+
+#index {
+	footer {
+		margin-top: rem-calc(40);
+		border-top: rem-calc(3) solid #5a5a5a;
+		background: rgba(110,110,110,0.80);
+		padding: rem-calc(80 0);
+
+		* {
+			color: #fff;
+		}
+
+		.social-icons {
+			padding-top: rem-calc(40);
+
+			@include breakpoint(large) {
+				padding-top: 0;
+			}
+		}
+	}
+}
+

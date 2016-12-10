@@ -1,4 +1,4 @@
-
+@import "bourbon";
 //  IMPORT CUSTOM SETTINGS FILE ::
 @import "settings/_custom-settings.scss";
 //  ---------------------------------------------------------------
@@ -114,12 +114,12 @@ $header-font-style: normal;
 $font-family-monospace: Consolas, 'Liberation Mono', Courier, monospace;
 $header-sizes: (
   small: (
-    'h1': 24,
-    'h2': 20,
-    'h3': 19,
-    'h4': 18,
-    'h5': 17,
-    'h6': 16,
+    'h1': 54,
+    'h2': 34,
+    'h3': 34,
+    'h4': 20,
+    'h5': 16,
+    'h6': 14,
   ),
   medium: (
     'h1': 81,
@@ -459,11 +459,14 @@ $progress-radius: $global-radius;
 $reveal-background: $white;
 $reveal-width: 600px;
 $reveal-max-width: $global-width;
-$reveal-padding: $global-padding;
-$reveal-border: 1px solid $medium-gray;
+// $reveal-padding: $global-padding;
+$reveal-padding: 0;
+// $reveal-border: 1px solid $medium-gray;
+$reveal-border: 0;
 $reveal-radius: $global-radius;
 $reveal-zindex: 1005;
-$reveal-overlay-background: rgba($black, 0.45);
+// $reveal-overlay-background: rgba($black, 0.45);
+$reveal-overlay-background: rgba(141,149,158,0.75);
 
 // 29. Slider
 // ----------

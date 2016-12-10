@@ -1,10 +1,8 @@
 @charset 'utf-8';
-@import "bourbon";
+@import "../bower_components/bourbon/app/assets/stylesheets/_bourbon.scss";
 
 @import 'settings';
 @import 'foundation';
-// UPON DEVELOPMENT, MOVE THE IMPORT OF MOTION-UI TO THE BOTTOM OF THE PAGE FOR LOADING OPTIMIZATION ::
-@import 'motion-ui';
 
 @include foundation-global-styles;
 @include foundation-grid;
@@ -49,6 +47,7 @@
 
 // THESE ARE MOTION CSS STYLES... DO NOT IMPORT WITHOUT
 // USING MOTION BC OF LARGE FILE SIZES
+@import 'motion-ui';
 @include motion-ui-transitions;
 @include motion-ui-animations;
 
@@ -78,6 +77,7 @@
 @import "components/_extras.scss";
 @import "components/_resets.scss";
 @import "components/_utility-classes.scss";
+@import "components/_foundation-customization.scss";
 
 
 

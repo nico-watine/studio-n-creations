@@ -39,6 +39,22 @@
 		"oAP": "\/_ignores\/clone-setup-guide.txt",
 		"oF": 0
 		},
+	"\/_ignores\/git-branch-previews\/feature\/index\/mockups-with-modals.png": {
+		"ft": 32768,
+		"iS": 948833,
+		"oA": 1,
+		"oAP": "\/_ignores\/git-branch-previews\/feature\/index\/mockups-with-modals.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_ignores\/git-branch-previews\/OLD\/index.png": {
+		"ft": 32768,
+		"iS": 1181538,
+		"oA": 1,
+		"oAP": "\/_ignores\/git-branch-previews\/OLD\/index.png",
+		"oF": 0,
+		"opt": 0
+		},
 	"\/_ignores\/head\/favicon-linking.html": {
 		"ft": 8192,
 		"oA": 0,
@@ -57,6 +73,82 @@
 		"oAP": "\/_ignores\/misc\/browser-upgrade-snippet.html",
 		"oF": 0
 		},
+	"\/_ignores\/old-contact-files\/_some-sass.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/_ignores\/css\/_some-sass.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/_ignores\/old-contact-files\/form-markup.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_ignores\/old-contact-files\/form-markup.html",
+		"oF": 0
+		},
+	"\/_ignores\/old-contact-files\/form-validation.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/_ignores\/form-validation-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/_ignores\/old-contact-files\/sendContact.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_ignores\/old-contact-files\/sendContact.php",
+		"oF": 0
+		},
+	"\/_ignores\/paypal-form-model\/active.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_ignores\/paypal-form-model\/active.html",
+		"oF": 0
+		},
+	"\/_ignores\/paypal-form-model\/default.png": {
+		"ft": 32768,
+		"iS": 85820,
+		"oA": 1,
+		"oAP": "\/_ignores\/paypal-form-model\/default.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_ignores\/paypal-form-model\/error.png": {
+		"ft": 32768,
+		"iS": 99819,
+		"oA": 1,
+		"oAP": "\/_ignores\/paypal-form-model\/error.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_ignores\/paypal-form-model\/focus.png": {
+		"ft": 32768,
+		"iS": 87756,
+		"oA": 1,
+		"oAP": "\/_ignores\/paypal-form-model\/focus.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_ignores\/paypal-form-model\/has-focus.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_ignores\/paypal-form-model\/has-focus.html",
+		"oF": 0
+		},
+	"\/_ignores\/snc-profile-links.txt": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_ignores\/snc-profile-links.txt",
+		"oF": 0
+		},
 	"\/_ignores\/studio-n-creations.sublime-project": {
 		"ft": 8192,
 		"oA": 2,
@@ -67,6 +159,12 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_ignores\/studio-n-creations.sublime-workspace",
+		"oF": 0
+		},
+	"\/_ignores\/web-services-verifications.txt": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_ignores\/web-services-verifications.txt",
 		"oF": 0
 		},
 	"\/assets\/.htaccess": {
@@ -87,11 +185,231 @@
 		"oAP": "\/assets\/404.html",
 		"oF": 0
 		},
+	"\/assets\/android-chrome-144x144.png": {
+		"ft": 32768,
+		"iS": 4819,
+		"oA": 1,
+		"oAP": "\/assets\/android-chrome-144x144.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/assets\/android-chrome-192x192.png": {
+		"ft": 32768,
+		"iS": 7056,
+		"oA": 1,
+		"oAP": "\/assets\/android-chrome-192x192.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/assets\/android-chrome-36x36.png": {
+		"ft": 32768,
+		"iS": 1235,
+		"oA": 1,
+		"oAP": "\/assets\/android-chrome-36x36.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/assets\/android-chrome-48x48.png": {
+		"ft": 32768,
+		"iS": 1548,
+		"oA": 1,
+		"oAP": "\/assets\/android-chrome-48x48.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/assets\/android-chrome-72x72.png": {
+		"ft": 32768,
+		"iS": 2320,
+		"oA": 1,
+		"oAP": "\/assets\/android-chrome-72x72.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/assets\/android-chrome-96x96.png": {
+		"ft": 32768,
+		"iS": 2783,
+		"oA": 1,
+		"oAP": "\/assets\/android-chrome-96x96.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/assets\/apple-touch-icon-114x114-precomposed.png": {
+		"ft": 32768,
+		"iS": 3315,
+		"oA": 1,
+		"oAP": "\/assets\/apple-touch-icon-114x114-precomposed.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/assets\/apple-touch-icon-120x120-precomposed.png": {
+		"ft": 32768,
+		"iS": 3624,
+		"oA": 1,
+		"oAP": "\/assets\/apple-touch-icon-120x120-precomposed.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/assets\/apple-touch-icon-144x144-precomposed.png": {
+		"ft": 32768,
+		"iS": 4822,
+		"oA": 1,
+		"oAP": "\/assets\/apple-touch-icon-144x144-precomposed.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/assets\/apple-touch-icon-152x152-precomposed.png": {
+		"ft": 32768,
+		"iS": 4893,
+		"oA": 1,
+		"oAP": "\/assets\/apple-touch-icon-152x152-precomposed.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/assets\/apple-touch-icon-180x180-precomposed.png": {
+		"ft": 32768,
+		"iS": 6372,
+		"oA": 1,
+		"oAP": "\/assets\/apple-touch-icon-180x180-precomposed.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/assets\/apple-touch-icon-57x57-precomposed.png": {
+		"ft": 32768,
+		"iS": 1902,
+		"oA": 1,
+		"oAP": "\/assets\/apple-touch-icon-57x57-precomposed.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/assets\/apple-touch-icon-60x60-precomposed.png": {
+		"ft": 32768,
+		"iS": 1945,
+		"oA": 1,
+		"oAP": "\/assets\/apple-touch-icon-60x60-precomposed.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/assets\/apple-touch-icon-72x72-precomposed.png": {
+		"ft": 32768,
+		"iS": 2319,
+		"oA": 1,
+		"oAP": "\/assets\/apple-touch-icon-72x72-precomposed.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/assets\/apple-touch-icon-76x76-precomposed.png": {
+		"ft": 32768,
+		"iS": 2366,
+		"oA": 1,
+		"oAP": "\/assets\/apple-touch-icon-76x76-precomposed.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/assets\/apple-touch-icon-precomposed.png": {
+		"ft": 32768,
+		"iS": 6393,
+		"oA": 1,
+		"oAP": "\/assets\/apple-touch-icon-precomposed.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/assets\/apple-touch-icon.png": {
+		"ft": 32768,
+		"iS": 6383,
+		"oA": 1,
+		"oAP": "\/assets\/apple-touch-icon.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/assets\/browserconfig.xml": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/browserconfig.xml",
+		"oF": 0
+		},
+	"\/assets\/favicon-16x16.png": {
+		"ft": 32768,
+		"iS": 480,
+		"oA": 1,
+		"oAP": "\/assets\/favicon-16x16.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/assets\/favicon-32x32.png": {
+		"ft": 32768,
+		"iS": 1024,
+		"oA": 1,
+		"oAP": "\/assets\/favicon-32x32.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/assets\/favicon-96x96.png": {
+		"ft": 32768,
+		"iS": 2783,
+		"oA": 1,
+		"oAP": "\/assets\/favicon-96x96.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/assets\/favicon.ico": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/favicon.ico",
+		"oF": 0
+		},
 	"\/assets\/humans.txt": {
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/assets\/humans.txt",
 		"oF": 0
+		},
+	"\/assets\/manifest.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/assets\/manifest-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/assets\/mstile-144x144.png": {
+		"ft": 32768,
+		"iS": 2779,
+		"oA": 1,
+		"oAP": "\/assets\/mstile-144x144.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/assets\/mstile-150x150.png": {
+		"ft": 32768,
+		"iS": 2119,
+		"oA": 1,
+		"oAP": "\/assets\/mstile-150x150.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/assets\/mstile-310x150.png": {
+		"ft": 32768,
+		"iS": 2149,
+		"oA": 1,
+		"oAP": "\/assets\/mstile-310x150.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/assets\/mstile-310x310.png": {
+		"ft": 32768,
+		"iS": 5589,
+		"oA": 1,
+		"oAP": "\/assets\/mstile-310x310.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/assets\/mstile-70x70.png": {
+		"ft": 32768,
+		"iS": 1664,
+		"oA": 1,
+		"oAP": "\/assets\/mstile-70x70.png",
+		"oF": 0,
+		"opt": 0
 		},
 	"\/assets\/php\/autoVer.php": {
 		"ft": 8192,
@@ -99,11 +417,25 @@
 		"oAP": "\/assets\/php\/autoVer.php",
 		"oF": 0
 		},
+	"\/assets\/php\/sendContact.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/php\/sendContact.php",
+		"oF": 0
+		},
 	"\/assets\/robots.txt": {
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/assets\/robots.txt",
 		"oF": 0
+		},
+	"\/assets\/touch-icon-192x192.png": {
+		"ft": 32768,
+		"iS": 7056,
+		"oA": 1,
+		"oAP": "\/assets\/touch-icon-192x192.png",
+		"oF": 0,
+		"opt": 0
 		},
 	"\/bower.json": {
 		"ft": 524288,
@@ -4627,555 +4959,6 @@
 		"oF": 0,
 		"oS": 0
 		},
-	"\/dist\/.htaccess": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/dist\/.htaccess",
-		"oF": 0
-		},
-	"\/dist\/403.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/dist\/403.html",
-		"oF": 0
-		},
-	"\/dist\/404.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/dist\/404.html",
-		"oF": 0
-		},
-	"\/dist\/css\/app.css": {
-		"aP": 0,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/dist\/css\/app-ck.css",
-		"oF": 0,
-		"oS": 0
-		},
-	"\/dist\/humans.txt": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/dist\/humans.txt",
-		"oF": 0
-		},
-	"\/dist\/img\/assets\/icons\/facebook.png": {
-		"ft": 32768,
-		"iS": 497,
-		"oA": 1,
-		"oAP": "\/dist\/img\/assets\/icons\/facebook.png",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/dist\/img\/assets\/icons\/facebook_2x.png": {
-		"ft": 32768,
-		"iS": 721,
-		"oA": 1,
-		"oAP": "\/dist\/img\/assets\/icons\/facebook_2x.png",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/dist\/img\/assets\/icons\/instagram.png": {
-		"ft": 32768,
-		"iS": 610,
-		"oA": 1,
-		"oAP": "\/dist\/img\/assets\/icons\/instagram.png",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/dist\/img\/assets\/icons\/instagram_2x.png": {
-		"ft": 32768,
-		"iS": 1077,
-		"oA": 1,
-		"oAP": "\/dist\/img\/assets\/icons\/instagram_2x.png",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/dist\/img\/assets\/icons\/pinterest.png": {
-		"ft": 32768,
-		"iS": 741,
-		"oA": 1,
-		"oAP": "\/dist\/img\/assets\/icons\/pinterest.png",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/dist\/img\/assets\/icons\/pinterest_2x.png": {
-		"ft": 32768,
-		"iS": 1193,
-		"oA": 1,
-		"oAP": "\/dist\/img\/assets\/icons\/pinterest_2x.png",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/dist\/img\/index\/about-us\/hello-lanyard.jpg": {
-		"ft": 16384,
-		"iS": 15823,
-		"oA": 1,
-		"oAP": "\/dist\/img\/index\/about-us\/hello-lanyard.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/dist\/img\/index\/about-us\/hello-lanyard_2x.jpg": {
-		"ft": 16384,
-		"iS": 36555,
-		"oA": 1,
-		"oAP": "\/dist\/img\/index\/about-us\/hello-lanyard_2x.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/dist\/img\/index\/bubble-bg\/bubble-background.png": {
-		"ft": 32768,
-		"iS": 19539,
-		"oA": 1,
-		"oAP": "\/dist\/img\/index\/bubble-bg\/bubble-background.png",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/dist\/img\/index\/contact\/bubbles.png": {
-		"ft": 32768,
-		"iS": 152584,
-		"oA": 1,
-		"oAP": "\/dist\/img\/index\/contact\/bubbles.png",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/dist\/img\/index\/header\/1-small\/small.jpg": {
-		"ft": 16384,
-		"iS": 137744,
-		"oA": 1,
-		"oAP": "\/dist\/img\/index\/header\/1-small\/small.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/dist\/img\/index\/header\/2-medium\/medium.jpg": {
-		"ft": 16384,
-		"iS": 204918,
-		"oA": 1,
-		"oAP": "\/dist\/img\/index\/header\/2-medium\/medium.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/dist\/img\/index\/header\/3-min-1025\/large.jpg": {
-		"ft": 16384,
-		"iS": 285644,
-		"oA": 1,
-		"oAP": "\/dist\/img\/index\/header\/3-min-1025\/large.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/dist\/img\/index\/header\/4-min-1441\/max.jpg": {
-		"ft": 16384,
-		"iS": 386274,
-		"oA": 1,
-		"oAP": "\/dist\/img\/index\/header\/4-min-1441\/max.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/dist\/img\/projects\/dmesa\/index-graphic-design\/dmesa-logo.png": {
-		"ft": 32768,
-		"iS": 13601,
-		"oA": 1,
-		"oAP": "\/dist\/img\/projects\/dmesa\/index-graphic-design\/dmesa-logo.png",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/dist\/img\/projects\/dmesa\/index-graphic-design\/dmesa-logo_2x.png": {
-		"ft": 32768,
-		"iS": 32960,
-		"oA": 1,
-		"oAP": "\/dist\/img\/projects\/dmesa\/index-graphic-design\/dmesa-logo_2x.png",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/dist\/img\/projects\/dynasty-sports-report\/index-graphic-design\/dynasty-sports-report-logo.png": {
-		"ft": 32768,
-		"iS": 32540,
-		"oA": 1,
-		"oAP": "\/dist\/img\/projects\/dynasty-sports-report\/index-graphic-design\/dynasty-sports-report-logo.png",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/dist\/img\/projects\/dynasty-sports-report\/index-graphic-design\/dynasty-sports-report-logo_2x.png": {
-		"ft": 32768,
-		"iS": 75062,
-		"oA": 1,
-		"oAP": "\/dist\/img\/projects\/dynasty-sports-report\/index-graphic-design\/dynasty-sports-report-logo_2x.png",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/dist\/img\/projects\/essential-sound-production\/index-modal\/modal-feature-1.jpg": {
-		"ft": 16384,
-		"iS": 35511,
-		"oA": 1,
-		"oAP": "\/dist\/img\/projects\/essential-sound-production\/index-modal\/modal-feature-1.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/dist\/img\/projects\/essential-sound-production\/index-modal\/modal-feature-1_2x.jpg": {
-		"ft": 16384,
-		"iS": 49818,
-		"oA": 1,
-		"oAP": "\/dist\/img\/projects\/essential-sound-production\/index-modal\/modal-feature-1_2x.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/dist\/img\/projects\/essential-sound-production\/index-modal\/modal-feature-2.jpg": {
-		"ft": 16384,
-		"iS": 26594,
-		"oA": 1,
-		"oAP": "\/dist\/img\/projects\/essential-sound-production\/index-modal\/modal-feature-2.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/dist\/img\/projects\/essential-sound-production\/index-modal\/modal-feature-2_2x.jpg": {
-		"ft": 16384,
-		"iS": 42975,
-		"oA": 1,
-		"oAP": "\/dist\/img\/projects\/essential-sound-production\/index-modal\/modal-feature-2_2x.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/dist\/img\/projects\/essential-sound-production\/index-modal\/modal-feature-3.jpg": {
-		"ft": 16384,
-		"iS": 22159,
-		"oA": 1,
-		"oAP": "\/dist\/img\/projects\/essential-sound-production\/index-modal\/modal-feature-3.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/dist\/img\/projects\/essential-sound-production\/index-modal\/modal-feature-3_2x.jpg": {
-		"ft": 16384,
-		"iS": 30490,
-		"oA": 1,
-		"oAP": "\/dist\/img\/projects\/essential-sound-production\/index-modal\/modal-feature-3_2x.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/dist\/img\/projects\/essential-sound-production\/index-modal\/modal-thumb.jpg": {
-		"ft": 16384,
-		"iS": 45939,
-		"oA": 1,
-		"oAP": "\/dist\/img\/projects\/essential-sound-production\/index-modal\/modal-thumb.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/dist\/img\/projects\/essential-sound-production\/index-modal\/modal-thumb_2x.jpg": {
-		"ft": 16384,
-		"iS": 62666,
-		"oA": 1,
-		"oAP": "\/dist\/img\/projects\/essential-sound-production\/index-modal\/modal-thumb_2x.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/dist\/img\/projects\/greencare-tx\/index-modal\/modal-feature-1.jpg": {
-		"ft": 16384,
-		"iS": 61681,
-		"oA": 1,
-		"oAP": "\/dist\/img\/projects\/greencare-tx\/index-modal\/modal-feature-1.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/dist\/img\/projects\/greencare-tx\/index-modal\/modal-feature-1_2x.jpg": {
-		"ft": 16384,
-		"iS": 80562,
-		"oA": 1,
-		"oAP": "\/dist\/img\/projects\/greencare-tx\/index-modal\/modal-feature-1_2x.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/dist\/img\/projects\/greencare-tx\/index-modal\/modal-feature-2.jpg": {
-		"ft": 16384,
-		"iS": 68412,
-		"oA": 1,
-		"oAP": "\/dist\/img\/projects\/greencare-tx\/index-modal\/modal-feature-2.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/dist\/img\/projects\/greencare-tx\/index-modal\/modal-feature-2_2x.jpg": {
-		"ft": 16384,
-		"iS": 98077,
-		"oA": 1,
-		"oAP": "\/dist\/img\/projects\/greencare-tx\/index-modal\/modal-feature-2_2x.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/dist\/img\/projects\/greencare-tx\/index-modal\/modal-thumb.jpg": {
-		"ft": 16384,
-		"iS": 65888,
-		"oA": 1,
-		"oAP": "\/dist\/img\/projects\/greencare-tx\/index-modal\/modal-thumb.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/dist\/img\/projects\/greencare-tx\/index-modal\/modal-thumb_2x.jpg": {
-		"ft": 16384,
-		"iS": 103123,
-		"oA": 1,
-		"oAP": "\/dist\/img\/projects\/greencare-tx\/index-modal\/modal-thumb_2x.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/dist\/img\/projects\/houston-pals\/index-modal\/modal-feature-1.jpg": {
-		"ft": 16384,
-		"iS": 62757,
-		"oA": 1,
-		"oAP": "\/dist\/img\/projects\/houston-pals\/index-modal\/modal-feature-1.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/dist\/img\/projects\/houston-pals\/index-modal\/modal-feature-1_2x.jpg": {
-		"ft": 16384,
-		"iS": 84847,
-		"oA": 1,
-		"oAP": "\/dist\/img\/projects\/houston-pals\/index-modal\/modal-feature-1_2x.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/dist\/img\/projects\/houston-pals\/index-modal\/modal-feature-2.jpg": {
-		"ft": 16384,
-		"iS": 57992,
-		"oA": 1,
-		"oAP": "\/dist\/img\/projects\/houston-pals\/index-modal\/modal-feature-2.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/dist\/img\/projects\/houston-pals\/index-modal\/modal-feature-2_2x.jpg": {
-		"ft": 16384,
-		"iS": 78613,
-		"oA": 1,
-		"oAP": "\/dist\/img\/projects\/houston-pals\/index-modal\/modal-feature-2_2x.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/dist\/img\/projects\/houston-pals\/index-modal\/modal-thumb.jpg": {
-		"ft": 16384,
-		"iS": 62036,
-		"oA": 1,
-		"oAP": "\/dist\/img\/projects\/houston-pals\/index-modal\/modal-thumb.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/dist\/img\/projects\/houston-pals\/index-modal\/modal-thumb_2x.jpg": {
-		"ft": 16384,
-		"iS": 100988,
-		"oA": 1,
-		"oAP": "\/dist\/img\/projects\/houston-pals\/index-modal\/modal-thumb_2x.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/dist\/img\/projects\/jardin-de-france-tx\/index-graphic-design\/jardin-de-france-price-tag.jpg": {
-		"ft": 16384,
-		"iS": 60775,
-		"oA": 1,
-		"oAP": "\/dist\/img\/projects\/jardin-de-france-tx\/index-graphic-design\/jardin-de-france-price-tag.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/dist\/img\/projects\/jardin-de-france-tx\/index-graphic-design\/jardin-de-france-price-tag_2x.jpg": {
-		"ft": 16384,
-		"iS": 78426,
-		"oA": 1,
-		"oAP": "\/dist\/img\/projects\/jardin-de-france-tx\/index-graphic-design\/jardin-de-france-price-tag_2x.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/dist\/img\/projects\/jardin-de-france-tx\/index-modal\/modal-feature-1.jpg": {
-		"ft": 16384,
-		"iS": 44364,
-		"oA": 1,
-		"oAP": "\/dist\/img\/projects\/jardin-de-france-tx\/index-modal\/modal-feature-1.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/dist\/img\/projects\/jardin-de-france-tx\/index-modal\/modal-feature-1_2x.jpg": {
-		"ft": 16384,
-		"iS": 66033,
-		"oA": 1,
-		"oAP": "\/dist\/img\/projects\/jardin-de-france-tx\/index-modal\/modal-feature-1_2x.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/dist\/img\/projects\/jardin-de-france-tx\/index-modal\/modal-feature-2.jpg": {
-		"ft": 16384,
-		"iS": 49937,
-		"oA": 1,
-		"oAP": "\/dist\/img\/projects\/jardin-de-france-tx\/index-modal\/modal-feature-2.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/dist\/img\/projects\/jardin-de-france-tx\/index-modal\/modal-feature-2_2x.jpg": {
-		"ft": 16384,
-		"iS": 70775,
-		"oA": 1,
-		"oAP": "\/dist\/img\/projects\/jardin-de-france-tx\/index-modal\/modal-feature-2_2x.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/dist\/img\/projects\/jardin-de-france-tx\/index-modal\/modal-thumb.jpg": {
-		"ft": 16384,
-		"iS": 45678,
-		"oA": 1,
-		"oAP": "\/dist\/img\/projects\/jardin-de-france-tx\/index-modal\/modal-thumb.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/dist\/img\/projects\/jardin-de-france-tx\/index-modal\/modal-thumb_2x.jpg": {
-		"ft": 16384,
-		"iS": 70802,
-		"oA": 1,
-		"oAP": "\/dist\/img\/projects\/jardin-de-france-tx\/index-modal\/modal-thumb_2x.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/dist\/img\/projects\/lisa-esposito\/index-modal\/modal-feature-1.jpg": {
-		"ft": 16384,
-		"iS": 34908,
-		"oA": 1,
-		"oAP": "\/dist\/img\/projects\/lisa-esposito\/index-modal\/modal-feature-1.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/dist\/img\/projects\/lisa-esposito\/index-modal\/modal-feature-1_2x.jpg": {
-		"ft": 16384,
-		"iS": 56119,
-		"oA": 1,
-		"oAP": "\/dist\/img\/projects\/lisa-esposito\/index-modal\/modal-feature-1_2x.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/dist\/img\/projects\/lisa-esposito\/index-modal\/modal-feature-2.jpg": {
-		"ft": 16384,
-		"iS": 42886,
-		"oA": 1,
-		"oAP": "\/dist\/img\/projects\/lisa-esposito\/index-modal\/modal-feature-2.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/dist\/img\/projects\/lisa-esposito\/index-modal\/modal-feature-2_2x.jpg": {
-		"ft": 16384,
-		"iS": 76324,
-		"oA": 1,
-		"oAP": "\/dist\/img\/projects\/lisa-esposito\/index-modal\/modal-feature-2_2x.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/dist\/img\/projects\/lisa-esposito\/index-modal\/modal-thumb.jpg": {
-		"ft": 16384,
-		"iS": 73480,
-		"oA": 1,
-		"oAP": "\/dist\/img\/projects\/lisa-esposito\/index-modal\/modal-thumb.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/dist\/img\/projects\/lisa-esposito\/index-modal\/modal-thumb_2x.jpg": {
-		"ft": 16384,
-		"iS": 135257,
-		"oA": 1,
-		"oAP": "\/dist\/img\/projects\/lisa-esposito\/index-modal\/modal-thumb_2x.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/dist\/img\/projects\/starhill-farms\/index-modal\/modal-feature-1.jpg": {
-		"ft": 16384,
-		"iS": 73791,
-		"oA": 1,
-		"oAP": "\/dist\/img\/projects\/starhill-farms\/index-modal\/modal-feature-1.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/dist\/img\/projects\/starhill-farms\/index-modal\/modal-feature-1_2x.jpg": {
-		"ft": 16384,
-		"iS": 88536,
-		"oA": 1,
-		"oAP": "\/dist\/img\/projects\/starhill-farms\/index-modal\/modal-feature-1_2x.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/dist\/img\/projects\/starhill-farms\/index-modal\/modal-feature-2.jpg": {
-		"ft": 16384,
-		"iS": 37164,
-		"oA": 1,
-		"oAP": "\/dist\/img\/projects\/starhill-farms\/index-modal\/modal-feature-2.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/dist\/img\/projects\/starhill-farms\/index-modal\/modal-feature-2_2x.jpg": {
-		"ft": 16384,
-		"iS": 41244,
-		"oA": 1,
-		"oAP": "\/dist\/img\/projects\/starhill-farms\/index-modal\/modal-feature-2_2x.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/dist\/img\/projects\/starhill-farms\/index-modal\/modal-thumb.jpg": {
-		"ft": 16384,
-		"iS": 56175,
-		"oA": 1,
-		"oAP": "\/dist\/img\/projects\/starhill-farms\/index-modal\/modal-thumb.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/dist\/img\/projects\/starhill-farms\/index-modal\/modal-thumb_2x.jpg": {
-		"ft": 16384,
-		"iS": 81985,
-		"oA": 1,
-		"oAP": "\/dist\/img\/projects\/starhill-farms\/index-modal\/modal-thumb_2x.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/dist\/index.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/dist\/index.php",
-		"oF": 0
-		},
-	"\/dist\/js\/app-min.js": {
-		"ft": 64,
-		"mi": 0,
-		"oA": 1,
-		"oAP": "\/dist\/app-min-min.js",
-		"oF": 0,
-		"sC": 0,
-		"tS": 0
-		},
-	"\/dist\/js\/scripts-min.js": {
-		"ft": 64,
-		"mi": 0,
-		"oA": 1,
-		"oAP": "\/dist\/scripts-min-min.js",
-		"oF": 0,
-		"sC": 0,
-		"tS": 0
-		},
-	"\/dist\/js\/vendor\/jquery\/2-2-4\/jquery-min.js": {
-		"ft": 64,
-		"mi": 0,
-		"oA": 1,
-		"oAP": "\/dist\/js\/vendor\/jquery\/jquery-min-min.js",
-		"oF": 0,
-		"sC": 0,
-		"tS": 0
-		},
-	"\/dist\/php\/autoVer.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/dist\/php\/autoVer.php",
-		"oF": 0
-		},
-	"\/dist\/php\/sendContact.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/dist\/php\/sendContact.php",
-		"oF": 0
-		},
-	"\/dist\/robots.txt": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/dist\/robots.txt",
-		"oF": 0
-		},
 	"\/gulpfile.babel.js": {
 		"ft": 64,
 		"mi": 0,
@@ -5185,6 +4968,478 @@
 		"sC": 0,
 		"tS": 0
 		},
+	"\/img\/assets\/icons\/facebook.png": {
+		"ft": 32768,
+		"iS": 497,
+		"oA": 1,
+		"oAP": "\/img\/assets\/icons\/facebook.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/assets\/icons\/facebook_2x.png": {
+		"ft": 32768,
+		"iS": 721,
+		"oA": 1,
+		"oAP": "\/img\/assets\/icons\/facebook_2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/assets\/icons\/instagram.png": {
+		"ft": 32768,
+		"iS": 610,
+		"oA": 1,
+		"oAP": "\/img\/assets\/icons\/instagram.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/assets\/icons\/instagram_2x.png": {
+		"ft": 32768,
+		"iS": 1077,
+		"oA": 1,
+		"oAP": "\/img\/assets\/icons\/instagram_2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/assets\/icons\/pinterest.png": {
+		"ft": 32768,
+		"iS": 741,
+		"oA": 1,
+		"oAP": "\/img\/assets\/icons\/pinterest.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/assets\/icons\/pinterest_2x.png": {
+		"ft": 32768,
+		"iS": 1193,
+		"oA": 1,
+		"oAP": "\/img\/assets\/icons\/pinterest_2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/assets\/og-images\/index\/generic.jpg": {
+		"ft": 16384,
+		"iS": 286856,
+		"oA": 1,
+		"oAP": "\/img\/assets\/og-images\/index\/generic.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/index\/about-us\/hello-lanyard.jpg": {
+		"ft": 16384,
+		"iS": 15823,
+		"oA": 1,
+		"oAP": "\/img\/index\/about-us\/hello-lanyard.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/index\/about-us\/hello-lanyard_2x.jpg": {
+		"ft": 16384,
+		"iS": 36555,
+		"oA": 1,
+		"oAP": "\/img\/index\/about-us\/hello-lanyard_2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/index\/bubble-bg\/bubble-background.png": {
+		"ft": 32768,
+		"iS": 19539,
+		"oA": 1,
+		"oAP": "\/img\/index\/bubble-bg\/bubble-background.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/index\/contact\/bubbles.png": {
+		"ft": 32768,
+		"iS": 152584,
+		"oA": 1,
+		"oAP": "\/img\/index\/contact\/bubbles.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/index\/header\/1-small\/small.jpg": {
+		"ft": 16384,
+		"iS": 137744,
+		"oA": 1,
+		"oAP": "\/img\/index\/header\/1-small\/small.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/index\/header\/2-medium\/medium.jpg": {
+		"ft": 16384,
+		"iS": 204918,
+		"oA": 1,
+		"oAP": "\/img\/index\/header\/2-medium\/medium.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/index\/header\/3-min-1025\/large.jpg": {
+		"ft": 16384,
+		"iS": 285644,
+		"oA": 1,
+		"oAP": "\/img\/index\/header\/3-min-1025\/large.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/index\/header\/4-min-1441\/max.jpg": {
+		"ft": 16384,
+		"iS": 386274,
+		"oA": 1,
+		"oAP": "\/img\/index\/header\/4-min-1441\/max.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/projects\/dmesa\/index-graphic-design\/dmesa-logo.png": {
+		"ft": 32768,
+		"iS": 13601,
+		"oA": 1,
+		"oAP": "\/img\/projects\/dmesa\/index-graphic-design\/dmesa-logo.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/projects\/dmesa\/index-graphic-design\/dmesa-logo_2x.png": {
+		"ft": 32768,
+		"iS": 32960,
+		"oA": 1,
+		"oAP": "\/img\/projects\/dmesa\/index-graphic-design\/dmesa-logo_2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/projects\/dynasty-sports-report\/index-graphic-design\/dynasty-sports-report-logo.png": {
+		"ft": 32768,
+		"iS": 32540,
+		"oA": 1,
+		"oAP": "\/img\/projects\/dynasty-sports-report\/index-graphic-design\/dynasty-sports-report-logo.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/projects\/dynasty-sports-report\/index-graphic-design\/dynasty-sports-report-logo_2x.png": {
+		"ft": 32768,
+		"iS": 75062,
+		"oA": 1,
+		"oAP": "\/img\/projects\/dynasty-sports-report\/index-graphic-design\/dynasty-sports-report-logo_2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/projects\/essential-sound-production\/index-modal\/modal-feature-1.jpg": {
+		"ft": 16384,
+		"iS": 35511,
+		"oA": 1,
+		"oAP": "\/img\/projects\/essential-sound-production\/index-modal\/modal-feature-1.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/projects\/essential-sound-production\/index-modal\/modal-feature-1_2x.jpg": {
+		"ft": 16384,
+		"iS": 49818,
+		"oA": 1,
+		"oAP": "\/img\/projects\/essential-sound-production\/index-modal\/modal-feature-1_2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/projects\/essential-sound-production\/index-modal\/modal-feature-2.jpg": {
+		"ft": 16384,
+		"iS": 26594,
+		"oA": 1,
+		"oAP": "\/img\/projects\/essential-sound-production\/index-modal\/modal-feature-2.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/projects\/essential-sound-production\/index-modal\/modal-feature-2_2x.jpg": {
+		"ft": 16384,
+		"iS": 42975,
+		"oA": 1,
+		"oAP": "\/img\/projects\/essential-sound-production\/index-modal\/modal-feature-2_2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/projects\/essential-sound-production\/index-modal\/modal-feature-3.jpg": {
+		"ft": 16384,
+		"iS": 22159,
+		"oA": 1,
+		"oAP": "\/img\/projects\/essential-sound-production\/index-modal\/modal-feature-3.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/projects\/essential-sound-production\/index-modal\/modal-feature-3_2x.jpg": {
+		"ft": 16384,
+		"iS": 30490,
+		"oA": 1,
+		"oAP": "\/img\/projects\/essential-sound-production\/index-modal\/modal-feature-3_2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/projects\/essential-sound-production\/index-modal\/modal-thumb.jpg": {
+		"ft": 16384,
+		"iS": 68494,
+		"oA": 1,
+		"oAP": "\/img\/projects\/essential-sound-production\/index-modal\/modal-thumb.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/projects\/essential-sound-production\/index-modal\/modal-thumb_2x.jpg": {
+		"ft": 16384,
+		"iS": 95619,
+		"oA": 1,
+		"oAP": "\/img\/projects\/essential-sound-production\/index-modal\/modal-thumb_2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/projects\/greencare-tx\/index-modal\/modal-feature-1.jpg": {
+		"ft": 16384,
+		"iS": 61681,
+		"oA": 1,
+		"oAP": "\/img\/projects\/greencare-tx\/index-modal\/modal-feature-1.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/projects\/greencare-tx\/index-modal\/modal-feature-1_2x.jpg": {
+		"ft": 16384,
+		"iS": 80562,
+		"oA": 1,
+		"oAP": "\/img\/projects\/greencare-tx\/index-modal\/modal-feature-1_2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/projects\/greencare-tx\/index-modal\/modal-feature-2.jpg": {
+		"ft": 16384,
+		"iS": 68412,
+		"oA": 1,
+		"oAP": "\/img\/projects\/greencare-tx\/index-modal\/modal-feature-2.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/projects\/greencare-tx\/index-modal\/modal-feature-2_2x.jpg": {
+		"ft": 16384,
+		"iS": 98077,
+		"oA": 1,
+		"oAP": "\/img\/projects\/greencare-tx\/index-modal\/modal-feature-2_2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/projects\/greencare-tx\/index-modal\/modal-thumb.jpg": {
+		"ft": 16384,
+		"iS": 64843,
+		"oA": 1,
+		"oAP": "\/img\/projects\/greencare-tx\/index-modal\/modal-thumb.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/projects\/greencare-tx\/index-modal\/modal-thumb_2x.jpg": {
+		"ft": 16384,
+		"iS": 98630,
+		"oA": 1,
+		"oAP": "\/img\/projects\/greencare-tx\/index-modal\/modal-thumb_2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/projects\/houston-pals\/index-modal\/modal-feature-1.jpg": {
+		"ft": 16384,
+		"iS": 62757,
+		"oA": 1,
+		"oAP": "\/img\/projects\/houston-pals\/index-modal\/modal-feature-1.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/projects\/houston-pals\/index-modal\/modal-feature-1_2x.jpg": {
+		"ft": 16384,
+		"iS": 84847,
+		"oA": 1,
+		"oAP": "\/img\/projects\/houston-pals\/index-modal\/modal-feature-1_2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/projects\/houston-pals\/index-modal\/modal-feature-2.jpg": {
+		"ft": 16384,
+		"iS": 57992,
+		"oA": 1,
+		"oAP": "\/img\/projects\/houston-pals\/index-modal\/modal-feature-2.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/projects\/houston-pals\/index-modal\/modal-feature-2_2x.jpg": {
+		"ft": 16384,
+		"iS": 78613,
+		"oA": 1,
+		"oAP": "\/img\/projects\/houston-pals\/index-modal\/modal-feature-2_2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/projects\/houston-pals\/index-modal\/modal-thumb.jpg": {
+		"ft": 16384,
+		"iS": 49611,
+		"oA": 1,
+		"oAP": "\/img\/projects\/houston-pals\/index-modal\/modal-thumb.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/projects\/houston-pals\/index-modal\/modal-thumb_2x.jpg": {
+		"ft": 16384,
+		"iS": 74727,
+		"oA": 1,
+		"oAP": "\/img\/projects\/houston-pals\/index-modal\/modal-thumb_2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/projects\/jardin-de-france-tx\/index-graphic-design\/jardin-de-france-price-tag.jpg": {
+		"ft": 16384,
+		"iS": 60775,
+		"oA": 1,
+		"oAP": "\/img\/projects\/jardin-de-france-tx\/index-graphic-design\/jardin-de-france-price-tag.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/projects\/jardin-de-france-tx\/index-graphic-design\/jardin-de-france-price-tag_2x.jpg": {
+		"ft": 16384,
+		"iS": 78426,
+		"oA": 1,
+		"oAP": "\/img\/projects\/jardin-de-france-tx\/index-graphic-design\/jardin-de-france-price-tag_2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/projects\/jardin-de-france-tx\/index-modal\/modal-feature-1.jpg": {
+		"ft": 16384,
+		"iS": 44364,
+		"oA": 1,
+		"oAP": "\/img\/projects\/jardin-de-france-tx\/index-modal\/modal-feature-1.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/projects\/jardin-de-france-tx\/index-modal\/modal-feature-1_2x.jpg": {
+		"ft": 16384,
+		"iS": 66033,
+		"oA": 1,
+		"oAP": "\/img\/projects\/jardin-de-france-tx\/index-modal\/modal-feature-1_2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/projects\/jardin-de-france-tx\/index-modal\/modal-feature-2.jpg": {
+		"ft": 16384,
+		"iS": 49937,
+		"oA": 1,
+		"oAP": "\/img\/projects\/jardin-de-france-tx\/index-modal\/modal-feature-2.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/projects\/jardin-de-france-tx\/index-modal\/modal-feature-2_2x.jpg": {
+		"ft": 16384,
+		"iS": 70775,
+		"oA": 1,
+		"oAP": "\/img\/projects\/jardin-de-france-tx\/index-modal\/modal-feature-2_2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/projects\/jardin-de-france-tx\/index-modal\/modal-thumb.jpg": {
+		"ft": 16384,
+		"iS": 70366,
+		"oA": 1,
+		"oAP": "\/img\/projects\/jardin-de-france-tx\/index-modal\/modal-thumb.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/projects\/jardin-de-france-tx\/index-modal\/modal-thumb_2x.jpg": {
+		"ft": 16384,
+		"iS": 123636,
+		"oA": 1,
+		"oAP": "\/img\/projects\/jardin-de-france-tx\/index-modal\/modal-thumb_2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/projects\/lisa-esposito\/index-modal\/modal-feature-1.jpg": {
+		"ft": 16384,
+		"iS": 34908,
+		"oA": 1,
+		"oAP": "\/img\/projects\/lisa-esposito\/index-modal\/modal-feature-1.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/projects\/lisa-esposito\/index-modal\/modal-feature-1_2x.jpg": {
+		"ft": 16384,
+		"iS": 56119,
+		"oA": 1,
+		"oAP": "\/img\/projects\/lisa-esposito\/index-modal\/modal-feature-1_2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/projects\/lisa-esposito\/index-modal\/modal-feature-2.jpg": {
+		"ft": 16384,
+		"iS": 42886,
+		"oA": 1,
+		"oAP": "\/img\/projects\/lisa-esposito\/index-modal\/modal-feature-2.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/projects\/lisa-esposito\/index-modal\/modal-feature-2_2x.jpg": {
+		"ft": 16384,
+		"iS": 76324,
+		"oA": 1,
+		"oAP": "\/img\/projects\/lisa-esposito\/index-modal\/modal-feature-2_2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/projects\/lisa-esposito\/index-modal\/modal-thumb.jpg": {
+		"ft": 16384,
+		"iS": 44500,
+		"oA": 1,
+		"oAP": "\/img\/projects\/lisa-esposito\/index-modal\/modal-thumb.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/projects\/lisa-esposito\/index-modal\/modal-thumb_2x.jpg": {
+		"ft": 16384,
+		"iS": 58303,
+		"oA": 1,
+		"oAP": "\/img\/projects\/lisa-esposito\/index-modal\/modal-thumb_2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/projects\/starhill-farms\/index-modal\/modal-feature-1.jpg": {
+		"ft": 16384,
+		"iS": 73791,
+		"oA": 1,
+		"oAP": "\/img\/projects\/starhill-farms\/index-modal\/modal-feature-1.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/projects\/starhill-farms\/index-modal\/modal-feature-1_2x.jpg": {
+		"ft": 16384,
+		"iS": 88536,
+		"oA": 1,
+		"oAP": "\/img\/projects\/starhill-farms\/index-modal\/modal-feature-1_2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/projects\/starhill-farms\/index-modal\/modal-feature-2.jpg": {
+		"ft": 16384,
+		"iS": 37164,
+		"oA": 1,
+		"oAP": "\/img\/projects\/starhill-farms\/index-modal\/modal-feature-2.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/projects\/starhill-farms\/index-modal\/modal-feature-2_2x.jpg": {
+		"ft": 16384,
+		"iS": 41244,
+		"oA": 1,
+		"oAP": "\/img\/projects\/starhill-farms\/index-modal\/modal-feature-2_2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/projects\/starhill-farms\/index-modal\/modal-thumb.jpg": {
+		"ft": 16384,
+		"iS": 46169,
+		"oA": 1,
+		"oAP": "\/img\/projects\/starhill-farms\/index-modal\/modal-thumb.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/projects\/starhill-farms\/index-modal\/modal-thumb_2x.jpg": {
+		"ft": 16384,
+		"iS": 71060,
+		"oA": 1,
+		"oAP": "\/img\/projects\/starhill-farms\/index-modal\/modal-thumb_2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
 	"\/js\/app-min.js": {
 		"ft": 64,
 		"mi": 0,
@@ -5192,6 +5447,15 @@
 		"oAP": "\/app-min-min.js",
 		"oF": 0,
 		"sC": 1,
+		"tS": 0
+		},
+	"\/js\/form-validation.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/form-validation-min.js",
+		"oF": 0,
+		"sC": 0,
 		"tS": 0
 		},
 	"\/js\/scripts-min.js": {
@@ -5210,6 +5474,15 @@
 		"oAP": "\/js\/app-min.js",
 		"oF": 1,
 		"sC": 1,
+		"tS": 0
+		},
+	"\/js\/src\/form-validation.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/js\/form-validation-min.js",
+		"oF": 1,
+		"sC": 0,
 		"tS": 0
 		},
 	"\/js\/src\/scripts.js": {
@@ -5267,7 +5540,7 @@
 		"oA": 0,
 		"oAP": "\/css\/app.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 1,
 		"uL": 1
 		},
 	"\/scss\/blocks\/_body.scss": {
@@ -5348,6 +5621,19 @@
 		"oS": 0,
 		"uL": 1
 		},
+	"\/scss\/components\/_foundation-customization.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/scss\/css\/_foundation-customization.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
 	"\/scss\/components\/_resets.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -5400,6 +5686,19 @@
 		"oS": 0,
 		"uL": 1
 		},
+	"\/scss\/components\/foundation-customization\/_forms.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/scss\/components\/css\/_forms.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
 	"\/scss\/components\/typography\/_fonts.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -5413,6 +5712,84 @@
 		"oS": 0,
 		"uL": 1
 		},
+	"\/scss\/pages\/index\/_about-us.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/scss\/pages\/css\/_about-us.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/scss\/pages\/index\/_bubble-bg-base-64.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/scss\/pages\/css\/_bubble-bg-base-64.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/scss\/pages\/index\/_bubble-bg.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/scss\/pages\/css\/_bubble-bg.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/scss\/pages\/index\/_contact.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/scss\/pages\/css\/_contact.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/scss\/pages\/index\/_footer.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/scss\/pages\/css\/_footer.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/scss\/pages\/index\/_graphic-branding.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/scss\/pages\/css\/_graphic-branding.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
 	"\/scss\/pages\/index\/_index.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -5422,6 +5799,58 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "\/scss\/pages\/css\/_index.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/scss\/pages\/index\/_modal.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/scss\/pages\/css\/_modal.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/scss\/pages\/index\/_recent-projects.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/scss\/pages\/css\/_recent-projects.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/scss\/pages\/index\/modal\/_essential-sound-production.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/scss\/pages\/index\/css\/_essential-sound-production.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/scss\/pages\/index\/modal\/_thank-you.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/scss\/pages\/index\/css\/_thank-you.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -5459,7 +5888,7 @@
 		},
 	"\/src\/layouts-production\/default.html": {
 		"ft": 8192,
-		"oA": 0,
+		"oA": 2,
 		"oAP": "\/src\/layouts-production\/default.html",
 		"oF": 0
 		},
@@ -5497,6 +5926,14 @@
 "hooks": [
 	],
 "manualImportLinks": {
+	"\/js\/src\/scripts.js": [
+		{
+			"followForSyntaxChecking": 1,
+			"linkedFileAbbreviatedPath": "\/js\/src\/form-validation.js",
+			"position": 0,
+			"type": 0
+			}
+		]
 	},
 "projectAttributes": {
 	"creationDate": 499971892,
@@ -5509,7 +5946,7 @@
 	"alwaysUseExternalServer": 1,
 	"animateCSSInjections": 1,
 	"autoBuildNewItems": 1,
-	"autoprefixerBrowserString": "last 2 versions, ie >= 9",
+	"autoprefixerBrowserString": "last 2 versions, Explorer >= 9, Safari >= 6",
 	"babelAuxiliaryCommentAfter": "",
 	"babelAuxiliaryCommentBefore": "",
 	"babelConfigFileHandlingType": 0,

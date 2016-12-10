@@ -1,0 +1,8 @@
+PINTEREST VERIFICATION
+<meta name="p:domain_verify" content="bc4789b1440b540e061b16da850cc42a"/>
+
+GOOGLE VERIFICATION
+<meta name="google-site-verification" content="KRkK5A_Jr3_V2SvGIzpyRMNi37bKOmqS_vBphvOJV7g" />
+
+GOOGLE TRACKING ID
+UA-51263970-1
