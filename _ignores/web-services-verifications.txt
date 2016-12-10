@@ -3,3 +3,6 @@ PINTEREST VERIFICATION
 
 GOOGLE VERIFICATION
 <meta name="google-site-verification" content="KRkK5A_Jr3_V2SvGIzpyRMNi37bKOmqS_vBphvOJV7g" />
+
+GOOGLE TRACKING ID
+UA-51263970-1
