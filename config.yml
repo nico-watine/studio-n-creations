@@ -1,7 +1,7 @@
 
 # Autoprefixer will make sure your CSS works with these browsers
 COMPATIBILITY:
-  - "last 2 versions"
+  - "last 2 versions"  
   - "ie >= 9"
   - "Safari >= 6"
 
