@@ -88,9 +88,11 @@ function javascript() {
     .pipe(gulp.dest(PATHS.dist + '/js'));
 }
 
+// Watch and copy .js files located in js/custom to js/custom in dist
+// These js files are already being processed by Codekit
 function javascript_custom() {
-  return gulp.src('js/{{(**),!(src)/**},*.js}') // all sub-files and sub-folders except src
-    .pipe(gulp.dest(PATHS.dist + '/js'));
+  return gulp.src('js/custom/**') // all sub-files and sub-folders except src
+    .pipe(gulp.dest(PATHS.dist + '/js/custom/'));
 }
 
 // Copy over fonts
