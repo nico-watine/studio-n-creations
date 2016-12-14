@@ -5,9 +5,9 @@ $(document).ready(function($) {
 	$(".error").hide();
 	
 	
-	// $('#index-contact-form input').click(function(e) {
- //        $(".error").fadeOut();
- //    });
+	$('#index-contact-form input').click(function(e) {
+        $(".error").fadeOut();
+    });
 	
 	// on submit...
 	$("#index-contact-form #submit").click(function() {
@@ -18,7 +18,6 @@ $(document).ready(function($) {
 		//name
 		var name = $("input#name").val();
 		if(name == ""){
-			//$("#error").fadeIn().text("Name required.");
 			$('#error-name').fadeIn('slow');
 			$("input#name").focus();
 			return false;
@@ -26,16 +25,13 @@ $(document).ready(function($) {
 
 		//email (check if entered anything)
 		var email = $("input#email").val();
-		//email (check if entered anything)
 		if(email == ""){
-			//$("#error").fadeIn().text("Email required");
 			$('#error-email').fadeIn('slow');
 			$("input#email").focus();
 			return false;
 		}
 		
 		//email (check if email entered is valid)
-
 		if (email !== "") {  // If something was entered
 			if (!isValidEmailAddress(email)) {
 				$('#error-email').fadeIn('slow'); //error message
