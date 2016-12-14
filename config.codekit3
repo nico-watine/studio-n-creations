@@ -6700,14 +6700,6 @@
 			"position": 0,
 			"type": 0
 			}
-		],
-	"\/js\/src\/custom\/scripts.js": [
-		{
-			"followForSyntaxChecking": 1,
-			"linkedFileAbbreviatedPath": "\/js\/src\/custom\/form-validation.js",
-			"position": 0,
-			"type": 0
-			}
 		]
 	},
 "projectAttributes": {
