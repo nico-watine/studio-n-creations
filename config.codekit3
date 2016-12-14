@@ -4979,7 +4979,7 @@
 		},
 	"\/dist\/android-chrome-144x144.png": {
 		"ft": 32768,
-		"iS": 4819,
+		"iS": 0,
 		"oA": 1,
 		"oAP": "\/dist\/android-chrome-144x144.png",
 		"oF": 0,
@@ -6693,6 +6693,14 @@
 "hooks": [
 	],
 "manualImportLinks": {
+	"\/js\/src\/app.js": [
+		{
+			"followForSyntaxChecking": 1,
+			"linkedFileAbbreviatedPath": "\/js\/src\/custom\/form-validation.js",
+			"position": 0,
+			"type": 0
+			}
+		],
 	"\/js\/src\/custom\/scripts.js": [
 		{
 			"followForSyntaxChecking": 1,
