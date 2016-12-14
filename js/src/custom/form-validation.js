@@ -1,16 +1,16 @@
 
 $(document).ready(function($) {
 
-	// hide messages 
+	// hide error messages by default
 	$(".error").hide();
-	$(".success").hide();
 	
-	$('#contactForm input').click(function(e) {
+	
+	$('#index-contact-form input').click(function(e) {
         $(".error").fadeOut();
     });
 	
 	// on submit...
-	$("#contactForm #submit").click(function() {
+	$("#index-contact-form #submit").click(function() {
 		$(".error").hide();
 		
 		//required:
@@ -19,17 +19,17 @@ $(document).ready(function($) {
 		var name = $("input#name").val();
 		if(name == ""){
 			//$("#error").fadeIn().text("Name required.");
-			$('#fname').fadeIn('slow');
+			$('#error-name').fadeIn('slow');
 			$("input#name").focus();
 			return false;
 		}
-		
+
 		//email (check if entered anything)
 		var email = $("input#email").val();
 		//email (check if entered anything)
 		if(email == ""){
 			//$("#error").fadeIn().text("Email required");
-			$('#fmail').fadeIn('slow');
+			$('#error-email').fadeIn('slow');
 			$("input#email").focus();
 			return false;
 		}
@@ -38,7 +38,7 @@ $(document).ready(function($) {
 
 		if (email !== "") {  // If something was entered
 			if (!isValidEmailAddress(email)) {
-				$('#fmail').fadeIn('slow'); //error message
+				$('#error-email').fadeIn('slow'); //error message
 				$("input#email").focus();   //focus on email field
 				return false;  
 			}
@@ -49,26 +49,15 @@ function isValidEmailAddress(emailAddress) {
     return pattern.test(emailAddress);
 };
 
-		
-		
-		
-		// comments
-		var comments = $("#msg").val();
+		// Message Text Input
+		var comments = $("#message").val();
 		
 		if(comments == ""){
-			//$("#error").fadeIn().text("Email required");
-			$('#fmsg').fadeIn('slow');
-			$("input#msg").focus();
+			$('#error-message').fadeIn('slow');
+			$("input#message").focus();
 			return false;
 		}
-	});  
-		
-		
-	// on success...
-	 function success(){
-	 	$("#success").fadeIn();
-	 	$("#contactForm").fadeOut();
-	 }
+	}); 
 	
     return false;
 });
