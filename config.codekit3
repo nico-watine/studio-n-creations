@@ -6270,20 +6270,20 @@
 		"sC": 1,
 		"tS": 0
 		},
-	"\/js\/src\/form-validation.js": {
+	"\/js\/src\/custom\/form-validation.js": {
 		"ft": 64,
 		"mi": 0,
 		"oA": 1,
-		"oAP": "\/js\/form-validation-min.js",
+		"oAP": "\/js\/src\/form-validation-min.js",
 		"oF": 1,
 		"sC": 0,
 		"tS": 0
 		},
-	"\/js\/src\/scripts.js": {
+	"\/js\/src\/custom\/scripts.js": {
 		"ft": 64,
 		"mi": 0,
 		"oA": 0,
-		"oAP": "\/js\/scripts-min.js",
+		"oAP": "\/js\/src\/scripts-min.js",
 		"oF": 1,
 		"sC": 1,
 		"tS": 0
@@ -6720,14 +6720,6 @@
 "hooks": [
 	],
 "manualImportLinks": {
-	"\/js\/src\/scripts.js": [
-		{
-			"followForSyntaxChecking": 1,
-			"linkedFileAbbreviatedPath": "\/js\/src\/form-validation.js",
-			"position": 0,
-			"type": 0
-			}
-		]
 	},
 "projectAttributes": {
 	"creationDate": 499971892,
