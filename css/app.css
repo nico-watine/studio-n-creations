@@ -6681,7 +6681,11 @@ form#index-contact-form span.input-group-label.error {
 #index header .absolute-wrapper .brand-wordmark {
   color: #fff;
   text-shadow: -0.25rem 0.3125rem 0 rgba(0, 0, 0, 0.45);
-  margin-bottom: 1rem;
+}
+
+#index header .absolute-wrapper .phone {
+  color: #fff;
+  text-shadow: -0.0625rem 0.125rem 0.0625rem rgba(0, 0, 0, 0.45);
 }
 
 #index header .absolute-wrapper .brand-services {
