@@ -4949,16 +4949,6 @@
 		"oAP": "\/config.yml",
 		"oF": 0
 		},
-	"\/css\/app.css": {
-		"aP": 0,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/css\/app-ck.css",
-		"oF": 0,
-		"oS": 0
-		},
 	"\/dist\/.htaccess": {
 		"ft": 8192,
 		"oA": 2,
@@ -6557,19 +6547,6 @@
 		"oS": 0,
 		"uL": 1
 		},
-	"\/scss\/pages\/index\/_index.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/scss\/pages\/css\/_index.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
 	"\/scss\/pages\/index\/_modal.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -6653,12 +6630,6 @@
 		"oAP": "\/src\/helpers\/_notes.txt",
 		"oF": 0
 		},
-	"\/src\/layouts-production\/default.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/src\/layouts-production\/default.html",
-		"oF": 0
-		},
 	"\/src\/layouts\/_notes.txt": {
 		"ft": 8192,
 		"oA": 1,
@@ -6669,12 +6640,6 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/src\/layouts\/default.html",
-		"oF": 0
-		},
-	"\/src\/pages\/index.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/src\/pages\/index.php",
 		"oF": 0
 		},
 	"\/src\/partials\/_notes.txt": {
