@@ -174,7 +174,7 @@ body-class: index
 		<div class="medium-8 large-9 columns prose">
 			<h3 class="show-for-medium">About Us</h3>
 			<h4>My name is <span itemprop="name">Nico Watine</span>, and I am the <span class="inline-block" itemprop="affiliation">Studio N Creations</span> team.</h4>
-			<p>I'm team leader of the Design Department and in charge of the Coding Division. I do Administrative work, too - I'm also the head of Human Resources! That tends to work out well whenever I get unhappy with working conditions. I'm a <span itemprop="jobTitle">web developer</span> and am passionate about what I do. I love working with people who are excited about their new web project.</p>
+			<p>I design, brand, code and maintain mobile-optimized websites for projects of all sizes. I’m located in Houston, TX, and am available for hire anywhere. I'm a <span itemprop="jobTitle">web developer</span> and am passionate about what I do. I love working with people who are excited about their new web project.</p>
 		</div>
 	</div>
 </section>
