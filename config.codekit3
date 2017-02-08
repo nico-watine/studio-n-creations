@@ -5669,12 +5669,6 @@
 		"oF": 0,
 		"opt": 0
 		},
-	"\/dist\/index.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/dist\/index.php",
-		"oF": 0
-		},
 	"\/dist\/js\/app-min.js": {
 		"ft": 64,
 		"mi": 0,

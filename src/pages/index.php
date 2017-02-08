@@ -156,14 +156,14 @@ body-class: index
 			<div class="projectCard text-center">
 				<div class="projectCard-info">
 					<div class="prose">
-						<h3>Jardin de France</h3>
+						<h3>Houston Interior Plants</h3>
 						<h4>Project Name</h4>
 						<br>
-						<a class="button" href="http://jardindefrancetx.com/" target="_blank">www.JardinDeFranceTX.com</a>
+						<a class="button" href="http://houstoninteriorplants.com/" target="_blank">www.HoustonInteriorPlants.com</a>
 					</div>
 				</div>
 				<div class="projectCard-image">
-					<img srcset="{{ cdn }}/img/projects/jardin-de-france-tx/index-modal/modal-thumb_2x.jpg 2x" src="{{ cdn }}/img/projects/jardin-de-france-tx/index-modal/modal-thumb.jpg" alt="Jardin de France TX website mockup">
+					<img srcset="{{ cdn }}/img/projects/houston-interior-plants/modal-thumb_2x.jpg 2x" src="{{ cdn }}/img/projects/houston-interior-plants/modal-thumb.jpg" alt="Houston Interior Plants website mockup">
 				</div>
 			</div>
 		</div>
