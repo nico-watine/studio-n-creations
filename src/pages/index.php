@@ -136,6 +136,38 @@ body-class: index
 			</div>
 		</div>
 	</div>
+	<div class="row">
+		<div class="medium-6 columns">
+			<div class="projectCard text-center">
+				<div class="projectCard-info">
+					<div class="prose">
+						<h3>The Deck On Fountainview</h3>
+						<h4>Project Name</h4>
+						<br>
+						<a class="button" href="http://thedeckonfountainview.com/" target="_blank">www.thedeckonfountainview.com</a>
+					</div>
+				</div>
+				<div class="projectCard-image">
+					<img srcset="{{ cdn }}/img/projects/the-deck-on-fountainview/modal-thumb_2x.jpg 2x" src="{{ cdn }}/img/projects/the-deck-on-fountainview/modal-thumb.jpg" alt="The Deck On Fountainview website mockup">
+				</div>
+			</div>
+		</div>
+		<div class="medium-6 columns">
+			<div class="projectCard text-center">
+				<div class="projectCard-info">
+					<div class="prose">
+						<h3>Jardin de France</h3>
+						<h4>Project Name</h4>
+						<br>
+						<a class="button" href="http://jardindefrancetx.com/" target="_blank">www.JardinDeFranceTX.com</a>
+					</div>
+				</div>
+				<div class="projectCard-image">
+					<img srcset="{{ cdn }}/img/projects/jardin-de-france-tx/index-modal/modal-thumb_2x.jpg 2x" src="{{ cdn }}/img/projects/jardin-de-france-tx/index-modal/modal-thumb.jpg" alt="Jardin de France TX website mockup">
+				</div>
+			</div>
+		</div>
+	</div>
 </section>
 <section class="graphic-branding">
 	<div class="row collapse">
