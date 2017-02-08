@@ -5669,6 +5669,20 @@
 		"oF": 0,
 		"opt": 0
 		},
+	"\/dist\/img\/projects\/the-deck-on-fountainview\/modal-thumb_2x.jpg": {
+		"ft": 16384,
+		"iS": 123978,
+		"oA": 1,
+		"oAP": "\/dist\/img\/projects\/the-deck-on-fountainview\/modal-thumb_2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/dist\/index.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/index.php",
+		"oF": 0
+		},
 	"\/dist\/js\/app-min.js": {
 		"ft": 64,
 		"mi": 0,
@@ -6266,11 +6280,11 @@
 		"oF": 0,
 		"opt": 0
 		},
-	"\/img\/projects\/the-deck-on-fountainview\/modal-thumb@2x.jpg": {
+	"\/img\/projects\/the-deck-on-fountainview\/modal-thumb_2x.jpg": {
 		"ft": 16384,
 		"iS": 123978,
 		"oA": 1,
-		"oAP": "\/img\/projects\/the-deck-on-fountainview\/modal-thumb@2x.jpg",
+		"oAP": "\/img\/projects\/the-deck-on-fountainview\/modal-thumb_2x.jpg",
 		"oF": 0,
 		"opt": 0
 		},
@@ -6697,6 +6711,12 @@
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/src\/data\/_notes.txt",
+		"oF": 0
+		},
+	"\/src\/data\/cdn.yml": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/src\/data\/cdn.yml",
 		"oF": 0
 		},
 	"\/src\/helpers\/_notes.txt": {
