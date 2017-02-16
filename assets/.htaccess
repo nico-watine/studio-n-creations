@@ -357,3 +357,10 @@ RewriteRule ^what\-we\-do\/$ "http\:\/\/studioncreations\.com\/" [R=301,L]
 RewriteCond %{HTTP_HOST} ^studioncreations\.com$ [OR]
 RewriteCond %{HTTP_HOST} ^www\.studioncreations\.com$
 RewriteRule ^about\-us$ "http\:\/\/studioncreations\.com\/" [R=301,L]
+
+# /contact/ -> index
+RewriteCond %{HTTP_HOST} ^studioncreations\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.studioncreations\.com$
+RewriteRule ^contact\/$ "http\:\/\/studioncreations\.com\/" [R=301,L]
+
+
