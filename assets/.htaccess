@@ -344,4 +344,12 @@ RewriteRule ^(js|css)/(.+)\.(.+)\.(js|css)$ $1/$2.$4 [L]
 
 
 
+# ---------------------------------------
+# |            URL Redirects            |
+# ---------------------------------------
+
+# /what-we-do/ -> index
+RewriteCond %{HTTP_HOST} ^studioncreations\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.studioncreations\.com$
+RewriteRule ^what\-we\-do\/$ "http\:\/\/studioncreations\.com\/" [R=301,L]
 
