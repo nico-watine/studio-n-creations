@@ -363,6 +363,11 @@ RewriteCond %{HTTP_HOST} ^studioncreations\.com$ [OR]
 RewriteCond %{HTTP_HOST} ^www\.studioncreations\.com$
 RewriteRule ^contact\/$ "http\:\/\/studioncreations\.com\/" [R=301,L]
 
+# /contact -> index
+RewriteCond %{HTTP_HOST} ^studioncreations\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.studioncreations\.com$
+RewriteRule ^contact$ "http\:\/\/studioncreations\.com\/" [R=301,L]
+
 # /portfolio/ -> index
 RewriteCond %{HTTP_HOST} ^studioncreations\.com$ [OR]
 RewriteCond %{HTTP_HOST} ^www\.studioncreations\.com$
