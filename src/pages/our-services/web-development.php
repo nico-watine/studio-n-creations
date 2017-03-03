@@ -49,4 +49,21 @@ body-class: web-development
 			</div>
 		</div>
 	</div>
+	<div class="row-expanded" id="post-production-actions">
+		<div class="row">
+			<div class="columns">
+				<h3 class="text-center">4. Post-Production Actions</h3>
+			</div>
+		</div>
+		<div class="row" style="margin-bottom: 20px;">
+			<div class="large-5 columns">
+				<h4>Hosting</h4>
+				<p>Once the site has been completed in full, we then host the website on our private servers and publish the site online.</p>
+			</div>
+			<div class="large-7 columns">
+				<h4>Maintenance</h4>
+				<p>After this, we discuss with our client about the extent to which they want to be involved in the site’s upkeep. We provide hassle-free site maintenace options so the client can focus on their business and not their website’s performance and reliability.</p>
+			</div>
+		</div>
+	</div>
 </section>

@@ -6796,6 +6796,15 @@ form#index-contact-form span.input-group-label.error {
   background: url("/img/our-services/web-development/new-project-workflow/coding-development-stage.png") center center/cover no-repeat;
 }
 
+.row-expanded#post-production-actions {
+  background: #fff;
+  padding: 1.25rem 0;
+}
+
+#web-development {
+  background: #F4F4F4;
+}
+
 .p-0 {
   padding: 0;
 }
