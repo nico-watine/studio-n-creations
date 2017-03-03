@@ -32,7 +32,7 @@ body-class: web-development
 					<h3>2. Design Phase</h3>
 				</div>
 				<div class="workflowCard-description">
-					<p>We consult with our clients closely throughout the design process to ensure full satisfaction with the site’s look and feel. </p>
+					<p>We consult with our clients closely throughout the design process to ensure full satisfaction with the site’s look and feel.</p>
 				</div>
 			</div>
 		</div>
