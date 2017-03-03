@@ -37,4 +37,16 @@ body-class: web-development
 			</div>
 		</div>
 	</div>
+	<div class="row">
+		<div class="large-8 large-push-2 columns end">
+			<div class="workflowCard text-center" id="coding-development-stage">
+				<div class="workflowCard-title">
+					<h3>3. Coding &amp; Development Stage
+				</div>
+				<div class="workflowCard-description">
+					<p>We then code the approved design into a functioning website, using the industry’s latest <span class="inline-block">methods and standards.</span></p>
+				</div>
+			</div>
+		</div>
+	</div>
 </section>
