@@ -5285,6 +5285,14 @@
 		"oF": 0,
 		"opt": 0
 		},
+	"\/dist\/img\/our-services\/web-development\/new-project-workflow\/site-layout-planning.png": {
+		"ft": 32768,
+		"iS": 168179,
+		"oA": 1,
+		"oAP": "\/dist\/img\/our-services\/web-development\/new-project-workflow\/site-layout-planning.png",
+		"oF": 0,
+		"opt": 0
+		},
 	"\/dist\/img\/projects\/dmesa\/index-graphic-design\/dmesa-logo.png": {
 		"ft": 32768,
 		"iS": 13601,
@@ -5741,12 +5749,6 @@
 		"oF": 0,
 		"opt": 0
 		},
-	"\/dist\/our-services\/index.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/dist\/our-services\/index.php",
-		"oF": 0
-		},
 	"\/dist\/our-services\/web-development.php": {
 		"ft": 8192,
 		"oA": 2,
@@ -5905,6 +5907,14 @@
 		"iS": 386274,
 		"oA": 1,
 		"oAP": "\/img\/index\/header\/4-min-1441\/max.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/our-services\/web-development\/new-project-workflow\/site-layout-planning.png": {
+		"ft": 32768,
+		"iS": 168179,
+		"oA": 1,
+		"oAP": "\/img\/our-services\/web-development\/new-project-workflow\/site-layout-planning.png",
 		"oF": 0,
 		"opt": 0
 		},
