@@ -5741,6 +5741,18 @@
 		"oF": 0,
 		"opt": 0
 		},
+	"\/dist\/our-services\/index.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/our-services\/index.php",
+		"oF": 0
+		},
+	"\/dist\/our-services\/web-development.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/our-services\/web-development.php",
+		"oF": 0
+		},
 	"\/dist\/php\/autoVer.php": {
 		"ft": 8192,
 		"oA": 2,
@@ -6739,6 +6751,12 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/src\/pages\/index.php",
+		"oF": 0
+		},
+	"\/src\/pages\/our-services\/web-development.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/src\/pages\/our-services\/web-development.php",
 		"oF": 0
 		},
 	"\/src\/partials\/_notes.txt": {
