@@ -1636,7 +1636,9 @@ h2 {
   font-size: 2.125rem;
 }
 
-h3, form#index-contact-form .contact-form-input-group-button input {
+
+h3,
+form#index-contact-form .contact-form-input-group-button input {
   font-size: 2.125rem;
 }
 
@@ -1659,7 +1661,9 @@ h6 {
   h2 {
     font-size: 2.375rem;
   }
-  h3, form#index-contact-form .contact-form-input-group-button input {
+  
+  h3,
+  form#index-contact-form .contact-form-input-group-button input {
     font-size: 2.125rem;
   }
   h4 {
@@ -2058,8 +2062,8 @@ p + .stat {
 }
 
 .button.hollow.secondary:hover, .button.hollow.secondary:focus {
-  border-color: #3c3c3c;
-  color: #3c3c3c;
+  border-color: #3c3b3b;
+  color: #3c3b3b;
 }
 
 .button.hollow.success {
@@ -2230,7 +2234,7 @@ textarea[readonly] {
   -moz-appearance: none;
 }
 
-input[type='search'] {
+input[type="search"] {
   box-sizing: border-box;
 }
 
@@ -4480,48 +4484,41 @@ table {
   border-radius: 0;
 }
 
-table thead,
-table tbody,
-table tfoot {
+thead, tbody, tfoot {
   border: 1px solid #f1f1f1;
   background-color: #fefefe;
 }
 
-table caption {
+caption {
   font-weight: bold;
   padding: 0.5rem 0.625rem 0.625rem;
 }
 
-table thead {
+thead {
   background: #f8f8f8;
   color: #222;
 }
 
-table tfoot {
+tfoot {
   background: #f1f1f1;
   color: #222;
 }
 
-table thead tr,
-table tfoot tr {
+thead tr, tfoot tr {
   background: transparent;
 }
 
-table thead th,
-table thead td,
-table tfoot th,
-table tfoot td {
+thead th, thead td, tfoot th, tfoot td {
   padding: 0.5rem 0.625rem 0.625rem;
   font-weight: bold;
   text-align: left;
 }
 
-table tbody tr:nth-child(even) {
+tbody tr:nth-child(even) {
   background-color: #f1f1f1;
 }
 
-table tbody th,
-table tbody td {
+tbody th, tbody td {
   padding: 0.5rem 0.625rem 0.625rem;
 }
 
@@ -6568,7 +6565,7 @@ form#index-contact-form span.input-group-label.error {
 }
 
 #index .bubble-bg {
-  background: #fff url("http://cdn.studioncreations.com/img/index/bubble-bg/bubble-background.png") center center/cover no-repeat;
+  background: #fff url("/img/index/bubble-bg/bubble-background.png") center center/cover no-repeat;
 }
 
 .projectCard {
@@ -6648,25 +6645,25 @@ form#index-contact-form span.input-group-label.error {
 #index header {
   height: 28.75rem;
   position: relative;
-  background: #fff url("http://cdn.studioncreations.com/img/index/header/1-small/small.jpg") left top/cover no-repeat;
+  background: #fff url("/img/index/header/1-small/small.jpg") left top/cover no-repeat;
 }
 
 @media screen and (min-width: 40em) {
   #index header {
     height: 37.5rem;
-    background-image: url("http://cdn.studioncreations.com/img/index/header/2-medium/medium.jpg");
+    background-image: url("/img/index/header/2-medium/medium.jpg");
   }
 }
 
 @media only screen and (min-width: 64.063em) {
   #index header {
-    background-image: url("http://cdn.studioncreations.com/img/index/header/3-min-1025/large.jpg");
+    background-image: url("/img/index/header/3-min-1025/large.jpg");
   }
 }
 
 @media only screen and (min-width: 90.063em) {
   #index header {
-    background-image: url("http://cdn.studioncreations.com/img/index/header/4-min-1441/max.jpg");
+    background-image: url("/img/index/header/4-min-1441/max.jpg");
   }
 }
 
