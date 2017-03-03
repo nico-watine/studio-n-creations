@@ -5119,6 +5119,16 @@
 		"oAP": "\/dist\/browserconfig.xml",
 		"oF": 0
 		},
+	"\/dist\/css\/app-ck.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/dist\/css\/app-ck-ck.css",
+		"oF": 0,
+		"oS": 0
+		},
 	"\/dist\/css\/app.css": {
 		"aP": 0,
 		"bl": 0,
@@ -5309,11 +5319,27 @@
 		"oF": 0,
 		"opt": 0
 		},
+	"\/dist\/img\/our-services\/web-development\/new-project-workflow\/server.png": {
+		"ft": 32768,
+		"iS": 935,
+		"oA": 1,
+		"oAP": "\/dist\/img\/our-services\/web-development\/new-project-workflow\/server.png",
+		"oF": 0,
+		"opt": 0
+		},
 	"\/dist\/img\/our-services\/web-development\/new-project-workflow\/site-layout-planning.png": {
 		"ft": 32768,
 		"iS": 168179,
 		"oA": 1,
 		"oAP": "\/dist\/img\/our-services\/web-development\/new-project-workflow\/site-layout-planning.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/dist\/img\/our-services\/web-development\/new-project-workflow\/wrench.png": {
+		"ft": 32768,
+		"iS": 2530,
+		"oA": 1,
+		"oAP": "\/dist\/img\/our-services\/web-development\/new-project-workflow\/wrench.png",
 		"oF": 0,
 		"opt": 0
 		},
@@ -5950,11 +5976,27 @@
 		"oF": 0,
 		"opt": 0
 		},
+	"\/img\/our-services\/web-development\/new-project-workflow\/server.png": {
+		"ft": 32768,
+		"iS": 935,
+		"oA": 1,
+		"oAP": "\/img\/our-services\/web-development\/new-project-workflow\/server.png",
+		"oF": 0,
+		"opt": 0
+		},
 	"\/img\/our-services\/web-development\/new-project-workflow\/site-layout-planning.png": {
 		"ft": 32768,
 		"iS": 168179,
 		"oA": 1,
 		"oAP": "\/img\/our-services\/web-development\/new-project-workflow\/site-layout-planning.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/our-services\/web-development\/new-project-workflow\/wrench.png": {
+		"ft": 32768,
+		"iS": 2530,
+		"oA": 1,
+		"oAP": "\/img\/our-services\/web-development\/new-project-workflow\/wrench.png",
 		"oF": 0,
 		"opt": 0
 		},
