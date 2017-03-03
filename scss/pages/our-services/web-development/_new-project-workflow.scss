@@ -29,4 +29,11 @@
 	background: url('/img/our-services/web-development/new-project-workflow/site-layout-planning.png') center center/cover no-repeat;
 }
 
+.workflowCard#design-phase .workflowCard-title {
+	background: url('/img/our-services/web-development/new-project-workflow/design-phase.png') center center/cover no-repeat;
 
+	h3 {
+		color: $black;
+		text-shadow: none;
+	}
+}

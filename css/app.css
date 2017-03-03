@@ -6783,6 +6783,15 @@ form#index-contact-form span.input-group-label.error {
   background: url("/img/our-services/web-development/new-project-workflow/site-layout-planning.png") center center/cover no-repeat;
 }
 
+.workflowCard#design-phase .workflowCard-title {
+  background: url("/img/our-services/web-development/new-project-workflow/design-phase.png") center center/cover no-repeat;
+}
+
+.workflowCard#design-phase .workflowCard-title h3, .workflowCard#design-phase .workflowCard-title form#index-contact-form .contact-form-input-group-button input, form#index-contact-form .contact-form-input-group-button .workflowCard#design-phase .workflowCard-title input {
+  color: #222;
+  text-shadow: none;
+}
+
 .p-0 {
   padding: 0;
 }

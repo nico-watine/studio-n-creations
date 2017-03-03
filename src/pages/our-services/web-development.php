@@ -26,6 +26,15 @@ body-class: web-development
 				</div>
 			</div>
 		</div>
-		<div class="large-6 columns"></div>
+		<div class="large-6 columns">
+			<div class="workflowCard text-center" id="design-phase">
+				<div class="workflowCard-title">
+					<h3>2. Design Phase</h3>
+				</div>
+				<div class="workflowCard-description">
+					<p>We consult with our clients closely throughout the design process to ensure full satisfaction with the site’s look and feel. </p>
+				</div>
+			</div>
+		</div>
 	</div>
 </section>
