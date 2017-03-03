@@ -17,12 +17,12 @@ body-class: web-development
 	</div>
 	<div class="row">
 		<div class="large-6 columns">
-			<div class="workflowCard text-center" style="background: #638199; box-shadow: 0 2px 2px 0 rgba(0,0,0,0.20), 0 6px 10px 0 rgba(0,0,0,0.30); margin-bottom: 40px;">
-				<div class="workflowCard-title" style="padding: 80px 0; background: #638199 url('/img/our-services/web-development/new-project-workflow/site-layout-planning.png') center center/cover no-repeat;">
-					<h3 style="text-shadow: -2px 3px 0 rgba(0,0,0,0.80); color: #FFFFFF;">1. Site Layout Planning</h3>
+			<div class="workflowCard text-center" id="site-layout-planning">
+				<div class="workflowCard-title">
+					<h3>1. Site Layout Planning</h3>
 				</div>
-				<div class="workflowCard-description" style="padding: 16px 12px;">
-					<p style="color: #fff; font-weight: normal; margin: 0;">This includes the content strategy of what info will be presented <span class="inline-block">on the website.</span></p>
+				<div class="workflowCard-description">
+					<p>This includes the content strategy of what info will be presented <span class="inline-block">on the website.</span></p>
 				</div>
 			</div>
 		</div>
