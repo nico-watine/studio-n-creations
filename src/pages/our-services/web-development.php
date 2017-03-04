@@ -80,10 +80,10 @@ body-class: web-development
 		</div>
 		<div class="row" style="margin-bottom: 20px;">
 			<div class="large-5 columns">
-				<div class="icon">
+				<div class="icon" style="width: 70px; float: left; padding-top: 20px;">
 					<img src="/img/our-services/web-development/new-project-workflow/server.png" alt="">
 				</div>
-				<div class="prose">
+				<div class="prose" style="padding-left: 90px;">
 					<h4>Hosting</h4>
 					<p>Once the site has been completed in full, we then host the website on our private servers and publish the site online.</p>
 				</div>
