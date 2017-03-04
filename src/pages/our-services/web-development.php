@@ -9,7 +9,7 @@ body-id: web-development
 body-class: web-development
 ---
 <section class="new-project-workflow" style="padding-top: 40px;">
-	<div class="row" style="margin-bottom: 40px;">
+<!-- 	<div class="row" style="margin-bottom: 40px;">
 		<div class="large-7 large-push-2 columns end">
 			<h2>We offer a personalized website design and creation experience.</h2>
 			<h4>Our workflow for any new web project consists of 4 steps:</h4>
@@ -48,7 +48,7 @@ body-class: web-development
 				</div>
 			</div>
 		</div>
-	</div>
+	</div> -->
 	<div class="row-expanded" id="post-production-actions">
 		<div class="row">
 			<div class="columns">
