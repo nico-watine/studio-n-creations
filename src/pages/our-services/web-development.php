@@ -80,7 +80,7 @@ body-class: web-development
 		</div>
 		<div class="row" style="margin-bottom: 20px;">
 			<div class="medium-5 columns">
-				<div class="icon">
+				<div class="icon float-left">
 					<img src="/img/our-services/web-development/new-project-workflow/server.png" alt="">
 				</div>
 				<div class="prose">
@@ -89,7 +89,7 @@ body-class: web-development
 				</div>
 			</div>
 			<div class="medium-7 columns">
-				<div class="icon">
+				<div class="icon float-left">
 					<img src="/img/our-services/web-development/new-project-workflow/wrench.png" alt="">
 				</div>
 				<div class="prose">
