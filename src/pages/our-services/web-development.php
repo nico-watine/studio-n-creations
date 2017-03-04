@@ -58,7 +58,7 @@ body-class: web-development
 		<div class="row" style="margin-bottom: 20px;">
 			<div class="medium-5 columns">
 				<div class="icon float-left">
-					<img src="/img/our-services/web-development/new-project-workflow/server.png" alt="">
+					<img src="/img/our-services/web-development/new-project-workflow/server.svg" alt="">
 				</div>
 				<div class="prose">
 					<h4>Hosting</h4>
