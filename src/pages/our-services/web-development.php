@@ -79,7 +79,7 @@ body-class: web-development
 			</div>
 		</div>
 		<div class="row" style="margin-bottom: 20px;">
-			<div class="large-5 columns">
+			<div class="medium-5 columns">
 				<div class="icon" style="width: 70px; float: left; padding-top: 20px;">
 					<img src="/img/our-services/web-development/new-project-workflow/server.png" alt="">
 				</div>
@@ -88,7 +88,7 @@ body-class: web-development
 					<p>Once the site has been completed in full, we then host the website on our private servers and publish the site online.</p>
 				</div>
 			</div>
-			<div class="large-7 columns">
+			<div class="medium-7 columns">
 				<div class="icon" style="width: 70px; float: left; padding-top: 20px;">
 					<img src="/img/our-services/web-development/new-project-workflow/wrench.png" alt="">
 				</div>
