@@ -51,12 +51,12 @@
 	padding: rem-calc(20) 0;
 
 	.icon {
-		width: 70px; 
-		padding-top: 30px;
+		width: rem-calc(70); 
+		padding-top: rem-calc(30);
 	}
 
 	.prose {
-		padding-left: 90px;
+		padding-left: rem-calc(90);
 	}
 }
 
