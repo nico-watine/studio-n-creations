@@ -89,10 +89,10 @@ body-class: web-development
 				</div>
 			</div>
 			<div class="large-7 columns">
-				<div class="icon">
+				<div class="icon" style="width: 70px; float: left; padding-top: 20px;">
 					<img src="/img/our-services/web-development/new-project-workflow/wrench.png" alt="">
 				</div>
-				<div class="prose">
+				<div class="prose" style="padding-left: 90px;">
 					<h4>Maintenance</h4>
 					<p>After this, we discuss with our client about the extent to which they want to be involved in the site’s upkeep. We provide hassle-free site maintenace options so the client can focus on their business and not their website’s performance and reliability.</p>
 				</div>
