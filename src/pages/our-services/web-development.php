@@ -67,7 +67,7 @@ body-class: web-development
 			</div>
 			<div class="medium-7 columns">
 				<div class="icon float-left">
-					<img src="/img/our-services/web-development/new-project-workflow/wrench.png" alt="">
+					<img src="/img/our-services/web-development/new-project-workflow/wrench.svg" alt="">
 				</div>
 				<div class="prose">
 					<h4>Maintenance</h4>
