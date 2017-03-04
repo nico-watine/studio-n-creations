@@ -5295,14 +5295,6 @@
 		"oF": 0,
 		"opt": 0
 		},
-	"\/dist\/img\/our-services\/web-development\/new-project-workflow\/coding-development-stage-alt.png": {
-		"ft": 32768,
-		"iS": 120218,
-		"oA": 1,
-		"oAP": "\/dist\/img\/our-services\/web-development\/new-project-workflow\/coding-development-stage-alt.png",
-		"oF": 0,
-		"opt": 0
-		},
 	"\/dist\/img\/our-services\/web-development\/new-project-workflow\/coding-development-stage.png": {
 		"ft": 32768,
 		"iS": 120218,
@@ -5326,6 +5318,16 @@
 		"oAP": "\/dist\/img\/our-services\/web-development\/new-project-workflow\/server.png",
 		"oF": 0,
 		"opt": 0
+		},
+	"\/dist\/img\/our-services\/web-development\/new-project-workflow\/server.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/dist\/img\/our-services\/web-development\/new-project-workflow\/server.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
 		},
 	"\/dist\/img\/our-services\/web-development\/new-project-workflow\/site-layout-planning.png": {
 		"ft": 32768,
@@ -5983,6 +5985,16 @@
 		"oAP": "\/img\/our-services\/web-development\/new-project-workflow\/server.png",
 		"oF": 0,
 		"opt": 0
+		},
+	"\/img\/our-services\/web-development\/new-project-workflow\/server.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/img\/our-services\/web-development\/new-project-workflow\/server.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
 		},
 	"\/img\/our-services\/web-development\/new-project-workflow\/site-layout-planning.png": {
 		"ft": 32768,
