@@ -6792,6 +6792,12 @@ form#index-contact-form span.input-group-label.error {
   text-shadow: none;
 }
 
+@media screen and (min-width: 40em) {
+  .workflowCard#design-phase .workflowCard-title {
+    background-position: center center;
+  }
+}
+
 .workflowCard#coding-development-stage .workflowCard-title {
   background: url("/img/our-services/web-development/new-project-workflow/coding-development-stage.png") center center/cover no-repeat;
 }

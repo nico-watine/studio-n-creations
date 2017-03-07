@@ -36,6 +36,10 @@
 		color: $black;
 		text-shadow: none;
 	}
+
+	@include breakpoint(medium) {
+		background-position: center center;
+	}
 }
 
 .workflowCard#coding-development-stage .workflowCard-title {
