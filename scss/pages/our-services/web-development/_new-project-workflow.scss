@@ -1,5 +1,12 @@
 @import "../../../_settings.scss";
 
+
+#web-development {
+	.page-intro-prose {
+		margin: rem-calc(40) 0;
+	}
+}
+
 .workflowCard {
 	background: #638199;
 	box-shadow: $z-2;

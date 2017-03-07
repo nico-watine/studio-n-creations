@@ -6754,6 +6754,10 @@ form#index-contact-form span.input-group-label.error {
   border: 0.1875rem solid #566372;
 }
 
+#web-development .page-intro-prose {
+  margin: 2.5rem 0;
+}
+
 .workflowCard {
   background: #638199;
   box-shadow: 0 0.125rem 0.125rem 0 rgba(0, 0, 0, 0.2), 0 0.375rem 0.625rem 0 rgba(0, 0, 0, 0.3);

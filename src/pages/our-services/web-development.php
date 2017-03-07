@@ -8,8 +8,8 @@ og-image:
 body-id: web-development
 body-class: web-development
 ---
-<section class="new-project-workflow" style="padding-top: 40px;">
-	<div class="row" style="margin-bottom: 40px;">
+<section class="new-project-workflow">
+	<div class="row page-intro-prose">
 		<div class="medium-10 medium-push-1 large-7 large-push-2 columns end">
 			<h2>We offer a personalized website design and creation experience.</h2>
 			<h4>Our workflow for any new web project consists of 4 steps:</h4>
