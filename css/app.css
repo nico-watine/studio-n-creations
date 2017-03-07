@@ -6780,11 +6780,11 @@ form#index-contact-form span.input-group-label.error {
 }
 
 .workflowCard#site-layout-planning .workflowCard-title {
-  background: url("$url/img/our-services/web-development/new-project-workflow/site-layout-planning.png") center center/cover no-repeat;
+  background: url("/img/our-services/web-development/new-project-workflow/site-layout-planning.png") center center/cover no-repeat;
 }
 
 .workflowCard#design-phase .workflowCard-title {
-  background: url("$url/img/our-services/web-development/new-project-workflow/design-phase.png") center center/cover no-repeat;
+  background: url("/img/our-services/web-development/new-project-workflow/design-phase.png") center center/cover no-repeat;
 }
 
 .workflowCard#design-phase .workflowCard-title h3, .workflowCard#design-phase .workflowCard-title form#index-contact-form .contact-form-input-group-button input, form#index-contact-form .contact-form-input-group-button .workflowCard#design-phase .workflowCard-title input {
@@ -6793,7 +6793,7 @@ form#index-contact-form span.input-group-label.error {
 }
 
 .workflowCard#coding-development-stage .workflowCard-title {
-  background: url("$url/img/our-services/web-development/new-project-workflow/coding-development-stage.png") center center/cover no-repeat;
+  background: url("/img/our-services/web-development/new-project-workflow/coding-development-stage.png") center center/cover no-repeat;
 }
 
 .row-expanded#post-production-actions {
