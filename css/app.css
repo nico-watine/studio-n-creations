@@ -6807,6 +6807,10 @@ form#index-contact-form span.input-group-label.error {
   padding: 1.25rem 0;
 }
 
+.row-expanded#post-production-actions h3, .row-expanded#post-production-actions form#index-contact-form .contact-form-input-group-button input, form#index-contact-form .contact-form-input-group-button .row-expanded#post-production-actions input {
+  margin-bottom: 1rem;
+}
+
 .row-expanded#post-production-actions .icon {
   width: 4.375rem;
   padding-top: 1.875rem;
