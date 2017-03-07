@@ -58,7 +58,7 @@ body-class: web-development
 		<div class="row" style="margin-bottom: 20px;">
 			<div class="medium-5 columns">
 				<div class="icon float-left">
-					<img src="{{ cdn }}/img/our-services/web-development/new-project-workflow/server.svg" alt="">
+					<img src="{{ cdn }}/img/our-services/web-development/new-project-workflow/server.svg" alt="Hosting Server Icon" title="Server Hosting Icon">
 				</div>
 				<div class="prose">
 					<h4>Hosting</h4>
@@ -67,7 +67,7 @@ body-class: web-development
 			</div>
 			<div class="medium-7 columns">
 				<div class="icon float-left">
-					<img src="{{ cdn }}/img/our-services/web-development/new-project-workflow/wrench.svg" alt="">
+					<img src="{{ cdn }}/img/our-services/web-development/new-project-workflow/wrench.svg" alt="Maintenance Wrench" title="Maintenance Wrench Icon">
 				</div>
 				<div class="prose">
 					<h4>Maintenance</h4>
