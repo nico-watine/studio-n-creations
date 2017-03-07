@@ -10,7 +10,7 @@ body-class: web-development
 ---
 <section class="new-project-workflow" style="padding-top: 40px;">
 	<div class="row" style="margin-bottom: 40px;">
-		<div class="large-7 large-push-2 columns end">
+		<div class="medium-10 medium-push-1 large-7 large-push-2 columns end">
 			<h2>We offer a personalized website design and creation experience.</h2>
 			<h4>Our workflow for any new web project consists of 4 steps:</h4>
 		</div>
