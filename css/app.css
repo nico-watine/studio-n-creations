@@ -6814,10 +6814,23 @@ form#index-contact-form span.input-group-label.error {
 .row-expanded#post-production-actions .icon {
   width: 4.375rem;
   padding-top: 1.875rem;
+  margin: 0 auto;
+}
+
+@media screen and (min-width: 40em) {
+  .row-expanded#post-production-actions .icon {
+    float: left !important;
+  }
 }
 
 .row-expanded#post-production-actions .prose {
-  padding: 1rem 0 1rem 5.625rem;
+  padding: 1rem 0;
+}
+
+@media screen and (min-width: 40em) {
+  .row-expanded#post-production-actions .prose {
+    padding-left: 5.625rem;
+  }
 }
 
 #web-development {

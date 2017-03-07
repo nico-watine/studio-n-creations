@@ -57,19 +57,19 @@ body-class: web-development
 		</div>
 		<div class="row" style="margin-bottom: 20px;">
 			<div class="medium-5 columns">
-				<div class="icon float-left">
+				<div class="icon">
 					<img src="{{ cdn }}/img/our-services/web-development/new-project-workflow/server.svg" alt="Hosting Server Icon" title="Server Hosting Icon">
 				</div>
-				<div class="prose">
+				<div class="prose text-center medium-text-left">
 					<h4>Hosting</h4>
 					<p>Once the site has been completed in full, we then host the website on our private servers and publish the site online.</p>
 				</div>
 			</div>
 			<div class="medium-7 columns">
-				<div class="icon float-left">
+				<div class="icon">
 					<img src="{{ cdn }}/img/our-services/web-development/new-project-workflow/wrench.svg" alt="Maintenance Wrench" title="Maintenance Wrench Icon">
 				</div>
-				<div class="prose">
+				<div class="prose text-center medium-text-left">
 					<h4>Maintenance</h4>
 					<p>After this, we discuss with our client about the extent to which they want to be involved in the site’s upkeep. We provide hassle-free site maintenace options so the client can focus on their business and not their website’s performance and reliability.</p>
 				</div>

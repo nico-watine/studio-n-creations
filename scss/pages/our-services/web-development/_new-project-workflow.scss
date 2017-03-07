@@ -61,10 +61,19 @@
 	.icon {
 		width: rem-calc(70); 
 		padding-top: rem-calc(30);
+		margin: 0 auto;
+
+		@include breakpoint(medium) {
+			float: left !important;
+		}
 	}
 
 	.prose {
-		padding: rem-calc(16) 0 rem-calc(16) rem-calc(90);
+		padding: rem-calc(16) 0;
+
+		@include breakpoint(medium) {
+			padding-left: rem-calc(90);
+		}
 	}
 }
 
