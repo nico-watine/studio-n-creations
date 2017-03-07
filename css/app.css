@@ -6755,7 +6755,8 @@ form#index-contact-form span.input-group-label.error {
 }
 
 #web-development .page-intro-prose {
-  margin: 2.5rem 0;
+  margin-top: 2.5rem;
+  margin-bottom: 2.5rem;
 }
 
 .workflowCard {
