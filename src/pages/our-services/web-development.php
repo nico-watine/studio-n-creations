@@ -26,7 +26,7 @@ body-class: web-development
 				</div>
 			</div>
 		</div>
-		<div class="medium-10 medium-push-1 large-6 end columns">
+		<div class="medium-10 medium-push-1 large-6 large-push-0 end columns">
 			<div class="workflowCard text-center" id="design-phase">
 				<div class="workflowCard-title">
 					<h3>2. Design Phase</h3>
