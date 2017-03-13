@@ -7,7 +7,7 @@
 		"uuidString": "D3AFDADF-58B6-45BD-9063-434B0C0A7D18"
 		}
 	],
-"creatorBuild": "25568",
+"creatorBuild": "25704",
 "files": {
 	"\/.babelrc": {
 		"ft": 8192,
@@ -42,18 +42,22 @@
 	"\/_ignores\/git-branch-previews\/feature\/index\/mockups-with-modals.png": {
 		"ft": 32768,
 		"iS": 948833,
+		"l": 1,
 		"oA": 1,
 		"oAP": "\/_ignores\/git-branch-previews\/feature\/index\/mockups-with-modals.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/_ignores\/git-branch-previews\/OLD\/index.png": {
 		"ft": 32768,
 		"iS": 1181538,
+		"l": 1,
 		"oA": 1,
 		"oAP": "\/_ignores\/git-branch-previews\/OLD\/index.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/_ignores\/head\/favicon-linking.html": {
 		"ft": 8192,
@@ -116,26 +120,32 @@
 	"\/_ignores\/paypal-form-model\/default.png": {
 		"ft": 32768,
 		"iS": 85820,
+		"l": 1,
 		"oA": 1,
 		"oAP": "\/_ignores\/paypal-form-model\/default.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/_ignores\/paypal-form-model\/error.png": {
 		"ft": 32768,
 		"iS": 99819,
+		"l": 1,
 		"oA": 1,
 		"oAP": "\/_ignores\/paypal-form-model\/error.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/_ignores\/paypal-form-model\/focus.png": {
 		"ft": 32768,
 		"iS": 87756,
+		"l": 1,
 		"oA": 1,
 		"oAP": "\/_ignores\/paypal-form-model\/focus.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/_ignores\/paypal-form-model\/has-focus.html": {
 		"ft": 8192,
@@ -188,138 +198,172 @@
 	"\/assets\/android-chrome-144x144.png": {
 		"ft": 32768,
 		"iS": 4819,
+		"l": 1,
 		"oA": 1,
 		"oAP": "\/assets\/android-chrome-144x144.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/assets\/android-chrome-192x192.png": {
 		"ft": 32768,
 		"iS": 7056,
+		"l": 1,
 		"oA": 1,
 		"oAP": "\/assets\/android-chrome-192x192.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/assets\/android-chrome-36x36.png": {
 		"ft": 32768,
 		"iS": 1235,
+		"l": 1,
 		"oA": 1,
 		"oAP": "\/assets\/android-chrome-36x36.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/assets\/android-chrome-48x48.png": {
 		"ft": 32768,
 		"iS": 1548,
+		"l": 1,
 		"oA": 1,
 		"oAP": "\/assets\/android-chrome-48x48.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/assets\/android-chrome-72x72.png": {
 		"ft": 32768,
 		"iS": 2320,
+		"l": 1,
 		"oA": 1,
 		"oAP": "\/assets\/android-chrome-72x72.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/assets\/android-chrome-96x96.png": {
 		"ft": 32768,
 		"iS": 2783,
+		"l": 1,
 		"oA": 1,
 		"oAP": "\/assets\/android-chrome-96x96.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/assets\/apple-touch-icon-114x114-precomposed.png": {
 		"ft": 32768,
 		"iS": 3315,
+		"l": 1,
 		"oA": 1,
 		"oAP": "\/assets\/apple-touch-icon-114x114-precomposed.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/assets\/apple-touch-icon-120x120-precomposed.png": {
 		"ft": 32768,
 		"iS": 3624,
+		"l": 1,
 		"oA": 1,
 		"oAP": "\/assets\/apple-touch-icon-120x120-precomposed.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/assets\/apple-touch-icon-144x144-precomposed.png": {
 		"ft": 32768,
 		"iS": 4822,
+		"l": 1,
 		"oA": 1,
 		"oAP": "\/assets\/apple-touch-icon-144x144-precomposed.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/assets\/apple-touch-icon-152x152-precomposed.png": {
 		"ft": 32768,
 		"iS": 4893,
+		"l": 1,
 		"oA": 1,
 		"oAP": "\/assets\/apple-touch-icon-152x152-precomposed.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/assets\/apple-touch-icon-180x180-precomposed.png": {
 		"ft": 32768,
 		"iS": 6372,
+		"l": 1,
 		"oA": 1,
 		"oAP": "\/assets\/apple-touch-icon-180x180-precomposed.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/assets\/apple-touch-icon-57x57-precomposed.png": {
 		"ft": 32768,
 		"iS": 1902,
+		"l": 1,
 		"oA": 1,
 		"oAP": "\/assets\/apple-touch-icon-57x57-precomposed.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/assets\/apple-touch-icon-60x60-precomposed.png": {
 		"ft": 32768,
 		"iS": 1945,
+		"l": 1,
 		"oA": 1,
 		"oAP": "\/assets\/apple-touch-icon-60x60-precomposed.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/assets\/apple-touch-icon-72x72-precomposed.png": {
 		"ft": 32768,
 		"iS": 2319,
+		"l": 1,
 		"oA": 1,
 		"oAP": "\/assets\/apple-touch-icon-72x72-precomposed.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/assets\/apple-touch-icon-76x76-precomposed.png": {
 		"ft": 32768,
 		"iS": 2366,
+		"l": 1,
 		"oA": 1,
 		"oAP": "\/assets\/apple-touch-icon-76x76-precomposed.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/assets\/apple-touch-icon-precomposed.png": {
 		"ft": 32768,
 		"iS": 6393,
+		"l": 1,
 		"oA": 1,
 		"oAP": "\/assets\/apple-touch-icon-precomposed.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/assets\/apple-touch-icon.png": {
 		"ft": 32768,
 		"iS": 6383,
+		"l": 1,
 		"oA": 1,
 		"oAP": "\/assets\/apple-touch-icon.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/assets\/browserconfig.xml": {
 		"ft": 8192,
@@ -330,26 +374,32 @@
 	"\/assets\/favicon-16x16.png": {
 		"ft": 32768,
 		"iS": 480,
+		"l": 1,
 		"oA": 1,
 		"oAP": "\/assets\/favicon-16x16.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/assets\/favicon-32x32.png": {
 		"ft": 32768,
 		"iS": 1024,
+		"l": 1,
 		"oA": 1,
 		"oAP": "\/assets\/favicon-32x32.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/assets\/favicon-96x96.png": {
 		"ft": 32768,
 		"iS": 2783,
+		"l": 1,
 		"oA": 1,
 		"oAP": "\/assets\/favicon-96x96.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/assets\/favicon.ico": {
 		"ft": 8192,
@@ -374,42 +424,52 @@
 	"\/assets\/mstile-144x144.png": {
 		"ft": 32768,
 		"iS": 2779,
+		"l": 1,
 		"oA": 1,
 		"oAP": "\/assets\/mstile-144x144.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/assets\/mstile-150x150.png": {
 		"ft": 32768,
 		"iS": 2119,
+		"l": 1,
 		"oA": 1,
 		"oAP": "\/assets\/mstile-150x150.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/assets\/mstile-310x150.png": {
 		"ft": 32768,
 		"iS": 2149,
+		"l": 1,
 		"oA": 1,
 		"oAP": "\/assets\/mstile-310x150.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/assets\/mstile-310x310.png": {
 		"ft": 32768,
 		"iS": 5589,
+		"l": 1,
 		"oA": 1,
 		"oAP": "\/assets\/mstile-310x310.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/assets\/mstile-70x70.png": {
 		"ft": 32768,
 		"iS": 1664,
+		"l": 1,
 		"oA": 1,
 		"oAP": "\/assets\/mstile-70x70.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/assets\/php\/autoVer.php": {
 		"ft": 8192,
@@ -432,10 +492,12 @@
 	"\/assets\/touch-icon-192x192.png": {
 		"ft": 32768,
 		"iS": 7056,
+		"l": 1,
 		"oA": 1,
 		"oAP": "\/assets\/touch-icon-192x192.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/bower.json": {
 		"ft": 524288,
@@ -4980,138 +5042,172 @@
 	"\/dist\/android-chrome-144x144.png": {
 		"ft": 32768,
 		"iS": 4819,
+		"l": 1,
 		"oA": 1,
 		"oAP": "\/dist\/android-chrome-144x144.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/dist\/android-chrome-192x192.png": {
 		"ft": 32768,
 		"iS": 7056,
+		"l": 1,
 		"oA": 1,
 		"oAP": "\/dist\/android-chrome-192x192.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/dist\/android-chrome-36x36.png": {
 		"ft": 32768,
 		"iS": 1235,
+		"l": 1,
 		"oA": 1,
 		"oAP": "\/dist\/android-chrome-36x36.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/dist\/android-chrome-48x48.png": {
 		"ft": 32768,
 		"iS": 1548,
+		"l": 1,
 		"oA": 1,
 		"oAP": "\/dist\/android-chrome-48x48.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/dist\/android-chrome-72x72.png": {
 		"ft": 32768,
 		"iS": 2320,
+		"l": 1,
 		"oA": 1,
 		"oAP": "\/dist\/android-chrome-72x72.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/dist\/android-chrome-96x96.png": {
 		"ft": 32768,
 		"iS": 2783,
+		"l": 1,
 		"oA": 1,
 		"oAP": "\/dist\/android-chrome-96x96.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/dist\/apple-touch-icon-114x114-precomposed.png": {
 		"ft": 32768,
 		"iS": 3315,
+		"l": 1,
 		"oA": 1,
 		"oAP": "\/dist\/apple-touch-icon-114x114-precomposed.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/dist\/apple-touch-icon-120x120-precomposed.png": {
 		"ft": 32768,
 		"iS": 3624,
+		"l": 1,
 		"oA": 1,
 		"oAP": "\/dist\/apple-touch-icon-120x120-precomposed.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/dist\/apple-touch-icon-144x144-precomposed.png": {
 		"ft": 32768,
 		"iS": 4822,
+		"l": 1,
 		"oA": 1,
 		"oAP": "\/dist\/apple-touch-icon-144x144-precomposed.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/dist\/apple-touch-icon-152x152-precomposed.png": {
 		"ft": 32768,
 		"iS": 4893,
+		"l": 1,
 		"oA": 1,
 		"oAP": "\/dist\/apple-touch-icon-152x152-precomposed.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/dist\/apple-touch-icon-180x180-precomposed.png": {
 		"ft": 32768,
 		"iS": 6372,
+		"l": 1,
 		"oA": 1,
 		"oAP": "\/dist\/apple-touch-icon-180x180-precomposed.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/dist\/apple-touch-icon-57x57-precomposed.png": {
 		"ft": 32768,
 		"iS": 1902,
+		"l": 1,
 		"oA": 1,
 		"oAP": "\/dist\/apple-touch-icon-57x57-precomposed.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/dist\/apple-touch-icon-60x60-precomposed.png": {
 		"ft": 32768,
 		"iS": 1945,
+		"l": 1,
 		"oA": 1,
 		"oAP": "\/dist\/apple-touch-icon-60x60-precomposed.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/dist\/apple-touch-icon-72x72-precomposed.png": {
 		"ft": 32768,
 		"iS": 2319,
+		"l": 1,
 		"oA": 1,
 		"oAP": "\/dist\/apple-touch-icon-72x72-precomposed.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/dist\/apple-touch-icon-76x76-precomposed.png": {
 		"ft": 32768,
 		"iS": 2366,
+		"l": 1,
 		"oA": 1,
 		"oAP": "\/dist\/apple-touch-icon-76x76-precomposed.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/dist\/apple-touch-icon-precomposed.png": {
 		"ft": 32768,
 		"iS": 6393,
+		"l": 1,
 		"oA": 1,
 		"oAP": "\/dist\/apple-touch-icon-precomposed.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/dist\/apple-touch-icon.png": {
 		"ft": 32768,
 		"iS": 6383,
+		"l": 1,
 		"oA": 1,
 		"oAP": "\/dist\/apple-touch-icon.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/dist\/browserconfig.xml": {
 		"ft": 8192,
@@ -5132,26 +5228,32 @@
 	"\/dist\/favicon-16x16.png": {
 		"ft": 32768,
 		"iS": 480,
+		"l": 1,
 		"oA": 1,
 		"oAP": "\/dist\/favicon-16x16.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/dist\/favicon-32x32.png": {
 		"ft": 32768,
 		"iS": 1024,
+		"l": 1,
 		"oA": 1,
 		"oAP": "\/dist\/favicon-32x32.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/dist\/favicon-96x96.png": {
 		"ft": 32768,
 		"iS": 2783,
+		"l": 1,
 		"oA": 1,
 		"oAP": "\/dist\/favicon-96x96.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/dist\/favicon.ico": {
 		"ft": 8192,
@@ -5168,50 +5270,62 @@
 	"\/dist\/img\/assets\/icons\/facebook.png": {
 		"ft": 32768,
 		"iS": 497,
+		"l": 1,
 		"oA": 1,
 		"oAP": "\/dist\/img\/assets\/icons\/facebook.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/dist\/img\/assets\/icons\/facebook_2x.png": {
 		"ft": 32768,
 		"iS": 721,
+		"l": 1,
 		"oA": 1,
 		"oAP": "\/dist\/img\/assets\/icons\/facebook_2x.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/dist\/img\/assets\/icons\/instagram.png": {
 		"ft": 32768,
 		"iS": 610,
+		"l": 1,
 		"oA": 1,
 		"oAP": "\/dist\/img\/assets\/icons\/instagram.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/dist\/img\/assets\/icons\/instagram_2x.png": {
 		"ft": 32768,
 		"iS": 1077,
+		"l": 1,
 		"oA": 1,
 		"oAP": "\/dist\/img\/assets\/icons\/instagram_2x.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/dist\/img\/assets\/icons\/pinterest.png": {
 		"ft": 32768,
 		"iS": 741,
+		"l": 1,
 		"oA": 1,
 		"oAP": "\/dist\/img\/assets\/icons\/pinterest.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/dist\/img\/assets\/icons\/pinterest_2x.png": {
 		"ft": 32768,
 		"iS": 1193,
+		"l": 1,
 		"oA": 1,
 		"oAP": "\/dist\/img\/assets\/icons\/pinterest_2x.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/dist\/img\/assets\/og-images\/index\/generic.jpg": {
 		"ft": 16384,
@@ -5219,7 +5333,8 @@
 		"oA": 1,
 		"oAP": "\/dist\/img\/assets\/og-images\/index\/generic.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/dist\/img\/index\/about-us\/hello-lanyard.jpg": {
 		"ft": 16384,
@@ -5227,7 +5342,8 @@
 		"oA": 1,
 		"oAP": "\/dist\/img\/index\/about-us\/hello-lanyard.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/dist\/img\/index\/about-us\/hello-lanyard_2x.jpg": {
 		"ft": 16384,
@@ -5235,23 +5351,28 @@
 		"oA": 1,
 		"oAP": "\/dist\/img\/index\/about-us\/hello-lanyard_2x.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/dist\/img\/index\/bubble-bg\/bubble-background.png": {
 		"ft": 32768,
 		"iS": 19539,
+		"l": 1,
 		"oA": 1,
 		"oAP": "\/dist\/img\/index\/bubble-bg\/bubble-background.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/dist\/img\/index\/contact\/bubbles.png": {
 		"ft": 32768,
 		"iS": 152584,
+		"l": 1,
 		"oA": 1,
 		"oAP": "\/dist\/img\/index\/contact\/bubbles.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/dist\/img\/index\/header\/1-small\/small.jpg": {
 		"ft": 16384,
@@ -5259,7 +5380,8 @@
 		"oA": 1,
 		"oAP": "\/dist\/img\/index\/header\/1-small\/small.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/dist\/img\/index\/header\/2-medium\/medium.jpg": {
 		"ft": 16384,
@@ -5267,7 +5389,8 @@
 		"oA": 1,
 		"oAP": "\/dist\/img\/index\/header\/2-medium\/medium.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/dist\/img\/index\/header\/3-min-1025\/large.jpg": {
 		"ft": 16384,
@@ -5275,7 +5398,8 @@
 		"oA": 1,
 		"oAP": "\/dist\/img\/index\/header\/3-min-1025\/large.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/dist\/img\/index\/header\/4-min-1441\/max.jpg": {
 		"ft": 16384,
@@ -5283,23 +5407,28 @@
 		"oA": 1,
 		"oAP": "\/dist\/img\/index\/header\/4-min-1441\/max.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/dist\/img\/our-services\/web-development\/new-project-workflow\/coding-development-stage.png": {
 		"ft": 32768,
 		"iS": 116026,
+		"l": 1,
 		"oA": 1,
 		"oAP": "\/dist\/img\/our-services\/web-development\/new-project-workflow\/coding-development-stage.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/dist\/img\/our-services\/web-development\/new-project-workflow\/design-phase.png": {
 		"ft": 32768,
 		"iS": 43233,
+		"l": 1,
 		"oA": 1,
 		"oAP": "\/dist\/img\/our-services\/web-development\/new-project-workflow\/design-phase.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/dist\/img\/our-services\/web-development\/new-project-workflow\/server.svg": {
 		"ft": 2097152,
@@ -5314,10 +5443,12 @@
 	"\/dist\/img\/our-services\/web-development\/new-project-workflow\/site-layout-planning.png": {
 		"ft": 32768,
 		"iS": 168179,
+		"l": 1,
 		"oA": 1,
 		"oAP": "\/dist\/img\/our-services\/web-development\/new-project-workflow\/site-layout-planning.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/dist\/img\/our-services\/web-development\/new-project-workflow\/wrench.svg": {
 		"ft": 2097152,
@@ -5332,34 +5463,42 @@
 	"\/dist\/img\/projects\/dmesa\/index-graphic-design\/dmesa-logo.png": {
 		"ft": 32768,
 		"iS": 13601,
+		"l": 1,
 		"oA": 1,
 		"oAP": "\/dist\/img\/projects\/dmesa\/index-graphic-design\/dmesa-logo.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/dist\/img\/projects\/dmesa\/index-graphic-design\/dmesa-logo_2x.png": {
 		"ft": 32768,
 		"iS": 32960,
+		"l": 1,
 		"oA": 1,
 		"oAP": "\/dist\/img\/projects\/dmesa\/index-graphic-design\/dmesa-logo_2x.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/dist\/img\/projects\/dynasty-sports-report\/index-graphic-design\/dynasty-sports-report-logo.png": {
 		"ft": 32768,
 		"iS": 32540,
+		"l": 1,
 		"oA": 1,
 		"oAP": "\/dist\/img\/projects\/dynasty-sports-report\/index-graphic-design\/dynasty-sports-report-logo.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/dist\/img\/projects\/dynasty-sports-report\/index-graphic-design\/dynasty-sports-report-logo_2x.png": {
 		"ft": 32768,
 		"iS": 75062,
+		"l": 1,
 		"oA": 1,
 		"oAP": "\/dist\/img\/projects\/dynasty-sports-report\/index-graphic-design\/dynasty-sports-report-logo_2x.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/dist\/img\/projects\/essential-sound-production\/index-modal\/modal-feature-1.jpg": {
 		"ft": 16384,
@@ -5367,7 +5506,8 @@
 		"oA": 1,
 		"oAP": "\/dist\/img\/projects\/essential-sound-production\/index-modal\/modal-feature-1.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/dist\/img\/projects\/essential-sound-production\/index-modal\/modal-feature-1_2x.jpg": {
 		"ft": 16384,
@@ -5375,7 +5515,8 @@
 		"oA": 1,
 		"oAP": "\/dist\/img\/projects\/essential-sound-production\/index-modal\/modal-feature-1_2x.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/dist\/img\/projects\/essential-sound-production\/index-modal\/modal-feature-2.jpg": {
 		"ft": 16384,
@@ -5383,7 +5524,8 @@
 		"oA": 1,
 		"oAP": "\/dist\/img\/projects\/essential-sound-production\/index-modal\/modal-feature-2.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/dist\/img\/projects\/essential-sound-production\/index-modal\/modal-feature-2_2x.jpg": {
 		"ft": 16384,
@@ -5391,7 +5533,8 @@
 		"oA": 1,
 		"oAP": "\/dist\/img\/projects\/essential-sound-production\/index-modal\/modal-feature-2_2x.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/dist\/img\/projects\/essential-sound-production\/index-modal\/modal-feature-3.jpg": {
 		"ft": 16384,
@@ -5399,7 +5542,8 @@
 		"oA": 1,
 		"oAP": "\/dist\/img\/projects\/essential-sound-production\/index-modal\/modal-feature-3.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/dist\/img\/projects\/essential-sound-production\/index-modal\/modal-feature-3_2x.jpg": {
 		"ft": 16384,
@@ -5407,7 +5551,8 @@
 		"oA": 1,
 		"oAP": "\/dist\/img\/projects\/essential-sound-production\/index-modal\/modal-feature-3_2x.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/dist\/img\/projects\/essential-sound-production\/index-modal\/modal-thumb.jpg": {
 		"ft": 16384,
@@ -5415,7 +5560,8 @@
 		"oA": 1,
 		"oAP": "\/dist\/img\/projects\/essential-sound-production\/index-modal\/modal-thumb.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/dist\/img\/projects\/essential-sound-production\/index-modal\/modal-thumb_2x.jpg": {
 		"ft": 16384,
@@ -5423,7 +5569,8 @@
 		"oA": 1,
 		"oAP": "\/dist\/img\/projects\/essential-sound-production\/index-modal\/modal-thumb_2x.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/dist\/img\/projects\/greencare-tx\/index-modal\/modal-feature-1.jpg": {
 		"ft": 16384,
@@ -5431,7 +5578,8 @@
 		"oA": 1,
 		"oAP": "\/dist\/img\/projects\/greencare-tx\/index-modal\/modal-feature-1.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/dist\/img\/projects\/greencare-tx\/index-modal\/modal-feature-1_2x.jpg": {
 		"ft": 16384,
@@ -5439,7 +5587,8 @@
 		"oA": 1,
 		"oAP": "\/dist\/img\/projects\/greencare-tx\/index-modal\/modal-feature-1_2x.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/dist\/img\/projects\/greencare-tx\/index-modal\/modal-feature-2.jpg": {
 		"ft": 16384,
@@ -5447,7 +5596,8 @@
 		"oA": 1,
 		"oAP": "\/dist\/img\/projects\/greencare-tx\/index-modal\/modal-feature-2.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/dist\/img\/projects\/greencare-tx\/index-modal\/modal-feature-2_2x.jpg": {
 		"ft": 16384,
@@ -5455,7 +5605,8 @@
 		"oA": 1,
 		"oAP": "\/dist\/img\/projects\/greencare-tx\/index-modal\/modal-feature-2_2x.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/dist\/img\/projects\/greencare-tx\/index-modal\/modal-thumb.jpg": {
 		"ft": 16384,
@@ -5463,7 +5614,8 @@
 		"oA": 1,
 		"oAP": "\/dist\/img\/projects\/greencare-tx\/index-modal\/modal-thumb.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/dist\/img\/projects\/greencare-tx\/index-modal\/modal-thumb_2x.jpg": {
 		"ft": 16384,
@@ -5471,7 +5623,8 @@
 		"oA": 1,
 		"oAP": "\/dist\/img\/projects\/greencare-tx\/index-modal\/modal-thumb_2x.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/dist\/img\/projects\/houston-interior-plants\/modal-thumb.jpg": {
 		"ft": 16384,
@@ -5479,7 +5632,8 @@
 		"oA": 1,
 		"oAP": "\/dist\/img\/projects\/houston-interior-plants\/modal-thumb.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/dist\/img\/projects\/houston-interior-plants\/modal-thumb_2x.jpg": {
 		"ft": 16384,
@@ -5487,7 +5641,8 @@
 		"oA": 1,
 		"oAP": "\/dist\/img\/projects\/houston-interior-plants\/modal-thumb_2x.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/dist\/img\/projects\/houston-pals\/index-modal\/modal-feature-1.jpg": {
 		"ft": 16384,
@@ -5495,7 +5650,8 @@
 		"oA": 1,
 		"oAP": "\/dist\/img\/projects\/houston-pals\/index-modal\/modal-feature-1.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/dist\/img\/projects\/houston-pals\/index-modal\/modal-feature-1_2x.jpg": {
 		"ft": 16384,
@@ -5503,7 +5659,8 @@
 		"oA": 1,
 		"oAP": "\/dist\/img\/projects\/houston-pals\/index-modal\/modal-feature-1_2x.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/dist\/img\/projects\/houston-pals\/index-modal\/modal-feature-2.jpg": {
 		"ft": 16384,
@@ -5511,7 +5668,8 @@
 		"oA": 1,
 		"oAP": "\/dist\/img\/projects\/houston-pals\/index-modal\/modal-feature-2.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/dist\/img\/projects\/houston-pals\/index-modal\/modal-feature-2_2x.jpg": {
 		"ft": 16384,
@@ -5519,7 +5677,8 @@
 		"oA": 1,
 		"oAP": "\/dist\/img\/projects\/houston-pals\/index-modal\/modal-feature-2_2x.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/dist\/img\/projects\/houston-pals\/index-modal\/modal-thumb.jpg": {
 		"ft": 16384,
@@ -5527,7 +5686,8 @@
 		"oA": 1,
 		"oAP": "\/dist\/img\/projects\/houston-pals\/index-modal\/modal-thumb.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/dist\/img\/projects\/houston-pals\/index-modal\/modal-thumb_2x.jpg": {
 		"ft": 16384,
@@ -5535,7 +5695,8 @@
 		"oA": 1,
 		"oAP": "\/dist\/img\/projects\/houston-pals\/index-modal\/modal-thumb_2x.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/dist\/img\/projects\/jardin-de-france-tx\/index-graphic-design\/jardin-de-france-price-tag.jpg": {
 		"ft": 16384,
@@ -5543,7 +5704,8 @@
 		"oA": 1,
 		"oAP": "\/dist\/img\/projects\/jardin-de-france-tx\/index-graphic-design\/jardin-de-france-price-tag.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/dist\/img\/projects\/jardin-de-france-tx\/index-graphic-design\/jardin-de-france-price-tag_2x.jpg": {
 		"ft": 16384,
@@ -5551,7 +5713,8 @@
 		"oA": 1,
 		"oAP": "\/dist\/img\/projects\/jardin-de-france-tx\/index-graphic-design\/jardin-de-france-price-tag_2x.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/dist\/img\/projects\/jardin-de-france-tx\/index-modal\/modal-feature-1.jpg": {
 		"ft": 16384,
@@ -5559,7 +5722,8 @@
 		"oA": 1,
 		"oAP": "\/dist\/img\/projects\/jardin-de-france-tx\/index-modal\/modal-feature-1.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/dist\/img\/projects\/jardin-de-france-tx\/index-modal\/modal-feature-1_2x.jpg": {
 		"ft": 16384,
@@ -5567,7 +5731,8 @@
 		"oA": 1,
 		"oAP": "\/dist\/img\/projects\/jardin-de-france-tx\/index-modal\/modal-feature-1_2x.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/dist\/img\/projects\/jardin-de-france-tx\/index-modal\/modal-feature-2.jpg": {
 		"ft": 16384,
@@ -5575,7 +5740,8 @@
 		"oA": 1,
 		"oAP": "\/dist\/img\/projects\/jardin-de-france-tx\/index-modal\/modal-feature-2.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/dist\/img\/projects\/jardin-de-france-tx\/index-modal\/modal-feature-2_2x.jpg": {
 		"ft": 16384,
@@ -5583,7 +5749,8 @@
 		"oA": 1,
 		"oAP": "\/dist\/img\/projects\/jardin-de-france-tx\/index-modal\/modal-feature-2_2x.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/dist\/img\/projects\/jardin-de-france-tx\/index-modal\/modal-thumb.jpg": {
 		"ft": 16384,
@@ -5591,7 +5758,8 @@
 		"oA": 1,
 		"oAP": "\/dist\/img\/projects\/jardin-de-france-tx\/index-modal\/modal-thumb.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/dist\/img\/projects\/jardin-de-france-tx\/index-modal\/modal-thumb_2x.jpg": {
 		"ft": 16384,
@@ -5599,7 +5767,8 @@
 		"oA": 1,
 		"oAP": "\/dist\/img\/projects\/jardin-de-france-tx\/index-modal\/modal-thumb_2x.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/dist\/img\/projects\/lisa-esposito\/index-modal\/modal-feature-1.jpg": {
 		"ft": 16384,
@@ -5607,7 +5776,8 @@
 		"oA": 1,
 		"oAP": "\/dist\/img\/projects\/lisa-esposito\/index-modal\/modal-feature-1.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/dist\/img\/projects\/lisa-esposito\/index-modal\/modal-feature-1_2x.jpg": {
 		"ft": 16384,
@@ -5615,7 +5785,8 @@
 		"oA": 1,
 		"oAP": "\/dist\/img\/projects\/lisa-esposito\/index-modal\/modal-feature-1_2x.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/dist\/img\/projects\/lisa-esposito\/index-modal\/modal-feature-2.jpg": {
 		"ft": 16384,
@@ -5623,7 +5794,8 @@
 		"oA": 1,
 		"oAP": "\/dist\/img\/projects\/lisa-esposito\/index-modal\/modal-feature-2.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/dist\/img\/projects\/lisa-esposito\/index-modal\/modal-feature-2_2x.jpg": {
 		"ft": 16384,
@@ -5631,7 +5803,8 @@
 		"oA": 1,
 		"oAP": "\/dist\/img\/projects\/lisa-esposito\/index-modal\/modal-feature-2_2x.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/dist\/img\/projects\/lisa-esposito\/index-modal\/modal-thumb.jpg": {
 		"ft": 16384,
@@ -5639,7 +5812,8 @@
 		"oA": 1,
 		"oAP": "\/dist\/img\/projects\/lisa-esposito\/index-modal\/modal-thumb.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/dist\/img\/projects\/lisa-esposito\/index-modal\/modal-thumb_2x.jpg": {
 		"ft": 16384,
@@ -5647,7 +5821,8 @@
 		"oA": 1,
 		"oAP": "\/dist\/img\/projects\/lisa-esposito\/index-modal\/modal-thumb_2x.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/dist\/img\/projects\/starhill-farms\/index-modal\/modal-feature-1.jpg": {
 		"ft": 16384,
@@ -5655,7 +5830,8 @@
 		"oA": 1,
 		"oAP": "\/dist\/img\/projects\/starhill-farms\/index-modal\/modal-feature-1.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/dist\/img\/projects\/starhill-farms\/index-modal\/modal-feature-1_2x.jpg": {
 		"ft": 16384,
@@ -5663,7 +5839,8 @@
 		"oA": 1,
 		"oAP": "\/dist\/img\/projects\/starhill-farms\/index-modal\/modal-feature-1_2x.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/dist\/img\/projects\/starhill-farms\/index-modal\/modal-feature-2.jpg": {
 		"ft": 16384,
@@ -5671,7 +5848,8 @@
 		"oA": 1,
 		"oAP": "\/dist\/img\/projects\/starhill-farms\/index-modal\/modal-feature-2.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/dist\/img\/projects\/starhill-farms\/index-modal\/modal-feature-2_2x.jpg": {
 		"ft": 16384,
@@ -5679,7 +5857,8 @@
 		"oA": 1,
 		"oAP": "\/dist\/img\/projects\/starhill-farms\/index-modal\/modal-feature-2_2x.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/dist\/img\/projects\/starhill-farms\/index-modal\/modal-thumb.jpg": {
 		"ft": 16384,
@@ -5687,7 +5866,8 @@
 		"oA": 1,
 		"oAP": "\/dist\/img\/projects\/starhill-farms\/index-modal\/modal-thumb.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/dist\/img\/projects\/starhill-farms\/index-modal\/modal-thumb_2x.jpg": {
 		"ft": 16384,
@@ -5695,7 +5875,8 @@
 		"oA": 1,
 		"oAP": "\/dist\/img\/projects\/starhill-farms\/index-modal\/modal-thumb_2x.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/dist\/img\/projects\/the-deck-on-fountainview\/modal-thumb.jpg": {
 		"ft": 16384,
@@ -5703,7 +5884,8 @@
 		"oA": 1,
 		"oAP": "\/dist\/img\/projects\/the-deck-on-fountainview\/modal-thumb.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/dist\/img\/projects\/the-deck-on-fountainview\/modal-thumb_2x.jpg": {
 		"ft": 16384,
@@ -5711,7 +5893,8 @@
 		"oA": 1,
 		"oAP": "\/dist\/img\/projects\/the-deck-on-fountainview\/modal-thumb_2x.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/dist\/index.php": {
 		"ft": 8192,
@@ -5748,42 +5931,52 @@
 	"\/dist\/mstile-144x144.png": {
 		"ft": 32768,
 		"iS": 2779,
+		"l": 1,
 		"oA": 1,
 		"oAP": "\/dist\/mstile-144x144.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/dist\/mstile-150x150.png": {
 		"ft": 32768,
 		"iS": 2119,
+		"l": 1,
 		"oA": 1,
 		"oAP": "\/dist\/mstile-150x150.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/dist\/mstile-310x150.png": {
 		"ft": 32768,
 		"iS": 2149,
+		"l": 1,
 		"oA": 1,
 		"oAP": "\/dist\/mstile-310x150.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/dist\/mstile-310x310.png": {
 		"ft": 32768,
 		"iS": 5589,
+		"l": 1,
 		"oA": 1,
 		"oAP": "\/dist\/mstile-310x310.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/dist\/mstile-70x70.png": {
 		"ft": 32768,
 		"iS": 1664,
+		"l": 1,
 		"oA": 1,
 		"oAP": "\/dist\/mstile-70x70.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/dist\/our-services\/web-development.php": {
 		"ft": 8192,
@@ -5812,10 +6005,12 @@
 	"\/dist\/touch-icon-192x192.png": {
 		"ft": 32768,
 		"iS": 7056,
+		"l": 1,
 		"oA": 1,
 		"oAP": "\/dist\/touch-icon-192x192.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/gulpfile.babel.js": {
 		"ft": 64,
@@ -5829,50 +6024,62 @@
 	"\/img\/assets\/icons\/facebook.png": {
 		"ft": 32768,
 		"iS": 497,
+		"l": 1,
 		"oA": 1,
 		"oAP": "\/img\/assets\/icons\/facebook.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/assets\/icons\/facebook_2x.png": {
 		"ft": 32768,
 		"iS": 721,
+		"l": 1,
 		"oA": 1,
 		"oAP": "\/img\/assets\/icons\/facebook_2x.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/assets\/icons\/instagram.png": {
 		"ft": 32768,
 		"iS": 610,
+		"l": 1,
 		"oA": 1,
 		"oAP": "\/img\/assets\/icons\/instagram.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/assets\/icons\/instagram_2x.png": {
 		"ft": 32768,
 		"iS": 1077,
+		"l": 1,
 		"oA": 1,
 		"oAP": "\/img\/assets\/icons\/instagram_2x.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/assets\/icons\/pinterest.png": {
 		"ft": 32768,
 		"iS": 741,
+		"l": 1,
 		"oA": 1,
 		"oAP": "\/img\/assets\/icons\/pinterest.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/assets\/icons\/pinterest_2x.png": {
 		"ft": 32768,
 		"iS": 1193,
+		"l": 1,
 		"oA": 1,
 		"oAP": "\/img\/assets\/icons\/pinterest_2x.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/assets\/og-images\/index\/generic.jpg": {
 		"ft": 16384,
@@ -5880,7 +6087,8 @@
 		"oA": 1,
 		"oAP": "\/img\/assets\/og-images\/index\/generic.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/index\/about-us\/hello-lanyard.jpg": {
 		"ft": 16384,
@@ -5888,7 +6096,8 @@
 		"oA": 1,
 		"oAP": "\/img\/index\/about-us\/hello-lanyard.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/index\/about-us\/hello-lanyard_2x.jpg": {
 		"ft": 16384,
@@ -5896,23 +6105,28 @@
 		"oA": 1,
 		"oAP": "\/img\/index\/about-us\/hello-lanyard_2x.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/index\/bubble-bg\/bubble-background.png": {
 		"ft": 32768,
 		"iS": 19539,
+		"l": 1,
 		"oA": 1,
 		"oAP": "\/img\/index\/bubble-bg\/bubble-background.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/index\/contact\/bubbles.png": {
 		"ft": 32768,
 		"iS": 152584,
+		"l": 1,
 		"oA": 1,
 		"oAP": "\/img\/index\/contact\/bubbles.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/index\/header\/1-small\/small.jpg": {
 		"ft": 16384,
@@ -5920,7 +6134,8 @@
 		"oA": 1,
 		"oAP": "\/img\/index\/header\/1-small\/small.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/index\/header\/2-medium\/medium.jpg": {
 		"ft": 16384,
@@ -5928,7 +6143,8 @@
 		"oA": 1,
 		"oAP": "\/img\/index\/header\/2-medium\/medium.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/index\/header\/3-min-1025\/large.jpg": {
 		"ft": 16384,
@@ -5936,7 +6152,8 @@
 		"oA": 1,
 		"oAP": "\/img\/index\/header\/3-min-1025\/large.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/index\/header\/4-min-1441\/max.jpg": {
 		"ft": 16384,
@@ -5944,23 +6161,28 @@
 		"oA": 1,
 		"oAP": "\/img\/index\/header\/4-min-1441\/max.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/our-services\/web-development\/new-project-workflow\/coding-development-stage.png": {
 		"ft": 32768,
 		"iS": 116026,
+		"l": 1,
 		"oA": 1,
 		"oAP": "\/img\/our-services\/web-development\/new-project-workflow\/coding-development-stage.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/our-services\/web-development\/new-project-workflow\/design-phase.png": {
 		"ft": 32768,
 		"iS": 43233,
+		"l": 1,
 		"oA": 1,
 		"oAP": "\/img\/our-services\/web-development\/new-project-workflow\/design-phase.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/our-services\/web-development\/new-project-workflow\/server.svg": {
 		"ft": 2097152,
@@ -5975,10 +6197,12 @@
 	"\/img\/our-services\/web-development\/new-project-workflow\/site-layout-planning.png": {
 		"ft": 32768,
 		"iS": 168179,
+		"l": 1,
 		"oA": 1,
 		"oAP": "\/img\/our-services\/web-development\/new-project-workflow\/site-layout-planning.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/our-services\/web-development\/new-project-workflow\/wrench.svg": {
 		"ft": 2097152,
@@ -5993,34 +6217,42 @@
 	"\/img\/projects\/dmesa\/index-graphic-design\/dmesa-logo.png": {
 		"ft": 32768,
 		"iS": 13601,
+		"l": 1,
 		"oA": 1,
 		"oAP": "\/img\/projects\/dmesa\/index-graphic-design\/dmesa-logo.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/projects\/dmesa\/index-graphic-design\/dmesa-logo_2x.png": {
 		"ft": 32768,
 		"iS": 32960,
+		"l": 1,
 		"oA": 1,
 		"oAP": "\/img\/projects\/dmesa\/index-graphic-design\/dmesa-logo_2x.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/projects\/dynasty-sports-report\/index-graphic-design\/dynasty-sports-report-logo.png": {
 		"ft": 32768,
 		"iS": 32540,
+		"l": 1,
 		"oA": 1,
 		"oAP": "\/img\/projects\/dynasty-sports-report\/index-graphic-design\/dynasty-sports-report-logo.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/projects\/dynasty-sports-report\/index-graphic-design\/dynasty-sports-report-logo_2x.png": {
 		"ft": 32768,
 		"iS": 75062,
+		"l": 1,
 		"oA": 1,
 		"oAP": "\/img\/projects\/dynasty-sports-report\/index-graphic-design\/dynasty-sports-report-logo_2x.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/projects\/essential-sound-production\/index-modal\/modal-feature-1.jpg": {
 		"ft": 16384,
@@ -6028,7 +6260,8 @@
 		"oA": 1,
 		"oAP": "\/img\/projects\/essential-sound-production\/index-modal\/modal-feature-1.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/projects\/essential-sound-production\/index-modal\/modal-feature-1_2x.jpg": {
 		"ft": 16384,
@@ -6036,7 +6269,8 @@
 		"oA": 1,
 		"oAP": "\/img\/projects\/essential-sound-production\/index-modal\/modal-feature-1_2x.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/projects\/essential-sound-production\/index-modal\/modal-feature-2.jpg": {
 		"ft": 16384,
@@ -6044,7 +6278,8 @@
 		"oA": 1,
 		"oAP": "\/img\/projects\/essential-sound-production\/index-modal\/modal-feature-2.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/projects\/essential-sound-production\/index-modal\/modal-feature-2_2x.jpg": {
 		"ft": 16384,
@@ -6052,7 +6287,8 @@
 		"oA": 1,
 		"oAP": "\/img\/projects\/essential-sound-production\/index-modal\/modal-feature-2_2x.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/projects\/essential-sound-production\/index-modal\/modal-feature-3.jpg": {
 		"ft": 16384,
@@ -6060,7 +6296,8 @@
 		"oA": 1,
 		"oAP": "\/img\/projects\/essential-sound-production\/index-modal\/modal-feature-3.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/projects\/essential-sound-production\/index-modal\/modal-feature-3_2x.jpg": {
 		"ft": 16384,
@@ -6068,7 +6305,8 @@
 		"oA": 1,
 		"oAP": "\/img\/projects\/essential-sound-production\/index-modal\/modal-feature-3_2x.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/projects\/essential-sound-production\/index-modal\/modal-thumb.jpg": {
 		"ft": 16384,
@@ -6076,7 +6314,8 @@
 		"oA": 1,
 		"oAP": "\/img\/projects\/essential-sound-production\/index-modal\/modal-thumb.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/projects\/essential-sound-production\/index-modal\/modal-thumb_2x.jpg": {
 		"ft": 16384,
@@ -6084,7 +6323,8 @@
 		"oA": 1,
 		"oAP": "\/img\/projects\/essential-sound-production\/index-modal\/modal-thumb_2x.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/projects\/greencare-tx\/index-modal\/modal-feature-1.jpg": {
 		"ft": 16384,
@@ -6092,7 +6332,8 @@
 		"oA": 1,
 		"oAP": "\/img\/projects\/greencare-tx\/index-modal\/modal-feature-1.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/projects\/greencare-tx\/index-modal\/modal-feature-1_2x.jpg": {
 		"ft": 16384,
@@ -6100,7 +6341,8 @@
 		"oA": 1,
 		"oAP": "\/img\/projects\/greencare-tx\/index-modal\/modal-feature-1_2x.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/projects\/greencare-tx\/index-modal\/modal-feature-2.jpg": {
 		"ft": 16384,
@@ -6108,7 +6350,8 @@
 		"oA": 1,
 		"oAP": "\/img\/projects\/greencare-tx\/index-modal\/modal-feature-2.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/projects\/greencare-tx\/index-modal\/modal-feature-2_2x.jpg": {
 		"ft": 16384,
@@ -6116,7 +6359,8 @@
 		"oA": 1,
 		"oAP": "\/img\/projects\/greencare-tx\/index-modal\/modal-feature-2_2x.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/projects\/greencare-tx\/index-modal\/modal-thumb.jpg": {
 		"ft": 16384,
@@ -6124,7 +6368,8 @@
 		"oA": 1,
 		"oAP": "\/img\/projects\/greencare-tx\/index-modal\/modal-thumb.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/projects\/greencare-tx\/index-modal\/modal-thumb_2x.jpg": {
 		"ft": 16384,
@@ -6132,7 +6377,8 @@
 		"oA": 1,
 		"oAP": "\/img\/projects\/greencare-tx\/index-modal\/modal-thumb_2x.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/projects\/houston-interior-plants\/modal-thumb.jpg": {
 		"ft": 16384,
@@ -6140,7 +6386,8 @@
 		"oA": 1,
 		"oAP": "\/img\/projects\/houston-interior-plants\/modal-thumb.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/projects\/houston-interior-plants\/modal-thumb_2x.jpg": {
 		"ft": 16384,
@@ -6148,7 +6395,8 @@
 		"oA": 1,
 		"oAP": "\/img\/projects\/houston-interior-plants\/modal-thumb_2x.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/projects\/houston-pals\/index-modal\/modal-feature-1.jpg": {
 		"ft": 16384,
@@ -6156,7 +6404,8 @@
 		"oA": 1,
 		"oAP": "\/img\/projects\/houston-pals\/index-modal\/modal-feature-1.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/projects\/houston-pals\/index-modal\/modal-feature-1_2x.jpg": {
 		"ft": 16384,
@@ -6164,7 +6413,8 @@
 		"oA": 1,
 		"oAP": "\/img\/projects\/houston-pals\/index-modal\/modal-feature-1_2x.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/projects\/houston-pals\/index-modal\/modal-feature-2.jpg": {
 		"ft": 16384,
@@ -6172,7 +6422,8 @@
 		"oA": 1,
 		"oAP": "\/img\/projects\/houston-pals\/index-modal\/modal-feature-2.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/projects\/houston-pals\/index-modal\/modal-feature-2_2x.jpg": {
 		"ft": 16384,
@@ -6180,7 +6431,8 @@
 		"oA": 1,
 		"oAP": "\/img\/projects\/houston-pals\/index-modal\/modal-feature-2_2x.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/projects\/houston-pals\/index-modal\/modal-thumb.jpg": {
 		"ft": 16384,
@@ -6188,7 +6440,8 @@
 		"oA": 1,
 		"oAP": "\/img\/projects\/houston-pals\/index-modal\/modal-thumb.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/projects\/houston-pals\/index-modal\/modal-thumb_2x.jpg": {
 		"ft": 16384,
@@ -6196,7 +6449,8 @@
 		"oA": 1,
 		"oAP": "\/img\/projects\/houston-pals\/index-modal\/modal-thumb_2x.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/projects\/jardin-de-france-tx\/index-graphic-design\/jardin-de-france-price-tag.jpg": {
 		"ft": 16384,
@@ -6204,7 +6458,8 @@
 		"oA": 1,
 		"oAP": "\/img\/projects\/jardin-de-france-tx\/index-graphic-design\/jardin-de-france-price-tag.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/projects\/jardin-de-france-tx\/index-graphic-design\/jardin-de-france-price-tag_2x.jpg": {
 		"ft": 16384,
@@ -6212,7 +6467,8 @@
 		"oA": 1,
 		"oAP": "\/img\/projects\/jardin-de-france-tx\/index-graphic-design\/jardin-de-france-price-tag_2x.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/projects\/jardin-de-france-tx\/index-modal\/modal-feature-1.jpg": {
 		"ft": 16384,
@@ -6220,7 +6476,8 @@
 		"oA": 1,
 		"oAP": "\/img\/projects\/jardin-de-france-tx\/index-modal\/modal-feature-1.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/projects\/jardin-de-france-tx\/index-modal\/modal-feature-1_2x.jpg": {
 		"ft": 16384,
@@ -6228,7 +6485,8 @@
 		"oA": 1,
 		"oAP": "\/img\/projects\/jardin-de-france-tx\/index-modal\/modal-feature-1_2x.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/projects\/jardin-de-france-tx\/index-modal\/modal-feature-2.jpg": {
 		"ft": 16384,
@@ -6236,7 +6494,8 @@
 		"oA": 1,
 		"oAP": "\/img\/projects\/jardin-de-france-tx\/index-modal\/modal-feature-2.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/projects\/jardin-de-france-tx\/index-modal\/modal-feature-2_2x.jpg": {
 		"ft": 16384,
@@ -6244,7 +6503,8 @@
 		"oA": 1,
 		"oAP": "\/img\/projects\/jardin-de-france-tx\/index-modal\/modal-feature-2_2x.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/projects\/jardin-de-france-tx\/index-modal\/modal-thumb.jpg": {
 		"ft": 16384,
@@ -6252,7 +6512,8 @@
 		"oA": 1,
 		"oAP": "\/img\/projects\/jardin-de-france-tx\/index-modal\/modal-thumb.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/projects\/jardin-de-france-tx\/index-modal\/modal-thumb_2x.jpg": {
 		"ft": 16384,
@@ -6260,7 +6521,8 @@
 		"oA": 1,
 		"oAP": "\/img\/projects\/jardin-de-france-tx\/index-modal\/modal-thumb_2x.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/projects\/lisa-esposito\/index-modal\/modal-feature-1.jpg": {
 		"ft": 16384,
@@ -6268,7 +6530,8 @@
 		"oA": 1,
 		"oAP": "\/img\/projects\/lisa-esposito\/index-modal\/modal-feature-1.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/projects\/lisa-esposito\/index-modal\/modal-feature-1_2x.jpg": {
 		"ft": 16384,
@@ -6276,7 +6539,8 @@
 		"oA": 1,
 		"oAP": "\/img\/projects\/lisa-esposito\/index-modal\/modal-feature-1_2x.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/projects\/lisa-esposito\/index-modal\/modal-feature-2.jpg": {
 		"ft": 16384,
@@ -6284,7 +6548,8 @@
 		"oA": 1,
 		"oAP": "\/img\/projects\/lisa-esposito\/index-modal\/modal-feature-2.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/projects\/lisa-esposito\/index-modal\/modal-feature-2_2x.jpg": {
 		"ft": 16384,
@@ -6292,7 +6557,8 @@
 		"oA": 1,
 		"oAP": "\/img\/projects\/lisa-esposito\/index-modal\/modal-feature-2_2x.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/projects\/lisa-esposito\/index-modal\/modal-thumb.jpg": {
 		"ft": 16384,
@@ -6300,7 +6566,8 @@
 		"oA": 1,
 		"oAP": "\/img\/projects\/lisa-esposito\/index-modal\/modal-thumb.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/projects\/lisa-esposito\/index-modal\/modal-thumb_2x.jpg": {
 		"ft": 16384,
@@ -6308,7 +6575,8 @@
 		"oA": 1,
 		"oAP": "\/img\/projects\/lisa-esposito\/index-modal\/modal-thumb_2x.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/projects\/starhill-farms\/index-modal\/modal-feature-1.jpg": {
 		"ft": 16384,
@@ -6316,7 +6584,8 @@
 		"oA": 1,
 		"oAP": "\/img\/projects\/starhill-farms\/index-modal\/modal-feature-1.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/projects\/starhill-farms\/index-modal\/modal-feature-1_2x.jpg": {
 		"ft": 16384,
@@ -6324,7 +6593,8 @@
 		"oA": 1,
 		"oAP": "\/img\/projects\/starhill-farms\/index-modal\/modal-feature-1_2x.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/projects\/starhill-farms\/index-modal\/modal-feature-2.jpg": {
 		"ft": 16384,
@@ -6332,7 +6602,8 @@
 		"oA": 1,
 		"oAP": "\/img\/projects\/starhill-farms\/index-modal\/modal-feature-2.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/projects\/starhill-farms\/index-modal\/modal-feature-2_2x.jpg": {
 		"ft": 16384,
@@ -6340,7 +6611,8 @@
 		"oA": 1,
 		"oAP": "\/img\/projects\/starhill-farms\/index-modal\/modal-feature-2_2x.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/projects\/starhill-farms\/index-modal\/modal-thumb.jpg": {
 		"ft": 16384,
@@ -6348,7 +6620,8 @@
 		"oA": 1,
 		"oAP": "\/img\/projects\/starhill-farms\/index-modal\/modal-thumb.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/projects\/starhill-farms\/index-modal\/modal-thumb_2x.jpg": {
 		"ft": 16384,
@@ -6356,7 +6629,8 @@
 		"oA": 1,
 		"oAP": "\/img\/projects\/starhill-farms\/index-modal\/modal-thumb_2x.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/projects\/the-deck-on-fountainview\/modal-thumb.jpg": {
 		"ft": 16384,
@@ -6364,7 +6638,8 @@
 		"oA": 1,
 		"oAP": "\/img\/projects\/the-deck-on-fountainview\/modal-thumb.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/projects\/the-deck-on-fountainview\/modal-thumb_2x.jpg": {
 		"ft": 16384,
@@ -6372,7 +6647,8 @@
 		"oA": 1,
 		"oAP": "\/img\/projects\/the-deck-on-fountainview\/modal-thumb_2x.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/js\/app-min.js": {
 		"ft": 64,
@@ -7568,6 +7844,10 @@
 			"active": 1,
 			"optionString": ""
 			},
+		"no-compare-neg-zero": {
+			"active": 0,
+			"optionString": ""
+			},
 		"no-cond-assign": {
 			"active": 1,
 			"optionString": "'except-parens'"
@@ -8047,6 +8327,10 @@
 		"no-with": {
 			"active": 0,
 			"optionString": ""
+			},
+		"nonblock-statement-body-position": {
+			"active": 0,
+			"optionString": "'beside'"
 			},
 		"object-curly-newline": {
 			"active": 0,
@@ -8647,7 +8931,8 @@
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
-		"autoOutputPathStyle": 0
+		"autoOutputPathStyle": 0,
+		"quality": 100
 		},
 	"languageDefaultsJS": {
 		"autoOutputAction": 1,
@@ -8740,7 +9025,9 @@
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
-		"autoOutputPathStyle": 0
+		"autoOutputPathStyle": 0,
+		"enableLossy": 1,
+		"quality": 100
 		},
 	"languageDefaultsPUG": {
 		"autoOutputAction": 0,
