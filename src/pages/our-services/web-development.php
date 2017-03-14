@@ -78,5 +78,10 @@ body-class: web-development
 	</div>
 </section>
 <section class="design-into-code-conversion">
-	
+	<div class="row">
+		<div class="large-push-2 large-10 columns">
+			<h5 class="h1-style" style="display: inline-block; border-bottom: 2px solid #fff; font-size: 18px; letter-spacing: 1px; line-height: 1.5; margin-bottom: 0; color: #fff;">Service Offered</h5>
+			<h2 style="color: #fff;"><span class="h1-style">Design into Code</span> conversion</h2>
+		</div>
+	</div>
 </section>

@@ -1,5 +1,19 @@
 @import "../../../_settings.scss";
 
+// -----------------------------------------------------
+// |            TEMPORARY TYPE-STYLING CODE            |
+// -----------------------------------------------------
+
+.h1-style {
+	font-family: 'Source Code Pro', Consolas, 'Liberation Mono', Courier, monospace;
+	font-weight: 600;
+	text-transform: uppercase;
+}
+
+// -----------------------------------------------
+// |            END TEMP TYPE-STYLING            |
+// -----------------------------------------------
+
 
 .design-into-code-conversion {
 	padding: rem-calc(40) 0;
@@ -7,3 +21,4 @@
 	border-top: rem-calc(5) solid #E5FFB1;
 	border-bottom: rem-calc(5) solid #E5FFB1;
 }
+

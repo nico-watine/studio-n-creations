@@ -6838,6 +6838,12 @@ form#index-contact-form span.input-group-label.error {
   }
 }
 
+.h1-style {
+  font-family: 'Source Code Pro', Consolas, 'Liberation Mono', Courier, monospace;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+
 .design-into-code-conversion {
   padding: 2.5rem 0;
   background: #566372;
