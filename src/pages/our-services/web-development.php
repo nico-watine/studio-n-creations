@@ -79,20 +79,28 @@ body-class: web-development
 </section>
 <section class="design-into-code-conversion">
 	<div class="row">
-		<div class="large-push-2 large-10 columns">
+		<div class="medium-push-1 medium-11 large-push-2 large-10 columns">
 			<h5 class="h1-style" style="display: inline-block; border-bottom: 2px solid #fff; font-size: 18px; letter-spacing: 1px; line-height: 1.5; margin-bottom: 0; color: #fff;">Service Offered</h5>
 			<h2 style="color: #fff;"><span class="h1-style">Design into Code</span> conversion</h2>
 		</div>
 	</div>
 	<div class="row">
-		<div class="large-push-2 large-2 columns">
-			<img src="{{ cdn }}/img/our-services/web-development/design-into-code-conversion/html5-logo.svg" alt="HTML5 Logo" title="HTML5 Logo">
+		<div class="medium-3 large-push-2 large-2 columns text-right">
+			<img style="width: 170px;" src="{{ cdn }}/img/our-services/web-development/design-into-code-conversion/html5-logo.svg" alt="HTML5 Logo" title="HTML5 Logo">
 		</div>
-		<div class="large-8 columns">
+		<div class="medium-9 large-8 columns">
 			<h4 style="color: #fff; max-width: 570px; width: 100%;">If you already have a collection of web page mockups, we can transform the designs into a fully-coded, functioning website.</h4>
-			<p style="margin-right: 20px; color: #fff; font-weight: 400; width: 275px; display: inline-block;">We work with both <strong>Photoshop</strong> and <strong>Sketch App</strong> when converting files into functioning <strong>HTML5</strong>.</p>
-			<img style="margin-right: 20px;" src="/img/our-services/web-development/design-into-code-conversion/photoshop.png" alt="Photoshop Logo">
-			<img src="/img/our-services/web-development/design-into-code-conversion/sketch-app.png" alt="Sketch App Logo">
+			<div class="row" style="max-width: 600px; width: 100%; padding-top: 16px;">
+				<div class="medium-6 columns">
+					<p style="color: #fff; font-weight: 400;">We work with both <strong>Photoshop</strong> and <strong>Sketch App</strong> when converting files into functioning <strong>HTML5</strong>.</p>
+				</div>
+				<div class="small-6 medium-3 columns">
+					<img src="/img/our-services/web-development/design-into-code-conversion/photoshop.png" alt="Photoshop Logo">
+				</div>
+				<div class="small-6 medium-3 columns">
+					<img src="/img/our-services/web-development/design-into-code-conversion/sketch-app.png" alt="Sketch App Logo">
+				</div>
+			</div>
 		</div>
 	</div>
 </section>
