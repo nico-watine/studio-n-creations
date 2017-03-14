@@ -84,4 +84,13 @@ body-class: web-development
 			<h2 style="color: #fff;"><span class="h1-style">Design into Code</span> conversion</h2>
 		</div>
 	</div>
+	<div class="row">
+		<div class="large-push-2 large-2 columns">
+			<img src="{{ cdn }}/img/our-services/web-development/design-into-code-conversion/html5-logo.svg" alt="HTML5 Logo" title="HTML5 Logo">
+		</div>
+		<div class="large-8 columns">
+			<h4 style="color: #fff; max-width: 570px; width: 100%;">If you already have a collection of web page mockups, we can transform the designs into a fully-coded, functioning website.</h4>
+			<p style="color: #fff; font-weight: 400; width: 275px;">We work with both <strong>Photoshop</strong> and <strong>Sketch App</strong> when converting files into functioning <strong>HTML5</strong>.</p>
+		</div>
+	</div>
 </section>
