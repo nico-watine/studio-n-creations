@@ -6838,6 +6838,13 @@ form#index-contact-form span.input-group-label.error {
   }
 }
 
+.design-into-code-conversion {
+  padding: 2.5rem 0;
+  background: #566372;
+  border-top: 0.3125rem solid #E5FFB1;
+  border-bottom: 0.3125rem solid #E5FFB1;
+}
+
 #web-development {
   background: #F4F4F4;
 }
