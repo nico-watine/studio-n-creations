@@ -5410,6 +5410,56 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/dist\/img\/our-services\/web-development\/new-project-workflow\/coding-development-stage.png": {
+		"ft": 32768,
+		"iS": 116026,
+		"l": 1,
+		"oA": 1,
+		"oAP": "\/dist\/img\/our-services\/web-development\/new-project-workflow\/coding-development-stage.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/our-services\/web-development\/new-project-workflow\/design-phase.png": {
+		"ft": 32768,
+		"iS": 43233,
+		"l": 1,
+		"oA": 1,
+		"oAP": "\/dist\/img\/our-services\/web-development\/new-project-workflow\/design-phase.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/our-services\/web-development\/new-project-workflow\/server.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/dist\/img\/our-services\/web-development\/new-project-workflow\/server.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/dist\/img\/our-services\/web-development\/new-project-workflow\/site-layout-planning.png": {
+		"ft": 32768,
+		"iS": 168179,
+		"l": 1,
+		"oA": 1,
+		"oAP": "\/dist\/img\/our-services\/web-development\/new-project-workflow\/site-layout-planning.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/our-services\/web-development\/new-project-workflow\/wrench.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/dist\/img\/our-services\/web-development\/new-project-workflow\/wrench.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
 	"\/dist\/img\/projects\/dmesa\/index-graphic-design\/dmesa-logo.png": {
 		"ft": 32768,
 		"iS": 13601,
@@ -5928,6 +5978,12 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/dist\/our-services\/web-development.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/our-services\/web-development.php",
+		"oF": 0
+		},
 	"\/dist\/php\/autoVer.php": {
 		"ft": 8192,
 		"oA": 2,
@@ -5944,12 +6000,6 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/dist\/robots.txt",
-		"oF": 0
-		},
-	"\/dist\/sitemap.xml": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/dist\/sitemap.xml",
 		"oF": 0
 		},
 	"\/dist\/touch-icon-192x192.png": {
@@ -7002,6 +7052,19 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "\/scss\/pages\/index\/css\/_thank-you.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/scss\/pages\/our-services\/web-development\/_design-into-code-conversion.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/scss\/pages\/our-services\/css\/_design-into-code-conversion.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
