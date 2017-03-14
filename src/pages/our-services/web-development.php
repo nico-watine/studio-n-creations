@@ -90,7 +90,9 @@ body-class: web-development
 		</div>
 		<div class="large-8 columns">
 			<h4 style="color: #fff; max-width: 570px; width: 100%;">If you already have a collection of web page mockups, we can transform the designs into a fully-coded, functioning website.</h4>
-			<p style="color: #fff; font-weight: 400; width: 275px;">We work with both <strong>Photoshop</strong> and <strong>Sketch App</strong> when converting files into functioning <strong>HTML5</strong>.</p>
+			<p style="margin-right: 20px; color: #fff; font-weight: 400; width: 275px; display: inline-block;">We work with both <strong>Photoshop</strong> and <strong>Sketch App</strong> when converting files into functioning <strong>HTML5</strong>.</p>
+			<img style="margin-right: 20px;" src="/img/our-services/web-development/design-into-code-conversion/photoshop.png" alt="Photoshop Logo">
+			<img src="/img/our-services/web-development/design-into-code-conversion/sketch-app.png" alt="Sketch App Logo">
 		</div>
 	</div>
 </section>
