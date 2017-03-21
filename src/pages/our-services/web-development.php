@@ -85,8 +85,8 @@ body-class: web-development
 		</div>
 	</div>
 	<div class="row">
-		<div class="medium-3 large-push-2 large-2 columns text-right">
-			<img style="width: 170px;" src="{{ cdn }}/img/our-services/web-development/design-into-code-conversion/html5-logo.svg" alt="HTML5 Logo" title="HTML5 Logo">
+		<div class="medium-3 large-push-2 large-2 columns medium-text-right large-text-center">
+			<img style="width: 135px;" src="{{ cdn }}/img/our-services/web-development/design-into-code-conversion/html5-logo.svg" alt="HTML5 Logo" title="HTML5 Logo">
 		</div>
 		<div class="medium-9 large-8 columns">
 			<h4 style="color: #fff; max-width: 570px; width: 100%;">If you already have a collection of web page mockups, we can transform the designs into a fully-coded, functioning website.</h4>
