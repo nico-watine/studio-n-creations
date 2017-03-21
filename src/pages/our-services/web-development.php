@@ -85,20 +85,33 @@ body-class: web-development
 		</div>
 	</div>
 	<div class="row">
-		<div class="medium-3 large-push-2 large-2 columns medium-text-right large-text-center">
+		<div class="small-5 medium-3 large-push-2 large-2 columns medium-text-right large-text-center show-for-medium">
 			<img style="width: 135px;" src="{{ cdn }}/img/our-services/web-development/design-into-code-conversion/html5-logo.svg" alt="HTML5 Logo" title="HTML5 Logo">
 		</div>
 		<div class="medium-9 large-8 columns">
 			<h4 style="color: #fff; max-width: 570px; width: 100%;">If you already have a collection of web page mockups, we can transform the designs into a fully-coded, functioning website.</h4>
 			<div class="row" style="max-width: 600px; width: 100%; padding-top: 16px;">
+				<div class="hide-for-medium">
+					<div class="small-4 columns text-center">
+						<img src="{{ cdn }}/img/our-services/web-development/design-into-code-conversion/html5-logo.svg" alt="HTML5 Logo" title="HTML5 Logo">
+					</div>
+					<div class="small-4 columns">
+						<img src="/img/our-services/web-development/design-into-code-conversion/photoshop.png" alt="Photoshop Logo">
+					</div>
+					<div class="small-4 columns">
+						<img src="/img/our-services/web-development/design-into-code-conversion/sketch-app.png" alt="Sketch App Logo">
+					</div>
+				</div>
 				<div class="medium-6 columns">
 					<p style="color: #fff; font-weight: 400;">We work with both <strong>Photoshop</strong> and <strong>Sketch App</strong> when converting files into functioning <strong>HTML5</strong>.</p>
 				</div>
-				<div class="small-6 medium-3 columns">
-					<img src="/img/our-services/web-development/design-into-code-conversion/photoshop.png" alt="Photoshop Logo">
-				</div>
-				<div class="small-6 medium-3 columns">
-					<img src="/img/our-services/web-development/design-into-code-conversion/sketch-app.png" alt="Sketch App Logo">
+				<div class="show-for-medium">
+					<div class="small-6 medium-3 columns">
+						<img src="/img/our-services/web-development/design-into-code-conversion/photoshop.png" alt="Photoshop Logo">
+					</div>
+					<div class="small-6 medium-3 columns">
+						<img src="/img/our-services/web-development/design-into-code-conversion/sketch-app.png" alt="Sketch App Logo">
+					</div>
 				</div>
 			</div>
 		</div>
