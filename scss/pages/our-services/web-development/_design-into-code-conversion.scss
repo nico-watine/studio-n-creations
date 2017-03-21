@@ -1,24 +1,42 @@
 @import "../../../_settings.scss";
 
-// -----------------------------------------------------
-// |            TEMPORARY TYPE-STYLING CODE            |
-// -----------------------------------------------------
 
-.h1-style {
-	font-family: 'Source Code Pro', Consolas, 'Liberation Mono', Courier, monospace;
-	font-weight: 600;
-	text-transform: uppercase;
-}
-
-// -----------------------------------------------
-// |            END TEMP TYPE-STYLING            |
-// -----------------------------------------------
-
-
-.design-into-code-conversion {
+#design-into-code-conversion {
 	padding: rem-calc(40) 0;
 	background: #566372;
 	border-top: rem-calc(5) solid #E5FFB1;
 	border-bottom: rem-calc(5) solid #E5FFB1;
+
+	color: #fff;
+
+	.subHeading {
+		display: inline-block;
+		border-bottom: rem-calc(2) solid #fff;
+		font-size: rem-calc(18);
+		line-height: 1.5;
+		margin-bottom: 0;
+	}
+
+	img.html5-logo {
+		width: rem-calc(130);
+	}
+
+	h4 {
+		max-width: rem-calc(570);
+	}
+
+	.nestedRow {
+		max-width: rem-calc(600);
+		padding-top: rem-calc(16);
+
+		p {
+			margin-top: rem-calc(16);
+			font-weight: 400;
+
+			@include breakpoint(medium) {
+				margin-top: 0;
+			}
+		}
+	}
 }
 

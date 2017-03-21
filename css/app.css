@@ -6217,7 +6217,8 @@ table.hover tbody tr:nth-of-type(even):hover {
 
 h1,
 h3,
-form#index-contact-form .contact-form-input-group-button input {
+form#index-contact-form .contact-form-input-group-button input,
+.monospace {
   font-family: 'Source Code Pro', Consolas, 'Liberation Mono', Courier, monospace;
   font-weight: 600;
   text-transform: uppercase;
@@ -6838,17 +6839,44 @@ form#index-contact-form span.input-group-label.error {
   }
 }
 
-.h1-style {
-  font-family: 'Source Code Pro', Consolas, 'Liberation Mono', Courier, monospace;
-  font-weight: 600;
-  text-transform: uppercase;
-}
-
-.design-into-code-conversion {
+#design-into-code-conversion {
   padding: 2.5rem 0;
   background: #566372;
   border-top: 0.3125rem solid #E5FFB1;
   border-bottom: 0.3125rem solid #E5FFB1;
+  color: #fff;
+}
+
+#design-into-code-conversion .subHeading {
+  display: inline-block;
+  border-bottom: 0.125rem solid #fff;
+  font-size: 1.125rem;
+  line-height: 1.5;
+  margin-bottom: 0;
+}
+
+#design-into-code-conversion img.html5-logo {
+  width: 8.125rem;
+}
+
+#design-into-code-conversion h4 {
+  max-width: 35.625rem;
+}
+
+#design-into-code-conversion .nestedRow {
+  max-width: 37.5rem;
+  padding-top: 1rem;
+}
+
+#design-into-code-conversion .nestedRow p {
+  margin-top: 1rem;
+  font-weight: 400;
+}
+
+@media screen and (min-width: 40em) {
+  #design-into-code-conversion .nestedRow p {
+    margin-top: 0;
+  }
 }
 
 #web-development {
