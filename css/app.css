@@ -6862,10 +6862,6 @@ form#index-contact-form span.input-group-label.error {
   margin-bottom: 0;
 }
 
-#design-into-code-conversion img.html5-logo {
-  width: 8.125rem;
-}
-
 #design-into-code-conversion h4 {
   max-width: 35.625rem;
 }
@@ -6883,6 +6879,10 @@ form#index-contact-form span.input-group-label.error {
   #design-into-code-conversion .nestedRow p {
     margin-top: 0;
   }
+}
+
+#design-into-code-conversion .nestedRow img.html5-logo {
+  max-height: 120px;
 }
 
 #web-development {

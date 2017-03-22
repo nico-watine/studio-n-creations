@@ -15,10 +15,6 @@
 		margin-bottom: 0;
 	}
 
-	img.html5-logo {
-		width: rem-calc(130);
-	}
-
 	h4 {
 		max-width: rem-calc(570);
 	}
@@ -33,6 +29,10 @@
 			@include breakpoint(medium) {
 				margin-top: 0;
 			}
+		}
+
+		img.html5-logo {
+			max-height: 120px;
 		}
 	}
 }
