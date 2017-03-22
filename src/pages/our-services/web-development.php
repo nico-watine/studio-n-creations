@@ -19,20 +19,20 @@ body-class: web-development
 		<div class="medium-10 medium-push-1 large-6 large-push-0 columns">
 			<div class="workflowCard text-center" id="site-layout-planning">
 				<div class="workflowCard-title">
-					<h3>1. Site Layout Planning</h3>
+					<h3 class="textColor-white textShadow-black margin-0">1. Site Layout Planning</h3>
 				</div>
 				<div class="workflowCard-description">
-					<p>This includes the content strategy of what info will be presented <span class="inline-block">on the website.</span></p>
+					<p class="textColor-white fontWeight-400 margin-0">This includes the content strategy of what info will be presented <span class="inline-block">on the website.</span></p>
 				</div>
 			</div>
 		</div>
 		<div class="medium-10 medium-push-1 large-6 large-push-0 end columns">
 			<div class="workflowCard text-center" id="design-phase">
 				<div class="workflowCard-title">
-					<h3>2. Design Phase</h3>
+					<h3 class="margin-0">2. Design Phase</h3>
 				</div>
 				<div class="workflowCard-description">
-					<p>We consult with our clients closely throughout the design process to ensure full satisfaction with the site’s look and feel.</p>
+					<p class="textColor-white fontWeight-400 margin-0">We consult with our clients closely throughout the design process to ensure full satisfaction with the site’s look and feel.</p>
 				</div>
 			</div>
 		</div>
@@ -41,10 +41,10 @@ body-class: web-development
 		<div class="large-8 large-push-2 columns end">
 			<div class="workflowCard text-center" id="coding-development-stage">
 				<div class="workflowCard-title">
-					<h3>3. Coding &amp; Development Stage</h3>
+					<h3 class="textColor-white textShadow-black margin-0">3. Coding &amp; Development Stage</h3>
 				</div>
 				<div class="workflowCard-description">
-					<p>We then code the approved design into a functioning website, using the industry’s latest <span class="inline-block">methods and standards.</span></p>
+					<p class="textColor-white fontWeight-400 margin-0">We then code the approved design into a functioning website, using the industry’s latest <span class="inline-block">methods and standards.</span></p>
 				</div>
 			</div>
 		</div>
@@ -77,7 +77,7 @@ body-class: web-development
 		</div>
 	</div>
 </section>
-<section id="design-into-code-conversion" class="fontColor-white">
+<section id="design-into-code-conversion" class="textColor-white">
 	<div class="row">
 		<div class="medium-push-1 medium-11 large-push-2 large-10 columns">
 			<h5 class="subHeading monospace">Service Offered</h5>
@@ -103,7 +103,7 @@ body-class: web-development
 					</div>
 				</div>
 				<div class="medium-6 columns">
-					<p>We work with both <strong>Photoshop</strong> and <strong>Sketch App</strong> when converting files into functioning <strong>HTML5</strong>.</p>
+					<p class="fontWeight-400">We work with both <strong>Photoshop</strong> and <strong>Sketch App</strong> when converting files into functioning <strong>HTML5</strong>.</p>
 				</div>
 				<div class="show-for-medium">
 					<div class="small-6 medium-3 columns">

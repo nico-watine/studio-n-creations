@@ -8,6 +8,11 @@
 	}
 }
 
+// ---------------------------------------
+// |            .workflowCard            |
+// ---------------------------------------
+
+
 .workflowCard {
 	background: #638199;
 	box-shadow: $z-2;
@@ -16,21 +21,10 @@
 
 .workflowCard-title {
 	padding: rem-calc(80) 0;
-
-	h3 {
-		text-shadow: rem-calc(-2) rem-calc(3) 0 rgba(0,0,0,0.80); 
-		color: #fff;
-	}
 }
 
 .workflowCard-description {
 	padding: rem-calc(16) rem-calc(12);
-
-	p {
-		color: #fff; 
-		font-weight: normal; 
-		margin: 0;
-	}
 }
 
 .workflowCard#site-layout-planning .workflowCard-title {
@@ -39,11 +33,6 @@
 
 .workflowCard#design-phase .workflowCard-title {
 	background: url('#{$url}/img/our-services/web-development/new-project-workflow/design-phase.png') right center/cover no-repeat;
-
-	h3 {
-		color: $black;
-		text-shadow: none;
-	}
 
 	@include breakpoint(medium) {
 		background-position: center center;

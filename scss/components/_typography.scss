@@ -47,10 +47,47 @@ h6 {
 	}
 }
 
-.fontColor-white {
+// -------------------------------------
+// |            text colors            |
+// -------------------------------------
+
+.textColor-white {
 	color: #fff;
 }
 
+
+// -------------------------------------
+// |            text-shadow            |
+// -------------------------------------
+
 .textShadow-black {
 	text-shadow: rem-calc(-2) rem-calc(3) 0 rgba(0,0,0,0.80); 
+}
+
+
+// -------------------------------------
+// |            font-weight            |
+// -------------------------------------
+
+
+.fontWeight-400 {
+	font-weight: normal;
+}
+
+
+// ----------------------------------------
+// |            margin classes            |
+// ----------------------------------------
+
+
+.margin-0 {
+	margin: 0;
+}
+
+.marginTop-0 {
+	margin-top: 0;
+}
+
+.marginBottom-0 {
+	margin-bottom: 0;
 }

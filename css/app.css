@@ -6263,12 +6263,28 @@ h6 {
   }
 }
 
-.fontColor-white {
+.textColor-white {
   color: #fff;
 }
 
 .textShadow-black {
   text-shadow: -0.125rem 0.1875rem 0 rgba(0, 0, 0, 0.8);
+}
+
+.fontWeight-400 {
+  font-weight: normal;
+}
+
+.margin-0 {
+  margin: 0;
+}
+
+.marginTop-0 {
+  margin-top: 0;
+}
+
+.marginBottom-0 {
+  margin-bottom: 0;
 }
 
 #index .graphic-branding {
@@ -6778,19 +6794,8 @@ form#index-contact-form span.input-group-label.error {
   padding: 5rem 0;
 }
 
-.workflowCard-title h3, .workflowCard-title form#index-contact-form .contact-form-input-group-button input, form#index-contact-form .contact-form-input-group-button .workflowCard-title input {
-  text-shadow: -0.125rem 0.1875rem 0 rgba(0, 0, 0, 0.8);
-  color: #fff;
-}
-
 .workflowCard-description {
   padding: 1rem 0.75rem;
-}
-
-.workflowCard-description p {
-  color: #fff;
-  font-weight: normal;
-  margin: 0;
 }
 
 .workflowCard#site-layout-planning .workflowCard-title {
@@ -6799,11 +6804,6 @@ form#index-contact-form span.input-group-label.error {
 
 .workflowCard#design-phase .workflowCard-title {
   background: url("/img/our-services/web-development/new-project-workflow/design-phase.png") right center/cover no-repeat;
-}
-
-.workflowCard#design-phase .workflowCard-title h3, .workflowCard#design-phase .workflowCard-title form#index-contact-form .contact-form-input-group-button input, form#index-contact-form .contact-form-input-group-button .workflowCard#design-phase .workflowCard-title input {
-  color: #222;
-  text-shadow: none;
 }
 
 @media screen and (min-width: 40em) {
@@ -6877,7 +6877,6 @@ form#index-contact-form span.input-group-label.error {
 
 #design-into-code-conversion .nestedRow p {
   margin-top: 1rem;
-  font-weight: 400;
 }
 
 @media screen and (min-width: 40em) {

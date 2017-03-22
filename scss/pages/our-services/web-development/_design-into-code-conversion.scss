@@ -29,7 +29,6 @@
 
 		p {
 			margin-top: rem-calc(16);
-			font-weight: 400;
 
 			@include breakpoint(medium) {
 				margin-top: 0;
