@@ -77,7 +77,7 @@ body-class: web-development
 		</div>
 	</div>
 </section>
-<section id="design-into-code-conversion">
+<section id="design-into-code-conversion" class="fontColor-white">
 	<div class="row">
 		<div class="medium-push-1 medium-11 large-push-2 large-10 columns">
 			<h5 class="subHeading monospace">Service Offered</h5>

@@ -46,3 +46,11 @@ h6 {
 		letter-spacing: rem-calc(1.5);
 	}
 }
+
+.fontColor-white {
+	color: #fff;
+}
+
+.textShadow-black {
+	text-shadow: rem-calc(-2) rem-calc(3) 0 rgba(0,0,0,0.80); 
+}

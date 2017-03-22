@@ -6263,6 +6263,14 @@ h6 {
   }
 }
 
+.fontColor-white {
+  color: #fff;
+}
+
+.textShadow-black {
+  text-shadow: -0.125rem 0.1875rem 0 rgba(0, 0, 0, 0.8);
+}
+
 #index .graphic-branding {
   background: #fff;
 }
@@ -6844,7 +6852,6 @@ form#index-contact-form span.input-group-label.error {
   background: #566372;
   border-top: 0.3125rem solid #E5FFB1;
   border-bottom: 0.3125rem solid #E5FFB1;
-  color: #fff;
 }
 
 #design-into-code-conversion .subHeading {
