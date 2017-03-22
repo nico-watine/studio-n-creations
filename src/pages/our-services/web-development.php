@@ -99,7 +99,7 @@ body-class: web-development
 						<img srcset="{{ cdn }}/img/our-services/web-development/design-into-code-conversion/photoshop_2x.png 2x" src="{{ cdn }}/img/our-services/web-development/design-into-code-conversion/photoshop.png" alt="Adobe Photoshop logo" title="Adobe Photoshop logo">
 					</div>
 					<div class="small-4 columns">
-						<img src="{{ cdn }}/img/our-services/web-development/design-into-code-conversion/sketch-app.png" alt="Sketch App logo" title="Sketch App logo">
+						<img srcset="{{ cdn }}/img/our-services/web-development/design-into-code-conversion/sketch-app_2x.png 2x" src="{{ cdn }}/img/our-services/web-development/design-into-code-conversion/sketch-app.png" alt="Sketch App logo" title="Sketch App logo">
 					</div>
 				</div>
 				<div class="medium-6 columns">

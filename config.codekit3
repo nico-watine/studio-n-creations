@@ -5432,7 +5432,7 @@
 		},
 	"\/dist\/img\/our-services\/web-development\/design-into-code-conversion\/photoshop.png": {
 		"ft": 32768,
-		"iS": 5319,
+		"iS": 1043,
 		"l": 1,
 		"oA": 1,
 		"oAP": "\/dist\/img\/our-services\/web-development\/design-into-code-conversion\/photoshop.png",
@@ -5452,7 +5452,7 @@
 		},
 	"\/dist\/img\/our-services\/web-development\/design-into-code-conversion\/sketch-app.png": {
 		"ft": 32768,
-		"iS": 11903,
+		"iS": 3367,
 		"l": 1,
 		"oA": 1,
 		"oAP": "\/dist\/img\/our-services\/web-development\/design-into-code-conversion\/sketch-app.png",
@@ -5460,22 +5460,12 @@
 		"opt": 0,
 		"q": 100
 		},
-	"\/dist\/img\/our-services\/web-development\/design-into-code-conversion\/sketch.png": {
-		"ft": 32768,
-		"iS": 3367,
-		"l": 1,
-		"oA": 1,
-		"oAP": "\/dist\/img\/our-services\/web-development\/design-into-code-conversion\/sketch.png",
-		"oF": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/dist\/img\/our-services\/web-development\/design-into-code-conversion\/sketch_2x.png": {
+	"\/dist\/img\/our-services\/web-development\/design-into-code-conversion\/sketch-app_2x.png": {
 		"ft": 32768,
 		"iS": 7441,
 		"l": 1,
 		"oA": 1,
-		"oAP": "\/dist\/img\/our-services\/web-development\/design-into-code-conversion\/sketch_2x.png",
+		"oAP": "\/dist\/img\/our-services\/web-development\/design-into-code-conversion\/sketch-app_2x.png",
 		"oF": 0,
 		"opt": 0,
 		"q": 100
@@ -6274,22 +6264,22 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/img\/our-services\/web-development\/design-into-code-conversion\/sketch-app.png": {
+		"ft": 32768,
+		"iS": 3367,
+		"l": 1,
+		"oA": 1,
+		"oAP": "\/img\/our-services\/web-development\/design-into-code-conversion\/sketch-app.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/img\/our-services\/web-development\/design-into-code-conversion\/sketch-app_2x.png": {
 		"ft": 32768,
 		"iS": 7441,
 		"l": 1,
 		"oA": 1,
 		"oAP": "\/img\/our-services\/web-development\/design-into-code-conversion\/sketch-app_2x.png",
-		"oF": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/img\/our-services\/web-development\/design-into-code-conversion\/sketch.png": {
-		"ft": 32768,
-		"iS": 3367,
-		"l": 1,
-		"oA": 1,
-		"oAP": "\/img\/our-services\/web-development\/design-into-code-conversion\/sketch.png",
 		"oF": 0,
 		"opt": 0,
 		"q": 100
