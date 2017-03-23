@@ -6291,6 +6291,14 @@ h6 {
   background: none;
 }
 
+#top-nav .menu {
+  padding-right: 30px;
+  padding-top: 8px;
+  position: absolute;
+  right: 0;
+  z-index: 100;
+}
+
 #top-nav .menu li {
   margin-left: 16px;
   background: #F4F4F4;
@@ -6330,16 +6338,8 @@ h6 {
   box-shadow: 0 8px 0 #222, 0 16px 0 #222;
 }
 
-#top-nav.menu-wrapper {
-  padding-top: 12px;
-  position: absolute;
-  z-index: 100;
-  width: 100%;
-}
-
 #slide-in-nav.menu-wrapper {
   position: absolute;
-  padding-top: 12px;
   background: #566372;
   width: 100%;
   z-index: 20;
