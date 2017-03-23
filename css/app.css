@@ -6287,6 +6287,18 @@ h6 {
   margin-bottom: 0;
 }
 
+#top-nav .menu li {
+  margin-left: 16px;
+  background: #F4F4F4;
+  border-radius: 3px;
+}
+
+#top-nav .menu li a {
+  padding: 12px;
+  color: #222;
+  font-size: 22px;
+}
+
 #top-nav i.hamburger {
   position: relative;
   display: inline-block;
@@ -6312,6 +6324,13 @@ h6 {
 #top-nav i.hamburger:hover::after {
   background: #222;
   box-shadow: 0 8px 0 #222, 0 16px 0 #222;
+}
+
+#top-nav.menu-wrapper {
+  padding-top: 12px;
+  position: absolute;
+  width: 100%;
+  z-index: 10;
 }
 
 #index .graphic-branding {

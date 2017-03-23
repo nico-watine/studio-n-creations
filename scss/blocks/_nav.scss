@@ -1,8 +1,31 @@
 @import "../_settings.scss";
 
 #top-nav {
+	.menu {
+		li {
+			margin-left: 16px;
+			background: #F4F4F4;
+			border-radius: 3px;
+
+			a {
+				padding: 12px;
+				color: #222;
+				font-size: 22px;
+			}
+		}
+	}
+	
 	i.hamburger {
 		@include hamburger($black, $black, 22px, 20px, 4px, 3);
 		vertical-align: bottom;
 	}
 }
+
+#top-nav.menu-wrapper {
+	padding-top: 12px;
+	position: absolute;
+	width: 100%;
+	z-index: 10;
+}
+
+
