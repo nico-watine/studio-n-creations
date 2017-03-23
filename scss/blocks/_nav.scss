@@ -1,6 +1,7 @@
 @import "../_settings.scss";
 
 #top-nav {
+	background: none;
 	.menu {
 		li {
 			margin-left: 16px;
@@ -24,8 +25,36 @@
 #top-nav.menu-wrapper {
 	padding-top: 12px;
 	position: absolute;
+	z-index: 100;
 	width: 100%;
-	z-index: 10;
 }
 
 
+#slide-in-nav.menu-wrapper {
+	position: absolute;
+	padding-top: 12px;
+	background: #566372;
+	width: 100%;
+	z-index: 20;
+
+	.menu {
+		background: none;
+
+		li {
+			margin-left: 16px;
+			background: #F4F4F4;
+			border-radius: 3px;
+
+			a {
+				padding: 12px;
+				color: #222;
+				font-size: 22px;
+			}
+		}
+	}
+
+	i.hamburger {
+		@include hamburger($black, $black, 22px, 20px, 4px, 3);
+		vertical-align: bottom;
+	}
+}

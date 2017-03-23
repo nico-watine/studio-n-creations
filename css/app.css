@@ -6287,6 +6287,10 @@ h6 {
   margin-bottom: 0;
 }
 
+#top-nav {
+  background: none;
+}
+
 #top-nav .menu li {
   margin-left: 16px;
   background: #F4F4F4;
@@ -6329,8 +6333,59 @@ h6 {
 #top-nav.menu-wrapper {
   padding-top: 12px;
   position: absolute;
+  z-index: 100;
   width: 100%;
-  z-index: 10;
+}
+
+#slide-in-nav.menu-wrapper {
+  position: absolute;
+  padding-top: 12px;
+  background: #566372;
+  width: 100%;
+  z-index: 20;
+}
+
+#slide-in-nav.menu-wrapper .menu {
+  background: none;
+}
+
+#slide-in-nav.menu-wrapper .menu li {
+  margin-left: 16px;
+  background: #F4F4F4;
+  border-radius: 3px;
+}
+
+#slide-in-nav.menu-wrapper .menu li a {
+  padding: 12px;
+  color: #222;
+  font-size: 22px;
+}
+
+#slide-in-nav.menu-wrapper i.hamburger {
+  position: relative;
+  display: inline-block;
+  vertical-align: middle;
+  cursor: pointer;
+  width: 22px;
+  height: 20px;
+  vertical-align: bottom;
+}
+
+#slide-in-nav.menu-wrapper i.hamburger::after {
+  content: '';
+  position: absolute;
+  display: block;
+  width: 100%;
+  height: 4px;
+  background: #222;
+  top: 0;
+  left: 0;
+  box-shadow: 0 8px 0 #222, 0 16px 0 #222;
+}
+
+#slide-in-nav.menu-wrapper i.hamburger:hover::after {
+  background: #222;
+  box-shadow: 0 8px 0 #222, 0 16px 0 #222;
 }
 
 #index .graphic-branding {
