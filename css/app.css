@@ -6287,6 +6287,33 @@ h6 {
   margin-bottom: 0;
 }
 
+#top-nav i.hamburger {
+  position: relative;
+  display: inline-block;
+  vertical-align: middle;
+  cursor: pointer;
+  width: 22px;
+  height: 20px;
+  vertical-align: bottom;
+}
+
+#top-nav i.hamburger::after {
+  content: '';
+  position: absolute;
+  display: block;
+  width: 100%;
+  height: 4px;
+  background: #222;
+  top: 0;
+  left: 0;
+  box-shadow: 0 8px 0 #222, 0 16px 0 #222;
+}
+
+#top-nav i.hamburger:hover::after {
+  background: #222;
+  box-shadow: 0 8px 0 #222, 0 16px 0 #222;
+}
+
 #index .graphic-branding {
   background: #fff;
 }

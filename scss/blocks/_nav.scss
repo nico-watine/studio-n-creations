@@ -1,1 +1,8 @@
 @import "../_settings.scss";
+
+#top-nav {
+	i.hamburger {
+		@include hamburger($black, $black, 22px, 20px, 4px, 3);
+		vertical-align: bottom;
+	}
+}
