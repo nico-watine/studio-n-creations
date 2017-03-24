@@ -5,6 +5,12 @@
 @import 'foundation';
 // @import 'util/mixins';
 
+// THESE ARE MOTION CSS STYLES... DO NOT IMPORT WITHOUT
+// USING MOTION BC OF LARGE FILE SIZES
+@import 'motion-ui';
+@include motion-ui-transitions;
+@include motion-ui-animations;
+
 @include foundation-global-styles;
 @include foundation-grid;
 @include foundation-typography;
@@ -46,11 +52,6 @@
 @include foundation-float-classes;
 @include foundation-flex-classes;
 
-// THESE ARE MOTION CSS STYLES... DO NOT IMPORT WITHOUT
-// USING MOTION BC OF LARGE FILE SIZES
-@import 'motion-ui';
-@include motion-ui-transitions;
-@include motion-ui-animations;
 
 // TYPICALLY NEVER IMPORTED::
 // @include foundation-flex-grid;
