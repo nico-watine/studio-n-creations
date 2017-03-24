@@ -5971,24 +5971,6 @@
 		"sC": 0,
 		"tS": 0
 		},
-	"\/dist\/js\/custom\/foundation.util.motion.js": {
-		"ft": 64,
-		"mi": 0,
-		"oA": 1,
-		"oAP": "\/dist\/js\/foundation.util.motion-min.js",
-		"oF": 0,
-		"sC": 0,
-		"tS": 0
-		},
-	"\/dist\/js\/custom\/motion-ui.js": {
-		"ft": 64,
-		"mi": 0,
-		"oA": 1,
-		"oAP": "\/dist\/js\/motion-ui-min.js",
-		"oF": 0,
-		"sC": 0,
-		"tS": 0
-		},
 	"\/dist\/js\/custom\/scripts-min.js": {
 		"ft": 64,
 		"mi": 0,
