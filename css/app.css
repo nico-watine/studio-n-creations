@@ -6345,6 +6345,7 @@ h6 {
   z-index: 20;
   height: 62px;
   padding-top: 8px;
+  display: none;
 }
 
 #hidden-nav.menu-wrapper .menu {
