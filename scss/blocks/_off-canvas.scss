@@ -62,3 +62,25 @@
 }
 
 
+// --------------------------------------------------
+// |            Off-Canvas Menu Contents            |
+// --------------------------------------------------
+
+#offCanvas-menu {
+	h1 {
+		font-size: 36px;
+		text-shadow: -4px 4px 0 rgba(0,0,0,0.50);
+		color: #fff;
+		padding-left: 16px;
+		padding-top: 8px;
+	}
+
+	ul {
+		li {
+			a {
+				font-size: 22px;
+				color: #fff;
+			}
+		}
+	}
+}

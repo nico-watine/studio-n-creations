@@ -20,9 +20,9 @@ body-class: bodyLayout-default
 			<button class="close-button" aria-label="Close menu" type="button" data-close>
 				<span aria-hidden="true">&times;</span>
 			</button>
-			<h1 style="font-size: 36px; text-shadow: -4px 4px 0 rgba(0,0,0,0.50); color: #fff; padding-left: 16px; padding-top: 8px;">Studio N Creations</h1>
+			<h1>Studio N Creations</h1>
 			<ul class="vertical menu">
-				<li style="font-size: 22px;"><a class="monospace" style="color: #fff;" href="/">Home</a></li>
+				<li><a class="monospace" href="/">Home</a></li>
 			</ul>
 		</div>
 		

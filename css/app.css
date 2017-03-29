@@ -6431,6 +6431,19 @@ h6 {
   font-size: 50px;
 }
 
+#offCanvas-menu h1 {
+  font-size: 36px;
+  text-shadow: -4px 4px 0 rgba(0, 0, 0, 0.5);
+  color: #fff;
+  padding-left: 16px;
+  padding-top: 8px;
+}
+
+#offCanvas-menu ul li a {
+  font-size: 22px;
+  color: #fff;
+}
+
 #index .graphic-branding {
   background: #fff;
 }
