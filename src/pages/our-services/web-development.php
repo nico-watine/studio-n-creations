@@ -15,16 +15,7 @@ body-class: bodyLayout-default
 <div class="off-canvas-wrapper">
 	<div class="off-canvas-wrapper-inner" data-off-canvas-wrapper>
 
-		<!-- Off-Canvas Menu -->
-		<div class="off-canvas position-right hide-for-medium" id="offCanvas-menu" data-off-canvas data-position="right">
-			<button class="close-button" aria-label="Close menu" type="button" data-close>
-				<span aria-hidden="true">&times;</span>
-			</button>
-			<h1>Studio N Creations</h1>
-			<ul class="vertical menu">
-				<li><a class="monospace" href="/">Home</a></li>
-			</ul>
-		</div>
+		{{> offCanvas-menu}}
 		
 		<!-- Page Content Wrapper -->
 		<div class="off-canvas-content" data-off-canvas-content>
