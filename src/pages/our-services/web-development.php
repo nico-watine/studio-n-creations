@@ -18,9 +18,9 @@ body-class: bodyLayout-default
 		<!-- Off-Canvas Menu -->
 		<div class="off-canvas position-right hide-for-medium" id="offCanvas" data-off-canvas data-position="right">
 			<button class="close-button" aria-label="Close menu" type="button" data-close>
-				<span aria-hidden="true" style="color: #fff;">&times;</span>
+				<span aria-hidden="true" style="color: #fff; font-size: 40px;">&times;</span>
 			</button>
-			<h1 style="font-size: 36px; color: #fff; padding-left: 16px;">Studio N Creations</h1>
+			<h1 style="font-size: 36px; color: #fff; padding-left: 16px; padding-top: 8px;">Studio N Creations</h1>
 			<ul class="vertical menu">
 				<li style="font-size: 22px;"><a class="monospace" style="color: #fff;" href="/">Home</a></li>
 			</ul>
