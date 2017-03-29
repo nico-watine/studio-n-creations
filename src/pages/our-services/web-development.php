@@ -12,6 +12,17 @@ body-class: bodyLayout-default
 	{{> top-nav}}
 </header>
 
+<div class="off-canvas-wrapper">
+
+<button type="button" class="button" data-toggle="offCanvas">Menu</button>
+
+<div class="off-canvas position-right" id="offCanvas" data-off-canvas>
+	<button class="close-button" aria-label="Close menu" type="button" data-close>
+		<span aria-hidden="true">&times;</span>
+	</button>
+</div>
+
+<div class="off-canvas-content" data-off-canvas-content>
 <section id="new-project-workflow">
 	<div class="row page-intro-prose">
 		<div class="medium-10 medium-push-1 large-7 large-push-2 columns end">
@@ -121,3 +132,5 @@ body-class: bodyLayout-default
 		</div>
 	</div>
 </section>
+</div> <!-- /.off-canvas-content -->
+</div> <!-- /.off-canvas-wrapper -->
