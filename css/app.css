@@ -6371,6 +6371,14 @@ h6 {
   font-size: 22px;
 }
 
+@media screen and (min-width: 40em) {
+  .off-canvas-content {
+    box-shadow: none;
+    padding: 0;
+    background: none;
+  }
+}
+
 #index .graphic-branding {
   background: #fff;
 }

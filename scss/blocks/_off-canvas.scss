@@ -1,2 +1,9 @@
 @import "../_settings.scss";
 
+.off-canvas-content {
+	@include breakpoint(medium) {
+		box-shadow: none;
+		padding: 0;
+		background: none;
+	}
+}
