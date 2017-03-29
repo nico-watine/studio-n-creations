@@ -6361,7 +6361,8 @@ h6 {
 #hidden-nav.menu-wrapper .menu li {
   margin-left: 16px;
   background: #F4F4F4;
-  border-radius: 3px;
+  border: 2px solid #566372;
+  border-radius: 6px;
 }
 
 #hidden-nav.menu-wrapper .menu li a {
