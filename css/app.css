@@ -6385,12 +6385,12 @@ h6 {
   }
 }
 
-#off-canvas-toggle {
+#offCanvas-menu--toggle {
   float: right;
   padding: 12px 12px 0 0;
 }
 
-#off-canvas-toggle button {
+#offCanvas-menu--toggle button {
   background: #F4F4F4;
   border: 2px solid #566372;
   border-radius: 6px;
@@ -6399,7 +6399,7 @@ h6 {
   font-size: 22px;
 }
 
-#off-canvas-toggle button i.hamburger {
+#offCanvas-menu--toggle button i.hamburger {
   position: relative;
   display: inline-block;
   vertical-align: middle;
@@ -6409,7 +6409,7 @@ h6 {
   vertical-align: bottom;
 }
 
-#off-canvas-toggle button i.hamburger::after {
+#offCanvas-menu--toggle button i.hamburger::after {
   content: '';
   position: absolute;
   display: block;
@@ -6421,7 +6421,7 @@ h6 {
   box-shadow: 0 8px 0 #222, 0 16px 0 #222;
 }
 
-#off-canvas-toggle button i.hamburger:hover::after {
+#offCanvas-menu--toggle button i.hamburger:hover::after {
   background: #222;
   box-shadow: 0 8px 0 #222, 0 16px 0 #222;
 }

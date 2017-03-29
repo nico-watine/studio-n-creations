@@ -21,7 +21,7 @@ body-class: bodyLayout-default
 		<div class="off-canvas-content" data-off-canvas-content>
 
 			<!-- Off-Canvas Menu toggle -->
-			<div class="hide-for-medium" id="off-canvas-toggle">
+			<div class="hide-for-medium" id="offCanvas-menu--toggle">
 				<button type="button" class="button monospace" data-toggle="offCanvas-menu">Menu <i class="hamburger"></i></button>		
 			</div>
 			
