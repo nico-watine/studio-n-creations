@@ -8,7 +8,7 @@ og-image:
 body-id: web-development
 body-class: bodyLayout-default
 ---
-<header>
+<header class="show-for-medium">
 	{{> top-nav}}
 </header>
 
