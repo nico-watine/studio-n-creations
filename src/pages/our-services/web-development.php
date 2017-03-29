@@ -16,21 +16,24 @@ body-class: bodyLayout-default
 <div class="off-canvas-wrapper-inner" data-off-canvas-wrapper>
 
 
-<div class="off-canvas position-right" id="offCanvas" data-off-canvas>
+<div class="off-canvas position-left" id="offCanvas" data-off-canvas>
 	<button class="close-button" aria-label="Close menu" type="button" data-close>
-		<span aria-hidden="true">&times;</span>
+		<span aria-hidden="true" style="color: #000;">&times;</span>
 	</button>
+	<h1>lorem ipsum</h1>
 </div>
+
+<!-- </div> -->
 
 
 
 <div class="off-canvas-content" data-off-canvas-content>
 
-<div class="title-bar">
-	<div class="title-bar-right">
+<!-- <div class="title-bar"> -->
+	<!-- <div class="title-bar-left"> -->
 		<button type="button" class="button" data-toggle="offCanvas">Menu</button>
-	</div>	
-</div>
+	<!-- </div>	 -->
+<!-- </div> -->
 
 
 <section id="new-project-workflow">
@@ -143,6 +146,6 @@ body-class: bodyLayout-default
 	</div>
 </section>
 
-</div>
-</div>
-</div>
+</div> <!-- /.off-canvas-content -->
+</div> <!-- /.off-canvas-wrapper-inner -->
+</div> <!-- /.off-canvas-wrapper -->
