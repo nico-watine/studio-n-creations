@@ -8,11 +8,22 @@ og-image: /img/assets/og-images/index/generic.jpg
 body-id: index
 body-class: bodyLayout-unique
 ---
+<div class="off-canvas-wrapper">
+	<div class="off-canvas-wrapper-inner" data-off-canvas-wrapper>
+	
+	{{> offCanvas-menu}}
+
+	<div class="off-canvas-content" data-off-canvas-content>
+
+			<div style="position: absolute; z-index: 100; right: 0px;">
+			{{> offCanvas-menu--toggle}}
+			</div>
+
 <header>
 	<div class="show-for-medium">
 		{{> top-nav}}
 	</div>
-	
+
 	<div class="absolute-wrapper">
 		<div class="row">
 			<div class="medium-10 medium-push-1 large-5 large-push-0 columns end">
@@ -280,6 +291,10 @@ body-class: bodyLayout-unique
 		</div>
 	</footer>
 </div>
+		</div> <!-- / Page Content Wrapper -->
+	</div> <!-- /.off-canvas-wrapper-inner -->
+</div> <!-- /.off-canvas-wrapper -->
+
 <div class="reveal small" id="thank-you" data-reveal data-deep-link="true">
 	<div class="row">
 		<div class="small-12 columns">
