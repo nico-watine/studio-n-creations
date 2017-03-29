@@ -16,7 +16,7 @@ body-class: bodyLayout-default
 <div class="off-canvas-wrapper-inner" data-off-canvas-wrapper>
 
 
-<div class="off-canvas position-right" id="offCanvas" data-off-canvas data-position="right">
+<div class="off-canvas position-right hide-for-medium" id="offCanvas" data-off-canvas data-position="right">
 	<button class="close-button" aria-label="Close menu" type="button" data-close>
 		<span aria-hidden="true" style="color: #000;">&times;</span>
 	</button>
@@ -28,7 +28,7 @@ body-class: bodyLayout-default
 
 <div class="off-canvas-content" data-off-canvas-content>
 
-<div class="title-bar">
+<div class="title-bar hide-for-medium">
 	<div class="title-bar-right">
 		<button type="button" class="button" data-toggle="offCanvas">Menu</button>		
 	</div>
