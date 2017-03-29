@@ -1,10 +1,19 @@
 @import "../_settings.scss";
 
+// -----------------------------------------------------
+// |            Entire Page Content Wrapper            |
+// -----------------------------------------------------
+
 .off-canvas-wrapper {
 	@include breakpoint(small only) {
 		background: #566372;
 	}
 }
+
+
+// ----------------------------------------------
+// |            Page Content Wrapper            |
+// ----------------------------------------------
 
 .off-canvas-content {
 	@include breakpoint(medium) {
@@ -13,6 +22,11 @@
 		background: none;
 	}
 }
+
+// ------------------------------------------------
+// |            Off-Canvas Menu toggle            |
+// ------------------------------------------------
+
 
 #off-canvas-toggle {
 	float: right;
