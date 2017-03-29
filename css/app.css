@@ -6371,8 +6371,10 @@ h6 {
   font-size: 22px;
 }
 
-.off-canvas-wrapper {
-  background: #566372;
+@media screen and (max-width: 39.9375em) {
+  .off-canvas-wrapper {
+    background: #566372;
+  }
 }
 
 @media screen and (min-width: 40em) {

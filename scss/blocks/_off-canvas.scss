@@ -1,8 +1,9 @@
 @import "../_settings.scss";
 
 .off-canvas-wrapper {
-	// background: #222;
-	background: #566372;
+	@include breakpoint(small only) {
+		background: #566372;
+	}
 }
 
 .off-canvas-content {
