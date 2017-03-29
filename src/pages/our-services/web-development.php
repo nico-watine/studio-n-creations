@@ -27,10 +27,10 @@ body-class: bodyLayout-default
 		<div class="off-canvas-content" data-off-canvas-content>
 
 			<!-- Off-Canvas Menu toggle -->
-			<div class="title-bar hide-for-medium">
-				<div class="title-bar-right">
+			<div class="hide-for-medium" id="off-canvas-toggle">
+				<!-- <div class="title-bar-right"> -->
 					<button type="button" class="button" data-toggle="offCanvas">Menu</button>		
-				</div>
+				<!-- </div> -->
 			</div>
 			
 			<!-- Main Page Contents -->

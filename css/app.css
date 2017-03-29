@@ -6379,6 +6379,10 @@ h6 {
   }
 }
 
+#off-canvas-toggle {
+  float: right;
+}
+
 #index .graphic-branding {
   background: #fff;
 }
@@ -6872,8 +6876,13 @@ form#index-contact-form span.input-group-label.error {
 }
 
 #web-development .page-intro-prose {
-  margin-top: 2.5rem;
   margin-bottom: 2.5rem;
+}
+
+@media screen and (min-width: 40em) {
+  #web-development .page-intro-prose {
+    margin-top: 2.5rem;
+  }
 }
 
 .workflowCard {
