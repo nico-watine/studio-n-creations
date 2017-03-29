@@ -10,4 +10,19 @@
 
 #off-canvas-toggle {
 	float: right;
+	padding: 12px 12px 0 0;
+
+	button {
+		background: #F4F4F4;
+		border: 2px solid #566372;
+		border-radius: 6px;
+		padding: 12px;
+		color: #222;
+		font-size: 22px;
+
+		i.hamburger {
+			@include hamburger($black, $black, 22px, 20px, 4px, 3);
+			vertical-align: bottom;
+		}
+	}
 }
