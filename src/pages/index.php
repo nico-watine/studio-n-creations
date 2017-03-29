@@ -8,6 +8,10 @@ og-image: /img/assets/og-images/index/generic.jpg
 body-id: index
 body-class: bodyLayout-unique
 ---
+<div class="show-for-medium">
+	{{> top-nav}}
+</div>
+
 <div class="off-canvas-wrapper">
 	<div class="off-canvas-wrapper-inner" data-off-canvas-wrapper>
 	
@@ -18,9 +22,6 @@ body-class: bodyLayout-unique
 	{{> offCanvas-menu--toggle}}
 
 <header>
-	<div class="show-for-medium">
-		{{> top-nav}}
-	</div>
 
 	<div class="absolute-wrapper">
 		<div class="row">
