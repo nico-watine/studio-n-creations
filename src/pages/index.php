@@ -15,9 +15,7 @@ body-class: bodyLayout-unique
 
 	<div class="off-canvas-content" data-off-canvas-content>
 
-			<div style="position: absolute; z-index: 100; right: 0px;">
-			{{> offCanvas-menu--toggle}}
-			</div>
+	{{> offCanvas-menu--toggle}}
 
 <header>
 	<div class="show-for-medium">

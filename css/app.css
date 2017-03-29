@@ -6824,6 +6824,12 @@ form#index-contact-form span.input-group-label.error {
   background: #F4F4F4;
 }
 
+#index #offCanvas-menu--toggle {
+  position: absolute;
+  z-index: 100;
+  right: 0px;
+}
+
 #index header {
   height: 28.75rem;
   position: relative;
