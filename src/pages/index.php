@@ -12,14 +12,7 @@ body-class: bodyLayout-unique
 	{{> top-nav}}
 </div>
 
-<div class="off-canvas-wrapper">
-	<div class="off-canvas-wrapper-inner" data-off-canvas-wrapper>
-	
-	{{> offCanvas-menu}}
-
-	<div class="off-canvas-content" data-off-canvas-content>
-
-	{{> offCanvas-menu--toggle}}
+{{> offCanvas-pageStart}}
 
 <header>
 
@@ -290,9 +283,8 @@ body-class: bodyLayout-unique
 		</div>
 	</footer>
 </div>
-		</div> <!-- / Page Content Wrapper -->
-	</div> <!-- /.off-canvas-wrapper-inner -->
-</div> <!-- /.off-canvas-wrapper -->
+
+{{> offCanvas-pageEnd}}
 
 <div class="reveal small" id="thank-you" data-reveal data-deep-link="true">
 	<div class="row">

@@ -7323,6 +7323,18 @@
 		"oAP": "\/src\/partials\/offCanvas-menu.html",
 		"oF": 0
 		},
+	"\/src\/partials\/offCanvas-pageEnd.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/src\/partials\/offCanvas-pageEnd.html",
+		"oF": 0
+		},
+	"\/src\/partials\/offCanvas-pageStart.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/src\/partials\/offCanvas-pageStart.html",
+		"oF": 0
+		},
 	"\/src\/partials\/top-nav.html": {
 		"ft": 8192,
 		"oA": 2,
