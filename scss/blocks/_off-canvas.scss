@@ -1,5 +1,10 @@
 @import "../_settings.scss";
 
+.off-canvas-wrapper {
+	// background: #222;
+	background: #566372;
+}
+
 .off-canvas-content {
 	@include breakpoint(medium) {
 		box-shadow: none;
