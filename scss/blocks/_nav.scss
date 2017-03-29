@@ -32,9 +32,9 @@
 
 #hidden-nav.menu-wrapper {
 	position: absolute;
+	z-index: 20;
 	background: #566372;
 	width: 100%;
-	z-index: 20;
 	height: 62px;
 	padding-top: 8px;
 	display: none;

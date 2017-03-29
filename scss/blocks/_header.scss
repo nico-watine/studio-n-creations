@@ -1,2 +1,8 @@
 @import "../_settings.scss";
 
+.bodyLayout-default {
+	header {
+		position: relative;
+		height: rem-calc(62);
+	}
+}

@@ -6287,6 +6287,11 @@ h6 {
   margin-bottom: 0;
 }
 
+.bodyLayout-default header {
+  position: relative;
+  height: 3.875rem;
+}
+
 #top-nav {
   background: none;
 }
@@ -6340,9 +6345,9 @@ h6 {
 
 #hidden-nav.menu-wrapper {
   position: absolute;
+  z-index: 20;
   background: #566372;
   width: 100%;
-  z-index: 20;
   height: 62px;
   padding-top: 8px;
   display: none;

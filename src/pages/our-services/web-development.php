@@ -6,8 +6,12 @@ og-title:
 og-description: 
 og-image: 
 body-id: web-development
-body-class: web-development
+body-class: bodyLayout-default
 ---
+<header>
+	{{> top-nav}}
+</header>
+
 <section id="new-project-workflow">
 	<div class="row page-intro-prose">
 		<div class="medium-10 medium-push-1 large-7 large-push-2 columns end">
