@@ -8,12 +8,6 @@ og-image:
 body-id: web-development
 body-class: bodyLayout-default
 ---
-<header class="show-for-medium">
-	{{> top-nav}}
-</header>
-
-{{> offCanvas-pageStart}}
-
 <section id="new-project-workflow">
 	<div class="row page-intro-prose">
 		<div class="medium-10 medium-push-1 large-7 large-push-2 columns end">
@@ -123,5 +117,3 @@ body-class: bodyLayout-default
 		</div>
 	</div>
 </section>
-
-{{> offCanvas-pageEnd}}
