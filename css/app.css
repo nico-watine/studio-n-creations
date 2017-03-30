@@ -6444,6 +6444,10 @@ h6 {
   color: #fff;
 }
 
+.js-off-canvas-exit {
+  z-index: 20;
+}
+
 #index .graphic-branding {
   background: #fff;
 }
