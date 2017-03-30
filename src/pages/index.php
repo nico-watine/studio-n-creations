@@ -8,10 +8,6 @@ og-image: /img/assets/og-images/index/generic.jpg
 body-id: index
 body-class: bodyLayout-unique
 ---
-{{> top-nav}}
-
-{{> offCanvas-pageStart}}
-
 <header>
 	<div class="absolute-wrapper">
 		<div class="row">
@@ -280,8 +276,6 @@ body-class: bodyLayout-unique
 		</div>
 	</footer>
 </div>
-
-{{> offCanvas-pageEnd}}
 
 <div class="reveal small" id="thank-you" data-reveal data-deep-link="true">
 	<div class="row">
