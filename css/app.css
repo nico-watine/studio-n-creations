@@ -6287,9 +6287,9 @@ h6 {
   margin-bottom: 0;
 }
 
-.bodyLayout-default header {
+.bodyLayout-default nav.show-for-medium {
   position: relative;
-  height: 4.625rem;
+  height: 4.125rem;
 }
 
 #top-nav {
