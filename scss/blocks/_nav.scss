@@ -21,7 +21,6 @@
 		z-index: 100;
 
 		li {
-			// margin-left: 16px;
 			background: #F4F4F4;
 			border: 2px solid #566372;
 			border-radius: 6px;
@@ -35,23 +34,11 @@
 	}
 
 	.menu#page-links {
-		// padding-top: 8px;
-		// position: absolute;
-		// z-index: 100;
 		padding-right: 30px;
 		right: 0;
 
 		li {
 			margin-left: 16px;
-			// background: #F4F4F4;
-			// border: 2px solid #566372;
-			// border-radius: 6px;
-
-			a {
-				// padding: 12px;
-				// color: #222;
-				// font-size: 22px;
-			}
 		}
 	}
 
