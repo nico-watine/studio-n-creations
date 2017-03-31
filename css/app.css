@@ -6307,7 +6307,6 @@ h6 {
 #top-nav .menu li a {
   padding: 12px;
   color: #222;
-  font-size: 22px;
 }
 
 #top-nav .menu#contact-links {
@@ -6327,6 +6326,10 @@ h6 {
 
 #top-nav .menu#page-links li {
   margin-left: 16px;
+}
+
+#top-nav .menu#page-links li a {
+  font-size: 22px;
 }
 
 #top-nav i.hamburger {
