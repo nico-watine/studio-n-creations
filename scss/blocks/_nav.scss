@@ -1,6 +1,11 @@
 @import "../_settings.scss";
 
 #top-nav {
+	.menu#contact-links {
+		left: 0; 
+		padding-left: 30px;
+	}
+
 	.menu {
 		padding-top: 8px;
 		position: absolute;
