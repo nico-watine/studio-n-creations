@@ -6322,12 +6322,12 @@ h6 {
   font-size: 22px;
 }
 
-#top-nav .menu.align-right {
+#top-nav .menu#page-links {
   padding-right: 30px;
   right: 0;
 }
 
-#top-nav .menu.align-right li {
+#top-nav .menu#page-links li {
   margin-left: 16px;
 }
 
