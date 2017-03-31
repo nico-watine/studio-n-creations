@@ -6319,15 +6319,15 @@ h6 {
   padding: 0 12px 6px;
 }
 
-#top-nav .menu#page-links {
+#top-nav #menu-pageLinks {
   right: 30px;
 }
 
-#top-nav .menu#page-links li {
+#top-nav #menu-pageLinks li {
   margin-left: 16px;
 }
 
-#top-nav .menu#page-links li a {
+#top-nav #menu-pageLinks li a {
   font-size: 22px;
 }
 
