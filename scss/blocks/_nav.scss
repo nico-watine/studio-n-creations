@@ -5,6 +5,19 @@
 		padding-top: 8px;
 		position: absolute;
 		z-index: 100;
+
+		li {
+			// margin-left: 16px;
+			background: #F4F4F4;
+			border: 2px solid #566372;
+			border-radius: 6px;
+
+			a {
+				padding: 12px;
+				color: #222;
+				font-size: 22px;
+			}
+		}
 	}
 
 	.menu.align-right {
@@ -16,14 +29,14 @@
 
 		li {
 			margin-left: 16px;
-			background: #F4F4F4;
-			border: 2px solid #566372;
-			border-radius: 6px;
+			// background: #F4F4F4;
+			// border: 2px solid #566372;
+			// border-radius: 6px;
 
 			a {
-				padding: 12px;
-				color: #222;
-				font-size: 22px;
+				// padding: 12px;
+				// color: #222;
+				// font-size: 22px;
 			}
 		}
 	}

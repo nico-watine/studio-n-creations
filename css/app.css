@@ -6298,6 +6298,18 @@ h6 {
   z-index: 100;
 }
 
+#top-nav .menu li {
+  background: #F4F4F4;
+  border: 2px solid #566372;
+  border-radius: 6px;
+}
+
+#top-nav .menu li a {
+  padding: 12px;
+  color: #222;
+  font-size: 22px;
+}
+
 #top-nav .menu.align-right {
   padding-right: 30px;
   right: 0;
@@ -6305,15 +6317,6 @@ h6 {
 
 #top-nav .menu.align-right li {
   margin-left: 16px;
-  background: #F4F4F4;
-  border: 2px solid #566372;
-  border-radius: 6px;
-}
-
-#top-nav .menu.align-right li a {
-  padding: 12px;
-  color: #222;
-  font-size: 22px;
 }
 
 #top-nav i.hamburger {
