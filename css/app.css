@@ -6313,10 +6313,20 @@ h6 {
   left: 30px;
 }
 
+#top-nav #menu-contactLinks li {
+  margin-right: 16px;
+  display: inline-block;
+}
+
 #top-nav #menu-contactLinks a {
   font-size: 40px;
   line-height: 40px;
   padding: 0 12px 6px;
+}
+
+#top-nav #menu-contactLinks a#phone img {
+  margin: 0;
+  height: 31px;
 }
 
 #top-nav #menu-pageLinks {
