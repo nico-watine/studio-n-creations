@@ -6311,8 +6311,7 @@ h6 {
 }
 
 #top-nav .menu#contact-links {
-  left: 0;
-  padding-left: 30px;
+  left: 30px;
 }
 
 #top-nav .menu#contact-links li a {
