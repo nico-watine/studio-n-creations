@@ -6293,21 +6293,24 @@ h6 {
 }
 
 #top-nav .menu {
-  padding-right: 30px;
   padding-top: 8px;
   position: absolute;
-  right: 0;
   z-index: 100;
 }
 
-#top-nav .menu li {
+#top-nav .menu.align-right {
+  padding-right: 30px;
+  right: 0;
+}
+
+#top-nav .menu.align-right li {
   margin-left: 16px;
   background: #F4F4F4;
   border: 2px solid #566372;
   border-radius: 6px;
 }
 
-#top-nav .menu li a {
+#top-nav .menu.align-right li a {
   padding: 12px;
   color: #222;
   font-size: 22px;
