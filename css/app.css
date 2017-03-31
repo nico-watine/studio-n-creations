@@ -6324,7 +6324,12 @@ h6 {
   padding: 0 12px 6px;
 }
 
-#top-nav #menu-contactLinks a#phone img {
+#top-nav #menu-contactLinks li#phone .has-tip {
+  border-bottom: 0;
+  padding-bottom: 5px;
+}
+
+#top-nav #menu-contactLinks li#phone img {
   margin: 0;
   height: 31px;
 }
