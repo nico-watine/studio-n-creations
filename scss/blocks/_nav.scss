@@ -1,20 +1,6 @@
 @import "../_settings.scss";
 
 #top-nav {
-	.menu#contact-links {
-		left: 0; 
-		padding-left: 30px;
-
-		li {
-			a {
-				font-size: 40px;
-				line-height: 40px;
-				padding-top: 0;
-				padding-bottom: 6px;
-			}
-		}
-	}
-
 	.menu {
 		padding-top: 8px;
 		position: absolute;
@@ -29,6 +15,20 @@
 				padding: 12px;
 				color: #222;
 				font-size: 22px;
+			}
+		}
+	}
+	
+	.menu#contact-links {
+		left: 0; 
+		padding-left: 30px;
+
+		li {
+			a {
+				font-size: 40px;
+				line-height: 40px;
+				padding-top: 0;
+				padding-bottom: 6px;
 			}
 		}
 	}

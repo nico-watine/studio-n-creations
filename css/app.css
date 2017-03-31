@@ -6292,18 +6292,6 @@ h6 {
   height: 4.125rem;
 }
 
-#top-nav .menu#contact-links {
-  left: 0;
-  padding-left: 30px;
-}
-
-#top-nav .menu#contact-links li a {
-  font-size: 40px;
-  line-height: 40px;
-  padding-top: 0;
-  padding-bottom: 6px;
-}
-
 #top-nav .menu {
   padding-top: 8px;
   position: absolute;
@@ -6320,6 +6308,18 @@ h6 {
   padding: 12px;
   color: #222;
   font-size: 22px;
+}
+
+#top-nav .menu#contact-links {
+  left: 0;
+  padding-left: 30px;
+}
+
+#top-nav .menu#contact-links li a {
+  font-size: 40px;
+  line-height: 40px;
+  padding-top: 0;
+  padding-bottom: 6px;
 }
 
 #top-nav .menu#page-links {
