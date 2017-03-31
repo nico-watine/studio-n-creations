@@ -6309,14 +6309,14 @@ h6 {
   color: #222;
 }
 
-#top-nav .menu#contact-links {
+#top-nav #menu-contactLinks {
   left: 30px;
 }
 
-#top-nav .menu#contact-links a {
+#top-nav #menu-contactLinks a {
   font-size: 40px;
   line-height: 40px;
-  padding: 0 0 6px;
+  padding: 0 12px 6px;
 }
 
 #top-nav .menu#page-links {
