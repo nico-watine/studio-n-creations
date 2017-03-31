@@ -6313,11 +6313,10 @@ h6 {
   left: 30px;
 }
 
-#top-nav .menu#contact-links li a {
+#top-nav .menu#contact-links a {
   font-size: 40px;
   line-height: 40px;
-  padding-top: 0;
-  padding-bottom: 6px;
+  padding: 0 0 6px;
 }
 
 #top-nav .menu#page-links {
