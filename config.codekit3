@@ -6959,6 +6959,19 @@
 		"oS": 0,
 		"uL": 1
 		},
+	"\/scss\/blocks\/nav\/_contactModal.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/scss\/blocks\/css\/_contactModal.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
 	"\/scss\/blocks\/nav\/_nav.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -7377,6 +7390,12 @@
 		"oAP": "\/src\/partials\/_notes.txt",
 		"oF": 0
 		},
+	"\/src\/partials\/contactModal.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/src\/partials\/contactModal.html",
+		"oF": 0
+		},
 	"\/src\/partials\/google-tracking-id.html": {
 		"ft": 8192,
 		"oA": 0,
@@ -7405,12 +7424,6 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/src\/partials\/offCanvas-pageStart.html",
-		"oF": 0
-		},
-	"\/src\/partials\/top-nav-modal.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/src\/partials\/top-nav-modal.html",
 		"oF": 0
 		},
 	"\/src\/partials\/top-nav.html": {

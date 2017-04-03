@@ -6496,6 +6496,10 @@ h6 {
   z-index: 20;
 }
 
+#contactModal {
+  padding: 20px;
+}
+
 #index .graphic-branding {
   background: #fff;
 }
