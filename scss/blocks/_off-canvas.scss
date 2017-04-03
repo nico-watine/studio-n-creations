@@ -29,26 +29,19 @@
 // ------------------------------------------------
 
 #offCanvas-menu--toggle {
-	// float: right;
-	// padding: 12px 12px 0 0;
+	background: #F4F4F4;
+	border: 2px solid #566372;
+	border-radius: 6px;
+	padding: 12px;
+	color: #222;
+	font-size: 16px;
+	padding: 8px;
+	margin-bottom: 0;
 
-	// button {
-		background: #F4F4F4;
-		border: 2px solid #566372;
-		border-radius: 6px;
-		padding: 12px;
-		color: #222;
-		// font-size: 22px;
-		font-size: 16px;
-		padding: 8px;
-		margin-bottom: 0;
-
-		i.hamburger {
-			// @include hamburger($black, $black, 22px, 20px, 4px, 3);
-			@include hamburger($black, $black, 18px, 18px, 4px, 3);
-			vertical-align: bottom;
-		}
-	// }
+	i.hamburger {
+		@include hamburger($black, $black, 18px, 18px, 4px, 3);
+		vertical-align: bottom;
+	}
 }
 
 #mobileNavBar-wrapper {
@@ -62,7 +55,6 @@
 
 	img {
 		padding-top: 4px;
-		// width: 30px;
 	}
 }
 
