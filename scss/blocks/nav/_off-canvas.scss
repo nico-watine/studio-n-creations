@@ -42,6 +42,11 @@
 		@include hamburger($black, $black, 18px, 18px, 4px, 3);
 		vertical-align: bottom;
 	}
+
+	@include breakpoint(medium) {
+		font-size: 22px;
+		padding: 12px;
+	}
 }
 
 #mobileNavBar-wrapper {

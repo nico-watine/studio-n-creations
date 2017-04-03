@@ -6456,6 +6456,13 @@ h6 {
   box-shadow: 0 7px 0 #222, 0 14px 0 #222;
 }
 
+@media screen and (min-width: 40em) {
+  #offCanvas-menu--toggle {
+    font-size: 22px;
+    padding: 12px;
+  }
+}
+
 #mobileNavBar-wrapper {
   float: right;
   padding: 12px 12px 0 0;
