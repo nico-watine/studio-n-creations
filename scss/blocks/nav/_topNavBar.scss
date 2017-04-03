@@ -1,0 +1,70 @@
+@import "../../_settings.scss";
+
+.phone-tooltip {
+	font-size: 20px;
+}
+
+#topNavBar {
+	.menu {
+		padding-top: 8px;
+		position: absolute;
+		z-index: 100;
+
+		li {
+			background: #F4F4F4;
+			border: 2px solid #566372;
+			border-radius: 6px;
+
+			a {
+				padding: 12px;
+				color: #222;
+			}
+		}
+	}
+
+	#menu-contactLinks {
+		left: 30px; 
+
+		li {
+			margin-right: 16px;
+			display: inline-block;
+		}
+
+		a {
+			font-size: 40px;
+			line-height: 40px;
+			padding: 0 12px 6px;
+		}
+
+		li#phone {
+			.has-tip {
+				border-bottom: 0;
+				padding-bottom: 5px;
+			}
+
+			img {
+				margin: 0;
+				height: 31px;
+			}
+		}
+	}
+
+	#menu-pageLinks {
+		right: 30px;
+
+		li {
+			margin-left: 16px;
+
+			a {
+				font-size: 22px;
+			}
+		}
+	}
+
+	i.hamburger {
+		@include hamburger($black, $black, 22px, 20px, 4px, 3);
+		vertical-align: bottom;
+	}
+}
+
+
