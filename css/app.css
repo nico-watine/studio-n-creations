@@ -6424,7 +6424,8 @@ h6 {
   border-radius: 6px;
   padding: 12px;
   color: #222;
-  font-size: 22px;
+  font-size: 16px;
+  padding: 8px;
 }
 
 #offCanvas-menu--toggle i.hamburger {
@@ -6432,8 +6433,8 @@ h6 {
   display: inline-block;
   vertical-align: middle;
   cursor: pointer;
-  width: 22px;
-  height: 20px;
+  width: 18px;
+  height: 18px;
   vertical-align: bottom;
 }
 
@@ -6446,12 +6447,12 @@ h6 {
   background: #222;
   top: 0;
   left: 0;
-  box-shadow: 0 8px 0 #222, 0 16px 0 #222;
+  box-shadow: 0 7px 0 #222, 0 14px 0 #222;
 }
 
 #offCanvas-menu--toggle i.hamburger:hover::after {
   background: #222;
-  box-shadow: 0 8px 0 #222, 0 16px 0 #222;
+  box-shadow: 0 7px 0 #222, 0 14px 0 #222;
 }
 
 #mobileNavBar-wrapper {
