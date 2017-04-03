@@ -41,6 +41,7 @@
 		// font-size: 22px;
 		font-size: 16px;
 		padding: 8px;
+		margin-bottom: 0;
 
 		i.hamburger {
 			// @include hamburger($black, $black, 22px, 20px, 4px, 3);
@@ -53,13 +54,15 @@
 #mobileNavBar-wrapper {
 	float: right;
 	padding: 12px 12px 0 0;
+	margin-bottom: 16px;
 }
 
 #contactModal-toggle {
 	margin-right: 12px;
 
 	img {
-		width: 30px;
+		padding-top: 4px;
+		// width: 30px;
 	}
 }
 

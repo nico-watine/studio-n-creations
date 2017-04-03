@@ -6426,6 +6426,7 @@ h6 {
   color: #222;
   font-size: 16px;
   padding: 8px;
+  margin-bottom: 0;
 }
 
 #offCanvas-menu--toggle i.hamburger {
@@ -6458,6 +6459,7 @@ h6 {
 #mobileNavBar-wrapper {
   float: right;
   padding: 12px 12px 0 0;
+  margin-bottom: 16px;
 }
 
 #contactModal-toggle {
@@ -6465,7 +6467,7 @@ h6 {
 }
 
 #contactModal-toggle img {
-  width: 30px;
+  padding-top: 4px;
 }
 
 #offCanvas-menu button.close-button span {
