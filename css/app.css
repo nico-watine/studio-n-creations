@@ -6419,11 +6419,6 @@ h6 {
 }
 
 #offCanvas-menu--toggle {
-  float: right;
-  padding: 12px 12px 0 0;
-}
-
-#offCanvas-menu--toggle button {
   background: #F4F4F4;
   border: 2px solid #566372;
   border-radius: 6px;
@@ -6432,7 +6427,7 @@ h6 {
   font-size: 22px;
 }
 
-#offCanvas-menu--toggle button i.hamburger {
+#offCanvas-menu--toggle i.hamburger {
   position: relative;
   display: inline-block;
   vertical-align: middle;
@@ -6442,7 +6437,7 @@ h6 {
   vertical-align: bottom;
 }
 
-#offCanvas-menu--toggle button i.hamburger::after {
+#offCanvas-menu--toggle i.hamburger::after {
   content: '';
   position: absolute;
   display: block;
@@ -6454,9 +6449,14 @@ h6 {
   box-shadow: 0 8px 0 #222, 0 16px 0 #222;
 }
 
-#offCanvas-menu--toggle button i.hamburger:hover::after {
+#offCanvas-menu--toggle i.hamburger:hover::after {
   background: #222;
   box-shadow: 0 8px 0 #222, 0 16px 0 #222;
+}
+
+#mobileNavBar-wrapper {
+  float: right;
+  padding: 12px 12px 0 0;
 }
 
 #offCanvas-menu button.close-button span {

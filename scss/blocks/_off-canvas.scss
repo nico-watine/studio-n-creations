@@ -29,10 +29,10 @@
 // ------------------------------------------------
 
 #offCanvas-menu--toggle {
-	float: right;
-	padding: 12px 12px 0 0;
+	// float: right;
+	// padding: 12px 12px 0 0;
 
-	button {
+	// button {
 		background: #F4F4F4;
 		border: 2px solid #566372;
 		border-radius: 6px;
@@ -44,9 +44,13 @@
 			@include hamburger($black, $black, 22px, 20px, 4px, 3);
 			vertical-align: bottom;
 		}
-	}
+	// }
 }
 
+#mobileNavBar-wrapper {
+	float: right;
+	padding: 12px 12px 0 0;
+}
 
 // ------------------------------------------------------
 // |            Off-Canvas Menu close-button            |
