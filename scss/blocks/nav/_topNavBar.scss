@@ -9,17 +9,6 @@
 		padding-top: 8px;
 		position: absolute;
 		z-index: 100;
-
-		li {
-			background: #F4F4F4;
-			border: 2px solid #566372;
-			border-radius: 6px;
-
-			a {
-				padding: 12px;
-				color: #222;
-			}
-		}
 	}
 
 	#menu-contactLinks {
@@ -28,12 +17,17 @@
 		li {
 			margin-right: 16px;
 			display: inline-block;
+
+			background: #F4F4F4;
+			border: 2px solid #566372;
+			border-radius: 6px;
 		}
 
 		a {
 			font-size: 40px;
 			line-height: 40px;
 			padding: 0 12px 6px;
+			color: #222;
 		}
 
 		li#phone {

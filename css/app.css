@@ -6517,17 +6517,6 @@ h6 {
   z-index: 100;
 }
 
-#topNavBar .menu li {
-  background: #F4F4F4;
-  border: 2px solid #566372;
-  border-radius: 6px;
-}
-
-#topNavBar .menu li a {
-  padding: 12px;
-  color: #222;
-}
-
 #topNavBar #menu-contactLinks {
   left: 30px;
 }
@@ -6535,12 +6524,16 @@ h6 {
 #topNavBar #menu-contactLinks li {
   margin-right: 16px;
   display: inline-block;
+  background: #F4F4F4;
+  border: 2px solid #566372;
+  border-radius: 6px;
 }
 
 #topNavBar #menu-contactLinks a {
   font-size: 40px;
   line-height: 40px;
   padding: 0 12px 6px;
+  color: #222;
 }
 
 #topNavBar #menu-contactLinks li#phone .has-tip {
