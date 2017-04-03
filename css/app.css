@@ -6404,18 +6404,14 @@ h6 {
   font-size: 22px;
 }
 
-@media screen and (max-width: 39.9375em) {
-  .off-canvas-wrapper {
-    background: #566372;
-  }
+.off-canvas-wrapper {
+  background: #566372;
 }
 
-@media screen and (min-width: 40em) {
-  .off-canvas-content {
-    box-shadow: none;
-    padding: 0;
-    background: none;
-  }
+.off-canvas-content {
+  box-shadow: none;
+  padding: 0;
+  background: #f4f4f4;
 }
 
 #offCanvas-menu--toggle {

@@ -5,9 +5,7 @@
 // -----------------------------------------------
 
 .off-canvas-wrapper {
-	@include breakpoint(small only) {
-		background: #566372;
-	}
+	background: #566372;
 }
 
 
@@ -16,11 +14,9 @@
 // ----------------------------------------------
 
 .off-canvas-content {
-	@include breakpoint(medium) {
-		box-shadow: none;
-		padding: 0;
-		background: none;
-	}
+	box-shadow: none;
+	padding: 0;
+	background: #f4f4f4;
 }
 
 
