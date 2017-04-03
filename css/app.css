@@ -6483,6 +6483,10 @@ h6 {
   padding-top: 8px;
 }
 
+#offCanvas-menu h2 {
+  font-size: 22px;
+}
+
 #offCanvas-menu ul li a {
   font-size: 22px;
   color: #fff;

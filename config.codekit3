@@ -5215,6 +5215,16 @@
 		"oAP": "\/dist\/browserconfig.xml",
 		"oF": 0
 		},
+	"\/dist\/css\/app-ck.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/dist\/css\/app-ck-ck.css",
+		"oF": 0,
+		"oS": 0
+		},
 	"\/dist\/css\/app.css": {
 		"aP": 0,
 		"bl": 0,
@@ -6949,7 +6959,7 @@
 		"oS": 0,
 		"uL": 1
 		},
-	"\/scss\/blocks\/_off-canvas.scss": {
+	"\/scss\/blocks\/nav\/_nav.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -6957,7 +6967,20 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/css\/_off-canvas.css",
+		"oAP": "\/scss\/blocks\/css\/_nav.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/scss\/blocks\/nav\/_off-canvas.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/scss\/blocks\/css\/_off-canvas.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1

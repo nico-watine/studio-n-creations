@@ -1,4 +1,4 @@
-@import "../_settings.scss";
+@import "../../_settings.scss";
 
 // -----------------------------------------------
 // |            Complete Page Wrapper            |
@@ -83,6 +83,10 @@
 		color: #fff;
 		padding-left: 16px;
 		padding-top: 8px;
+	}
+
+	h2 {
+		font-size: 22px;
 	}
 
 	ul {
