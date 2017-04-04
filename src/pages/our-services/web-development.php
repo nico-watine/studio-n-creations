@@ -1,9 +1,9 @@
 ---
 url: /our-services/web-development
-title: 
-description: 
-og-title: 
-og-description: 
+title: Web Design & Development Services
+description: One of the key services I offer is website design & development.
+og-title: Web Design & Development Services
+og-description: One of the key services I offer is website design, code development and a unique project experience.
 og-image: 
 body-id: web-development
 body-class: bodyLayout-default
