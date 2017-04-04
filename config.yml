@@ -14,6 +14,8 @@ UNCSS_OPTIONS:
     - !!js/regexp ^\.is-.*
     - .reveal-overlay
     - body.is-reveal-open
+    - .tooltip
+    - .phone-tooltip
 
 # Gulp will reference these paths when it copies files
 PATHS:
