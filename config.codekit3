@@ -5215,6 +5215,16 @@
 		"oAP": "\/dist\/browserconfig.xml",
 		"oF": 0
 		},
+	"\/dist\/css\/app-ck.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/dist\/css\/app-ck-ck.css",
+		"oF": 0,
+		"oS": 0
+		},
 	"\/dist\/css\/app.css": {
 		"aP": 0,
 		"bl": 0,
@@ -6357,16 +6367,6 @@
 		"iS": 51821,
 		"oA": 1,
 		"oAP": "\/img\/our-services\/web-development\/new-project-workflow\/site-layout-planning.jpg",
-		"oF": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/img\/our-services\/web-development\/new-project-workflow\/site-layout-planning.png": {
-		"ft": 32768,
-		"iS": 168179,
-		"l": 1,
-		"oA": 1,
-		"oAP": "\/img\/our-services\/web-development\/new-project-workflow\/site-layout-planning.png",
 		"oF": 0,
 		"opt": 0,
 		"q": 100
