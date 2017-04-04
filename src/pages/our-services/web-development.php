@@ -4,7 +4,7 @@ title: Web Design & Development Services
 description: One of the key services I offer is website design & development.
 og-title: Web Design & Development Services
 og-description: One of the key services I offer is website design, code development and a unique project experience.
-og-image: 
+og-image: /img/assets/og-images/index/generic.jpg
 body-id: web-development
 body-class: bodyLayout-default
 ---
