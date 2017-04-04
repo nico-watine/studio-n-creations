@@ -1,0 +1,84 @@
+@import "../../../_settings.scss";
+
+
+#web-development {
+	.page-intro-prose {
+		margin-bottom: rem-calc(40);
+
+		@include breakpoint(medium) {
+			margin-top: rem-calc(40);
+		}
+	}
+}
+
+// ---------------------------------------
+// |            .workflowCard            |
+// ---------------------------------------
+
+
+.workflowCard {
+	background: #638199;
+	box-shadow: $z-2;
+	margin-bottom: rem-calc(40);
+}
+
+.workflowCard-title {
+	padding: rem-calc(80) 0;
+}
+
+.workflowCard-description {
+	padding: rem-calc(16) rem-calc(12);
+}
+
+.workflowCard#site-layout-planning .workflowCard-title {
+	background: url('#{$url}/img/our-services/web-development/new-project-workflow/site-layout-planning.jpg') center center/cover no-repeat;
+}
+
+.workflowCard#design-phase .workflowCard-title {
+	background: url('#{$url}/img/our-services/web-development/new-project-workflow/design-phase.jpg') right center/cover no-repeat;
+
+	@include breakpoint(medium) {
+		background-position: center center;
+	}
+}
+
+.workflowCard#coding-development-stage .workflowCard-title {
+	background: url('#{$url}/img/our-services/web-development/new-project-workflow/coding-development-stage.jpg') left center/cover no-repeat;
+
+	@include breakpoint(medium) {
+		background-position: center center;
+	}
+}
+
+// --------------------------------------------------
+// |            #post-production-actions            |
+// --------------------------------------------------
+
+.row-expanded#post-production-actions {
+	background: #fff;
+	padding: rem-calc(20) 0;
+
+	h3 {
+		margin-bottom: rem-calc(16);
+	}
+
+	.icon {
+		width: rem-calc(70); 
+		padding-top: rem-calc(30);
+		margin: 0 auto;
+
+		@include breakpoint(medium) {
+			float: left !important;
+		}
+	}
+
+	.prose {
+		padding: rem-calc(16) 0;
+
+		@include breakpoint(medium) {
+			padding-left: rem-calc(90);
+		}
+	}
+}
+
+

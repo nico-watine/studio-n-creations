@@ -1,0 +1,39 @@
+@import "../../../_settings.scss";
+
+
+#design-into-code-conversion {
+	padding: rem-calc(40) 0;
+	background: #566372;
+	border-top: rem-calc(5) solid #E5FFB1;
+	border-bottom: rem-calc(5) solid #E5FFB1;
+
+	.subHeading {
+		display: inline-block;
+		border-bottom: rem-calc(2) solid #fff;
+		font-size: rem-calc(18);
+		line-height: 1.5;
+		margin-bottom: 0;
+	}
+
+	h4 {
+		max-width: rem-calc(570);
+	}
+
+	.nestedRow {
+		max-width: rem-calc(600);
+		padding-top: rem-calc(16);
+
+		p {
+			margin-top: rem-calc(16);
+
+			@include breakpoint(medium) {
+				margin-top: 0;
+			}
+		}
+
+		img.html5-logo {
+			max-height: 120px;
+		}
+	}
+}
+

@@ -1,0 +1,110 @@
+@import "../../_settings.scss";
+
+// -----------------------------------------------
+// |            Complete Page Wrapper            |
+// -----------------------------------------------
+
+.off-canvas-wrapper {
+	background: #566372;
+}
+
+
+// ----------------------------------------------
+// |            Page Content Wrapper            |
+// ----------------------------------------------
+
+.off-canvas-content {
+	box-shadow: none;
+	padding: 0;
+	background: #f4f4f4;
+}
+
+
+// ------------------------------------------------
+// |            Off-Canvas Menu toggle            |
+// ------------------------------------------------
+
+#offCanvas-menu--toggle {
+	background: #F4F4F4;
+	border: 2px solid #566372;
+	border-radius: 6px;
+	padding: 12px;
+	color: #222;
+	font-size: 16px;
+	padding: 8px;
+	margin-bottom: 0;
+
+	i.hamburger {
+		@include hamburger($black, $black, 18px, 18px, 4px, 3);
+		vertical-align: bottom;
+	}
+
+	@include breakpoint(medium) {
+		font-size: 22px;
+		padding: 12px;
+	}
+}
+
+#mobileNavBar-wrapper {
+	float: right;
+	padding: 12px 12px 0 0;
+	margin-bottom: 16px;
+}
+
+#contactModal-toggle {
+	margin-right: 12px;
+
+	img {
+		padding-top: 4px;
+	}
+}
+
+// ------------------------------------------------------
+// |            Off-Canvas Menu close-button            |
+// ------------------------------------------------------
+
+#offCanvas-menu {
+	button.close-button {
+		span {
+			color: #FA8D5C; 
+			font-size: 50px;
+		}
+	}
+}
+
+
+// --------------------------------------------------
+// |            Off-Canvas Menu Contents            |
+// --------------------------------------------------
+
+#offCanvas-menu {
+	h1 {
+		font-size: 36px;
+		text-shadow: -4px 4px 0 rgba(0,0,0,0.50);
+		color: #fff;
+		padding-left: 16px;
+		padding-top: 8px;
+	}
+
+	h2 {
+		font-size: 22px;
+	}
+
+	ul {
+		li {
+			a {
+				font-size: 22px;
+				color: #fff;
+			}
+		}
+	}
+}
+
+// --------------------------------------------
+// |            Off-Canvas Overlay            |
+// --------------------------------------------
+
+.js-off-canvas-exit {
+	z-index: 20;
+}
+

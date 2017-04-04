@@ -6,7 +6,7 @@ og-title: Web Design & Site Maintenance | Studio N Creations
 og-description: We create phone-friendly websites for projects of all sizes. From the design and branding to the coding and maintenance, we've got your web needs covered. Located in Houston, TX, available anywhere.
 og-image: /img/assets/og-images/index/generic.jpg
 body-id: index
-body-class: index
+body-class: bodyLayout-unique
 ---
 <header>
 	<div class="absolute-wrapper">
@@ -276,6 +276,7 @@ body-class: index
 		</div>
 	</footer>
 </div>
+
 <div class="reveal small" id="thank-you" data-reveal data-deep-link="true">
 	<div class="row">
 		<div class="small-12 columns">

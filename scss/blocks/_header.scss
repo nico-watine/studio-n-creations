@@ -1,2 +1,8 @@
 @import "../_settings.scss";
 
+.bodyLayout-default {
+	nav.show-for-medium {
+		position: relative;
+		height: rem-calc(66);
+	}
+}
