@@ -5500,6 +5500,15 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/dist\/img\/our-services\/web-development\/new-project-workflow\/design-phase.jpg": {
+		"ft": 16384,
+		"iS": 32211,
+		"oA": 1,
+		"oAP": "\/dist\/img\/our-services\/web-development\/new-project-workflow\/design-phase.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/dist\/img\/our-services\/web-development\/new-project-workflow\/design-phase.png": {
 		"ft": 32768,
 		"iS": 43233,
@@ -6338,6 +6347,15 @@
 		"l": 1,
 		"oA": 1,
 		"oAP": "\/img\/our-services\/web-development\/new-project-workflow\/coding-development-stage.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/our-services\/web-development\/new-project-workflow\/design-phase.jpg": {
+		"ft": 16384,
+		"iS": 32211,
+		"oA": 1,
+		"oAP": "\/img\/our-services\/web-development\/new-project-workflow\/design-phase.jpg",
 		"oF": 0,
 		"opt": 0,
 		"q": 100
