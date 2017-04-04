@@ -5490,6 +5490,25 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/dist\/img\/our-services\/web-development\/new-project-workflow\/coding-development-stage copy.png": {
+		"ft": 32768,
+		"iS": 116026,
+		"l": 1,
+		"oA": 1,
+		"oAP": "\/dist\/img\/our-services\/web-development\/new-project-workflow\/coding-development-stage copy.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/our-services\/web-development\/new-project-workflow\/coding-development-stage.jpg": {
+		"ft": 16384,
+		"iS": 16840,
+		"oA": 1,
+		"oAP": "\/dist\/img\/our-services\/web-development\/new-project-workflow\/coding-development-stage.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/dist\/img\/our-services\/web-development\/new-project-workflow\/coding-development-stage.png": {
 		"ft": 32768,
 		"iS": 116026,
@@ -6337,6 +6356,15 @@
 		"l": 1,
 		"oA": 1,
 		"oAP": "\/img\/our-services\/web-development\/design-into-code-conversion\/sketch-app_2x.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/our-services\/web-development\/new-project-workflow\/coding-development-stage.jpg": {
+		"ft": 16384,
+		"iS": 15870,
+		"oA": 1,
+		"oAP": "\/img\/our-services\/web-development\/new-project-workflow\/coding-development-stage.jpg",
 		"oF": 0,
 		"opt": 0,
 		"q": 100
