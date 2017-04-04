@@ -16,6 +16,10 @@ UNCSS_OPTIONS:
     - body.is-reveal-open
     - .tooltip
     - .phone-tooltip
+    - .is-visible
+    - .js-off-canvas-exit
+    - .is-open-right
+    - .is-off-canvas-open
 
 # Gulp will reference these paths when it copies files
 PATHS:
