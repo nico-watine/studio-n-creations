@@ -489,6 +489,12 @@
 		"oAP": "\/assets\/robots.txt",
 		"oF": 0
 		},
+	"\/assets\/sitemap.xml": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/sitemap.xml",
+		"oF": 0
+		},
 	"\/assets\/touch-icon-192x192.png": {
 		"ft": 32768,
 		"iS": 7056,
@@ -6076,6 +6082,12 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/dist\/robots.txt",
+		"oF": 0
+		},
+	"\/dist\/sitemap.xml": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/sitemap.xml",
 		"oF": 0
 		},
 	"\/dist\/touch-icon-192x192.png": {
