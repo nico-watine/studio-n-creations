@@ -6078,6 +6078,12 @@
 		"oAP": "\/dist\/robots.txt",
 		"oF": 0
 		},
+	"\/dist\/sitemap.xml": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/sitemap.xml",
+		"oF": 0
+		},
 	"\/dist\/touch-icon-192x192.png": {
 		"ft": 32768,
 		"iS": 7056,
