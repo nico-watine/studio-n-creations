@@ -11,8 +11,8 @@ body-class: bodyLayout-default
 <section id="new-project-workflow">
 	<div class="row page-intro-prose">
 		<div class="medium-10 medium-push-1 large-7 large-push-2 columns end">
-			<h2>We offer a personalized website design and creation experience.</h2>
-			<h4>Our workflow for any new web project consists of 4 steps:</h4>
+			<h2>I offer a personalized website design and creation experience.</h2>
+			<h4>My workflow for any new web project consists of 4 steps:</h4>
 		</div>
 	</div>
 	<div class="row">
@@ -32,7 +32,7 @@ body-class: bodyLayout-default
 					<h3 class="margin-0">2. Design Phase</h3>
 				</div>
 				<div class="workflowCard-description">
-					<p class="textColor-white fontWeight-400 margin-0">We consult with our clients closely throughout the design process to ensure full satisfaction with the site’s look and feel.</p>
+					<p class="textColor-white fontWeight-400 margin-0">I consult with my clients closely throughout the design process to ensure full satisfaction with the site’s look and feel.</p>
 				</div>
 			</div>
 		</div>
@@ -44,7 +44,7 @@ body-class: bodyLayout-default
 					<h3 class="textColor-white textShadow-black margin-0">3. Coding &amp; Development Stage</h3>
 				</div>
 				<div class="workflowCard-description">
-					<p class="textColor-white fontWeight-400 margin-0">We then code the approved design into a functioning website, using the industry’s latest <span class="inline-block">methods and standards.</span></p>
+					<p class="textColor-white fontWeight-400 margin-0">I then code the approved design into a functioning website, using the industry’s latest <span class="inline-block">methods and standards.</span></p>
 				</div>
 			</div>
 		</div>
@@ -62,7 +62,7 @@ body-class: bodyLayout-default
 				</div>
 				<div class="prose text-center medium-text-left">
 					<h4>Hosting</h4>
-					<p>Once the site has been completed in full, we then host the website on our private servers and publish the site online.</p>
+					<p>Once the site has been completed in full, I then host the website on my private servers and publish the site online.</p>
 				</div>
 			</div>
 			<div class="medium-7 columns">
@@ -71,7 +71,7 @@ body-class: bodyLayout-default
 				</div>
 				<div class="prose text-center medium-text-left">
 					<h4>Maintenance</h4>
-					<p>After this, we discuss with our client about the extent to which they want to be involved in the site’s upkeep. We provide hassle-free site maintenace options so the client can focus on their business and not their website’s performance and reliability.</p>
+					<p>After this, I discuss with my client about the extent to which they want to be involved in the site’s upkeep. I provide hassle-free site maintenace options so the client can focus on their business and not their website’s performance and reliability.</p>
 				</div>
 			</div>
 		</div>
@@ -89,7 +89,7 @@ body-class: bodyLayout-default
 			<img class="html5-logo" src="{{ cdn }}/img/our-services/web-development/design-into-code-conversion/html5-logo.svg" alt="HTML5 Logo" title="HTML5 Logo">
 		</div>
 		<div class="medium-9 large-8 columns">
-			<h4>If you already have a collection of web page mockups, we can transform the designs into a fully-coded, functioning website.</h4>
+			<h4>If you already have a collection of web page mockups, I can transform the designs into a fully-coded, functioning website.</h4>
 			<div class="row nestedRow">
 				<div class="hide-for-medium text-center">
 					<div class="small-4 columns">
@@ -103,7 +103,7 @@ body-class: bodyLayout-default
 					</div>
 				</div>
 				<div class="medium-6 columns">
-					<p class="fontWeight-400">We work with both <strong>Photoshop</strong> and <strong>Sketch App</strong> when converting files into functioning <strong>HTML5</strong>.</p>
+					<p class="fontWeight-400">I work with both <strong>Photoshop</strong> and <strong>Sketch App</strong> when converting files into functioning <strong>HTML5</strong>.</p>
 				</div>
 				<div class="show-for-medium">
 					<div class="small-6 medium-3 columns">
