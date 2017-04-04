@@ -24,7 +24,7 @@ function loadConfig() {
 
 // Build the "dist" folder by running all of the below tasks
 gulp.task('build',
-  gulp.series(clean, gulp.parallel(pages, sass, javascript, javascript_custom, fonts, images, copy)));
+  gulp.series(clean, gulp.parallel(pages, sass, javascript, javascript_custom, javascript_vendor, fonts, images, copy)));
 
 // Build the site, run the server, and watch for file changes
 gulp.task('default',
@@ -95,6 +95,12 @@ function javascript_custom() {
     .pipe(gulp.dest(PATHS.dist + '/js/custom/'));
 }
 
+// Copy over js files from js/vendor (such as jquery)
+function javascript_vendor() {
+  return gulp.src('js/vendor/**') // all sub-files and sub-folders except src
+    .pipe(gulp.dest(PATHS.dist + '/js/vendor/'));
+}
+
 // Copy over fonts
 function fonts() {
   return gulp.src('fonts/**')
@@ -114,7 +120,7 @@ function watch() {
   gulp.watch('src/pages/**', gulp.series(pages)); // <-watch for any type of additions
   gulp.watch('src/{layouts,partials}/**/*.html', gulp.series(resetPages, pages));
   gulp.watch('css/*.css', sass);
-  gulp.watch('js/**', gulp.series(javascript, javascript_custom));
+  gulp.watch('js/**', gulp.series(javascript, javascript_custom, javascript_vendor));
   gulp.watch('img/**', images);
   gulp.watch('fonts/**', fonts);
 }
