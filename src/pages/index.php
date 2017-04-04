@@ -25,11 +25,11 @@ body-class: bodyLayout-unique
 <section class="intro-slogan">
 	<div class="row">
 		<div class="medium-6 columns medium-text-right">
-			<h2>We create phone-friendly websites for projects of all sizes</h2>	
+			<h2>I create phone-friendly websites for projects of all sizes</h2>	
 		</div>
 		<div class="medium-5 columns end">
 			<div class="prose">
-				<p>No client is too big or too small. Whether you need a single brochure-type landing page or a full featured e-commerce site, we’ve got you covered.</p>
+				<p>No client is too big or too small. Whether you need a single brochure-type landing page or a full featured e-commerce site, I've got you covered.</p>
 			</div>
 		</div>
 	</div>
@@ -174,7 +174,7 @@ body-class: bodyLayout-unique
 		<div class="medium-push-1 medium-11 large-4 large-push-0 columns">
 			<div class="prose">
 				<h3>Graphic Branding</h3>
-				<p>Web design means more than just a page design. Having a solid visual brand, such as through logos and colors, helps maintain design consistency, leaving a professional impression on the visitor. Here are a few of the custom logos we have created for clients.</p>
+				<p>Web design means more than just a page design. Having a solid visual brand, such as through logos and colors, helps maintain design consistency, leaving a professional impression on the visitor. Here are a few of the custom logos I have created for clients.</p>
 			</div>
 		</div>
 		<div class="medium-12 large-8 columns">
@@ -204,7 +204,7 @@ body-class: bodyLayout-unique
 			</div>
 		</div>
 		<div class="medium-8 large-9 columns prose">
-			<h3 class="show-for-medium">About Us</h3>
+			<h3 class="show-for-medium">About Me</h3>
 			<h4>My name is <span itemprop="name">Nico Watine</span>, and I am the <span class="inline-block" itemprop="affiliation">Studio N Creations</span> team.</h4>
 			<p>I design, brand, code and maintain mobile-optimized websites for projects of all sizes. I’m located in Houston, TX, and am available for hire anywhere. I'm a <span itemprop="jobTitle">web developer</span> and am passionate about what I do. I love working with people who are excited about their new web project.</p>
 		</div>
