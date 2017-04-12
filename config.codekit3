@@ -164,6 +164,18 @@
 		"oAP": "\/_ignores\/snc-profile-links.txt",
 		"oF": 0
 		},
+	"\/_ignores\/studio-n-creations.sublime-project": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_ignores\/studio-n-creations.sublime-project",
+		"oF": 0
+		},
+	"\/_ignores\/studio-n-creations.sublime-workspace": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_ignores\/studio-n-creations.sublime-workspace",
+		"oF": 0
+		},
 	"\/_ignores\/web-services-verifications.txt": {
 		"ft": 8192,
 		"oA": 2,
