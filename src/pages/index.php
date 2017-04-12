@@ -211,10 +211,12 @@ body-class: bodyLayout-unique
 	</div>
 </section>
 <div class="bubble-bg">
-	<section class="contact-form">
+	<section class="contact-form contact-banner">
 		<div class="row text-center section-title">
 			<h2>Have a project in mind?</h2>
-			<h3><a data-open="contactModal">Let's talk!</h3>
+			<div class="modalTrigger">
+				<a class="monospace" data-open="contactModal">Let's talk!</a>
+			</div>
 			<!-- <h3>Let’s talk!</h3> -->
 			<!-- <h3>713-443-3761</h3> -->
 		</div>
