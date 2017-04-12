@@ -217,43 +217,7 @@ body-class: bodyLayout-unique
 			<div class="modalTrigger">
 				<a class="monospace" data-open="contactModal">Let's talk!</a>
 			</div>
-			<!-- <h3>Let’s talk!</h3> -->
-			<!-- <h3>713-443-3761</h3> -->
 		</div>
-		<!-- <form id="index-contact-form" name="contact-form" action="/php/sendContact" enctype="multipart/form-data" method="post"> 
-			<div class="row">
-				<div class="large-4 columns">
-					<div class="row">
-						<div class="medium-6 large-12 columns">
-							<label for="">Name</label>
-							<div class="input-group">
-								<span id="error-name" class="input-group-label error">?</span>
-								<input class="input-group-field" type="text" id="name" name="name" placeholder="Name">
-							</div>
-						</div>
-						<div class="medium-6 large-12 columns">
-							<label for="">Email</label>
-							<div class="input-group">
-								<span id="error-email" class="input-group-label error">?</span>
-								<input class="input-group-field" type="text" id="email" name="email" placeholder="Email">
-							</div>
-						</div>
-					</div>
-				</div>
-				<div class="large-6 columns">
-					<label for="">Message</label>
-					<div class="input-group">
-						<span id="error-message" class="input-group-label error">?</span>
-						<textarea class="input-group-field" style="min-height: 119px;" id="message" name="message" type="text" placeholder="Message"></textarea>
-					</div>
-				</div>
-				<div class="large-2 columns">
-					<div class="contact-form-input-group-button input-group-button">
-						<input type="submit" id="submit" name="submit" class="button" value="Send">
-					</div>
-				</div>
-			</div>
-		</form> -->
 	</section>
 	<footer>
 		<div class="row">
