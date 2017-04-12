@@ -1,24 +1,24 @@
 @import "../../../_settings.scss";
 
 
-#web-development {
-	footer {
-		margin-top: rem-calc(40);
-		border-top: rem-calc(3) solid #5a5a5a;
-		background: rgba(110,110,110,0.80);
-		padding: rem-calc(80 0);
+// #web-development {
+// 	footer {
+// 		margin-top: rem-calc(40);
+// 		border-top: rem-calc(3) solid #5a5a5a;
+// 		background: rgba(110,110,110,0.80);
+// 		padding: rem-calc(80 0);
 
-		* {
-			color: #fff;
-		}
+// 		* {
+// 			color: #fff;
+// 		}
 
-		.social-icons {
-			padding-top: rem-calc(40);
+// 		.social-icons {
+// 			padding-top: rem-calc(40);
 
-			@include breakpoint(large) {
-				padding-top: 0;
-			}
-		}
-	}
-}
+// 			@include breakpoint(large) {
+// 				padding-top: 0;
+// 			}
+// 		}
+// 	}
+// }
 
