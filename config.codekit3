@@ -5319,6 +5319,16 @@
 		"oAP": "\/dist\/browserconfig.xml",
 		"oF": 0
 		},
+	"\/dist\/css\/app-ck.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/dist\/css\/app-ck-ck.css",
+		"oF": 0,
+		"oS": 0
+		},
 	"\/dist\/css\/app.css": {
 		"aP": 0,
 		"bl": 0,
@@ -7441,19 +7451,6 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "\/scss\/pages\/css\/_contact.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"\/scss\/pages\/index\/_footer.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/scss\/pages\/css\/_footer.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
