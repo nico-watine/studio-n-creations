@@ -211,51 +211,18 @@ body-class: bodyLayout-unique
 	</div>
 </section>
 <div class="bubble-bg">
-	<section class="contact-form">
+	<section class="contact-form contact-banner">
 		<div class="row text-center section-title">
 			<h2>Have a project in mind?</h2>
-			<h3>Let’s talk!</h3>
-			<h3>713-443-3761</h3>
-		</div>
-		<form id="index-contact-form" name="contact-form" action="/php/sendContact" enctype="multipart/form-data" method="post"> 
-			<div class="row">
-				<div class="large-4 columns">
-					<div class="row">
-						<div class="medium-6 large-12 columns">
-							<label for="">Name</label>
-							<div class="input-group">
-								<span id="error-name" class="input-group-label error">?</span>
-								<input class="input-group-field" type="text" id="name" name="name" placeholder="Name">
-							</div>
-						</div>
-						<div class="medium-6 large-12 columns">
-							<label for="">Email</label>
-							<div class="input-group">
-								<span id="error-email" class="input-group-label error">?</span>
-								<input class="input-group-field" type="text" id="email" name="email" placeholder="Email">
-							</div>
-						</div>
-					</div>
-				</div>
-				<div class="large-6 columns">
-					<label for="">Message</label>
-					<div class="input-group">
-						<span id="error-message" class="input-group-label error">?</span>
-						<textarea class="input-group-field" style="min-height: 119px;" id="message" name="message" type="text" placeholder="Message"></textarea>
-					</div>
-				</div>
-				<div class="large-2 columns">
-					<div class="contact-form-input-group-button input-group-button">
-						<input type="submit" id="submit" name="submit" class="button" value="Send">
-					</div>
-				</div>
+			<div class="modalTrigger">
+				<a class="monospace" data-open="contactModal">Let's talk!</a>
 			</div>
-		</form>
+		</div>
 	</section>
 	<footer>
 		<div class="row">
 			<div class="text-center medium-text-left medium-6 large-4 columns">
-				<h5>&copy; Studio N Creations 2016</h5>
+				<h5>&copy; Studio N Creations 2017</h5>
 			</div>
 			<div class="text-center medium-text-right large-text-center medium-6 large-4 columns">
 				<h5>Coded with care in <span class="inline-block">Houston, TX</span></h5>
