@@ -6469,6 +6469,27 @@ h6 {
   box-shadow: 0 8px 0 #222, 0 16px 0 #222;
 }
 
+.contact-banner .modalTrigger {
+  margin: 1.25rem 0;
+  padding: 0.875rem 0;
+}
+
+.contact-banner .modalTrigger a {
+  padding: 0.875rem 1.25rem;
+  box-shadow: -0.25rem 0.25rem 0 0 rgba(99, 129, 153, 0.8);
+  color: #222;
+  font-size: 1.75rem;
+  border-radius: 0.1875rem;
+  margin-bottom: 0.125rem;
+  background: #fff;
+  display: inline-block;
+}
+
+.contact-banner .modalTrigger a:hover {
+  box-shadow: -0.125rem 0.125rem 0 0 rgba(99, 129, 153, 0.8);
+  margin: 0.125rem 0.125rem 0 0;
+}
+
 #index .graphic-branding {
   background: #fff;
 }
