@@ -217,7 +217,7 @@ body-class: bodyLayout-unique
 			<h3>Let’s talk!</h3>
 			<h3>713-443-3761</h3>
 		</div>
-		<form id="index-contact-form" name="contact-form" action="/php/sendContact" enctype="multipart/form-data" method="post"> 
+		<!-- <form id="index-contact-form" name="contact-form" action="/php/sendContact" enctype="multipart/form-data" method="post"> 
 			<div class="row">
 				<div class="large-4 columns">
 					<div class="row">
@@ -250,7 +250,7 @@ body-class: bodyLayout-unique
 					</div>
 				</div>
 			</div>
-		</form>
+		</form> -->
 	</section>
 	<footer>
 		<div class="row">
