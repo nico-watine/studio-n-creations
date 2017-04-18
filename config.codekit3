@@ -552,19 +552,6 @@
 		"oO": 0,
 		"oS": 1
 		},
-	"\/bower_components\/bourbon\/app\/assets\/stylesheets\/_bourbon-deprecate.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/bower_components\/bourbon\/app\/assets\/stylesheets\/_bourbon-deprecate.scss",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
 	"\/bower_components\/bourbon\/app\/assets\/stylesheets\/_bourbon-deprecated-upcoming.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -1553,19 +1540,6 @@
 		"oS": 0,
 		"uL": 1
 		},
-	"\/bower_components\/bourbon\/app\/assets\/stylesheets\/settings\/_deprecation-warnings.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/bower_components\/bourbon\/app\/assets\/stylesheets\/settings\/_deprecation-warnings.scss",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
 	"\/bower_components\/bourbon\/app\/assets\/stylesheets\/settings\/_prefixer.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -1599,30 +1573,6 @@
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
-		},
-	"\/bower_components\/bourbon\/CHANGELOG.md": {
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"eLB": 0,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 2,
-		"oAP": "\/bower_components\/bourbon\/CHANGELOG.md",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
-		},
-	"\/bower_components\/bourbon\/circle.yml": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/bower_components\/bourbon\/circle.yml",
-		"oF": 0
 		},
 	"\/bower_components\/bourbon\/eyeglass-exports.js": {
 		"ft": 64,
@@ -5318,16 +5268,6 @@
 		"oA": 2,
 		"oAP": "\/dist\/browserconfig.xml",
 		"oF": 0
-		},
-	"\/dist\/css\/app-ck.css": {
-		"aP": 0,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/dist\/css\/app-ck-ck.css",
-		"oF": 0,
-		"oS": 0
 		},
 	"\/dist\/css\/app.css": {
 		"aP": 0,
