@@ -13,6 +13,8 @@
 	<link href="http://studioncreations.com{{ url }}" rel="canonical">
 	<link href="/humans.txt" rel="author">
 
+	{{> google-tag-manager-head}}
+
 	<link rel="apple-touch-icon" href="/apple-touch-icon.png">
 	<link rel="icon" href="/android-chrome-192x192.png" sizes="192x192">
 	<link rel="manifest" href="/manifest.json">
@@ -61,6 +63,8 @@
 </head>
 <body id="{{ body-id }}" class="{{ body-class }}">
 
+{{> google-tag-manager-body}}
+
 
 {{> offCanvas-pageStart}}
 
@@ -76,8 +80,6 @@
 <script src="{{ cdn }}<?php autoVer('/js/app-min.js'); ?>"></script>
 
 
-
-{{> google-tracking-id}}
 {{> googleGoal-snippet-contactModal}}
 
 </body>
