@@ -7623,6 +7623,18 @@
 		"oAP": "\/src\/partials\/contactModal.html",
 		"oF": 0
 		},
+	"\/src\/partials\/google-tag-manager-body.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/src\/partials\/google-tag-manager-body.html",
+		"oF": 0
+		},
+	"\/src\/partials\/google-tag-manager-head.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/src\/partials\/google-tag-manager-head.html",
+		"oF": 0
+		},
 	"\/src\/partials\/google-tracking-id.html": {
 		"ft": 8192,
 		"oA": 0,

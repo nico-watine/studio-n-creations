@@ -12,6 +12,8 @@
 	<meta name="description" content="{{ description }}">
 	<link href="http://studioncreations.com{{ url }}" rel="canonical">
 	<link href="/humans.txt" rel="author">
+	
+	{{> google-tag-manager-head}}
 
 	<link rel="apple-touch-icon" href="/apple-touch-icon.png">
 	<link rel="icon" href="/android-chrome-192x192.png" sizes="192x192">
@@ -60,6 +62,8 @@
 		
 </head>
 <body id="{{ body-id }}" class="{{ body-class }}">
+
+{{> google-tag-manager-body}}
 
 
 {{> offCanvas-pageStart}}
