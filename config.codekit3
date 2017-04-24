@@ -61,6 +61,12 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/_ignores\/google-tag-manager-snippets.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_ignores\/google-tag-manager-snippets.html",
+		"oF": 0
+		},
 	"\/_ignores\/head\/favicon-linking.html": {
 		"ft": 8192,
 		"oA": 0,
