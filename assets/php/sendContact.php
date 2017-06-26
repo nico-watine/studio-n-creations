@@ -1,5 +1,5 @@
 <?php 
-// $ToEmail = "messages@studioncreations.com"; 
+// $ToEmail = "email@ddress.com"; 
 // $EmailSubject = "Website Message!" . "\n"; 
 // $mailheader = "From: " . $_POST["email"] . "\n";
 // $mailheader .= "Reply-To: " . $_POST["email"] . "\n";  
