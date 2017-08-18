@@ -5324,6 +5324,12 @@
 		"oAP": "\/dist\/favicon.ico",
 		"oF": 0
 		},
+	"\/dist\/hip.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/hip.php",
+		"oF": 0
+		},
 	"\/dist\/humans.txt": {
 		"ft": 8192,
 		"oA": 2,
@@ -5791,6 +5797,26 @@
 		"iS": 97009,
 		"oA": 1,
 		"oAP": "\/dist\/img\/projects\/greencare-tx\/index-modal\/modal-thumb_2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/projects\/houston-interior-plants\/index\/banner-background.jpg": {
+		"ft": 16384,
+		"iS": 97216,
+		"oA": 1,
+		"oAP": "\/dist\/img\/projects\/houston-interior-plants\/index\/banner-background.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/projects\/houston-interior-plants\/index\/houston-interior-plants.jpg": {
+		"ft": 16384,
+		"iS": 473498,
+		"oA": 1,
+		"oAP": "\/dist\/img\/projects\/houston-interior-plants\/index\/houston-interior-plants.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -6708,6 +6734,26 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/img\/projects\/houston-interior-plants\/index\/banner-background.jpg": {
+		"ft": 16384,
+		"iS": 97216,
+		"oA": 1,
+		"oAP": "\/img\/projects\/houston-interior-plants\/index\/banner-background.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/projects\/houston-interior-plants\/index\/houston-interior-plants.jpg": {
+		"ft": 16384,
+		"iS": 473498,
+		"oA": 1,
+		"oAP": "\/img\/projects\/houston-interior-plants\/index\/houston-interior-plants.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/img\/projects\/houston-interior-plants\/modal-thumb.jpg": {
 		"ft": 16384,
 		"iS": 72453,
@@ -7479,6 +7525,19 @@
 		"oS": 0,
 		"uL": 1
 		},
+	"\/scss\/pages\/index\/recent-projects\/_hip.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/scss\/pages\/index\/css\/_hip.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
 	"\/scss\/pages\/our-services\/web-development\/_bubble-bg.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -7587,10 +7646,22 @@
 		"oAP": "\/src\/layouts\/_notes.txt",
 		"oF": 0
 		},
+	"\/src\/layouts\/blank.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/src\/layouts\/blank.html",
+		"oF": 0
+		},
 	"\/src\/layouts\/default.html": {
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/src\/layouts\/default.html",
+		"oF": 0
+		},
+	"\/src\/pages\/hip.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/src\/pages\/hip.php",
 		"oF": 0
 		},
 	"\/src\/pages\/index.php": {
