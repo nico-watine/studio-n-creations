@@ -16,7 +16,7 @@
 			display: inline-block;
 
 			&:hover {
-				box-shadow: rem(-2) rem(2) 0 0 rgba(99,129,153,0.80);
+				box-shadow: rem-calc(-2) rem-calc(2) 0 0 rgba(99,129,153,0.80);
 				margin: rem-calc(2) rem-calc(2) 0 0;
 			}
 		}
