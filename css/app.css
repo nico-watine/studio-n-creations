@@ -7644,11 +7644,11 @@ form#index-contact-form span.input-group-label.error {
 }
 
 .padding-x {
-  padding: 0 rem(16);
+  padding: 0 1rem;
 }
 
 .padding-y {
-  padding: rem(16) 0;
+  padding: 1rem 0;
 }
 
 .inline-block {

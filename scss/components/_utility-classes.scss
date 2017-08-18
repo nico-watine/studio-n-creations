@@ -17,12 +17,12 @@
 
 // PADDING X
 .padding-x {
-	padding: 0 rem(16);
+	padding: 0 rem-calc(16);
 }
 
 // PADDING Y
 .padding-y {
-	padding: rem(16) 0;
+	padding: rem-calc(16) 0;
 }
 
 .inline-block {
