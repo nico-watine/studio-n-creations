@@ -18,7 +18,7 @@
 
 	.modal-header {
 		background: #fff;
-		padding: rem(25) rem(35) rem(25) rem(15);
+		padding: rem-calc(25) rem-calc(35) rem-calc(25) rem-calc(15);
 
 		* {
 			margin: 0;
@@ -26,19 +26,19 @@
 	}
 
 	.modal-prose {
-		padding: rem(25) rem(15);
+		padding: rem-calc(25) rem-calc(15);
 
 		.modal-site-link {
-			border-radius: rem(2); 
-			box-shadow: rem(-4) rem(4) 0 0 rgba(141,149,158,0.50); 
+			border-radius: rem-calc(2); 
+			box-shadow: rem-calc(-4) rem-calc(4) 0 0 rgba(141,149,158,0.50); 
 			background: #566372; 
-			font-size: rem(16);
+			font-size: rem-calc(16);
 
 			&:hover {
-				margin-top: rem(2);
-				margin-right: rem(2);
-				margin-bottom: rem(14);
-				box-shadow: rem(-2) rem(2) 0 0 rgba(141,149,158,0.50); 
+				margin-top: rem-calc(2);
+				margin-right: rem-calc(2);
+				margin-bottom: rem-calc(14);
+				box-shadow: rem-calc(-2) rem-calc(2) 0 0 rgba(141,149,158,0.50); 
 			}
 		}
 	}
@@ -50,19 +50,19 @@
 
 @include breakpoint(medium) {
 	.recent-projects-modal {
-		padding-bottom: rem(15);
+		padding-bottom: rem-calc(15);
 
 		.modal-container {
-			border-radius: rem(4);
-			box-shadow: rem(-6) rem(8) 0 0 rgba(86,99,113,0.50);
+			border-radius: rem-calc(4);
+			box-shadow: rem-calc(-6) rem-calc(8) 0 0 rgba(86,99,113,0.50);
 		}
 
 		.modal-header {
-			border-radius: rem(4) rem(4) 0 0;
+			border-radius: rem-calc(4) rem-calc(4) 0 0;
 		}
 
 		.modal-images {
-			border-radius: 0 0 rem(4) rem(4); 
+			border-radius: 0 0 rem-calc(4) rem-calc(4); 
 		}
 	}
 }

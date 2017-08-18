@@ -5,11 +5,11 @@
 		background: #fff;
 
 		.prose {
-			padding: rem(30) rem(16) 0;
+			padding: rem-calc(30) rem-calc(16) 0;
 		}
 
 		.logos-row {
-			margin-top: rem(20);
+			margin-top: rem-calc(20);
 			background: #F9F9F9;
 
 			.columns:nth-child(1) {
@@ -18,10 +18,10 @@
 
 			.columns:nth-child(2) {
 				@include breakpoint(small only) {
-					height: rem(150);
+					height: rem-calc(150);
 
 					img {
-						margin-top: rem(30);
+						margin-top: rem-calc(30);
 					}
 				}
 			}
@@ -71,7 +71,7 @@
 					background: none;
 
 					img:nth-child(2) {
-						padding-top: rem(10);
+						padding-top: rem-calc(10);
 					}
 				}
 			}
