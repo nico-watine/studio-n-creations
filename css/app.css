@@ -5053,7 +5053,7 @@ output {
   z-index: 1;
   transition: transform 0.5s ease;
   backface-visibility: hidden;
-  background: none;
+  background: #566372;
 }
 
 [data-whatinput='mouse'] .off-canvas {
@@ -5077,7 +5077,7 @@ output {
   z-index: 1;
   transition: transform 0.5s ease;
   backface-visibility: hidden;
-  background: none;
+  background: #566372;
 }
 
 [data-whatinput='mouse'] .off-canvas-absolute {
