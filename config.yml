@@ -20,6 +20,16 @@ UNCSS_OPTIONS:
     - .js-off-canvas-exit
     - .is-open-right
     - .is-off-canvas-open
+    - .js-off-canvas-overlay
+    - .is-overlay-fixed
+    - .is-closable
+    - .is-open
+    - .off-canvas.is-open
+    - .js-off-canvas-overlay.is-overlay-fixed
+    - .js-off-canvas-overlay.is-closable
+    - .js-off-canvas-overlay.is-visible
+    - .js-off-canvas-overlay
+    - .position-right.is-open ~ .off-canvas-content
 
 # Gulp will reference these paths when it copies files
 PATHS:
