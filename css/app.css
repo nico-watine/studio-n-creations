@@ -4974,6 +4974,9 @@ form#index-contact-form .contact-form-input-group-button input,
   font-weight: 600;
   text-transform: uppercase; }
 
+.sansSerif {
+  font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif; }
+
 h2 {
   font-weight: 700; }
 
