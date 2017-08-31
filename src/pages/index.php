@@ -13,7 +13,6 @@ body-class: bodyLayout-unique
 		<div class="row">
 			<div class="medium-10 medium-push-1 large-5 large-push-0 columns end">
 				<h1 class="brand-wordmark">Studio N Creations</h1>
-				<h4 class="phone">713-443-3761</h4>
 			</div>
 			<div class="medium-11 medium-push-1 large-7 large-push-0 columns end">
 				<h2 class="brand-services fontWeight-300"><span>Web Design <strong>|</strong></span> <span>Graphic Branding</span> <span class="inline-block"><strong>|</strong> Site Maintenance</span></h2>
