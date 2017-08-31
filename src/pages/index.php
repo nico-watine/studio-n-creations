@@ -16,7 +16,7 @@ body-class: bodyLayout-unique
 				<h4 class="phone">713-443-3761</h4>
 			</div>
 			<div class="medium-11 medium-push-1 large-7 large-push-0 columns end">
-				<h2 class="brand-services"><span>Web Design <strong>|</strong></span> <span>Graphic Branding</span> <span class="inline-block"><strong>|</strong> Site Maintenance</span></h2>
+				<h2 class="brand-services fontWeight-300"><span>Web Design <strong>|</strong></span> <span>Graphic Branding</span> <span class="inline-block"><strong>|</strong> Site Maintenance</span></h2>
 			</div>
 		</div>
 	</div>

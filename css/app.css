@@ -5011,6 +5011,9 @@ h6 {
 .textShadow-black {
   text-shadow: -0.125rem 0.1875rem 0 rgba(0, 0, 0, 0.8); }
 
+.fontWeight-300 {
+  font-weight: 300; }
+
 .fontWeight-400 {
   font-weight: normal; }
 
@@ -5464,7 +5467,6 @@ form#index-contact-form span.input-group-label.error {
   #index header .absolute-wrapper .brand-services {
     color: #fff;
     text-shadow: -0.0625rem 0.125rem 0.0625rem rgba(0, 0, 0, 0.45);
-    font-weight: 300;
     font-size: 1.75rem; }
     @media screen and (max-width: 39.9375em) {
       #index header .absolute-wrapper .brand-services {
