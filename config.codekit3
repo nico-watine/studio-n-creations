@@ -91,6 +91,12 @@
 		"oAP": "\/_ignores\/htaccess\/htaccess-2.txt",
 		"oF": 0
 		},
+	"\/_ignores\/htaccess\/htaccess-3.txt": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_ignores\/htaccess\/htaccess-3.txt",
+		"oF": 0
+		},
 	"\/_ignores\/misc\/browser-upgrade-snippet.html": {
 		"ft": 8192,
 		"oA": 0,
