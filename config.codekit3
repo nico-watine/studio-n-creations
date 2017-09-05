@@ -79,6 +79,24 @@
 		"oAP": "\/_ignores\/head\/head-references.html",
 		"oF": 0
 		},
+	"\/_ignores\/htaccess\/htaccess-1.txt": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_ignores\/htaccess\/htaccess-1.txt",
+		"oF": 0
+		},
+	"\/_ignores\/htaccess\/htaccess-2.txt": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_ignores\/htaccess\/htaccess-2.txt",
+		"oF": 0
+		},
+	"\/_ignores\/htaccess\/htaccess-develop.txt": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_ignores\/htaccess\/htaccess-develop.txt",
+		"oF": 0
+		},
 	"\/_ignores\/misc\/browser-upgrade-snippet.html": {
 		"ft": 8192,
 		"oA": 0,
