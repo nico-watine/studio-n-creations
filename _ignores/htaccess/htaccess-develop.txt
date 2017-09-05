@@ -45,6 +45,24 @@ ErrorDocument 404 /404.html
 </IfModule>
 
 
+# ----------------------------------------------------------------------
+# | Rewrite engine                                                     |
+# ----------------------------------------------------------------------
+
+<IfModule mod_rewrite.c>
+
+    RewriteEngine On
+
+    Options +FollowSymlinks
+
+    RewriteCond %{HTTPS} =on
+    RewriteRule ^ - [env=proto:https]
+    RewriteCond %{HTTPS} !=on
+    RewriteRule ^ - [env=proto:http]
+
+</IfModule>
+
+
 # ------------------------------------------------------------------------------
 # | Rules for Versioned Static Files
 # ------------------------------------------------------------------------------
