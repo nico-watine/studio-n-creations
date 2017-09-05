@@ -78,7 +78,7 @@ ErrorDocument 404 /404.html
 
 
 # ------------------------------------------------------------------------------
-# | Remove & Redirect 'HTML' / 'PHP' / 'HTM' Endings                                         |
+# | Remove & Redirect 'HTML' / 'PHP' / 'HTM' Endings                           |
 # ------------------------------------------------------------------------------
 
 RewriteOptions inherit
