@@ -1,17 +1,8 @@
-# --------------------------------------------------------------------------
-# |            Stripped down to versioning and unique redirects            |
-# --------------------------------------------------------------------------
-# (Removed default Apache Server Configs lines)
-# (Will next cherry-pick config snippets to craft new htaccess)
-
-
-
 # ------------------------------------------------------------------------------
 # | Rules for Versioned Static Files
 # ------------------------------------------------------------------------------
 
 RewriteRule ^(js|css)/(.+)\.(.+)\.(js|css)$ $1/$2.$4 [L]
-
 
 
 # ---------------------------------------
@@ -32,5 +23,4 @@ RewriteRule ^our\-services\/index$ "http\:\/\/studioncreations\.com\/our\-servic
 RewriteCond %{HTTP_HOST} ^studioncreations\.com$ [OR]
 RewriteCond %{HTTP_HOST} ^www\.studioncreations\.com$
 RewriteRule ^our\-services\/$ "http\:\/\/studioncreations\.com\/our\-services\/web\-development" [R=301,L]
-
 
