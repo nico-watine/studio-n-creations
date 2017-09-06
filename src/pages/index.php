@@ -50,7 +50,7 @@ body-class: bodyLayout-unique
 						<a class="button" href="http://houstonpals.com/" target="_blank">www.HoustonPALS.com</a>
 					</div>
 				</div>
-				<div class="projectCard-image">
+				<div class="projectCard-image" style="border: 0;">
 					<img srcset="{{ cdn }}/img/projects/houston-pals/index-modal/modal-thumb_2x.jpg 2x" src="{{ cdn }}/img/projects/houston-pals/index-modal/modal-thumb.jpg" alt="Houston PALS website mockup">
 				</div>
 			</div>
