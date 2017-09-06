@@ -5435,9 +5435,6 @@ form#index-contact-form span.input-group-label.error {
   .projectCard#testCard .projectCard-info {
     z-index: 10; }
   .projectCard#testCard .projectCard-image {
-    background-image: url("/img/index/recent-projects/projectCard/placeHolder.png");
-    background-size: contain;
-    background-repeat: no-repeat;
     height: 0;
     padding-top: 61.401960784%; }
     .projectCard#testCard .projectCard-image img {
