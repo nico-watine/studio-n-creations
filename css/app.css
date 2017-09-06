@@ -5380,7 +5380,7 @@ form#index-contact-form span.input-group-label.error {
   padding: 1rem; }
 
 #index .bubble-bg {
-  background: #fff url("//cdn.studioncreations.com/img/index/bubble-bg/bubble-background.png") center center/cover no-repeat; }
+  background: #fff url("//studioncreations-studioncreations.netdna-ssl.com/img/index/bubble-bg/bubble-background.png") center center/cover no-repeat; }
 
 .projectCard {
   position: relative;
@@ -5440,17 +5440,17 @@ form#index-contact-form span.input-group-label.error {
 #index header {
   height: 28.75rem;
   position: relative;
-  background: #fff url("//cdn.studioncreations.com/img/index/header/1-small/small.jpg") left top/cover no-repeat; }
+  background: #fff url("//studioncreations-studioncreations.netdna-ssl.com/img/index/header/1-small/small.jpg") left top/cover no-repeat; }
   @media print, screen and (min-width: 40em) {
     #index header {
       height: 37.5rem;
-      background-image: url("//cdn.studioncreations.com/img/index/header/2-medium/medium.jpg"); } }
+      background-image: url("//studioncreations-studioncreations.netdna-ssl.com/img/index/header/2-medium/medium.jpg"); } }
   @media only screen and (min-width: 64.063em) {
     #index header {
-      background-image: url("//cdn.studioncreations.com/img/index/header/3-min-1025/large.jpg"); } }
+      background-image: url("//studioncreations-studioncreations.netdna-ssl.com/img/index/header/3-min-1025/large.jpg"); } }
   @media only screen and (min-width: 90.063em) {
     #index header {
-      background-image: url("//cdn.studioncreations.com/img/index/header/4-min-1441/max.jpg"); } }
+      background-image: url("//studioncreations-studioncreations.netdna-ssl.com/img/index/header/4-min-1441/max.jpg"); } }
 
 #index header .absolute-wrapper {
   position: absolute;
@@ -5528,16 +5528,16 @@ form#index-contact-form span.input-group-label.error {
   padding: 1rem 0.75rem; }
 
 .workflowCard#site-layout-planning .workflowCard-title {
-  background: url("//cdn.studioncreations.com/img/our-services/web-development/new-project-workflow/site-layout-planning.jpg") center center/cover no-repeat; }
+  background: url("//studioncreations-studioncreations.netdna-ssl.com/img/our-services/web-development/new-project-workflow/site-layout-planning.jpg") center center/cover no-repeat; }
 
 .workflowCard#design-phase .workflowCard-title {
-  background: url("//cdn.studioncreations.com/img/our-services/web-development/new-project-workflow/design-phase.jpg") right center/cover no-repeat; }
+  background: url("//studioncreations-studioncreations.netdna-ssl.com/img/our-services/web-development/new-project-workflow/design-phase.jpg") right center/cover no-repeat; }
   @media print, screen and (min-width: 40em) {
     .workflowCard#design-phase .workflowCard-title {
       background-position: center center; } }
 
 .workflowCard#coding-development-stage .workflowCard-title {
-  background: url("//cdn.studioncreations.com/img/our-services/web-development/new-project-workflow/coding-development-stage.jpg") left center/cover no-repeat; }
+  background: url("//studioncreations-studioncreations.netdna-ssl.com/img/our-services/web-development/new-project-workflow/coding-development-stage.jpg") left center/cover no-repeat; }
   @media print, screen and (min-width: 40em) {
     .workflowCard#coding-development-stage .workflowCard-title {
       background-position: center center; } }
@@ -5585,7 +5585,7 @@ form#index-contact-form span.input-group-label.error {
       max-height: 120px; }
 
 #web-development .bubble-bg {
-  background: #fff url("//cdn.studioncreations.com/img/index/bubble-bg/bubble-background.png") center center/cover no-repeat; }
+  background: #fff url("//studioncreations-studioncreations.netdna-ssl.com/img/index/bubble-bg/bubble-background.png") center center/cover no-repeat; }
 
 #web-development .contact-form {
   padding: 2.5rem 0; }
