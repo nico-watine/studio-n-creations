@@ -6334,46 +6334,6 @@
 		"oT": 1,
 		"q": 100
 		},
-	"\/img\/projects\/essential-sound-production\/index-modal\/modal-feature-2.jpg": {
-		"ft": 16384,
-		"iS": 26594,
-		"oA": 1,
-		"oAP": "\/img\/projects\/essential-sound-production\/index-modal\/modal-feature-2.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/img\/projects\/essential-sound-production\/index-modal\/modal-feature-2_2x.jpg": {
-		"ft": 16384,
-		"iS": 42975,
-		"oA": 1,
-		"oAP": "\/img\/projects\/essential-sound-production\/index-modal\/modal-feature-2_2x.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/img\/projects\/essential-sound-production\/index-modal\/modal-feature-3.jpg": {
-		"ft": 16384,
-		"iS": 22159,
-		"oA": 1,
-		"oAP": "\/img\/projects\/essential-sound-production\/index-modal\/modal-feature-3.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/img\/projects\/essential-sound-production\/index-modal\/modal-feature-3_2x.jpg": {
-		"ft": 16384,
-		"iS": 30490,
-		"oA": 1,
-		"oAP": "\/img\/projects\/essential-sound-production\/index-modal\/modal-feature-3_2x.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
 	"\/img\/projects\/essential-sound-production\/index-modal\/modal-thumb.jpg": {
 		"ft": 16384,
 		"iS": 68494,
@@ -6449,6 +6409,46 @@
 		"iS": 74727,
 		"oA": 1,
 		"oAP": "\/img\/projects\/houston-pals\/index-modal\/modal-thumb_2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/projects\/houston-pals\/index\/projectCard\/houston-pals-logo-website-thumbnail.jpg": {
+		"ft": 16384,
+		"iS": 49611,
+		"oA": 1,
+		"oAP": "\/img\/projects\/houston-pals\/index\/projectCard\/houston-pals-logo-website-thumbnail.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/projects\/houston-pals\/index\/projectCard\/houston-pals-logo-website-thumbnail_2x.jpg": {
+		"ft": 16384,
+		"iS": 74727,
+		"oA": 1,
+		"oAP": "\/img\/projects\/houston-pals\/index\/projectCard\/houston-pals-logo-website-thumbnail_2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/projects\/houston-pals\/index\/projectCard\/modal-thumb.jpg": {
+		"ft": 16384,
+		"iS": 49611,
+		"oA": 1,
+		"oAP": "\/img\/projects\/houston-pals\/index\/projectCard\/modal-thumb.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/projects\/houston-pals\/index\/projectCard\/modal-thumb_2x.jpg": {
+		"ft": 16384,
+		"iS": 74727,
+		"oA": 1,
+		"oAP": "\/img\/projects\/houston-pals\/index\/projectCard\/modal-thumb_2x.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
