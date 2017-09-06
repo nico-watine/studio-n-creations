@@ -5394,7 +5394,8 @@ form#index-contact-form span.input-group-label.error {
   width: 100%;
   background: rgba(68, 68, 68, 0.75);
   height: 100%;
-  opacity: 0; }
+  opacity: 0;
+  z-index: 10; }
   .projectCard-info:hover {
     opacity: 1; }
   .projectCard-info .prose {
