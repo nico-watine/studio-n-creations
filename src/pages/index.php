@@ -41,7 +41,7 @@ body-class: bodyLayout-unique
 	</div>
 	<div class="row">
 		<div class="medium-6 columns">
-			<div class="projectCard text-center">
+			<div class="projectCard text-center" style="border: 3px solid red;">
 				<div class="projectCard-info">
 					<div class="prose">
 						<h3>Houston PALS</h3>
