@@ -41,7 +41,7 @@ body-class: bodyLayout-unique
 	</div>
 	<div class="row">
 		<div class="medium-6 columns">
-			<div class="projectCard text-center" style="border: 3px solid red;">
+			<div class="projectCard text-center" id="testCard">
 				<div class="projectCard-info">
 					<div class="prose">
 						<h3>Houston PALS</h3>
@@ -50,7 +50,7 @@ body-class: bodyLayout-unique
 						<a class="button" href="http://houstonpals.com/" target="_blank">www.HoustonPALS.com</a>
 					</div>
 				</div>
-				<div class="projectCard-image" id="testCard">
+				<div class="projectCard-image">
 					<img srcset="{{ cdn }}/img/projects/houston-pals/index-modal/modal-thumb_2x.jpg 2x" src="{{ cdn }}/img/projects/houston-pals/index-modal/modal-thumb.jpg" alt="Houston PALS website mockup">
 				</div>
 			</div>
