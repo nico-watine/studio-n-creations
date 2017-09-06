@@ -51,7 +51,7 @@ body-class: bodyLayout-unique
 					</div>
 				</div>
 				<div class="projectCard-image">
-					<img srcset="{{ cdn }}/img/projects/houston-pals/index-modal/modal-thumb_2x.jpg 2x" src="{{ cdn }}/img/projects/houston-pals/index-modal/modal-thumb.jpg" alt="Houston PALS website mockup">
+					<img srcset="{{ cdn }}/img/projects/houston-pals/index/projectCard/houston-pals-logo-website-thumbnail_2x.jpg 2x" src="{{ cdn }}/img/projects/houston-pals/index/projectCard/houston-pals-logo-website-thumbnail.jpg" alt="Houston PALS website mockup">
 				</div>
 			</div>
 		</div>
