@@ -1,4 +1,8 @@
+# Standard, non-SSL CDN ::
 # - //cdn.studioncreations.com
+
+# Secure, SSL CDN for https use ::
+# - //studioncreations-studioncreations.netdna-ssl.com
 
 # IMPLEMENT BY USING THIS AS VARIABLE::
 # {{ cdn }}
