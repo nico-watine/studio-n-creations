@@ -5429,6 +5429,9 @@ form#index-contact-form span.input-group-label.error {
     .projectCard-info a.long-word {
       font-size: 0.875rem; } }
 
+.projectCard-image {
+  padding-top: 61.401960784%; }
+
 #index {
   background: #F4F4F4; }
   #index #mobileNavBar-wrapper {
