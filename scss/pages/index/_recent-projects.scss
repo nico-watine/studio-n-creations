@@ -70,6 +70,10 @@
 .projectCard#testCard {
 	border: rem-calc(3) solid #566372;
 
+	.projectCard-info {
+		z-index: 10;
+	}
+	
 	.projectCard-image {
 		position: relative;
 
