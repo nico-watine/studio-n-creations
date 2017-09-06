@@ -64,26 +64,9 @@
 }
 
 .projectCard-image {
-	border: rem-calc(3) solid #566372;
+	// border: rem-calc(3) solid #566372;
 }
 
-.projectCard#testCard {
-	border: rem-calc(3) solid #566372;
 
-	.projectCard-info {
-		z-index: 10;
-	}
-
-	.projectCard-image {
-		padding-top: 61.401960784%;
-
-		img {
-			position: absolute;
-			top: 0;
-			left: 0;
-			width: 100%;
-		}
-	}
-}
 
 
