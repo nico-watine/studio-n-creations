@@ -5438,7 +5438,6 @@ form#index-contact-form span.input-group-label.error {
     background-image: url("/img/index/recent-projects/projectCard/placeHolder.png");
     background-size: contain;
     background-repeat: no-repeat;
-    width: 100%;
     height: 0;
     padding-top: 61.401960784%; }
     .projectCard#testCard .projectCard-image img {
