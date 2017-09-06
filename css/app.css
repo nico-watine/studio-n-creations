@@ -5435,7 +5435,6 @@ form#index-contact-form span.input-group-label.error {
   .projectCard#testCard .projectCard-info {
     z-index: 10; }
   .projectCard#testCard .projectCard-image {
-    height: 0;
     padding-top: 61.401960784%; }
     .projectCard#testCard .projectCard-image img {
       position: absolute;
