@@ -1,9 +1,17 @@
-// CDN SWITCHING :: '#{$url}'
+// ----------------------------------------------------
+// |            CDN SWITCHING :: '#{$url}'            |
+// ----------------------------------------------------
+
+// Local Dev ::
 // $url:null;
+
+// Standard, non-SSL CDN ::
 // $url:'//cdn.studioncreations.com';
+
+// Secure, SSL CDN for https use ::
 $url:'//studioncreations-studioncreations.netdna-ssl.com';
 
-
+// ----------------------------------------------------------
 
 // COLORS
 $gray-blue: #8D959E;
