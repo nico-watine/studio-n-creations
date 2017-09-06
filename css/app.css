@@ -5439,7 +5439,8 @@ form#index-contact-form span.input-group-label.error {
     .projectCard#testCard .projectCard-image img {
       position: absolute;
       top: 0;
-      left: 0; }
+      left: 0;
+      width: 100%; }
 
 #index {
   background: #F4F4F4; }
