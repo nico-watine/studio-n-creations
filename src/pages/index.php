@@ -162,7 +162,7 @@ body-class: bodyLayout-unique
 					</div>
 				</div>
 				<div class="projectCard-image">
-					<img srcset="{{ cdn }}/img/projects/houston-interior-plants/modal-thumb_2x.jpg 2x" src="{{ cdn }}/img/projects/houston-interior-plants/modal-thumb.jpg" alt="Houston Interior Plants website mockup">
+					<img srcset="{{ cdn }}/img/projects/houston-interior-plants/index/projectCard/houston-interior-plants-website-thumbnail_2x.jpg 2x" src="{{ cdn }}/img/projects/houston-interior-plants/index/projectCard/houston-interior-plants-website-thumbnail.jpg" alt="Houston Interior Plants website mockup">
 				</div>
 			</div>
 		</div>
