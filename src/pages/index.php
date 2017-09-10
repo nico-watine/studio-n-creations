@@ -83,7 +83,7 @@ body-class: bodyLayout-unique
 					</div>
 				</div>
 				<div class="projectCard-image">
-					<img srcset="{{ cdn }}/img/projects/greencare-tx/index-modal/modal-thumb_2x.jpg 2x" src="{{ cdn }}/img/projects/greencare-tx/index-modal/modal-thumb.jpg" alt="Greencare Interior Plants website mockup">
+					<img srcset="{{ cdn }}img/projects/greencare-tx/index/projectCard/greencare-interior-plants-website-thumbnail_2x.jpg 2x" src="{{ cdn }}img/projects/greencare-tx/index/projectCard/greencare-interior-plants-website-thumbnail.jpg" alt="Greencare Interior Plants website mockup">
 				</div>
 			</div>
 		</div>
