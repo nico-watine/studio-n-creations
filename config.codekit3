@@ -5396,6 +5396,72 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/dist\/img\/projects\/dmesa\/index\/dmesa-logo.png": {
+		"ft": 32768,
+		"iS": 13601,
+		"oA": 1,
+		"oAP": "\/dist\/img\/projects\/dmesa\/index\/dmesa-logo.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/dist\/img\/projects\/dmesa\/index\/dmesa-logo_2x.png": {
+		"ft": 32768,
+		"iS": 32960,
+		"oA": 1,
+		"oAP": "\/dist\/img\/projects\/dmesa\/index\/dmesa-logo_2x.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/dist\/img\/projects\/dmesa\/index\/graphic-design\/dmesa-logo.png": {
+		"ft": 32768,
+		"iS": 13601,
+		"oA": 1,
+		"oAP": "\/dist\/img\/projects\/dmesa\/index\/graphic-design\/dmesa-logo.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/dist\/img\/projects\/dmesa\/index\/graphic-design\/dmesa-logo_2x.png": {
+		"ft": 32768,
+		"iS": 32960,
+		"oA": 1,
+		"oAP": "\/dist\/img\/projects\/dmesa\/index\/graphic-design\/dmesa-logo_2x.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/dist\/img\/projects\/dmesa\/index\/New Folder With Items\/dmesa-logo.png": {
+		"ft": 32768,
+		"iS": 13601,
+		"oA": 1,
+		"oAP": "\/dist\/img\/projects\/dmesa\/index\/New Folder With Items\/dmesa-logo.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/dist\/img\/projects\/dmesa\/index\/New Folder With Items\/dmesa-logo_2x.png": {
+		"ft": 32768,
+		"iS": 32960,
+		"oA": 1,
+		"oAP": "\/dist\/img\/projects\/dmesa\/index\/New Folder With Items\/dmesa-logo_2x.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/dist\/img\/projects\/dynasty-sports-report\/index-graphic-design\/dynasty-sports-report-logo.png": {
 		"ft": 32768,
 		"iS": 32540,
@@ -6490,22 +6556,22 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/img\/projects\/dmesa\/index-graphic-design\/dmesa-logo.png": {
+	"\/img\/projects\/dmesa\/index\/graphic-design\/dmesa-logo.png": {
 		"ft": 32768,
 		"iS": 13601,
 		"oA": 1,
-		"oAP": "\/img\/projects\/dmesa\/index-graphic-design\/dmesa-logo.png",
+		"oAP": "\/img\/projects\/dmesa\/index\/graphic-design\/dmesa-logo.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/img\/projects\/dmesa\/index-graphic-design\/dmesa-logo_2x.png": {
+	"\/img\/projects\/dmesa\/index\/graphic-design\/dmesa-logo_2x.png": {
 		"ft": 32768,
 		"iS": 32960,
 		"oA": 1,
-		"oAP": "\/img\/projects\/dmesa\/index-graphic-design\/dmesa-logo_2x.png",
+		"oAP": "\/img\/projects\/dmesa\/index\/graphic-design\/dmesa-logo_2x.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
