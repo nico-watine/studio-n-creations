@@ -115,7 +115,7 @@ body-class: bodyLayout-unique
 					</div>
 				</div>
 				<div class="projectCard-image">
-					<img srcset="{{ cdn }}/img/projects/starhill-farms/index-modal/modal-thumb_2x.jpg 2x" src="{{ cdn }}/img/projects/starhill-farms/index-modal/modal-thumb.jpg" alt="Starhill Farms website mockup">
+					<img srcset="{{ cdn }}img/projects/starhill-farms/index/projectCard/starhill-farms-website-thumbnail_2x.jpg 2x" src="{{ cdn }}img/projects/starhill-farms/index/projectCard/starhill-farms-website-thumbnail.jpg" alt="Starhill Farms website mockup">
 				</div>
 			</div>
 		</div>

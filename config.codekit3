@@ -5858,6 +5858,86 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/dist\/img\/projects\/starhill-farms\/index\/modal-thumb.jpg": {
+		"ft": 16384,
+		"iS": 46169,
+		"oA": 1,
+		"oAP": "\/dist\/img\/projects\/starhill-farms\/index\/modal-thumb.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/projects\/starhill-farms\/index\/modal-thumb_2x.jpg": {
+		"ft": 16384,
+		"iS": 71060,
+		"oA": 1,
+		"oAP": "\/dist\/img\/projects\/starhill-farms\/index\/modal-thumb_2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/projects\/starhill-farms\/index\/New Folder With Items\/modal-thumb.jpg": {
+		"ft": 16384,
+		"iS": 46169,
+		"oA": 1,
+		"oAP": "\/dist\/img\/projects\/starhill-farms\/index\/New Folder With Items\/modal-thumb.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/projects\/starhill-farms\/index\/New Folder With Items\/modal-thumb_2x.jpg": {
+		"ft": 16384,
+		"iS": 71060,
+		"oA": 1,
+		"oAP": "\/dist\/img\/projects\/starhill-farms\/index\/New Folder With Items\/modal-thumb_2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/projects\/starhill-farms\/index\/projectCard\/modal-thumb.jpg": {
+		"ft": 16384,
+		"iS": 46169,
+		"oA": 1,
+		"oAP": "\/dist\/img\/projects\/starhill-farms\/index\/projectCard\/modal-thumb.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/projects\/starhill-farms\/index\/projectCard\/modal-thumb_2x.jpg": {
+		"ft": 16384,
+		"iS": 71060,
+		"oA": 1,
+		"oAP": "\/dist\/img\/projects\/starhill-farms\/index\/projectCard\/modal-thumb_2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/projects\/starhill-farms\/index\/projectCard\/starhill-farms-website-thumbnail.jpg": {
+		"ft": 16384,
+		"iS": 46169,
+		"oA": 1,
+		"oAP": "\/dist\/img\/projects\/starhill-farms\/index\/projectCard\/starhill-farms-website-thumbnail.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/projects\/starhill-farms\/index\/projectCard\/starhill-farms-website-thumbnail_2x.jpg": {
+		"ft": 16384,
+		"iS": 71060,
+		"oA": 1,
+		"oAP": "\/dist\/img\/projects\/starhill-farms\/index\/projectCard\/starhill-farms-website-thumbnail_2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/dist\/img\/projects\/the-deck-on-fountainview\/modal-thumb.jpg": {
 		"ft": 16384,
 		"iS": 82852,
@@ -6494,21 +6574,21 @@
 		"opt": 0,
 		"q": 100
 		},
-	"\/img\/projects\/starhill-farms\/index-modal\/modal-thumb.jpg": {
+	"\/img\/projects\/starhill-farms\/index\/projectCard\/starhill-farms-website-thumbnail.jpg": {
 		"ft": 16384,
 		"iS": 46169,
 		"oA": 1,
-		"oAP": "\/img\/projects\/starhill-farms\/index-modal\/modal-thumb.jpg",
+		"oAP": "\/img\/projects\/starhill-farms\/index\/projectCard\/starhill-farms-website-thumbnail.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/img\/projects\/starhill-farms\/index-modal\/modal-thumb_2x.jpg": {
+	"\/img\/projects\/starhill-farms\/index\/projectCard\/starhill-farms-website-thumbnail_2x.jpg": {
 		"ft": 16384,
 		"iS": 71060,
 		"oA": 1,
-		"oAP": "\/img\/projects\/starhill-farms\/index-modal\/modal-thumb_2x.jpg",
+		"oAP": "\/img\/projects\/starhill-farms\/index\/projectCard\/starhill-farms-website-thumbnail_2x.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
