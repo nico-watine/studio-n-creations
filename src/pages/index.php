@@ -130,7 +130,7 @@ body-class: bodyLayout-unique
 					</div>
 				</div>
 				<div class="projectCard-image">
-					<img srcset="{{ cdn }}/img/projects/jardin-de-france-tx/index-modal/modal-thumb_2x.jpg 2x" src="{{ cdn }}/img/projects/jardin-de-france-tx/index-modal/modal-thumb.jpg" alt="Jardin de France TX website mockup">
+					<img srcset="{{ cdn }}img/projects/jardin-de-france-tx/index/projectCard/jardin-de-france-tx-website-thumbnail_2x.jpg 2x" src="{{ cdn }}img/projects/jardin-de-france-tx/index/projectCard/jardin-de-france-tx-website-thumbnail.jpg" alt="Jardin de France TX website mockup">
 				</div>
 			</div>
 		</div>
