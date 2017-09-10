@@ -5688,6 +5688,16 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/dist\/img\/projects\/jardin-de-france-tx\/index\/projectCard\/jardin-de-france-tx-website-thumbnail_2x.jpg": {
+		"ft": 16384,
+		"iS": 122430,
+		"oA": 1,
+		"oAP": "\/dist\/img\/projects\/jardin-de-france-tx\/index\/projectCard\/jardin-de-france-tx-website-thumbnail_2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/dist\/img\/projects\/jardin-de-france-tx\/index\/projectCard\/modal-thumb.jpg": {
 		"ft": 16384,
 		"iS": 68371,
@@ -5708,6 +5718,26 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/dist\/img\/projects\/lisa-esposito\/index-modal copy\/modal-thumb.jpg": {
+		"ft": 16384,
+		"iS": 44500,
+		"oA": 1,
+		"oAP": "\/dist\/img\/projects\/lisa-esposito\/index-modal copy\/modal-thumb.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/projects\/lisa-esposito\/index-modal copy\/modal-thumb_2x.jpg": {
+		"ft": 16384,
+		"iS": 58303,
+		"oA": 1,
+		"oAP": "\/dist\/img\/projects\/lisa-esposito\/index-modal copy\/modal-thumb_2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/dist\/img\/projects\/lisa-esposito\/index-modal\/modal-thumb.jpg": {
 		"ft": 16384,
 		"iS": 44500,
@@ -5723,6 +5753,86 @@
 		"iS": 58303,
 		"oA": 1,
 		"oAP": "\/dist\/img\/projects\/lisa-esposito\/index-modal\/modal-thumb_2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/projects\/lisa-esposito\/index\/modal-thumb.jpg": {
+		"ft": 16384,
+		"iS": 44500,
+		"oA": 1,
+		"oAP": "\/dist\/img\/projects\/lisa-esposito\/index\/modal-thumb.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/projects\/lisa-esposito\/index\/modal-thumb_2x.jpg": {
+		"ft": 16384,
+		"iS": 58303,
+		"oA": 1,
+		"oAP": "\/dist\/img\/projects\/lisa-esposito\/index\/modal-thumb_2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/projects\/lisa-esposito\/index\/New Folder With Items\/modal-thumb.jpg": {
+		"ft": 16384,
+		"iS": 44500,
+		"oA": 1,
+		"oAP": "\/dist\/img\/projects\/lisa-esposito\/index\/New Folder With Items\/modal-thumb.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/projects\/lisa-esposito\/index\/New Folder With Items\/modal-thumb_2x.jpg": {
+		"ft": 16384,
+		"iS": 58303,
+		"oA": 1,
+		"oAP": "\/dist\/img\/projects\/lisa-esposito\/index\/New Folder With Items\/modal-thumb_2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/projects\/lisa-esposito\/index\/projectCard\/artist-lisa-esposito-website-thumbnail.jpg": {
+		"ft": 16384,
+		"iS": 44500,
+		"oA": 1,
+		"oAP": "\/dist\/img\/projects\/lisa-esposito\/index\/projectCard\/artist-lisa-esposito-website-thumbnail.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/projects\/lisa-esposito\/index\/projectCard\/artist-lisa-esposito-website-thumbnail_2x.jpg": {
+		"ft": 16384,
+		"iS": 58303,
+		"oA": 1,
+		"oAP": "\/dist\/img\/projects\/lisa-esposito\/index\/projectCard\/artist-lisa-esposito-website-thumbnail_2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/projects\/lisa-esposito\/index\/projectCard\/modal-thumb.jpg": {
+		"ft": 16384,
+		"iS": 44500,
+		"oA": 1,
+		"oAP": "\/dist\/img\/projects\/lisa-esposito\/index\/projectCard\/modal-thumb.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/projects\/lisa-esposito\/index\/projectCard\/modal-thumb_2x.jpg": {
+		"ft": 16384,
+		"iS": 58303,
+		"oA": 1,
+		"oAP": "\/dist\/img\/projects\/lisa-esposito\/index\/projectCard\/modal-thumb_2x.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -6354,31 +6464,31 @@
 		"opt": 0,
 		"q": 100
 		},
-	"\/img\/projects\/jardin-de-france-tx\/index\/projectCard\/modal-thumb_2x.jpg": {
+	"\/img\/projects\/jardin-de-france-tx\/index\/projectCard\/jardin-de-france-tx-website-thumbnail_2x.jpg": {
 		"ft": 16384,
 		"iS": 123636,
 		"oA": 1,
-		"oAP": "\/img\/projects\/jardin-de-france-tx\/index\/projectCard\/modal-thumb_2x.jpg",
+		"oAP": "\/img\/projects\/jardin-de-france-tx\/index\/projectCard\/jardin-de-france-tx-website-thumbnail_2x.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/img\/projects\/lisa-esposito\/index-modal\/modal-thumb.jpg": {
+	"\/img\/projects\/lisa-esposito\/index\/projectCard\/artist-lisa-esposito-website-thumbnail.jpg": {
 		"ft": 16384,
 		"iS": 44500,
 		"oA": 1,
-		"oAP": "\/img\/projects\/lisa-esposito\/index-modal\/modal-thumb.jpg",
+		"oAP": "\/img\/projects\/lisa-esposito\/index\/projectCard\/artist-lisa-esposito-website-thumbnail.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/img\/projects\/lisa-esposito\/index-modal\/modal-thumb_2x.jpg": {
+	"\/img\/projects\/lisa-esposito\/index\/projectCard\/artist-lisa-esposito-website-thumbnail_2x.jpg": {
 		"ft": 16384,
 		"iS": 58303,
 		"oA": 1,
-		"oAP": "\/img\/projects\/lisa-esposito\/index-modal\/modal-thumb_2x.jpg",
+		"oAP": "\/img\/projects\/lisa-esposito\/index\/projectCard\/artist-lisa-esposito-website-thumbnail_2x.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,

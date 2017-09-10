@@ -98,7 +98,7 @@ body-class: bodyLayout-unique
 					</div>
 				</div>
 				<div class="projectCard-image">
-					<img srcset="{{ cdn }}/img/projects/lisa-esposito/index-modal/modal-thumb_2x.jpg 2x" src="{{ cdn }}/img/projects/lisa-esposito/index-modal/modal-thumb.jpg" alt="Dr Lisa Esposito website mockup">
+					<img srcset="{{ cdn }}img/projects/lisa-esposito/index/projectCard/artist-lisa-esposito-website-thumbnail_2x.jpg 2x" src="{{ cdn }}img/projects/lisa-esposito/index/projectCard/artist-lisa-esposito-website-thumbnail.jpg" alt="Dr Lisa Esposito website mockup">
 				</div>
 			</div>
 		</div>
