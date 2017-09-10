@@ -1336,7 +1336,7 @@ html {
 body {
   margin: 0;
   padding: 0;
-  background: #fefefe;
+  background: #f4f4f4;
   font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: normal;
   line-height: 1.5;
@@ -2814,7 +2814,7 @@ legend {
     margin: 0;
     margin-left: -0.1875rem;
     padding: 0 0.1875rem;
-    background: #fefefe; }
+    background: #f4f4f4; }
 
 select {
   height: 2.4375rem;
@@ -2908,8 +2908,8 @@ input[type="range"] {
   input[type="range"]::-ms-track {
     height: 0.5rem;
     border: 0;
-    border-top: 0.45rem solid #fefefe;
-    border-bottom: 0.45rem solid #fefefe;
+    border-top: 0.45rem solid #f4f4f4;
+    border-bottom: 0.45rem solid #f4f4f4;
     background: #e6e6e6;
     overflow: visible;
     color: transparent; }
@@ -3457,7 +3457,7 @@ input[type="range"] {
   visibility: hidden;
   border: 1px solid #cacaca;
   border-radius: 0;
-  background-color: #fefefe;
+  background-color: #f4f4f4;
   font-size: 1rem; }
   .dropdown-pane.is-open {
     visibility: visible; }
@@ -5437,12 +5437,10 @@ form#index-contact-form span.input-group-label.error {
     left: 0;
     width: 100%; }
 
-#index {
-  background: #F4F4F4; }
-  #index #mobileNavBar-wrapper {
-    position: absolute;
-    right: 0;
-    z-index: 100; }
+#index #mobileNavBar-wrapper {
+  position: absolute;
+  right: 0;
+  z-index: 100; }
 
 #index header {
   height: 28.75rem;
@@ -5629,9 +5627,6 @@ form#index-contact-form span.input-group-label.error {
   font-weight: bold;
   color: #fff;
   border: 1px solid #fff; }
-
-#web-development {
-  background: #F4F4F4; }
 
 .p-0 {
   padding: 0; }
