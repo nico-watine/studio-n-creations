@@ -147,7 +147,7 @@ body-class: bodyLayout-unique
 					</div>
 				</div>
 				<div class="projectCard-image">
-					<img srcset="{{ cdn }}/img/projects/the-deck-on-fountainview/modal-thumb_2x.jpg 2x" src="{{ cdn }}/img/projects/the-deck-on-fountainview/modal-thumb.jpg" alt="The Deck On Fountainview website mockup">
+					<img srcset="{{ cdn }}img/projects/the-deck-on-fountainview/index/projectCard/deck-on-fountainview-website-thumbnail_2x.jpg 2x" src="{{ cdn }}img/projects/the-deck-on-fountainview/index/projectCard/deck-on-fountainview-website-thumbnail.jpg" alt="The Deck On Fountainview website mockup">
 				</div>
 			</div>
 		</div>

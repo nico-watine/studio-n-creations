@@ -5938,6 +5938,86 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/dist\/img\/projects\/the-deck-on-fountainview\/index\/modal-thumb.jpg": {
+		"ft": 16384,
+		"iS": 82852,
+		"oA": 1,
+		"oAP": "\/dist\/img\/projects\/the-deck-on-fountainview\/index\/modal-thumb.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/projects\/the-deck-on-fountainview\/index\/modal-thumb_2x.jpg": {
+		"ft": 16384,
+		"iS": 123978,
+		"oA": 1,
+		"oAP": "\/dist\/img\/projects\/the-deck-on-fountainview\/index\/modal-thumb_2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/projects\/the-deck-on-fountainview\/index\/New Folder With Items\/modal-thumb.jpg": {
+		"ft": 16384,
+		"iS": 82852,
+		"oA": 1,
+		"oAP": "\/dist\/img\/projects\/the-deck-on-fountainview\/index\/New Folder With Items\/modal-thumb.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/projects\/the-deck-on-fountainview\/index\/New Folder With Items\/modal-thumb_2x.jpg": {
+		"ft": 16384,
+		"iS": 123978,
+		"oA": 1,
+		"oAP": "\/dist\/img\/projects\/the-deck-on-fountainview\/index\/New Folder With Items\/modal-thumb_2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/projects\/the-deck-on-fountainview\/index\/projectCard\/deck-on-fountainview-website-thumbnail.jpg": {
+		"ft": 16384,
+		"iS": 82852,
+		"oA": 1,
+		"oAP": "\/dist\/img\/projects\/the-deck-on-fountainview\/index\/projectCard\/deck-on-fountainview-website-thumbnail.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/projects\/the-deck-on-fountainview\/index\/projectCard\/deck-on-fountainview-website-thumbnail_2x.jpg": {
+		"ft": 16384,
+		"iS": 123978,
+		"oA": 1,
+		"oAP": "\/dist\/img\/projects\/the-deck-on-fountainview\/index\/projectCard\/deck-on-fountainview-website-thumbnail_2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/projects\/the-deck-on-fountainview\/index\/projectCard\/modal-thumb.jpg": {
+		"ft": 16384,
+		"iS": 82852,
+		"oA": 1,
+		"oAP": "\/dist\/img\/projects\/the-deck-on-fountainview\/index\/projectCard\/modal-thumb.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/projects\/the-deck-on-fountainview\/index\/projectCard\/modal-thumb_2x.jpg": {
+		"ft": 16384,
+		"iS": 123978,
+		"oA": 1,
+		"oAP": "\/dist\/img\/projects\/the-deck-on-fountainview\/index\/projectCard\/modal-thumb_2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/dist\/img\/projects\/the-deck-on-fountainview\/modal-thumb.jpg": {
 		"ft": 16384,
 		"iS": 82852,
@@ -5953,6 +6033,26 @@
 		"iS": 123978,
 		"oA": 1,
 		"oAP": "\/dist\/img\/projects\/the-deck-on-fountainview\/modal-thumb_2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/projects\/the-deck-on-fountainview\/New Folder With Items\/modal-thumb.jpg": {
+		"ft": 16384,
+		"iS": 82852,
+		"oA": 1,
+		"oAP": "\/dist\/img\/projects\/the-deck-on-fountainview\/New Folder With Items\/modal-thumb.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/projects\/the-deck-on-fountainview\/New Folder With Items\/modal-thumb_2x.jpg": {
+		"ft": 16384,
+		"iS": 123978,
+		"oA": 1,
+		"oAP": "\/dist\/img\/projects\/the-deck-on-fountainview\/New Folder With Items\/modal-thumb_2x.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -6594,21 +6694,21 @@
 		"opt": 0,
 		"q": 100
 		},
-	"\/img\/projects\/the-deck-on-fountainview\/modal-thumb.jpg": {
+	"\/img\/projects\/the-deck-on-fountainview\/index\/projectCard\/deck-on-fountainview-website-thumbnail.jpg": {
 		"ft": 16384,
 		"iS": 82852,
 		"oA": 1,
-		"oAP": "\/img\/projects\/the-deck-on-fountainview\/modal-thumb.jpg",
+		"oAP": "\/img\/projects\/the-deck-on-fountainview\/index\/projectCard\/deck-on-fountainview-website-thumbnail.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/img\/projects\/the-deck-on-fountainview\/modal-thumb_2x.jpg": {
+	"\/img\/projects\/the-deck-on-fountainview\/index\/projectCard\/deck-on-fountainview-website-thumbnail_2x.jpg": {
 		"ft": 16384,
 		"iS": 123978,
 		"oA": 1,
-		"oAP": "\/img\/projects\/the-deck-on-fountainview\/modal-thumb_2x.jpg",
+		"oAP": "\/img\/projects\/the-deck-on-fountainview\/index\/projectCard\/deck-on-fountainview-website-thumbnail_2x.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
