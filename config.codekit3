@@ -5484,6 +5484,28 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/dist\/img\/projects\/dynasty-sports-report\/index\/dynasty-sports-report-logo.png": {
+		"ft": 32768,
+		"iS": 32540,
+		"oA": 1,
+		"oAP": "\/dist\/img\/projects\/dynasty-sports-report\/index\/dynasty-sports-report-logo.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/dist\/img\/projects\/dynasty-sports-report\/index\/dynasty-sports-report-logo_2x.png": {
+		"ft": 32768,
+		"iS": 75062,
+		"oA": 1,
+		"oAP": "\/dist\/img\/projects\/dynasty-sports-report\/index\/dynasty-sports-report-logo_2x.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/dist\/img\/projects\/essential-sound-production\/index\/projectCard\/essential-sound-production-website-thumbnail.jpg": {
 		"ft": 16384,
 		"iS": 67290,
@@ -6578,22 +6600,22 @@
 		"oT": 1,
 		"q": 100
 		},
-	"\/img\/projects\/dynasty-sports-report\/index-graphic-design\/dynasty-sports-report-logo.png": {
+	"\/img\/projects\/dynasty-sports-report\/index\/dynasty-sports-report-logo.png": {
 		"ft": 32768,
 		"iS": 32540,
 		"oA": 1,
-		"oAP": "\/img\/projects\/dynasty-sports-report\/index-graphic-design\/dynasty-sports-report-logo.png",
+		"oAP": "\/img\/projects\/dynasty-sports-report\/index\/dynasty-sports-report-logo.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/img\/projects\/dynasty-sports-report\/index-graphic-design\/dynasty-sports-report-logo_2x.png": {
+	"\/img\/projects\/dynasty-sports-report\/index\/dynasty-sports-report-logo_2x.png": {
 		"ft": 32768,
 		"iS": 75062,
 		"oA": 1,
-		"oAP": "\/img\/projects\/dynasty-sports-report\/index-graphic-design\/dynasty-sports-report-logo_2x.png",
+		"oAP": "\/img\/projects\/dynasty-sports-report\/index\/dynasty-sports-report-logo_2x.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
