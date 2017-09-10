@@ -66,7 +66,7 @@ body-class: bodyLayout-unique
 					</div>
 				</div>
 				<div class="projectCard-image">
-					<img srcset="{{ cdn }}img/projects/essential-sound-production/index/projectCard/essential-sound-production-website-thumbnail_2x.jpg 2x" src="{{ cdn }}img/projects/essential-sound-production/index/projectCard/essential-sound-production-website-thumbnail.jpg" alt="Essential Sound Production website mockup">
+					<img srcset="{{ cdn }}/img/projects/essential-sound-production/index/projectCard/essential-sound-production-website-thumbnail_2x.jpg 2x" src="{{ cdn }}/img/projects/essential-sound-production/index/projectCard/essential-sound-production-website-thumbnail.jpg" alt="Essential Sound Production website mockup">
 				</div>
 			</div>
 		</div>
@@ -83,7 +83,7 @@ body-class: bodyLayout-unique
 					</div>
 				</div>
 				<div class="projectCard-image">
-					<img srcset="{{ cdn }}img/projects/greencare-tx/index/projectCard/greencare-interior-plants-website-thumbnail_2x.jpg 2x" src="{{ cdn }}img/projects/greencare-tx/index/projectCard/greencare-interior-plants-website-thumbnail.jpg" alt="Greencare Interior Plants website mockup">
+					<img srcset="{{ cdn }}/img/projects/greencare-tx/index/projectCard/greencare-interior-plants-website-thumbnail_2x.jpg 2x" src="{{ cdn }}/img/projects/greencare-tx/index/projectCard/greencare-interior-plants-website-thumbnail.jpg" alt="Greencare Interior Plants website mockup">
 				</div>
 			</div>
 		</div>
@@ -98,7 +98,7 @@ body-class: bodyLayout-unique
 					</div>
 				</div>
 				<div class="projectCard-image">
-					<img srcset="{{ cdn }}img/projects/lisa-esposito/index/projectCard/artist-lisa-esposito-website-thumbnail_2x.jpg 2x" src="{{ cdn }}img/projects/lisa-esposito/index/projectCard/artist-lisa-esposito-website-thumbnail.jpg" alt="Dr Lisa Esposito website mockup">
+					<img srcset="{{ cdn }}/img/projects/lisa-esposito/index/projectCard/artist-lisa-esposito-website-thumbnail_2x.jpg 2x" src="{{ cdn }}/img/projects/lisa-esposito/index/projectCard/artist-lisa-esposito-website-thumbnail.jpg" alt="Dr Lisa Esposito website mockup">
 				</div>
 			</div>
 		</div>
@@ -115,7 +115,7 @@ body-class: bodyLayout-unique
 					</div>
 				</div>
 				<div class="projectCard-image">
-					<img srcset="{{ cdn }}img/projects/starhill-farms/index/projectCard/starhill-farms-website-thumbnail_2x.jpg 2x" src="{{ cdn }}img/projects/starhill-farms/index/projectCard/starhill-farms-website-thumbnail.jpg" alt="Starhill Farms website mockup">
+					<img srcset="{{ cdn }}/img/projects/starhill-farms/index/projectCard/starhill-farms-website-thumbnail_2x.jpg 2x" src="{{ cdn }}/img/projects/starhill-farms/index/projectCard/starhill-farms-website-thumbnail.jpg" alt="Starhill Farms website mockup">
 				</div>
 			</div>
 		</div>
@@ -130,7 +130,7 @@ body-class: bodyLayout-unique
 					</div>
 				</div>
 				<div class="projectCard-image">
-					<img srcset="{{ cdn }}img/projects/jardin-de-france-tx/index/projectCard/jardin-de-france-tx-website-thumbnail_2x.jpg 2x" src="{{ cdn }}img/projects/jardin-de-france-tx/index/projectCard/jardin-de-france-tx-website-thumbnail.jpg" alt="Jardin de France TX website mockup">
+					<img srcset="{{ cdn }}/img/projects/jardin-de-france-tx/index/projectCard/jardin-de-france-tx-website-thumbnail_2x.jpg 2x" src="{{ cdn }}/img/projects/jardin-de-france-tx/index/projectCard/jardin-de-france-tx-website-thumbnail.jpg" alt="Jardin de France TX website mockup">
 				</div>
 			</div>
 		</div>
@@ -147,7 +147,7 @@ body-class: bodyLayout-unique
 					</div>
 				</div>
 				<div class="projectCard-image">
-					<img srcset="{{ cdn }}img/projects/the-deck-on-fountainview/index/projectCard/deck-on-fountainview-website-thumbnail_2x.jpg 2x" src="{{ cdn }}img/projects/the-deck-on-fountainview/index/projectCard/deck-on-fountainview-website-thumbnail.jpg" alt="The Deck On Fountainview website mockup">
+					<img srcset="{{ cdn }}/img/projects/the-deck-on-fountainview/index/projectCard/deck-on-fountainview-website-thumbnail_2x.jpg 2x" src="{{ cdn }}/img/projects/the-deck-on-fountainview/index/projectCard/deck-on-fountainview-website-thumbnail.jpg" alt="The Deck On Fountainview website mockup">
 				</div>
 			</div>
 		</div>
@@ -179,14 +179,14 @@ body-class: bodyLayout-unique
 		<div class="medium-12 large-8 columns">
 			<div class="row logos-row collapse">
 				<div class="medium-4 columns text-center">
-					<img srcset="{{ cdn }}img/projects/dynasty-sports-report/index/graphic-design/dynasty-sports-report-logo_2x.png 2x" src="{{ cdn }}img/projects/dynasty-sports-report/index/graphic-design/dynasty-sports-report-logo.png" alt="Dynasty Sports Report logo" title="DynastySportsReport.com website logo - a Studio N Creation">
-					<img class="show-for-large padding-x" srcset="{{ cdn }}img/projects/dmesa/index/graphic-design/dmesa-logo_2x.png 2x" src="{{ cdn }}img/projects/dmesa/index/graphic-design/dmesa-logo.png" alt="d'Mesa Home logo" title="d'Mesa Home company logo - a Studio N Creation">
+					<img srcset="{{ cdn }}/img/projects/dynasty-sports-report/index/graphic-design/dynasty-sports-report-logo_2x.png 2x" src="{{ cdn }}/img/projects/dynasty-sports-report/index/graphic-design/dynasty-sports-report-logo.png" alt="Dynasty Sports Report logo" title="DynastySportsReport.com website logo - a Studio N Creation">
+					<img class="show-for-large padding-x" srcset="{{ cdn }}/img/projects/dmesa/index/graphic-design/dmesa-logo_2x.png 2x" src="{{ cdn }}/img/projects/dmesa/index/graphic-design/dmesa-logo.png" alt="d'Mesa Home logo" title="d'Mesa Home company logo - a Studio N Creation">
 				</div>
 				<div class="medium-push-4 medium-3 columns hide-for-large text-center">
 					<img class="padding-x" srcset="{{ cdn }}/img/projects/dmesa/index-graphic-design/dmesa-logo_2x.png 2x" src="{{ cdn }}/img/projects/dmesa/index-graphic-design/dmesa-logo.png" alt="d'Mesa Home logo" title="d'Mesa Home company logo - a Studio N Creation">
 				</div>
 				<div class="medium-5 large-8 columns">
-					<img srcset="{{ cdn }}/img/projects/jardin-de-france-tx/index-graphic-design/jardin-de-france-price-tag_2x.jpg 2x" src="{{ cdn }}/img/projects/jardin-de-france-tx/index-graphic-design/jardin-de-france-price-tag.jpg" alt="Jardin de France TX logo" title="Jardin de France TX product price tag design - a Studio N Creation">
+					<img srcset="{{ cdn }}/img/projects/jardin-de-france-tx/index/graphic-design/jardin-de-france-price-tag_2x.jpg 2x" src="{{ cdn }}/img/projects/jardin-de-france-tx/index/graphic-design/jardin-de-france-price-tag.jpg" alt="Jardin de France TX logo" title="Jardin de France TX product price tag design - a Studio N Creation">
 				</div>
 			</div>
 		</div>

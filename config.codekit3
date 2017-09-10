@@ -5506,6 +5506,50 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/dist\/img\/projects\/dynasty-sports-report\/index\/graphic-design\/dynasty-sports-report-logo.png": {
+		"ft": 32768,
+		"iS": 32540,
+		"oA": 1,
+		"oAP": "\/dist\/img\/projects\/dynasty-sports-report\/index\/graphic-design\/dynasty-sports-report-logo.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/dist\/img\/projects\/dynasty-sports-report\/index\/graphic-design\/dynasty-sports-report-logo_2x.png": {
+		"ft": 32768,
+		"iS": 75062,
+		"oA": 1,
+		"oAP": "\/dist\/img\/projects\/dynasty-sports-report\/index\/graphic-design\/dynasty-sports-report-logo_2x.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/dist\/img\/projects\/dynasty-sports-report\/index\/New Folder With Items\/dynasty-sports-report-logo.png": {
+		"ft": 32768,
+		"iS": 32540,
+		"oA": 1,
+		"oAP": "\/dist\/img\/projects\/dynasty-sports-report\/index\/New Folder With Items\/dynasty-sports-report-logo.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/dist\/img\/projects\/dynasty-sports-report\/index\/New Folder With Items\/dynasty-sports-report-logo_2x.png": {
+		"ft": 32768,
+		"iS": 75062,
+		"oA": 1,
+		"oAP": "\/dist\/img\/projects\/dynasty-sports-report\/index\/New Folder With Items\/dynasty-sports-report-logo_2x.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/dist\/img\/projects\/essential-sound-production\/index\/projectCard\/essential-sound-production-website-thumbnail.jpg": {
 		"ft": 16384,
 		"iS": 67290,
@@ -5721,6 +5765,46 @@
 		"iS": 122430,
 		"oA": 1,
 		"oAP": "\/dist\/img\/projects\/jardin-de-france-tx\/index-modal\/modal-thumb_2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/projects\/jardin-de-france-tx\/index\/graphic-design\/jardin-de-france-price-tag.jpg": {
+		"ft": 16384,
+		"iS": 60775,
+		"oA": 1,
+		"oAP": "\/dist\/img\/projects\/jardin-de-france-tx\/index\/graphic-design\/jardin-de-france-price-tag.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/projects\/jardin-de-france-tx\/index\/graphic-design\/jardin-de-france-price-tag_2x.jpg": {
+		"ft": 16384,
+		"iS": 78426,
+		"oA": 1,
+		"oAP": "\/dist\/img\/projects\/jardin-de-france-tx\/index\/graphic-design\/jardin-de-france-price-tag_2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/projects\/jardin-de-france-tx\/index\/index-graphic-design\/jardin-de-france-price-tag.jpg": {
+		"ft": 16384,
+		"iS": 60775,
+		"oA": 1,
+		"oAP": "\/dist\/img\/projects\/jardin-de-france-tx\/index\/index-graphic-design\/jardin-de-france-price-tag.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/projects\/jardin-de-france-tx\/index\/index-graphic-design\/jardin-de-france-price-tag_2x.jpg": {
+		"ft": 16384,
+		"iS": 78426,
+		"oA": 1,
+		"oAP": "\/dist\/img\/projects\/jardin-de-france-tx\/index\/index-graphic-design\/jardin-de-france-price-tag_2x.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -6600,22 +6684,22 @@
 		"oT": 1,
 		"q": 100
 		},
-	"\/img\/projects\/dynasty-sports-report\/index\/dynasty-sports-report-logo.png": {
+	"\/img\/projects\/dynasty-sports-report\/index\/graphic-design\/dynasty-sports-report-logo.png": {
 		"ft": 32768,
 		"iS": 32540,
 		"oA": 1,
-		"oAP": "\/img\/projects\/dynasty-sports-report\/index\/dynasty-sports-report-logo.png",
+		"oAP": "\/img\/projects\/dynasty-sports-report\/index\/graphic-design\/dynasty-sports-report-logo.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/img\/projects\/dynasty-sports-report\/index\/dynasty-sports-report-logo_2x.png": {
+	"\/img\/projects\/dynasty-sports-report\/index\/graphic-design\/dynasty-sports-report-logo_2x.png": {
 		"ft": 32768,
 		"iS": 75062,
 		"oA": 1,
-		"oAP": "\/img\/projects\/dynasty-sports-report\/index\/dynasty-sports-report-logo_2x.png",
+		"oAP": "\/img\/projects\/dynasty-sports-report\/index\/graphic-design\/dynasty-sports-report-logo_2x.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -6702,21 +6786,21 @@
 		"opt": 0,
 		"q": 100
 		},
-	"\/img\/projects\/jardin-de-france-tx\/index-graphic-design\/jardin-de-france-price-tag.jpg": {
+	"\/img\/projects\/jardin-de-france-tx\/index\/graphic-design\/jardin-de-france-price-tag.jpg": {
 		"ft": 16384,
 		"iS": 60775,
 		"oA": 1,
-		"oAP": "\/img\/projects\/jardin-de-france-tx\/index-graphic-design\/jardin-de-france-price-tag.jpg",
+		"oAP": "\/img\/projects\/jardin-de-france-tx\/index\/graphic-design\/jardin-de-france-price-tag.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/img\/projects\/jardin-de-france-tx\/index-graphic-design\/jardin-de-france-price-tag_2x.jpg": {
+	"\/img\/projects\/jardin-de-france-tx\/index\/graphic-design\/jardin-de-france-price-tag_2x.jpg": {
 		"ft": 16384,
 		"iS": 78426,
 		"oA": 1,
-		"oAP": "\/img\/projects\/jardin-de-france-tx\/index-graphic-design\/jardin-de-france-price-tag_2x.jpg",
+		"oAP": "\/img\/projects\/jardin-de-france-tx\/index\/graphic-design\/jardin-de-france-price-tag_2x.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
