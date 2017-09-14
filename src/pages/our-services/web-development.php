@@ -62,7 +62,7 @@ body-class: bodyLayout-default
 				</div>
 				<div class="prose text-center medium-text-left">
 					<h4>Hosting</h4>
-					<p>Once the site has been completed in full, I then host the website on my private servers and publish the site online.</p>
+					<p>Once the site has been completed in full, I then host the website on private servers and publish the site online.</p>
 				</div>
 			</div>
 			<div class="medium-7 columns">
