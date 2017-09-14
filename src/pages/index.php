@@ -71,7 +71,7 @@ body-class: bodyLayout-unique
 			</div>
 		</div>
 	</div>
-	<div class="row small-collapse large-uncollapse">
+	<div class="row small-collapse xlarge-uncollapse">
 		<div class="medium-6 columns">
 			<div class="projectCard text-center">
 				<div class="projectCard-info">
@@ -103,7 +103,7 @@ body-class: bodyLayout-unique
 			</div>
 		</div>
 	</div>
-	<div class="row small-collapse large-uncollapse">
+	<div class="row small-collapse xlarge-uncollapse">
 		<div class="medium-6 columns">
 			<div class="projectCard text-center">
 				<div class="projectCard-info">
@@ -135,7 +135,7 @@ body-class: bodyLayout-unique
 			</div>
 		</div>
 	</div>
-	<div class="row small-collapse large-uncollapse">
+	<div class="row small-collapse xlarge-uncollapse">
 		<div class="medium-6 columns">
 			<div class="projectCard text-center">
 				<div class="projectCard-info">
