@@ -5560,60 +5560,6 @@ footer {
       width: auto !important;
       height: auto !important; }
 
-#index header {
-  height: 28.75rem;
-  position: relative;
-  background: #fff url("/img/index/header/1-small/small.jpg") left top/cover no-repeat; }
-  @media print, screen and (min-width: 40em) {
-    #index header {
-      height: 37.5rem;
-      background-image: url("/img/index/header/2-medium/medium.jpg"); } }
-  @media only screen and (min-width: 64.063em) {
-    #index header {
-      background-image: url("/img/index/header/3-min-1025/large.jpg"); } }
-  @media only screen and (min-width: 90.063em) {
-    #index header {
-      background-image: url("/img/index/header/4-min-1441/max.jpg"); } }
-
-#index header .absolute-wrapper {
-  position: absolute;
-  top: 50%;
-  transform: translateY(-50%);
-  width: 100%;
-  z-index: 5; }
-  #index header .absolute-wrapper .brand-wordmark {
-    color: #fff;
-    text-shadow: -0.25rem 0.3125rem 0 rgba(0, 0, 0, 0.45); }
-  #index header .absolute-wrapper .phone {
-    color: #fff;
-    text-shadow: -0.0625rem 0.125rem 0.0625rem rgba(0, 0, 0, 0.45); }
-  #index header .absolute-wrapper .brand-services {
-    color: #fff;
-    text-shadow: -0.0625rem 0.125rem 0.0625rem rgba(0, 0, 0, 0.45);
-    font-size: 1.75rem; }
-    @media screen and (max-width: 39.9375em) {
-      #index header .absolute-wrapper .brand-services {
-        margin-right: 1.875rem; } }
-    @media only screen and (max-width: 26.875em) {
-      #index header .absolute-wrapper .brand-services span {
-        display: block; }
-        #index header .absolute-wrapper .brand-services span strong {
-          display: none;
-          visibility: hidden; } }
-    @media print, screen and (min-width: 64em) {
-      #index header .absolute-wrapper .brand-services {
-        margin: 3.75rem 0 0 3.125rem;
-        float: right; } }
-
-#index header .gradient {
-  background-image: linear-gradient(-180deg, rgba(204, 204, 204, 0.55) 0%, rgba(86, 99, 113, 0.9) 36%, rgba(86, 99, 113, 0.9) 63%, rgba(204, 204, 204, 0.55) 100%);
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  z-index: 0; }
-
 #index .graphic-branding {
   background: #fff; }
   #index .graphic-branding .prose {
