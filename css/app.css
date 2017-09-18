@@ -5439,6 +5439,8 @@ h6 {
   color: #fff;
   padding-left: 16px;
   padding-top: 8px; }
+  #offCanvas-menu h1 a {
+    color: #fff; }
 
 #offCanvas-menu h2 {
   font-size: 22px; }
