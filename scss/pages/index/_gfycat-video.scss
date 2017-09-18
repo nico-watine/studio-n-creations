@@ -1,5 +1,8 @@
 @import "../../_settings.scss";
 
+$min-height-768: "only screen and (min-height : 768px)";
+$min-height-900: "only screen and (min-height : 900px)";
+$min-height-1080: "only screen and (min-height : 1080px)";
 
 .bgvid-container {
 	position: relative;
