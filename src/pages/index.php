@@ -21,7 +21,7 @@ body-class: bodyLayout-unique
 	</div> -->
 	<!-- <div class="gfyitem" data-id="ElatedFrailIndiancow"></div> -->
 	<div class="gfyitem" data-id="BaggyPossibleKiskadee"></div>
-	<img src="/img/index/header/1-small/small.jpg" alt="">
+	<!-- <img src="/img/index/header/1-small/small.jpg" alt=""> -->
 </header>
 <section class="intro-slogan">
 	<div class="row">

@@ -5547,6 +5547,15 @@ footer {
   left: 0;
   min-height: 100%;
   overflow: hidden; }
+  @media only screen and (min-height: 768px) {
+    .bgvid-container {
+      height: 700px; } }
+  @media only screen and (min-height: 900px) {
+    .bgvid-container {
+      height: 800px; } }
+  @media only screen and (min-height: 1080px) {
+    .bgvid-container {
+      height: 900px; } }
   .bgvid-container div {
     position: static !important; }
     .bgvid-container div .gfy-video {
