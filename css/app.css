@@ -5569,6 +5569,14 @@ footer {
       width: auto !important;
       height: auto !important; }
 
+.gfycatVideo {
+  display: none;
+  visibility: hidden; }
+  @media print, screen and (min-width: 40em) {
+    .gfycatVideo {
+      display: block;
+      visibility: visible; } }
+
 #index header {
   height: 28.75rem;
   position: relative;
