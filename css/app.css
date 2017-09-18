@@ -5385,24 +5385,24 @@ h6 {
   box-shadow: none; }
 
 #offCanvas-menu--toggle {
-  font-size: 16px;
+  font-size: 1rem;
   margin-bottom: 0;
-  padding: 8px;
+  padding: 0.5rem;
   color: #222;
-  border: 2px solid #566372;
-  border-radius: 6px;
+  border: 0.125rem solid #566372;
+  border-radius: 0.375rem;
   background: #f4f4f4; }
   @media print, screen and (min-width: 40em) {
     #offCanvas-menu--toggle {
-      font-size: 22px;
-      padding: 12px; } }
+      font-size: 1.375rem;
+      padding: 0.75rem; } }
   #offCanvas-menu--toggle i.hamburger {
     vertical-align: bottom;
     position: relative;
     display: inline-block;
     vertical-align: middle;
-    width: 18px;
-    height: 18px;
+    width: 1.125rem;
+    height: 1.125rem;
     cursor: pointer; }
     #offCanvas-menu--toggle i.hamburger::after {
       position: absolute;
@@ -5410,42 +5410,42 @@ h6 {
       left: 0;
       display: block;
       width: 100%;
-      height: 4px;
+      height: 0.25rem;
       background: #0a0a0a;
-      box-shadow: 0 7px 0 #0a0a0a, 0 14px 0 #0a0a0a;
+      box-shadow: 0 0.4375rem 0 #0a0a0a, 0 0.875rem 0 #0a0a0a;
       content: ''; }
     #offCanvas-menu--toggle i.hamburger:hover::after {
       background: #0a0a0a;
-      box-shadow: 0 7px 0 #0a0a0a, 0 14px 0 #0a0a0a; }
+      box-shadow: 0 0.4375rem 0 #0a0a0a, 0 0.875rem 0 #0a0a0a; }
 
 #mobileNavBar-wrapper {
   float: right;
-  margin-bottom: 16px;
-  padding: 12px 12px 0 0; }
+  margin-bottom: 1rem;
+  padding: 0.75rem 0.75rem 0 0; }
 
 #contactModal-toggle {
-  margin-right: 12px; }
+  margin-right: 0.75rem; }
   #contactModal-toggle img {
-    padding-top: 4px; }
+    padding-top: 0.25rem; }
 
 #offCanvas-menu button.close-button span {
-  font-size: 50px;
+  font-size: 3.125rem;
   color: #fa8d5c; }
 
 #offCanvas-menu h1 {
-  font-size: 36px;
-  padding-top: 8px;
-  padding-left: 16px;
+  font-size: 2.25rem;
+  padding-top: 0.5rem;
+  padding-left: 1rem;
   color: #fff;
-  text-shadow: -4px 4px 0 rgba(0, 0, 0, 0.5); }
+  text-shadow: -0.25rem 0.25rem 0 rgba(0, 0, 0, 0.5); }
   #offCanvas-menu h1 a {
     color: #fff; }
 
 #offCanvas-menu h2 {
-  font-size: 22px; }
+  font-size: 1.375rem; }
 
 #offCanvas-menu ul li a {
-  font-size: 22px;
+  font-size: 1.375rem;
   color: #fff; }
 
 .js-off-canvas-exit {

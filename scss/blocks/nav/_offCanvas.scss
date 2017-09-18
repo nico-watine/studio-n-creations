@@ -26,39 +26,39 @@
 // ------------------------------------------------
 
 #offCanvas-menu--toggle {
-	font-size: 16px;
+	font-size: rem-calc(16);
 
 	margin-bottom: 0;
-	padding: 8px;
+	padding: rem-calc(8);
 
 	color: #222;
-	border: 2px solid #566372;
-	border-radius: 6px;
+	border: rem-calc(2) solid #566372;
+	border-radius: rem-calc(6);
 	background: #f4f4f4;
 
 	@include breakpoint(medium) {
-		font-size: 22px;
+		font-size: rem-calc(22);
 
-		padding: 12px;
+		padding: rem-calc(12);
 	}
 	i.hamburger {
 		vertical-align: bottom;
 
-		@include hamburger($black, $black, 18px, 18px, 4px, 3);
+		@include hamburger($black, $black, rem-calc(18), rem-calc(18), rem-calc(4), 3);
 	}
 }
 
 #mobileNavBar-wrapper {
 	float: right;
 
-	margin-bottom: 16px;
-	padding: 12px 12px 0 0;
+	margin-bottom: rem-calc(16);
+	padding: rem-calc(12) rem-calc(12) 0 0;
 }
 
 #contactModal-toggle {
-	margin-right: 12px;
+	margin-right: rem-calc(12);
 	img {
-		padding-top: 4px;
+		padding-top: rem-calc(4);
 	}
 }
 
@@ -69,7 +69,7 @@
 #offCanvas-menu {
 	button.close-button {
 		span {
-			font-size: 50px;
+			font-size: rem-calc(50);
 
 			color: #fa8d5c;
 		}
@@ -83,24 +83,24 @@
 
 #offCanvas-menu {
 	h1 {
-		font-size: 36px;
+		font-size: rem-calc(36);
 
-		padding-top: 8px;
-		padding-left: 16px;
+		padding-top: rem-calc(8);
+		padding-left: rem-calc(16);
 
 		color: #fff;
-		text-shadow: -4px 4px 0 rgba(0,0,0,.50);
+		text-shadow: rem-calc(-4) rem-calc(4) 0 rgba(0,0,0,.50);
 		a {
 			color: #fff;
 		}
 	}
 	h2 {
-		font-size: 22px;
+		font-size: rem-calc(22);
 	}
 	ul {
 		li {
 			a {
-				font-size: 22px;
+				font-size: rem-calc(22);
 
 				color: #fff;
 			}
