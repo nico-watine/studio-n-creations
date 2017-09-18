@@ -2,7 +2,7 @@
 # |            Gfycat Embeds            |
 # ---------------------------------------
 
-Index Hero Project Comp Video
+Index Hero Project Comp Video 1920px
 
 https://gfycat.com/ElatedFrailIndiancow
 
@@ -11,3 +11,9 @@ JS Embed Link
 
 Gfycat Embed Script
 <script src="https://assets.gfycat.com/gfycat.js"></script>
+
+
+
+
+Comp Video 1440px
+<div class="gfyitem" data-id="BaggyPossibleKiskadee"></div>
