@@ -5544,16 +5544,8 @@ footer {
   position: relative;
   top: 0;
   left: 0;
-  text-align: center;
   min-height: 100%;
   overflow: hidden; }
-  .bgvid-container .row .logo-wrapper {
-    position: absolute !important;
-    background: rgba(255, 255, 255, 0.4);
-    z-index: 20;
-    position: absolute;
-    top: 50%;
-    transform: translateY(-50%); }
   .bgvid-container div {
     position: static !important; }
     .bgvid-container div .gfy-video {
