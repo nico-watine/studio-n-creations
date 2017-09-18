@@ -6674,19 +6674,6 @@
 		"oS": 0,
 		"uL": 1
 		},
-	"\/scss\/pages\/index\/_gfycat-video.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/scss\/pages\/css\/_gfycat-video.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
 	"\/scss\/pages\/index\/_graphic-branding.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -6696,19 +6683,6 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "\/scss\/pages\/css\/_graphic-branding.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"\/scss\/pages\/index\/_header.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/scss\/pages\/css\/_header.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1

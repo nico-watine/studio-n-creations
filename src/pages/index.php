@@ -20,6 +20,7 @@ body-class: bodyLayout-unique
 		</div>
 	</div> -->
 	<div class="gfyitem" data-id="ElatedFrailIndiancow"></div>
+	<img src="/img/index/header/1-small/small.jpg" alt="">
 </header>
 <section class="intro-slogan">
 	<div class="row">
