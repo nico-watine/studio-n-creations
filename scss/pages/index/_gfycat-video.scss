@@ -1,7 +1,14 @@
 @import "../../_settings.scss";
 
+body,
+html {
+	height: 100%;
+}
+
+
 .bgvid-container {
 	position: relative;
+	text-align: center;
 	top: 0;
 	left: 0;
 	min-height: 100%;
