@@ -19,7 +19,7 @@ body-class: bodyLayout-unique
 			</div>
 		</div>
 	</div>
-	<div class="gfyitem" data-id="ElatedFrailIndiancow"></div>
+	<div class="indexHeroVideo gfyitem" data-id="ElatedFrailIndiancow"></div>
 </header>
 <section class="intro-slogan">
 	<div class="row">
