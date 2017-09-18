@@ -10,7 +10,7 @@ $min-height-1080: "only screen and (min-height : 1080px)";
 	top: 0;
 	left: 0;
 	overflow: hidden;
-	// height: 420px;
+	height: 460px;
 
 	@media #{$min-height-768} {
 		height: 700px;
