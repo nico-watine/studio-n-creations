@@ -5380,27 +5380,31 @@ h6 {
   background: #566372; }
 
 .off-canvas-content {
-  box-shadow: none;
   padding: 0;
-  background: #f4f4f4; }
+  background: #f4f4f4;
+  box-shadow: none; }
 
 #offCanvas-menu--toggle {
-  background: #F4F4F4;
+  font-size: 16px;
+  margin-bottom: 0;
+  padding: 12px;
+  padding: 8px;
+  color: #222;
   border: 2px solid #566372;
   border-radius: 6px;
-  padding: 12px;
-  color: #222;
-  font-size: 16px;
-  padding: 8px;
-  margin-bottom: 0; }
+  background: #f4f4f4; }
+  @media print, screen and (min-width: 40em) {
+    #offCanvas-menu--toggle {
+      font-size: 22px;
+      padding: 12px; } }
   #offCanvas-menu--toggle i.hamburger {
+    vertical-align: bottom;
     position: relative;
     display: inline-block;
     vertical-align: middle;
     width: 18px;
     height: 18px;
-    cursor: pointer;
-    vertical-align: bottom; }
+    cursor: pointer; }
     #offCanvas-menu--toggle i.hamburger::after {
       position: absolute;
       top: 0;
@@ -5414,15 +5418,11 @@ h6 {
     #offCanvas-menu--toggle i.hamburger:hover::after {
       background: #0a0a0a;
       box-shadow: 0 7px 0 #0a0a0a, 0 14px 0 #0a0a0a; }
-  @media print, screen and (min-width: 40em) {
-    #offCanvas-menu--toggle {
-      font-size: 22px;
-      padding: 12px; } }
 
 #mobileNavBar-wrapper {
   float: right;
-  padding: 12px 12px 0 0;
-  margin-bottom: 16px; }
+  margin-bottom: 16px;
+  padding: 12px 12px 0 0; }
 
 #contactModal-toggle {
   margin-right: 12px; }
@@ -5430,15 +5430,15 @@ h6 {
     padding-top: 4px; }
 
 #offCanvas-menu button.close-button span {
-  color: #FA8D5C;
-  font-size: 50px; }
+  font-size: 50px;
+  color: #fa8d5c; }
 
 #offCanvas-menu h1 {
   font-size: 36px;
-  text-shadow: -4px 4px 0 rgba(0, 0, 0, 0.5);
-  color: #fff;
+  padding-top: 8px;
   padding-left: 16px;
-  padding-top: 8px; }
+  color: #fff;
+  text-shadow: -4px 4px 0 rgba(0, 0, 0, 0.5); }
   #offCanvas-menu h1 a {
     color: #fff; }
 
