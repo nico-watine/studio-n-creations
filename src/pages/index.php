@@ -8,7 +8,7 @@ og-image: /img/assets/og-images/index/generic.jpg
 body-id: index
 body-class: bodyLayout-unique
 ---
-<header class="bgvid-container" style="height: 700px;">
+<header class="bgvid-container">
 <!-- 	<div class="absolute-wrapper">
 		<div class="row">
 			<div class="medium-10 medium-push-1 large-5 large-push-0 columns end">
