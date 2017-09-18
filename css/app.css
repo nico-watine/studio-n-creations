@@ -5559,9 +5559,9 @@ html {
       left: 50% !important;
       min-width: 100% !important;
       min-height: 100% !important;
-      top: 0 !important;
-      -webkit-transform: translateX(-50%) !important;
-      transform: translateX(-50%) !important;
+      top: 50% !important;
+      -webkit-transform: translateX(-50%) translateY(-50%) !important;
+      transform: translateX(-50%) translateY(-50%) !important;
       width: auto !important;
       height: auto !important; }
 
