@@ -1,7 +1,7 @@
 @import "../../_settings.scss";
 
 
-$medium-minHeight420: "only screen and (min-width: 40em) and (min-height : 420px)";
+$medium-minHeight460: "only screen and (min-width: 40em) and (min-height : 460px)";
 $min-height-400: "only screen and (min-height : 400px)";
 $min-height-768: "only screen and (min-height : 768px)";
 $min-height-900: "only screen and (min-height : 900px)";
@@ -62,7 +62,7 @@ $min-height-1080: "only screen and (min-height : 1080px)";
 	display: none;
 	visibility: hidden;
 
-	@media #{$medium-minHeight420} {
+	@media #{$medium-minHeight460} {
 		display: block;
 		visibility: visible;
 	}
