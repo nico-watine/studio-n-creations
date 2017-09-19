@@ -16,7 +16,6 @@ body-class: bodyLayout-unique
 			</div>
 		</div>
 	</div>
-	<div class="scrim"></div>
 	<div class="gfyitem gfycatVideo" data-id="BaggyPossibleKiskadee"></div>
 </header>
 <section class="intro-slogan">
