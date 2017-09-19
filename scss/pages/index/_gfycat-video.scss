@@ -1,11 +1,11 @@
 @import "../../_settings.scss";
 
 
-$medium--min-height-460: "only screen and (min-width: 40em) and (min-height : 460px)";
-$min-height-400: "only screen and (min-height : 400px)";
-$min-height-768: "only screen and (min-height : 768px)";
-$min-height-900: "only screen and (min-height : 900px)";
-$min-height-1080: "only screen and (min-height : 1080px)";
+$medium--min-height-460: "only screen and (min-width: 40em) and (min-height : rem-calc(460))";
+$min-height-400: "only screen and (min-height : rem-calc(400))";
+$min-height-768: "only screen and (min-height : rem-calc(768))";
+$min-height-900: "only screen and (min-height : rem-calc(900))";
+$min-height-1080: "only screen and (min-height : rem-calc(1080))";
 
 .bgvid-container {
 	position: relative;
@@ -13,18 +13,18 @@ $min-height-1080: "only screen and (min-height : 1080px)";
 	top: 0;
 	left: 0;
 	overflow: hidden;
-	height: 460px;
+	height: rem-calc(460);
 
 	@media #{$min-height-768} {
-		height: 700px;
+		height: rem-calc(700);
 	}
 
 	@media #{$min-height-900} {
-		height: 800px;
+		height: rem-calc(800);
 	}
 
 	@media #{$min-height-1080} {
-		height: 900px;
+		height: rem-calc(900);
 	}
 
 	div {

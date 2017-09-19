@@ -5537,16 +5537,16 @@ footer {
   top: 0;
   left: 0;
   overflow: hidden;
-  height: 460px; }
-  @media only screen and (min-height: 768px) {
+  height: 28.75rem; }
+  @media only screen and (min-height: 48rem) {
     .bgvid-container {
-      height: 700px; } }
-  @media only screen and (min-height: 900px) {
+      height: 43.75rem; } }
+  @media only screen and (min-height: 56.25rem) {
     .bgvid-container {
-      height: 800px; } }
-  @media only screen and (min-height: 1080px) {
+      height: 50rem; } }
+  @media only screen and (min-height: 67.5rem) {
     .bgvid-container {
-      height: 900px; } }
+      height: 56.25rem; } }
   .bgvid-container div {
     position: static !important; }
     .bgvid-container div .gfy-video {
@@ -5564,7 +5564,7 @@ footer {
 .gfycatVideo {
   display: none;
   visibility: hidden; }
-  @media only screen and (min-width: 40em) and (min-height: 460px) {
+  @media only screen and (min-width: 40em) and (min-height: 28.75rem) {
     .gfycatVideo {
       display: block;
       visibility: visible; } }
