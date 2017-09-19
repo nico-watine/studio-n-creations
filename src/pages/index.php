@@ -9,19 +9,7 @@ body-id: index
 body-class: bodyLayout-unique
 ---
 <header class="bgvid-container">
-<!-- 	<div class="absolute-wrapper">
-		<div class="row">
-			<div class="medium-10 medium-push-1 large-5 large-push-0 columns end">
-				<h1 class="brand-wordmark">Studio N Creations</h1>
-			</div>
-			<div class="medium-11 medium-push-1 large-7 large-push-0 columns end">
-				<h2 class="brand-services fontWeight-300"><span>Web Design <strong>|</strong></span> <span>Graphic Branding</span> <span class="inline-block"><strong>|</strong> Site Maintenance</span></h2>
-			</div>
-		</div>
-	</div> -->
-	<!-- <div class="gfyitem" data-id="ElatedFrailIndiancow"></div> -->
 	<div class="gfyitem gfycatVideo" data-id="BaggyPossibleKiskadee"></div>
-	<!-- <img src="/img/index/header/1-small/small.jpg" alt=""> -->
 </header>
 <section class="intro-slogan">
 	<div class="row">
