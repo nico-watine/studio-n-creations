@@ -36,17 +36,9 @@ $min-height-1080: "only screen and (min-height : 1080px)";
 			left: 50% !important;
 			min-width: 100% !important;
 			min-height: 100% !important;
-
-			// Video vertically centered
 			top: 50% !important;
 			-webkit-transform: translateX(-50%) translateY(-50%) !important;
 			transform: translateX(-50%) translateY(-50%) !important;
-
-			// Video at top
-			// top: 0 !important;
-			// -webkit-transform: translateX(-50%) !important;
-			// transform: translateX(-50%) !important;
-
 			width: auto !important;
 			height: auto !important;
 		}
