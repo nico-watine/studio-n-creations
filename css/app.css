@@ -5363,15 +5363,6 @@ h6 {
 .fontWeight-400 {
   font-weight: normal; }
 
-.margin-0 {
-  margin: 0; }
-
-.marginTop-0 {
-  margin-top: 0; }
-
-.marginBottom-0 {
-  margin-bottom: 0; }
-
 .bodyLayout-default nav.show-for-medium {
   position: relative;
   height: 4.125rem; }
@@ -5931,6 +5922,12 @@ form#index-contact-form span.input-group-label.error {
 
 .margin-0 {
   margin: 0; }
+
+.marginTop-0 {
+  margin-top: 0; }
+
+.marginBottom-0 {
+  margin-bottom: 0; }
 
 .margin-X {
   margin: 0 0.9375rem; }
