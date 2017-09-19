@@ -5585,6 +5585,7 @@ footer {
     position: absolute !important;
     bottom: 0;
     z-index: 10;
+    width: 100%;
     padding-top: 12.5rem;
     background-image: linear-gradient(-180deg, transparent 0%, #000000 100%); }
 

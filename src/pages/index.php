@@ -9,7 +9,7 @@ body-id: index
 body-class: bodyLayout-unique
 ---
 <header class="bgvid-container">
-	<div class="prose" style="width: 100%; text-align: left;">
+	<div class="prose text-left">
 		<div class="row">
 			<div class="small-12 columns">
 				<h1 style="text-shadow: -4px 5px 0 rgba(0,0,0,0.45); color: #fff;">Studio N Creations</h1>
