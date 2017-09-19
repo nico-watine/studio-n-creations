@@ -9,6 +9,10 @@ body-id: index
 body-class: bodyLayout-unique
 ---
 <header class="bgvid-container">
+	<div class="prose">
+		<h1 style="text-shadow: -4px 5px 0 rgba(0,0,0,0.45); color: #fff;">Studio N Creations</h1>
+	</div>
+	<div class="scrim"></div>
 	<div class="gfyitem gfycatVideo" data-id="BaggyPossibleKiskadee"></div>
 </header>
 <section class="intro-slogan">

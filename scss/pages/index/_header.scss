@@ -5,6 +5,12 @@
 	header {
 		position: relative;
 		background: #fff url('#{$url}/img/index/header/1-small/small.jpg') left top/cover no-repeat;
+
+		.prose {
+			position: absolute !important;
+			bottom: 0;
+			z-index: 10;
+		}
 	}
 }
 
