@@ -5577,8 +5577,10 @@ footer {
     bottom: 0;
     z-index: 10;
     width: 100%;
-    padding: 12.5rem 0 2rem;
+    padding: 12.5rem 0 2.5rem;
     background-image: linear-gradient(-180deg, transparent 0%, #000000 100%); }
+    #index header .prose * {
+      margin: 0; }
 
 #index .graphic-branding {
   background: #fff; }
