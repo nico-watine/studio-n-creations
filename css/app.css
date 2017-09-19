@@ -5564,7 +5564,7 @@ footer {
 .gfycatVideo {
   display: none;
   visibility: hidden; }
-  @media print, screen and (min-width: 40em) {
+  @media only screen and (min-width: 40em) and (min-height: 420px) {
     .gfycatVideo {
       display: block;
       visibility: visible; } }
