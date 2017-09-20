@@ -12,7 +12,7 @@ body-class: bodyLayout-unique
 	<div class="prose text-left textColor-white">
 		<div class="row">
 			<div class="small-12 columns">
-				<h1 style="text-shadow: -4px 5px 0 rgba(0,0,0,0.45);">Studio N Creations</h1>
+				<h1>Studio N Creations</h1>
 				<h2 class="fontWeight-400">Web Design <span class="inline-block">| Graphic Branding</span> <span class="inline-block">| Site Maintenance</span></h2>
 			</div>
 		</div>
