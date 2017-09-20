@@ -74,10 +74,29 @@ $min-height-1080: "only screen and (min-height : rem-calc(1080))";
 iframe#gfycatIE {
 	position: absolute;
 	width: 2000px;
-
-	top: -40px;
-	left:-40px;
+	top: 0px;
+	left: -400px;
 	height: 150%;
+
+
+	@include breakpoint(large) {
+		left: -200px;
+		height: 210%;
+
+		@media #{$min-height-768} {
+			top: -300px;
+		}
+
+		@media #{$min-height-1080} {
+			top: -400px;
+		}
+	}
+
+	@include breakpoint(xxlarge) {
+		@media #{$min-height-768} {
+			left: 0;
+		}
+	}
 }
 
 

@@ -20,7 +20,7 @@ body-class: bodyLayout-unique
 	<!-- <div class="gfyitem gfycatVideo" data-id="BaggyPossibleKiskadee"></div> -->
 	<!-- <div class="ie-only"> -->
 		<div class="gfycat-cover" id="gfycat-cover"></div>
-		<iframe id="gfycatIE" src='https://gfycat.com/ifr/BaggyPossibleKiskadee' frameborder='0' scrolling='no' allowfullscreen></iframe>
+		<iframe class="gfycatVideo" id="gfycatIE" src='https://gfycat.com/ifr/BaggyPossibleKiskadee' frameborder='0' scrolling='no' allowfullscreen></iframe>
 	<!-- </div> -->
 </header>
 <section class="intro-slogan">
