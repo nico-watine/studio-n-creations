@@ -5572,6 +5572,9 @@ footer {
 #index header {
   position: relative;
   background: #fff url("/img/index/header/1-small/small.jpg") left top/cover no-repeat; }
+  @media print, screen and (min-width: 40em) {
+    #index header {
+      background: #fefefe url("/img/index/header/gfycatVideo/gfycatVideo-poster.jpg") center top/cover no-repeat; } }
   #index header .prose {
     position: absolute !important;
     z-index: 10;
