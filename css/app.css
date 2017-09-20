@@ -5569,6 +5569,14 @@ footer {
       display: block;
       visibility: visible; } }
 
+.gfycat-cover#gfycat-cover {
+  position: absolute !important;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 10; }
+
 #index header {
   position: relative;
   background: #f4f4f4 url("/img/index/header/1-small/small.jpg") left top/cover no-repeat; }
@@ -5914,6 +5922,14 @@ form#index-contact-form span.input-group-label.error {
 
 .inline-block {
   display: inline-block; }
+
+.ie-only {
+  display: none;
+  visibility: hidden; }
+  @media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
+    .ie-only {
+      display: block;
+      visibility: visible; } }
 
 .padding-0 {
   padding: 0; }
