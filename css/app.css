@@ -5582,6 +5582,9 @@ footer {
     width: 100%;
     padding: 12.5rem 0 2.5rem;
     background-image: linear-gradient(-180deg, transparent 0%, #000 100%); }
+    @media screen and (min-width: 90em) {
+      #index header .prose {
+        padding-left: 6.25rem; } }
   #index header h1 {
     line-height: 1.2;
     text-shadow: -0.25rem 0.3125rem 0 rgba(0, 0, 0, 0.45); }
