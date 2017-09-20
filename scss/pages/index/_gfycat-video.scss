@@ -73,22 +73,22 @@ $min-height-1080: "only screen and (min-height : rem-calc(1080))";
 
 iframe#gfycatIE {
 	position: absolute;
-	width: 2000px;
-	top: 0px;
-	left: -400px;
+	width: rem-calc(2000);
+	top: 0;
+	left: rem-calc(-400);
 	height: 150%;
 
 
 	@include breakpoint(large) {
-		left: -200px;
+		left: rem-calc(-200);
 		height: 210%;
 
 		@media #{$min-height-768} {
-			top: -300px;
+			top: rem-calc(-300);
 		}
 
 		@media #{$min-height-1080} {
-			top: -400px;
+			top: rem-calc(-400);
 		}
 	}
 
