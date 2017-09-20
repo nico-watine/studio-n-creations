@@ -18,6 +18,10 @@ body-class: bodyLayout-unique
 		</div>
 	</div>
 	<div class="gfyitem gfycatVideo" data-id="BaggyPossibleKiskadee"></div>
+	<div class="ie-only">
+		<div class="gfycat-cover" id="gfycat-cover"></div>
+		<div style='position:relative;padding-bottom:54%'><iframe src='https://gfycat.com/ifr/OccasionalDecisiveKoi' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0' allowfullscreen></iframe></div>
+	</div>
 </header>
 <section class="intro-slogan">
 	<div class="row">
