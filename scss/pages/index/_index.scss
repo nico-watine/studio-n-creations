@@ -1,4 +1,6 @@
 @import "../../_settings.scss";
+@import "_gfycat-video.scss";
+@import "_header.scss";
 @import "_graphic-branding.scss";
 @import "_about-us.scss";
 @import "_contact.scss";
@@ -6,101 +8,12 @@
 @import "_recent-projects.scss";
 // @import "_bubble-bg-base-64.scss";
 
-$min-1441: "only screen and (min-width : 90.063em)";
-$min-1025: "only screen and (min-width : 64.063em)";
-$max-430: "only screen and (max-width : 26.875em)";
-
 
 #index {
 	#mobileNavBar-wrapper {
 		position: absolute;
 		right: 0;
 		z-index: 100;
-	}
-}
-
-#index {
-	header {
-		height: rem-calc(460);
-		position: relative;
-		background: #fff url('#{$url}/img/index/header/1-small/small.jpg') left top/cover no-repeat;
-
-		@include breakpoint(medium) {
-			height: rem-calc(600);
-			background-image: url('#{$url}/img/index/header/2-medium/medium.jpg');
-		}
-
-		@media #{$min-1025} { //@large mq, but +1px so iPad tablet loads same image in landscape and portrait
-			background-image: url('#{$url}/img/index/header/3-min-1025/large.jpg')
-		}
-
-		@media #{$min-1441} { //maximum size image, starting at minimum width of 1441, targeted for yuuuge screens, for example 1920
-			background-image: url('#{$url}/img/index/header/4-min-1441/max.jpg');
-		}
-	}
-}
-
-#index {
-	header {
-
-		.absolute-wrapper {
-			@include vertical-center;
-			width: 100%;
-			z-index: 5;
-
-			.brand-wordmark {
-				color: #fff;
-				text-shadow: rem-calc(-4) rem-calc(5) 0 rgba(0,0,0,0.45);
-				// margin-bottom: rem-calc(16);
-			}
-
-			.phone {
-				color: #fff;
-				text-shadow: rem-calc(-1) rem-calc(2) rem-calc(1) rgba(0,0,0,0.45);
-			}
-
-			.brand-services {
-				color: #fff;
-				text-shadow: rem-calc(-1) rem-calc(2) rem-calc(1) rgba(0,0,0,0.45);
-				// font-weight: 300;
-				font-size: rem-calc(28);
-
-				@include breakpoint(small only) {
-					margin-right: rem-calc(30);
-				}
-
-				@media #{$max-430} {
-					span {
-						display: block;
-
-						strong {
-							display: none;
-							visibility: hidden;
-						}
-					}					
-				}
-
-				@include breakpoint(large) {
-					margin: rem-calc(60 0 0 50);
-					float: right;
-				}
-			}
-		}
-
-		.gradient {
-			// gray ::
-			// background-image: linear-gradient(-180deg, rgba(204,204,204,0.55) 0%, rgba(141,149,158,0.90) 36%, rgba(141,149,158,0.90) 63%, rgba(204,204,204,0.55) 100%);
-			
-			// deep blue ::
-			background-image: linear-gradient(-180deg, rgba(204,204,204,0.55) 0%, rgba(86,99,113,0.90) 36%, rgba(86,99,113,0.90) 63%, rgba(204,204,204,0.55) 100%);
-
-			position: absolute;
-			top: 0;
-			left: 0;
-			width: 100%;
-			height: 100%;
-			z-index: 0;
-		}
 	}
 }
 
