@@ -5577,6 +5577,13 @@ footer {
   height: 100%;
   z-index: 10; }
 
+iframe#gfycatIE {
+  position: absolute;
+  width: 2000px;
+  top: -40px;
+  left: -40px;
+  height: 150%; }
+
 #index header {
   position: relative;
   background: #f4f4f4 url("/img/index/header/1-small/small.jpg") left top/cover no-repeat; }

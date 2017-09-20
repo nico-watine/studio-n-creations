@@ -46,9 +46,10 @@ $min-height-1080: "only screen and (min-height : rem-calc(1080))";
 }
 
 
-// -----------------------------------------------
-// |            General Gfycat Styles            |
-// -----------------------------------------------
+// ------------------------------------------
+// |            Gfycat IE Styles            |
+// ------------------------------------------
+
 
 .gfycatVideo {
 	display: none;
@@ -68,3 +69,15 @@ $min-height-1080: "only screen and (min-height : rem-calc(1080))";
 	height: 100%;
 	z-index: 10;
 }
+
+
+iframe#gfycatIE {
+	position: absolute;
+	width: 2000px;
+
+	top: -40px;
+	left:-40px;
+	height: 150%;
+}
+
+
