@@ -10,7 +10,7 @@ body-class: bodyLayout-unique
 ---
 <header class="bgvid-container">
 	<div class="prose text-left textColor-white">
-		<div class="row">
+		<div class="row expanded">
 			<div class="small-12 columns">
 				<h1>Studio N Creations</h1>
 				<h2 class="fontWeight-400">Web Design <span class="inline-block">| Graphic Branding</span> <span class="inline-block">| Site Maintenance</span></h2>
