@@ -7,7 +7,7 @@
 		background: $body-background url('#{$url}/img/index/header/1-small/small.jpg') left top/cover no-repeat;
 
 		@include breakpoint(medium) {
-			background: $body-background url('#{$url}/img/index/header/gfycatVideo/gfycatVideo-poster.jpg') center top/cover no-repeat;
+			background: $body-background url('#{$url}/img/index/header/gfycatVideo/gfycatVideo-poster.jpg') center center/cover no-repeat;
 		}
 
 		.prose {
