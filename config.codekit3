@@ -5043,16 +5043,6 @@
 		"oAP": "\/dist\/browserconfig.xml",
 		"oF": 0
 		},
-	"\/dist\/css\/app-ck.css": {
-		"aP": 0,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/dist\/css\/app-ck-ck.css",
-		"oF": 0,
-		"oS": 0
-		},
 	"\/dist\/css\/app.css": {
 		"aP": 0,
 		"bl": 0,
@@ -5271,6 +5261,16 @@
 		"iS": 386274,
 		"oA": 1,
 		"oAP": "\/dist\/img\/index\/header\/4-min-1441\/max.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/index\/header\/gfycatVideo\/gfycatVideo-poster.jpg": {
+		"ft": 16384,
+		"iS": 56597,
+		"oA": 1,
+		"oAP": "\/dist\/img\/index\/header\/gfycatVideo\/gfycatVideo-poster.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,

@@ -5572,7 +5572,7 @@ footer {
 #index header {
   position: relative;
   background: #f4f4f4 url("/img/index/header/1-small/small.jpg") left top/cover no-repeat; }
-  @media print, screen and (min-width: 40em) {
+  @media only screen and (min-width: 40em) and (min-height: 28.75rem) {
     #index header {
       background: #f4f4f4 url("/img/index/header/gfycatVideo/gfycatVideo-poster.jpg") center center/cover no-repeat; } }
   #index header .prose {

@@ -1,12 +1,14 @@
 @import '../../_settings.scss';
 
+$medium--min-height-460: "only screen and (min-width: 40em) and (min-height : rem-calc(460))";
+
 
 #index {
 	header {
 		position: relative;
 		background: $body-background url('#{$url}/img/index/header/1-small/small.jpg') left top/cover no-repeat;
 
-		@include breakpoint(medium) {
+		@media #{$medium--min-height-460} {
 			background: $body-background url('#{$url}/img/index/header/gfycatVideo/gfycatVideo-poster.jpg') center center/cover no-repeat;
 		}
 
