@@ -27,12 +27,6 @@
 		"oAP": "\/.gitignore",
 		"oF": 0
 		},
-	"\/_ignores\/clone-setup-guide.txt": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_ignores\/clone-setup-guide.txt",
-		"oF": 0
-		},
 	"\/_ignores\/git-branch-previews\/feature\/index\/mockups-with-modals.png": {
 		"ft": 32768,
 		"iS": 948833,
@@ -77,12 +71,6 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_ignores\/htaccess\/htaccess-develop.txt",
-		"oF": 0
-		},
-	"\/_ignores\/htaccess\/htaccess-hostgator.txt": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_ignores\/htaccess\/htaccess-hostgator.txt",
 		"oF": 0
 		},
 	"\/_ignores\/htaccess\/htaccess-https.txt": {
