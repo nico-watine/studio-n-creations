@@ -5538,7 +5538,7 @@ footer {
   left: 0;
   overflow: hidden;
   height: 28.75rem; }
-  @media only screen and (min-height: 48rem) {
+  @media only screen and (min-height: 46.25rem) {
     .bgvid-container {
       height: 43.75rem; } }
   @media only screen and (min-height: 56.25rem) {
@@ -5587,14 +5587,14 @@ iframe#gfycatIE {
     iframe#gfycatIE {
       left: -12.5rem;
       height: 210%; } }
-  @media only screen and (min-width: 64em) and (min-height: 48rem) {
+  @media only screen and (min-width: 64em) and (min-height: 46.25rem) {
     iframe#gfycatIE {
       top: -18.75rem; } }
   @media only screen and (min-width: 64em) and (min-height: 67.5rem) {
     iframe#gfycatIE {
       top: -25rem; } }
 
-@media only screen and (min-width: 90em) and (min-height: 48rem) {
+@media only screen and (min-width: 90em) and (min-height: 46.25rem) {
   iframe#gfycatIE {
     left: 0; } }
 

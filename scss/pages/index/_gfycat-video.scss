@@ -3,7 +3,8 @@
 
 $medium--min-height-460: "only screen and (min-width: 40em) and (min-height : rem-calc(460))";
 $min-height-400: "only screen and (min-height : rem-calc(400))";
-$min-height-768: "only screen and (min-height : rem-calc(768))";
+// $min-height-768: "only screen and (min-height : rem-calc(768))";
+$min-height-740: "only screen and (min-height : rem-calc(740))";
 $min-height-900: "only screen and (min-height : rem-calc(900))";
 $min-height-1080: "only screen and (min-height : rem-calc(1080))";
 
@@ -15,7 +16,11 @@ $min-height-1080: "only screen and (min-height : rem-calc(1080))";
 	overflow: hidden;
 	height: rem-calc(460);
 
-	@media #{$min-height-768} {
+	// @media #{$min-height-768} {
+	// 	height: rem-calc(700);
+	// }
+
+	@media #{$min-height-740} {
 		height: rem-calc(700);
 	}
 
@@ -83,7 +88,11 @@ iframe#gfycatIE {
 		left: rem-calc(-200);
 		height: 210%;
 
-		@media #{$min-height-768} {
+		// @media #{$min-height-768} {
+		// 	top: rem-calc(-300);
+		// }
+
+		@media #{$min-height-740} {
 			top: rem-calc(-300);
 		}
 
@@ -93,7 +102,11 @@ iframe#gfycatIE {
 	}
 
 	@include breakpoint(xxlarge) {
-		@media #{$min-height-768} {
+		// @media #{$min-height-768} {
+		// 	left: 0;
+		// }
+
+		@media #{$min-height-740} {
 			left: 0;
 		}
 	}
