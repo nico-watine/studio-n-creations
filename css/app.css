@@ -5544,7 +5544,7 @@ footer {
   @media only screen and (min-height: 56.25rem) {
     .bgvid-container {
       height: 50rem; } }
-  @media only screen and (min-height: 67.5rem) {
+  @media only screen and (min-height: 65.625rem) {
     .bgvid-container {
       height: 56.25rem; } }
   .bgvid-container div {
@@ -5590,7 +5590,7 @@ iframe#gfycatIE {
   @media only screen and (min-width: 64em) and (min-height: 46.25rem) {
     iframe#gfycatIE {
       top: -18.75rem; } }
-  @media only screen and (min-width: 64em) and (min-height: 67.5rem) {
+  @media only screen and (min-width: 64em) and (min-height: 65.625rem) {
     iframe#gfycatIE {
       top: -25rem; } }
 
