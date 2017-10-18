@@ -31,11 +31,13 @@
 }
 
 .workflowCard#site-layout-planning .workflowCard-title {
-	background: url('#{$url}/img/our-services/web-development/new-project-workflow/site-layout-planning.jpg') center center/cover no-repeat;
+	background: url('#{$url}/img/our-services/web-development/new-project-workflow/site-layout-planning.jpg') center center no-repeat;
+	background-size: cover;
 }
 
 .workflowCard#design-phase .workflowCard-title {
-	background: url('#{$url}/img/our-services/web-development/new-project-workflow/design-phase.jpg') right center/cover no-repeat;
+	background: url('#{$url}/img/our-services/web-development/new-project-workflow/design-phase.jpg') right center no-repeat;
+	background-size: cover;
 
 	@include breakpoint(medium) {
 		background-position: center center;
@@ -43,7 +45,8 @@
 }
 
 .workflowCard#coding-development-stage .workflowCard-title {
-	background: url('#{$url}/img/our-services/web-development/new-project-workflow/coding-development-stage.jpg') left center/cover no-repeat;
+	background: url('#{$url}/img/our-services/web-development/new-project-workflow/coding-development-stage.jpg') left center no-repeat;
+	background-size: cover;
 
 	@include breakpoint(medium) {
 		background-position: center center;
