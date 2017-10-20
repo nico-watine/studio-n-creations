@@ -6442,6 +6442,12 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/dist\/index.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/index.php",
+		"oF": 0
+		},
 	"\/dist\/js\/app-min.js": {
 		"ft": 64,
 		"ma": 0,
@@ -6534,6 +6540,12 @@
 		"opt": 0,
 		"oT": 1,
 		"q": 100
+		},
+	"\/dist\/our-services\/web-development.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/our-services\/web-development.php",
+		"oF": 0
 		},
 	"\/dist\/php\/autoVer.php": {
 		"ft": 8192,
