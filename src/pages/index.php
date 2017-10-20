@@ -181,7 +181,7 @@ body-class: bodyLayout-unique
 		<div class="medium-12 large-8 columns">
 			<div class="row logos-row collapse">
 				<div class="medium-4 columns text-center">
-					<div style="background: #2A75BD;">
+					<div style="background: #1E73BD;">
 						<img srcset="{{ cdn }}/img/projects/dynasty-sports-report/index/graphic-design/dynasty-sports-report-logo_2x.png 2x" src="{{ cdn }}/img/projects/dynasty-sports-report/index/graphic-design/dynasty-sports-report-logo.png" alt="Dynasty Sports Report logo" title="DynastySportsReport.com website logo - a Studio N Creation">
 					</div>
 					<img class="show-for-large padding-x" srcset="{{ cdn }}/img/projects/dmesa/index/graphic-design/dmesa-logo_2x.png 2x" src="{{ cdn }}/img/projects/dmesa/index/graphic-design/dmesa-logo.png" alt="d'Mesa Home logo" title="d'Mesa Home company logo - a Studio N Creation">
