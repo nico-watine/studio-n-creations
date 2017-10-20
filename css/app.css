@@ -8103,6 +8103,10 @@ form#index-contact-form span.input-group-label.error {
   display: inline-block;
 }
 
+.block {
+  display: block;
+}
+
 .ie-only {
   display: none;
   visibility: hidden;
