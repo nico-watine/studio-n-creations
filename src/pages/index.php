@@ -189,7 +189,7 @@ body-class: bodyLayout-unique
 				<div class="medium-push-4 medium-3 columns hide-for-large text-center dmesa-home">
 					<img class="padding-x" srcset="{{ cdn }}/img/projects/dmesa/index/graphic-design/dmesa-logo_2x.png 2x" src="{{ cdn }}/img/projects/dmesa/index/graphic-design/dmesa-logo.png" alt="d'Mesa Home logo" title="d'Mesa Home company logo - a Studio N Creation">
 				</div>
-				<div class="medium-5 large-8 columns text-center jardin-de-france">
+				<div class="medium-5 large-8 columns jardin-de-france">
 					<img srcset="{{ cdn }}/img/projects/jardin-de-france-tx/index/graphic-design/jardin-de-france-price-tag_2x.jpg 2x" src="{{ cdn }}/img/projects/jardin-de-france-tx/index/graphic-design/jardin-de-france-price-tag.jpg" alt="Jardin de France TX logo" title="Jardin de France TX product price tag design - a Studio N Creation">
 				</div>
 			</div>

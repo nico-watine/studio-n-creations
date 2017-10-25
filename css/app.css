@@ -7645,6 +7645,10 @@ iframe#gfycatIE {
   }
 }
 
+#index .graphic-branding .logos-row .jardin-de-france {
+  background: #fff;
+}
+
 @media screen and (min-width: 40em) and (max-width: 63.9375em) {
   #index .graphic-branding .logos-row {
     position: relative;
