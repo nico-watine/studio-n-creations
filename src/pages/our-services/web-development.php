@@ -15,9 +15,9 @@ body-class: bodyLayout-default
 			<h4>My workflow for any new web project consists of 4 steps:</h4>
 		</div>
 	</div>
-	<div class="row">
+	<div class="row" data-equalizer data-equalize-on="large">
 		<div class="medium-10 medium-push-1 large-6 large-push-0 columns">
-			<div class="workflowCard text-center" id="site-layout-planning">
+			<div class="workflowCard text-center" id="site-layout-planning" data-equalizer-watch>
 				<div class="workflowCard-title">
 					<h3 class="textColor-white textShadow-black margin-0">1. Site Layout Planning</h3>
 				</div>
@@ -27,7 +27,7 @@ body-class: bodyLayout-default
 			</div>
 		</div>
 		<div class="medium-10 medium-push-1 large-6 large-push-0 end columns">
-			<div class="workflowCard text-center" id="design-phase">
+			<div class="workflowCard text-center" id="design-phase" data-equalizer-watch>
 				<div class="workflowCard-title">
 					<h3 class="margin-0">2. Design Phase</h3>
 				</div>
@@ -38,7 +38,7 @@ body-class: bodyLayout-default
 		</div>
 	</div>
 	<div class="row">
-		<div class="large-8 large-push-2 columns end">
+		<div class="medium-10 medium-push-1 large-8 large-push-2 columns end">
 			<div class="workflowCard text-center" id="coding-development-stage">
 				<div class="workflowCard-title">
 					<h3 class="textColor-white textShadow-black margin-0">3. Coding &amp; Development Stage</h3>
