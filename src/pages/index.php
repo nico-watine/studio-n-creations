@@ -180,16 +180,16 @@ body-class: bodyLayout-unique
 		</div>
 		<div class="medium-12 large-8 columns" style="background: #F9F9F9;" data-equalizer-watch>
 			<div class="row logos-row collapse">
-				<div class="medium-4 columns text-center">
-					<div class="dynasty-sports-report" style="background: #1E73BD;">
+				<div class="medium-4 columns text-center column-1">
+					<div class="dynasty-sports-report-wrapper">
 						<img srcset="{{ cdn }}/img/projects/dynasty-sports-report/index/graphic-design/dynasty-sports-report-logo_2x.png 2x" src="{{ cdn }}/img/projects/dynasty-sports-report/index/graphic-design/dynasty-sports-report-logo.png" alt="Dynasty Sports Report logo" title="DynastySportsReport.com website logo - a Studio N Creation">
 					</div>
-					<img class="show-for-large padding-x" srcset="{{ cdn }}/img/projects/dmesa/index/graphic-design/dmesa-logo_2x.png 2x" src="{{ cdn }}/img/projects/dmesa/index/graphic-design/dmesa-logo.png" alt="d'Mesa Home logo" title="d'Mesa Home company logo - a Studio N Creation">
+					<img class="dmesa-home-img show-for-large" srcset="{{ cdn }}/img/projects/dmesa/index/graphic-design/dmesa-logo_2x.png 2x" src="{{ cdn }}/img/projects/dmesa/index/graphic-design/dmesa-logo.png" alt="d'Mesa Home logo" title="d'Mesa Home company logo - a Studio N Creation">
 				</div>
-				<div class="medium-push-4 medium-3 columns hide-for-large text-center dmesa-home">
-					<img class="padding-x" srcset="{{ cdn }}/img/projects/dmesa/index/graphic-design/dmesa-logo_2x.png 2x" src="{{ cdn }}/img/projects/dmesa/index/graphic-design/dmesa-logo.png" alt="d'Mesa Home logo" title="d'Mesa Home company logo - a Studio N Creation">
+				<div class="medium-push-4 medium-3 columns hide-for-large text-center dmesa-home-wrapper column-2">
+					<img srcset="{{ cdn }}/img/projects/dmesa/index/graphic-design/dmesa-logo_2x.png 2x" src="{{ cdn }}/img/projects/dmesa/index/graphic-design/dmesa-logo.png" alt="d'Mesa Home logo" title="d'Mesa Home company logo - a Studio N Creation">
 				</div>
-				<div class="medium-5 large-8 columns jardin-de-france">
+				<div class="medium-5 large-8 columns jardin-de-france-wrapper column-3">
 					<img srcset="{{ cdn }}/img/projects/jardin-de-france-tx/index/graphic-design/jardin-de-france-price-tag_2x.jpg 2x" src="{{ cdn }}/img/projects/jardin-de-france-tx/index/graphic-design/jardin-de-france-price-tag.jpg" alt="Jardin de France TX logo" title="Jardin de France TX product price tag design - a Studio N Creation">
 				</div>
 			</div>
