@@ -49,7 +49,7 @@ body-class: bodyLayout-default
 			</div>
 		</div>
 	</div>
-	<div class="row-expanded" id="post-production-actions">
+	<div id="post-production-actions">
 		<div class="row">
 			<div class="columns">
 				<h3 class="text-center">4. Post-Production Actions</h3>

@@ -57,9 +57,13 @@
 // |            #post-production-actions            |
 // --------------------------------------------------
 
-.row-expanded#post-production-actions {
+#post-production-actions {
 	background: #fff;
 	padding: rem-calc(20) 0;
+
+	.row {
+		max-width: rem-calc(1200);
+	}
 
 	h3 {
 		margin-bottom: rem-calc(16);

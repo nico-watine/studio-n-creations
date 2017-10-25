@@ -7989,33 +7989,37 @@ form#index-contact-form span.input-group-label.error {
   }
 }
 
-.row-expanded#post-production-actions {
+#post-production-actions {
   background: #fff;
   padding: 1.25rem 0;
 }
 
-.row-expanded#post-production-actions h3, .row-expanded#post-production-actions form#index-contact-form .contact-form-input-group-button input, form#index-contact-form .contact-form-input-group-button .row-expanded#post-production-actions input {
+#post-production-actions .row {
+  max-width: 75rem;
+}
+
+#post-production-actions h3, #post-production-actions form#index-contact-form .contact-form-input-group-button input, form#index-contact-form .contact-form-input-group-button #post-production-actions input {
   margin-bottom: 1rem;
 }
 
-.row-expanded#post-production-actions .icon {
+#post-production-actions .icon {
   width: 4.375rem;
   padding-top: 1.875rem;
   margin: 0 auto;
 }
 
 @media print, screen and (min-width: 40em) {
-  .row-expanded#post-production-actions .icon {
+  #post-production-actions .icon {
     float: left !important;
   }
 }
 
-.row-expanded#post-production-actions .prose {
+#post-production-actions .prose {
   padding: 1rem 0;
 }
 
 @media print, screen and (min-width: 40em) {
-  .row-expanded#post-production-actions .prose {
+  #post-production-actions .prose {
     padding-left: 5.625rem;
   }
 }
