@@ -7585,12 +7585,12 @@ iframe#gfycatIE {
 
 #index header {
   position: relative;
-  background: #f4f4f4 url("//studioncreations-studioncreations.netdna-ssl.com/img/index/header/1-small/small.jpg") left top/cover no-repeat;
+  background: #f4f4f4 url("/img/index/header/1-small/small.jpg") left top/cover no-repeat;
 }
 
 @media only screen and (min-width: 40em) and (min-height: 28.75rem) {
   #index header {
-    background: #f4f4f4 url("//studioncreations-studioncreations.netdna-ssl.com/img/index/header/gfycatVideo/gfycatVideo-poster.jpg") center center/cover no-repeat;
+    background: #f4f4f4 url("/img/index/header/gfycatVideo/gfycatVideo-poster.jpg") center center/cover no-repeat;
   }
 }
 
@@ -7820,7 +7820,7 @@ form#index-contact-form span.input-group-label.error {
 }
 
 #index .bubble-bg {
-  background: #fff url("//studioncreations-studioncreations.netdna-ssl.com/img/index/bubble-bg/bubble-background.png") center center no-repeat;
+  background: #fff url("/img/index/bubble-bg/bubble-background.png") center center no-repeat;
   background-size: cover;
 }
 
@@ -7963,12 +7963,12 @@ form#index-contact-form span.input-group-label.error {
 }
 
 .workflowCard#site-layout-planning .workflowCard-title {
-  background: url("//studioncreations-studioncreations.netdna-ssl.com/img/our-services/web-development/new-project-workflow/site-layout-planning.jpg") center center no-repeat;
+  background: url("/img/our-services/web-development/new-project-workflow/site-layout-planning.jpg") center center no-repeat;
   background-size: cover;
 }
 
 .workflowCard#design-phase .workflowCard-title {
-  background: url("//studioncreations-studioncreations.netdna-ssl.com/img/our-services/web-development/new-project-workflow/design-phase.jpg") right center no-repeat;
+  background: url("/img/our-services/web-development/new-project-workflow/design-phase.jpg") right center no-repeat;
   background-size: cover;
 }
 
@@ -7979,7 +7979,7 @@ form#index-contact-form span.input-group-label.error {
 }
 
 .workflowCard#coding-development-stage .workflowCard-title {
-  background: url("//studioncreations-studioncreations.netdna-ssl.com/img/our-services/web-development/new-project-workflow/coding-development-stage.jpg") left center no-repeat;
+  background: url("/img/our-services/web-development/new-project-workflow/coding-development-stage.jpg") left center no-repeat;
   background-size: cover;
 }
 
@@ -8063,7 +8063,7 @@ form#index-contact-form span.input-group-label.error {
 }
 
 #web-development .bubble-bg {
-  background: #fff url("//studioncreations-studioncreations.netdna-ssl.com/img/index/bubble-bg/bubble-background.png") center center no-repeat;
+  background: #fff url("/img/index/bubble-bg/bubble-background.png") center center no-repeat;
   background-size: cover;
 }
 
