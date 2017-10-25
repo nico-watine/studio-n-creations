@@ -7625,11 +7625,10 @@ iframe#gfycatIE {
 }
 
 #index .graphic-branding .prose {
-  padding: 1.875rem 1rem 0;
+  padding: 1.875rem 1rem;
 }
 
 #index .graphic-branding .logos-row {
-  margin-top: 1.25rem;
   background: #F9F9F9;
 }
 
