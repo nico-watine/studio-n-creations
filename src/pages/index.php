@@ -178,7 +178,7 @@ body-class: bodyLayout-unique
 				<p>Web design means more than just a page design. Having a solid visual brand, such as through logos and colors, helps maintain design consistency, leaving a professional impression on the visitor. Here are a few of the custom logos I have created for clients.</p>
 			</div>
 		</div>
-		<div class="medium-12 large-8 columns" style="background: #F9F9F9;" data-equalizer-watch>
+		<div class="medium-12 large-8 columns" data-equalizer-watch>
 			<div class="row logos-row collapse">
 				<div class="medium-4 columns text-center column-1">
 					<div class="dynasty-sports-report-wrapper">
