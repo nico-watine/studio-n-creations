@@ -171,26 +171,26 @@ body-class: bodyLayout-unique
 	</div>
 </section>
 <section class="graphic-branding">
-	<div class="row collapse">
-		<div class="medium-push-1 medium-11 large-4 large-push-0 columns">
+	<div class="row collapse" data-equalizer data-equalize-on="medium">
+		<div class="medium-push-1 medium-11 large-4 large-push-0 columns" data-equalizer-watch>
 			<div class="prose">
 				<h3>Graphic Branding</h3>
 				<p>Web design means more than just a page design. Having a solid visual brand, such as through logos and colors, helps maintain design consistency, leaving a professional impression on the visitor. Here are a few of the custom logos I have created for clients.</p>
 			</div>
 		</div>
-		<div class="medium-12 large-8 columns">
+		<div class="medium-12 large-8 columns" style="background: #F9F9F9;" data-equalizer-watch>
 			<div class="row logos-row collapse">
 				<div class="medium-4 columns text-center">
-					<div style="background: #1E73BD;">
+					<div class="dynasty-sports-report" style="background: #1E73BD;">
 						<img srcset="{{ cdn }}/img/projects/dynasty-sports-report/index/graphic-design/dynasty-sports-report-logo_2x.png 2x" src="{{ cdn }}/img/projects/dynasty-sports-report/index/graphic-design/dynasty-sports-report-logo.png" alt="Dynasty Sports Report logo" title="DynastySportsReport.com website logo - a Studio N Creation">
 					</div>
 					<img class="show-for-large padding-x" srcset="{{ cdn }}/img/projects/dmesa/index/graphic-design/dmesa-logo_2x.png 2x" src="{{ cdn }}/img/projects/dmesa/index/graphic-design/dmesa-logo.png" alt="d'Mesa Home logo" title="d'Mesa Home company logo - a Studio N Creation">
 				</div>
-				<div class="medium-push-4 medium-3 columns hide-for-large text-center">
+				<div class="medium-push-4 medium-3 columns hide-for-large text-center dmesa-home">
 					<img class="padding-x" srcset="{{ cdn }}/img/projects/dmesa/index/graphic-design/dmesa-logo_2x.png 2x" src="{{ cdn }}/img/projects/dmesa/index/graphic-design/dmesa-logo.png" alt="d'Mesa Home logo" title="d'Mesa Home company logo - a Studio N Creation">
 				</div>
-				<div class="medium-5 large-8 columns">
-					<img srcset="{{ cdn }}/img/projects/jardin-de-france-tx/index/graphic-design/jardin-de-france-price-tag_2x.jpg 2x" src="{{ cdn }}/img/projects/jardin-de-france-tx/index/graphic-design/jardin-de-france-price-tag.jpg" alt="Jardin de France TX logo" title="Jardin de France TX product price tag design - a Studio N Creation">
+				<div class="medium-5 large-8 columns text-center jardin-de-france">
+					<img style="max-width: none; height: 100%; overflow: hidden;" srcset="{{ cdn }}/img/projects/jardin-de-france-tx/index/graphic-design/jardin-de-france-price-tag_2x.jpg 2x" src="{{ cdn }}/img/projects/jardin-de-france-tx/index/graphic-design/jardin-de-france-price-tag.jpg" alt="Jardin de France TX logo" title="Jardin de France TX product price tag design - a Studio N Creation">
 				</div>
 			</div>
 		</div>

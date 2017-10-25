@@ -7646,10 +7646,6 @@ iframe#gfycatIE {
   }
 }
 
-#index .graphic-branding .logos-row .columns:nth-child(3) img {
-  width: 100%;
-}
-
 @media screen and (min-width: 40em) and (max-width: 63.9375em) {
   #index .graphic-branding .logos-row {
     position: relative;
