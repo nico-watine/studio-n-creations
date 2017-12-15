@@ -5326,26 +5326,6 @@
 		"oF": 0,
 		"oS": 0
 		},
-	"\/dist\/css\/app.css": {
-		"aP": 0,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/dist\/css\/app-ck.css",
-		"oF": 0,
-		"oS": 0
-		},
-	"\/dist\/js\/custom\/scripts-min.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 0,
-		"oA": 1,
-		"oAP": "\/dist\/js\/scripts-min-min.js",
-		"oF": 0,
-		"sC": 0,
-		"tS": 0
-		},
 	"\/dist\/js\/vendor\/jquery\/2-2-4\/jquery-min.js": {
 		"ft": 64,
 		"ma": 0,
@@ -5355,13 +5335,6 @@
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
-		},
-	"\/dist\/our-services\/web-development.php": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/dist\/our-services\/web-development.php",
-		"oF": 0
 		},
 	"\/gulpfile.babel.js": {
 		"ft": 64,
@@ -6441,13 +6414,6 @@
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/src\/data\/_notes.txt",
-		"oF": 0
-		},
-	"\/src\/data\/cdn.yml": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/src\/data\/cdn.yml",
 		"oF": 0
 		},
 	"\/src\/helpers\/_notes.txt": {
