@@ -5732,6 +5732,28 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/dist\/assets\/freeter\/icons\/projects\/nicolas-watine-fr\/project-icon.png": {
+		"ft": 32768,
+		"iS": 5177,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/freeter\/icons\/projects\/nicolas-watine-fr\/project-icon.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/dist\/assets\/freeter\/icons\/projects\/nicolas-watine-fr\/project-root.png": {
+		"ft": 32768,
+		"iS": 39750,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/freeter\/icons\/projects\/nicolas-watine-fr\/project-root.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/dist\/assets\/freeter\/icons\/projects\/nw\/project-icon.png": {
 		"ft": 32768,
 		"iS": 4154,
@@ -5981,6 +6003,16 @@
 		"oAP": "\/dist\/browserconfig.xml",
 		"oF": 0
 		},
+	"\/dist\/css\/app.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/dist\/css\/app-ck.css",
+		"oF": 0,
+		"oS": 0
+		},
 	"\/dist\/favicon-16x16.png": {
 		"ft": 32768,
 		"iS": 480,
@@ -6195,13 +6227,6 @@
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
-		},
-	"\/dist\/img\/index\/header\/bgvid\/studio-n-creations-website-mashup.mp4": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/dist\/img\/index\/header\/bgvid\/studio-n-creations-website-mashup.mp4",
-		"oF": 0
 		},
 	"\/dist\/img\/index\/header\/gfycatVideo\/gfycatVideo-poster.jpg": {
 		"ft": 16384,
