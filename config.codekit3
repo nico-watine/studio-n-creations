@@ -7,7 +7,7 @@
 		"uuidString": "D3AFDADF-58B6-45BD-9063-434B0C0A7D18"
 		}
 	],
-"creatorBuild": "26148",
+"creatorBuild": "26261",
 "files": {
 	"\/.babelrc": {
 		"cB": 0,
@@ -5355,6 +5355,494 @@
 		"oF": 0,
 		"oS": 0
 		},
+	"\/dist\/assets\/freeter\/icons\/projects\/jdf\/project-icon.png": {
+		"ft": 32768,
+		"iS": 31187,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/freeter\/icons\/projects\/jdf\/project-icon.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/dist\/assets\/freeter\/icons\/projects\/jdf\/project-root.png": {
+		"ft": 32768,
+		"iS": 123960,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/freeter\/icons\/projects\/jdf\/project-root.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/dist\/assets\/freeter\/icons\/projects\/lisa-esposito\/project-icon.png": {
+		"ft": 32768,
+		"iS": 193550,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/freeter\/icons\/projects\/lisa-esposito\/project-icon.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/dist\/assets\/freeter\/icons\/projects\/lisa-esposito\/project-root.png": {
+		"ft": 32768,
+		"iS": 411967,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/freeter\/icons\/projects\/lisa-esposito\/project-root.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/dist\/assets\/freeter\/icons\/projects\/miriam-rodriguez\/project-icon.png": {
+		"ft": 32768,
+		"iS": 4899,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/freeter\/icons\/projects\/miriam-rodriguez\/project-icon.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/dist\/assets\/freeter\/icons\/projects\/miriam-rodriguez\/project-root.png": {
+		"ft": 32768,
+		"iS": 105740,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/freeter\/icons\/projects\/miriam-rodriguez\/project-root.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/dist\/assets\/freeter\/icons\/projects\/nicolas-watine-fr\/project-icon.png": {
+		"ft": 32768,
+		"iS": 5177,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/freeter\/icons\/projects\/nicolas-watine-fr\/project-icon.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/dist\/assets\/freeter\/icons\/projects\/nicolas-watine-fr\/project-root.png": {
+		"ft": 32768,
+		"iS": 39750,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/freeter\/icons\/projects\/nicolas-watine-fr\/project-root.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/dist\/assets\/freeter\/icons\/projects\/nw\/project-icon.png": {
+		"ft": 32768,
+		"iS": 4154,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/freeter\/icons\/projects\/nw\/project-icon.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/dist\/assets\/freeter\/icons\/projects\/nw\/project-root.png": {
+		"ft": 32768,
+		"iS": 91911,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/freeter\/icons\/projects\/nw\/project-root.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/dist\/assets\/freeter\/icons\/projects\/snc\/project-icon.png": {
+		"ft": 32768,
+		"iS": 20084,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/freeter\/icons\/projects\/snc\/project-icon.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/dist\/assets\/freeter\/icons\/projects\/snc\/project-root.png": {
+		"ft": 32768,
+		"iS": 87641,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/freeter\/icons\/projects\/snc\/project-root.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/dist\/assets\/freeter\/icons\/projects\/tacupra\/project-icon.png": {
+		"ft": 32768,
+		"iS": 6506,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/freeter\/icons\/projects\/tacupra\/project-icon.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/dist\/assets\/freeter\/icons\/projects\/tacupra\/project-root.png": {
+		"ft": 32768,
+		"iS": 120851,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/freeter\/icons\/projects\/tacupra\/project-root.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/dist\/assets\/freeter\/icons\/projects\/tanspire\/project-icon.png": {
+		"ft": 32768,
+		"iS": 4424,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/freeter\/icons\/projects\/tanspire\/project-icon.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/dist\/assets\/freeter\/icons\/projects\/tanspire\/project-root.png": {
+		"ft": 32768,
+		"iS": 91086,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/freeter\/icons\/projects\/tanspire\/project-root.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/dist\/assets\/freeter\/icons\/projects\/we-got-engaged-in-paris\/project-icon.png": {
+		"ft": 32768,
+		"iS": 83267,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/freeter\/icons\/projects\/we-got-engaged-in-paris\/project-icon.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/dist\/assets\/freeter\/icons\/projects\/we-got-engaged-in-paris\/project-root.png": {
+		"ft": 32768,
+		"iS": 51779,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/freeter\/icons\/projects\/we-got-engaged-in-paris\/project-root.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/dist\/assets\/freeter\/icons\/projects\/williams-malone\/project-icon.png": {
+		"ft": 32768,
+		"iS": 29490,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/freeter\/icons\/projects\/williams-malone\/project-icon.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/dist\/assets\/freeter\/icons\/projects\/williams-malone\/project-root.png": {
+		"ft": 32768,
+		"iS": 99480,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/freeter\/icons\/projects\/williams-malone\/project-root.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/dist\/assets\/freeter\/icons\/projects\/zaraza-horzepa-wedding\/project-icon.png": {
+		"ft": 32768,
+		"iS": 1632,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/freeter\/icons\/projects\/zaraza-horzepa-wedding\/project-icon.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/dist\/assets\/freeter\/icons\/projects\/zaraza-horzepa-wedding\/project-root.png": {
+		"ft": 32768,
+		"iS": 117088,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/freeter\/icons\/projects\/zaraza-horzepa-wedding\/project-root.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/dist\/assets\/freeter\/icons\/projects\/zurb-f6-boilerplate\/project-icon.png": {
+		"ft": 32768,
+		"iS": 782,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/freeter\/icons\/projects\/zurb-f6-boilerplate\/project-icon.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/dist\/assets\/freeter\/icons\/projects\/zurb-f6-boilerplate\/project-root.png": {
+		"ft": 32768,
+		"iS": 175664,
+		"oA": 1,
+		"oAP": "\/dist\/assets\/freeter\/icons\/projects\/zurb-f6-boilerplate\/project-root.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/dist\/img\/projects\/dmesa\/index\/graphic-design\/dmesa-logo.png": {
+		"ft": 32768,
+		"iS": 13601,
+		"oA": 1,
+		"oAP": "\/dist\/img\/projects\/dmesa\/index\/graphic-design\/dmesa-logo.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/dist\/img\/projects\/dmesa\/index\/graphic-design\/dmesa-logo_2x.png": {
+		"ft": 32768,
+		"iS": 32960,
+		"oA": 1,
+		"oAP": "\/dist\/img\/projects\/dmesa\/index\/graphic-design\/dmesa-logo_2x.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/dist\/img\/projects\/dynasty-sports-report\/index\/graphic-design\/dynasty-sports-report-logo.png": {
+		"ft": 32768,
+		"iS": 32540,
+		"oA": 1,
+		"oAP": "\/dist\/img\/projects\/dynasty-sports-report\/index\/graphic-design\/dynasty-sports-report-logo.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/dist\/img\/projects\/dynasty-sports-report\/index\/graphic-design\/dynasty-sports-report-logo_2x.png": {
+		"ft": 32768,
+		"iS": 75062,
+		"oA": 1,
+		"oAP": "\/dist\/img\/projects\/dynasty-sports-report\/index\/graphic-design\/dynasty-sports-report-logo_2x.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/dist\/img\/projects\/essential-sound-production\/index\/projectCard\/essential-sound-production-website-thumbnail.jpg": {
+		"ft": 16384,
+		"iS": 67290,
+		"oA": 1,
+		"oAP": "\/dist\/img\/projects\/essential-sound-production\/index\/projectCard\/essential-sound-production-website-thumbnail.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/projects\/essential-sound-production\/index\/projectCard\/essential-sound-production-website-thumbnail_2x.jpg": {
+		"ft": 16384,
+		"iS": 94410,
+		"oA": 1,
+		"oAP": "\/dist\/img\/projects\/essential-sound-production\/index\/projectCard\/essential-sound-production-website-thumbnail_2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/projects\/greencare-tx\/index\/projectCard\/greencare-interior-plants-website-thumbnail.jpg": {
+		"ft": 16384,
+		"iS": 63239,
+		"oA": 1,
+		"oAP": "\/dist\/img\/projects\/greencare-tx\/index\/projectCard\/greencare-interior-plants-website-thumbnail.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/projects\/greencare-tx\/index\/projectCard\/greencare-interior-plants-website-thumbnail_2x.jpg": {
+		"ft": 16384,
+		"iS": 97009,
+		"oA": 1,
+		"oAP": "\/dist\/img\/projects\/greencare-tx\/index\/projectCard\/greencare-interior-plants-website-thumbnail_2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/projects\/houston-interior-plants\/index\/projectCard\/houston-interior-plants-website-thumbnail.jpg": {
+		"ft": 16384,
+		"iS": 72453,
+		"oA": 1,
+		"oAP": "\/dist\/img\/projects\/houston-interior-plants\/index\/projectCard\/houston-interior-plants-website-thumbnail.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/projects\/houston-interior-plants\/index\/projectCard\/houston-interior-plants-website-thumbnail_2x.jpg": {
+		"ft": 16384,
+		"iS": 115646,
+		"oA": 1,
+		"oAP": "\/dist\/img\/projects\/houston-interior-plants\/index\/projectCard\/houston-interior-plants-website-thumbnail_2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/projects\/houston-pals\/index\/projectCard\/houston-pals-logo-website-thumbnail.jpg": {
+		"ft": 16384,
+		"iS": 49611,
+		"oA": 1,
+		"oAP": "\/dist\/img\/projects\/houston-pals\/index\/projectCard\/houston-pals-logo-website-thumbnail.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/projects\/houston-pals\/index\/projectCard\/houston-pals-logo-website-thumbnail_2x.jpg": {
+		"ft": 16384,
+		"iS": 74727,
+		"oA": 1,
+		"oAP": "\/dist\/img\/projects\/houston-pals\/index\/projectCard\/houston-pals-logo-website-thumbnail_2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/projects\/jardin-de-france-tx\/index\/graphic-design\/jardin-de-france-price-tag.jpg": {
+		"ft": 16384,
+		"iS": 60775,
+		"oA": 1,
+		"oAP": "\/dist\/img\/projects\/jardin-de-france-tx\/index\/graphic-design\/jardin-de-france-price-tag.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/projects\/jardin-de-france-tx\/index\/graphic-design\/jardin-de-france-price-tag_2x.jpg": {
+		"ft": 16384,
+		"iS": 78426,
+		"oA": 1,
+		"oAP": "\/dist\/img\/projects\/jardin-de-france-tx\/index\/graphic-design\/jardin-de-france-price-tag_2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/projects\/jardin-de-france-tx\/index\/projectCard\/jardin-de-france-tx-website-thumbnail.jpg": {
+		"ft": 16384,
+		"iS": 68371,
+		"oA": 1,
+		"oAP": "\/dist\/img\/projects\/jardin-de-france-tx\/index\/projectCard\/jardin-de-france-tx-website-thumbnail.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/projects\/jardin-de-france-tx\/index\/projectCard\/jardin-de-france-tx-website-thumbnail_2x.jpg": {
+		"ft": 16384,
+		"iS": 122430,
+		"oA": 1,
+		"oAP": "\/dist\/img\/projects\/jardin-de-france-tx\/index\/projectCard\/jardin-de-france-tx-website-thumbnail_2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/projects\/lisa-esposito\/index\/projectCard\/artist-lisa-esposito-website-thumbnail.jpg": {
+		"ft": 16384,
+		"iS": 44500,
+		"oA": 1,
+		"oAP": "\/dist\/img\/projects\/lisa-esposito\/index\/projectCard\/artist-lisa-esposito-website-thumbnail.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/projects\/lisa-esposito\/index\/projectCard\/artist-lisa-esposito-website-thumbnail_2x.jpg": {
+		"ft": 16384,
+		"iS": 58303,
+		"oA": 1,
+		"oAP": "\/dist\/img\/projects\/lisa-esposito\/index\/projectCard\/artist-lisa-esposito-website-thumbnail_2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/projects\/starhill-farms\/index\/projectCard\/starhill-farms-website-thumbnail.jpg": {
+		"ft": 16384,
+		"iS": 46169,
+		"oA": 1,
+		"oAP": "\/dist\/img\/projects\/starhill-farms\/index\/projectCard\/starhill-farms-website-thumbnail.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/projects\/starhill-farms\/index\/projectCard\/starhill-farms-website-thumbnail_2x.jpg": {
+		"ft": 16384,
+		"iS": 71060,
+		"oA": 1,
+		"oAP": "\/dist\/img\/projects\/starhill-farms\/index\/projectCard\/starhill-farms-website-thumbnail_2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/projects\/the-deck-on-fountainview\/index\/projectCard\/deck-on-fountainview-website-thumbnail.jpg": {
+		"ft": 16384,
+		"iS": 82852,
+		"oA": 1,
+		"oAP": "\/dist\/img\/projects\/the-deck-on-fountainview\/index\/projectCard\/deck-on-fountainview-website-thumbnail.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/projects\/the-deck-on-fountainview\/index\/projectCard\/deck-on-fountainview-website-thumbnail_2x.jpg": {
+		"ft": 16384,
+		"iS": 123978,
+		"oA": 1,
+		"oAP": "\/dist\/img\/projects\/the-deck-on-fountainview\/index\/projectCard\/deck-on-fountainview-website-thumbnail_2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/gulpfile.babel.js": {
 		"ft": 64,
 		"ma": 0,
@@ -7167,6 +7655,10 @@
 		"id-match": {
 			"active": 0,
 			"optionString": "'^[a-z]+([A-Z][a-z]+)*$', {'properties': false, 'onlyDeclarations': true}"
+			},
+		"implicit-arrow-linebreak": {
+			"active": 0,
+			"optionString": "'beside'"
 			},
 		"indent": {
 			"active": 0,
