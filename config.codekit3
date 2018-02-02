@@ -919,6 +919,16 @@
 		"oAP": "\/assets\/browserconfig.xml",
 		"oF": 0
 		},
+	"\/assets\/css\/blog.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/assets\/css\/blog-ck.css",
+		"oF": 0,
+		"oS": 0
+		},
 	"\/assets\/favicon-16x16.png": {
 		"ft": 32768,
 		"iS": 480,
