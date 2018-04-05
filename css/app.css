@@ -1660,7 +1660,7 @@ pre {
 }
 
 .row {
-  max-width: 90rem;
+  max-width: 75rem;
   margin-right: auto;
   margin-left: auto;
 }
@@ -3259,7 +3259,7 @@ a img {
 
 hr {
   clear: both;
-  max-width: 90rem;
+  max-width: 75rem;
   height: 0;
   margin: 1.25rem auto;
   border-top: 0;
@@ -6257,7 +6257,7 @@ html.is-reveal-open body {
 @media print, screen and (min-width: 40em) {
   .reveal {
     width: 600px;
-    max-width: 90rem;
+    max-width: 75rem;
   }
 }
 
@@ -6276,21 +6276,21 @@ html.is-reveal-open body {
 @media print, screen and (min-width: 40em) {
   .reveal.tiny {
     width: 30%;
-    max-width: 90rem;
+    max-width: 75rem;
   }
 }
 
 @media print, screen and (min-width: 40em) {
   .reveal.small {
     width: 50%;
-    max-width: 90rem;
+    max-width: 75rem;
   }
 }
 
 @media print, screen and (min-width: 40em) {
   .reveal.large {
     width: 90%;
-    max-width: 90rem;
+    max-width: 75rem;
   }
 }
 
