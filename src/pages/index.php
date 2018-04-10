@@ -49,7 +49,7 @@ body-class: bodyLayout-unique
 						<h3>Tacupra</h3>
 						<h4>Project Name</h4>
 						<br>
-						<a class="button" href="https://tacupra.com/" target="_blank">www.tacupra.com</a>
+						<a class="button" href="https://tacupra.com/" target="_blank">www.Tacupra.com</a>
 					</div>
 				</div>
 				<div class="projectCard-image">
