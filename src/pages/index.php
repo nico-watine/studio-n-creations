@@ -61,14 +61,14 @@ body-class: bodyLayout-unique
 			<div class="projectCard text-center">
 				<div class="projectCard-info">
 					<div class="prose">
-						<h3>Essential Sound Production</h3>
+						<h3>Miriam Rodríguez</h3>
 						<h4>Project Name</h4>
 						<br>
-						<a class="button long-word" href="http://essentialsoundproduction.com/" target="_blank">www.EssentialSoundProduction.com</a>
+						<a class="button long-word" href="http://miriamrodriguez.com/eng/" target="_blank">www.MiriamRodriguez.com</a>
 					</div>
 				</div>
 				<div class="projectCard-image">
-					<img srcset="{{ cdn }}/img/projects/essential-sound-production/index/projectCard/essential-sound-production-website-thumbnail_2x.jpg 2x" src="{{ cdn }}/img/projects/essential-sound-production/index/projectCard/essential-sound-production-website-thumbnail.jpg" alt="Essential Sound Production website mockup">
+					<img srcset="{{ cdn }}/img/projects/miriam-rodriguez/index/projectCard/miriam_rodriguez_website_2x.jpg 2x" src="{{ cdn }}/img/projects/miriam-rodriguez/index/projectCard/miriam_rodriguez_website.jpg" alt="Miriam Rodríguez Couturier website mockup">
 				</div>
 			</div>
 		</div>
