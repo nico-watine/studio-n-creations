@@ -7,7 +7,7 @@
 		"uuidString": "D3AFDADF-58B6-45BD-9063-434B0C0A7D18"
 		}
 	],
-"creatorBuild": "26330",
+"creatorBuild": "26680",
 "files": {
 	"\/.babelrc": {
 		"cB": 0,
@@ -6210,6 +6210,7 @@
 	"\/dist\/img\/assets\/og-images\/index\/generic.jpg": {
 		"ft": 16384,
 		"iS": 286856,
+		"jF": 0,
 		"oA": 1,
 		"oAP": "\/dist\/img\/assets\/og-images\/index\/generic.jpg",
 		"oF": 0,
@@ -6231,6 +6232,7 @@
 	"\/dist\/img\/index\/about-us\/hello-lanyard.jpg": {
 		"ft": 16384,
 		"iS": 15823,
+		"jF": 0,
 		"oA": 1,
 		"oAP": "\/dist\/img\/index\/about-us\/hello-lanyard.jpg",
 		"oF": 0,
@@ -6241,6 +6243,7 @@
 	"\/dist\/img\/index\/about-us\/hello-lanyard_2x.jpg": {
 		"ft": 16384,
 		"iS": 36555,
+		"jF": 0,
 		"oA": 1,
 		"oAP": "\/dist\/img\/index\/about-us\/hello-lanyard_2x.jpg",
 		"oF": 0,
@@ -6273,6 +6276,7 @@
 	"\/dist\/img\/index\/header\/1-small\/small.jpg": {
 		"ft": 16384,
 		"iS": 137744,
+		"jF": 0,
 		"oA": 1,
 		"oAP": "\/dist\/img\/index\/header\/1-small\/small.jpg",
 		"oF": 0,
@@ -6283,6 +6287,7 @@
 	"\/dist\/img\/index\/header\/2-medium\/medium.jpg": {
 		"ft": 16384,
 		"iS": 204918,
+		"jF": 0,
 		"oA": 1,
 		"oAP": "\/dist\/img\/index\/header\/2-medium\/medium.jpg",
 		"oF": 0,
@@ -6293,6 +6298,7 @@
 	"\/dist\/img\/index\/header\/3-min-1025\/large.jpg": {
 		"ft": 16384,
 		"iS": 285644,
+		"jF": 0,
 		"oA": 1,
 		"oAP": "\/dist\/img\/index\/header\/3-min-1025\/large.jpg",
 		"oF": 0,
@@ -6303,6 +6309,7 @@
 	"\/dist\/img\/index\/header\/4-min-1441\/max.jpg": {
 		"ft": 16384,
 		"iS": 386274,
+		"jF": 0,
 		"oA": 1,
 		"oAP": "\/dist\/img\/index\/header\/4-min-1441\/max.jpg",
 		"oF": 0,
@@ -6313,6 +6320,7 @@
 	"\/dist\/img\/index\/header\/gfycatVideo\/gfycatVideo-poster.jpg": {
 		"ft": 16384,
 		"iS": 56597,
+		"jF": 0,
 		"oA": 1,
 		"oAP": "\/dist\/img\/index\/header\/gfycatVideo\/gfycatVideo-poster.jpg",
 		"oF": 0,
@@ -6387,6 +6395,7 @@
 	"\/dist\/img\/our-services\/web-development\/new-project-workflow\/coding-development-stage.jpg": {
 		"ft": 16384,
 		"iS": 14680,
+		"jF": 0,
 		"oA": 1,
 		"oAP": "\/dist\/img\/our-services\/web-development\/new-project-workflow\/coding-development-stage.jpg",
 		"oF": 0,
@@ -6397,6 +6406,7 @@
 	"\/dist\/img\/our-services\/web-development\/new-project-workflow\/design-phase.jpg": {
 		"ft": 16384,
 		"iS": 32211,
+		"jF": 0,
 		"oA": 1,
 		"oAP": "\/dist\/img\/our-services\/web-development\/new-project-workflow\/design-phase.jpg",
 		"oF": 0,
@@ -6417,6 +6427,7 @@
 	"\/dist\/img\/our-services\/web-development\/new-project-workflow\/site-layout-planning.jpg": {
 		"ft": 16384,
 		"iS": 51821,
+		"jF": 0,
 		"oA": 1,
 		"oAP": "\/dist\/img\/our-services\/web-development\/new-project-workflow\/site-layout-planning.jpg",
 		"oF": 0,
@@ -6481,6 +6492,7 @@
 	"\/dist\/img\/projects\/essential-sound-production\/index\/projectCard\/essential-sound-production-website-thumbnail.jpg": {
 		"ft": 16384,
 		"iS": 67290,
+		"jF": 0,
 		"oA": 1,
 		"oAP": "\/dist\/img\/projects\/essential-sound-production\/index\/projectCard\/essential-sound-production-website-thumbnail.jpg",
 		"oF": 0,
@@ -6491,6 +6503,7 @@
 	"\/dist\/img\/projects\/essential-sound-production\/index\/projectCard\/essential-sound-production-website-thumbnail_2x.jpg": {
 		"ft": 16384,
 		"iS": 94410,
+		"jF": 0,
 		"oA": 1,
 		"oAP": "\/dist\/img\/projects\/essential-sound-production\/index\/projectCard\/essential-sound-production-website-thumbnail_2x.jpg",
 		"oF": 0,
@@ -6501,6 +6514,7 @@
 	"\/dist\/img\/projects\/greencare-tx\/index\/projectCard\/greencare-interior-plants-website-thumbnail.jpg": {
 		"ft": 16384,
 		"iS": 63239,
+		"jF": 0,
 		"oA": 1,
 		"oAP": "\/dist\/img\/projects\/greencare-tx\/index\/projectCard\/greencare-interior-plants-website-thumbnail.jpg",
 		"oF": 0,
@@ -6511,6 +6525,7 @@
 	"\/dist\/img\/projects\/greencare-tx\/index\/projectCard\/greencare-interior-plants-website-thumbnail_2x.jpg": {
 		"ft": 16384,
 		"iS": 97009,
+		"jF": 0,
 		"oA": 1,
 		"oAP": "\/dist\/img\/projects\/greencare-tx\/index\/projectCard\/greencare-interior-plants-website-thumbnail_2x.jpg",
 		"oF": 0,
@@ -6521,6 +6536,7 @@
 	"\/dist\/img\/projects\/houston-interior-plants\/index\/projectCard\/houston-interior-plants-website-thumbnail.jpg": {
 		"ft": 16384,
 		"iS": 72453,
+		"jF": 0,
 		"oA": 1,
 		"oAP": "\/dist\/img\/projects\/houston-interior-plants\/index\/projectCard\/houston-interior-plants-website-thumbnail.jpg",
 		"oF": 0,
@@ -6531,6 +6547,7 @@
 	"\/dist\/img\/projects\/houston-interior-plants\/index\/projectCard\/houston-interior-plants-website-thumbnail_2x.jpg": {
 		"ft": 16384,
 		"iS": 115646,
+		"jF": 0,
 		"oA": 1,
 		"oAP": "\/dist\/img\/projects\/houston-interior-plants\/index\/projectCard\/houston-interior-plants-website-thumbnail_2x.jpg",
 		"oF": 0,
@@ -6541,6 +6558,7 @@
 	"\/dist\/img\/projects\/houston-pals\/index\/projectCard\/houston-pals-logo-website-thumbnail.jpg": {
 		"ft": 16384,
 		"iS": 49611,
+		"jF": 0,
 		"oA": 1,
 		"oAP": "\/dist\/img\/projects\/houston-pals\/index\/projectCard\/houston-pals-logo-website-thumbnail.jpg",
 		"oF": 0,
@@ -6551,6 +6569,7 @@
 	"\/dist\/img\/projects\/houston-pals\/index\/projectCard\/houston-pals-logo-website-thumbnail_2x.jpg": {
 		"ft": 16384,
 		"iS": 74727,
+		"jF": 0,
 		"oA": 1,
 		"oAP": "\/dist\/img\/projects\/houston-pals\/index\/projectCard\/houston-pals-logo-website-thumbnail_2x.jpg",
 		"oF": 0,
@@ -6561,6 +6580,7 @@
 	"\/dist\/img\/projects\/jardin-de-france-tx\/index\/graphic-design\/jardin-de-france-price-tag.jpg": {
 		"ft": 16384,
 		"iS": 60775,
+		"jF": 0,
 		"oA": 1,
 		"oAP": "\/dist\/img\/projects\/jardin-de-france-tx\/index\/graphic-design\/jardin-de-france-price-tag.jpg",
 		"oF": 0,
@@ -6571,6 +6591,7 @@
 	"\/dist\/img\/projects\/jardin-de-france-tx\/index\/graphic-design\/jardin-de-france-price-tag_2x.jpg": {
 		"ft": 16384,
 		"iS": 78426,
+		"jF": 0,
 		"oA": 1,
 		"oAP": "\/dist\/img\/projects\/jardin-de-france-tx\/index\/graphic-design\/jardin-de-france-price-tag_2x.jpg",
 		"oF": 0,
@@ -6581,6 +6602,7 @@
 	"\/dist\/img\/projects\/jardin-de-france-tx\/index\/projectCard\/jardin-de-france-tx-website-thumbnail.jpg": {
 		"ft": 16384,
 		"iS": 68371,
+		"jF": 0,
 		"oA": 1,
 		"oAP": "\/dist\/img\/projects\/jardin-de-france-tx\/index\/projectCard\/jardin-de-france-tx-website-thumbnail.jpg",
 		"oF": 0,
@@ -6591,6 +6613,7 @@
 	"\/dist\/img\/projects\/jardin-de-france-tx\/index\/projectCard\/jardin-de-france-tx-website-thumbnail_2x.jpg": {
 		"ft": 16384,
 		"iS": 122430,
+		"jF": 0,
 		"oA": 1,
 		"oAP": "\/dist\/img\/projects\/jardin-de-france-tx\/index\/projectCard\/jardin-de-france-tx-website-thumbnail_2x.jpg",
 		"oF": 0,
@@ -6601,6 +6624,7 @@
 	"\/dist\/img\/projects\/lisa-esposito\/index\/projectCard\/artist-lisa-esposito-website-thumbnail.jpg": {
 		"ft": 16384,
 		"iS": 44500,
+		"jF": 0,
 		"oA": 1,
 		"oAP": "\/dist\/img\/projects\/lisa-esposito\/index\/projectCard\/artist-lisa-esposito-website-thumbnail.jpg",
 		"oF": 0,
@@ -6611,8 +6635,31 @@
 	"\/dist\/img\/projects\/lisa-esposito\/index\/projectCard\/artist-lisa-esposito-website-thumbnail_2x.jpg": {
 		"ft": 16384,
 		"iS": 58303,
+		"jF": 0,
 		"oA": 1,
 		"oAP": "\/dist\/img\/projects\/lisa-esposito\/index\/projectCard\/artist-lisa-esposito-website-thumbnail_2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/projects\/miriam-rodriguez\/index\/projectCard\/miriam_rodriguez_website.jpg": {
+		"ft": 16384,
+		"iS": 47025,
+		"jF": 0,
+		"oA": 1,
+		"oAP": "\/dist\/img\/projects\/miriam-rodriguez\/index\/projectCard\/miriam_rodriguez_website.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/projects\/miriam-rodriguez\/index\/projectCard\/miriam_rodriguez_website_2x.jpg": {
+		"ft": 16384,
+		"iS": 78613,
+		"jF": 0,
+		"oA": 1,
+		"oAP": "\/dist\/img\/projects\/miriam-rodriguez\/index\/projectCard\/miriam_rodriguez_website_2x.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -6621,6 +6668,7 @@
 	"\/dist\/img\/projects\/starhill-farms\/index\/projectCard\/starhill-farms-website-thumbnail.jpg": {
 		"ft": 16384,
 		"iS": 46169,
+		"jF": 0,
 		"oA": 1,
 		"oAP": "\/dist\/img\/projects\/starhill-farms\/index\/projectCard\/starhill-farms-website-thumbnail.jpg",
 		"oF": 0,
@@ -6631,8 +6679,31 @@
 	"\/dist\/img\/projects\/starhill-farms\/index\/projectCard\/starhill-farms-website-thumbnail_2x.jpg": {
 		"ft": 16384,
 		"iS": 71060,
+		"jF": 0,
 		"oA": 1,
 		"oAP": "\/dist\/img\/projects\/starhill-farms\/index\/projectCard\/starhill-farms-website-thumbnail_2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/projects\/tacupra\/index\/projectCard\/tacupra_car_website.jpg": {
+		"ft": 16384,
+		"iS": 61292,
+		"jF": 0,
+		"oA": 1,
+		"oAP": "\/dist\/img\/projects\/tacupra\/index\/projectCard\/tacupra_car_website.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/projects\/tacupra\/index\/projectCard\/tacupra_car_website_2x.jpg": {
+		"ft": 16384,
+		"iS": 95980,
+		"jF": 0,
+		"oA": 1,
+		"oAP": "\/dist\/img\/projects\/tacupra\/index\/projectCard\/tacupra_car_website_2x.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -6641,6 +6712,7 @@
 	"\/dist\/img\/projects\/the-deck-on-fountainview\/index\/projectCard\/deck-on-fountainview-website-thumbnail.jpg": {
 		"ft": 16384,
 		"iS": 82852,
+		"jF": 0,
 		"oA": 1,
 		"oAP": "\/dist\/img\/projects\/the-deck-on-fountainview\/index\/projectCard\/deck-on-fountainview-website-thumbnail.jpg",
 		"oF": 0,
@@ -6651,6 +6723,7 @@
 	"\/dist\/img\/projects\/the-deck-on-fountainview\/index\/projectCard\/deck-on-fountainview-website-thumbnail_2x.jpg": {
 		"ft": 16384,
 		"iS": 123978,
+		"jF": 0,
 		"oA": 1,
 		"oAP": "\/dist\/img\/projects\/the-deck-on-fountainview\/index\/projectCard\/deck-on-fountainview-website-thumbnail_2x.jpg",
 		"oF": 0,
@@ -6893,6 +6966,7 @@
 	"\/img\/assets\/og-images\/index\/generic.jpg": {
 		"ft": 16384,
 		"iS": 286856,
+		"jF": 0,
 		"oA": 1,
 		"oAP": "\/img\/assets\/og-images\/index\/generic.jpg",
 		"oF": 0,
@@ -6914,6 +6988,7 @@
 	"\/img\/index\/about-us\/hello-lanyard.jpg": {
 		"ft": 16384,
 		"iS": 15823,
+		"jF": 0,
 		"oA": 1,
 		"oAP": "\/img\/index\/about-us\/hello-lanyard.jpg",
 		"oF": 0,
@@ -6924,6 +6999,7 @@
 	"\/img\/index\/about-us\/hello-lanyard_2x.jpg": {
 		"ft": 16384,
 		"iS": 36555,
+		"jF": 0,
 		"oA": 1,
 		"oAP": "\/img\/index\/about-us\/hello-lanyard_2x.jpg",
 		"oF": 0,
@@ -6956,6 +7032,7 @@
 	"\/img\/index\/header\/1-small\/small.jpg": {
 		"ft": 16384,
 		"iS": 137744,
+		"jF": 0,
 		"oA": 1,
 		"oAP": "\/img\/index\/header\/1-small\/small.jpg",
 		"oF": 0,
@@ -6966,6 +7043,7 @@
 	"\/img\/index\/header\/2-medium\/medium.jpg": {
 		"ft": 16384,
 		"iS": 204918,
+		"jF": 0,
 		"oA": 1,
 		"oAP": "\/img\/index\/header\/2-medium\/medium.jpg",
 		"oF": 0,
@@ -6976,6 +7054,7 @@
 	"\/img\/index\/header\/3-min-1025\/large.jpg": {
 		"ft": 16384,
 		"iS": 285644,
+		"jF": 0,
 		"oA": 1,
 		"oAP": "\/img\/index\/header\/3-min-1025\/large.jpg",
 		"oF": 0,
@@ -6986,6 +7065,7 @@
 	"\/img\/index\/header\/4-min-1441\/max.jpg": {
 		"ft": 16384,
 		"iS": 386274,
+		"jF": 0,
 		"oA": 1,
 		"oAP": "\/img\/index\/header\/4-min-1441\/max.jpg",
 		"oF": 0,
@@ -6996,6 +7076,7 @@
 	"\/img\/index\/header\/gfycatVideo\/gfycatVideo-poster.jpg": {
 		"ft": 16384,
 		"iS": 56597,
+		"jF": 0,
 		"oA": 1,
 		"oAP": "\/img\/index\/header\/gfycatVideo\/gfycatVideo-poster.jpg",
 		"oF": 0,
@@ -7070,6 +7151,7 @@
 	"\/img\/our-services\/web-development\/new-project-workflow\/coding-development-stage.jpg": {
 		"ft": 16384,
 		"iS": 14680,
+		"jF": 0,
 		"oA": 1,
 		"oAP": "\/img\/our-services\/web-development\/new-project-workflow\/coding-development-stage.jpg",
 		"oF": 0,
@@ -7080,6 +7162,7 @@
 	"\/img\/our-services\/web-development\/new-project-workflow\/design-phase.jpg": {
 		"ft": 16384,
 		"iS": 32211,
+		"jF": 0,
 		"oA": 1,
 		"oAP": "\/img\/our-services\/web-development\/new-project-workflow\/design-phase.jpg",
 		"oF": 0,
@@ -7100,6 +7183,7 @@
 	"\/img\/our-services\/web-development\/new-project-workflow\/site-layout-planning.jpg": {
 		"ft": 16384,
 		"iS": 51821,
+		"jF": 0,
 		"oA": 1,
 		"oAP": "\/img\/our-services\/web-development\/new-project-workflow\/site-layout-planning.jpg",
 		"oF": 0,
@@ -7164,6 +7248,7 @@
 	"\/img\/projects\/essential-sound-production\/index\/projectCard\/essential-sound-production-website-thumbnail.jpg": {
 		"ft": 16384,
 		"iS": 67290,
+		"jF": 0,
 		"oA": 1,
 		"oAP": "\/img\/projects\/essential-sound-production\/index\/projectCard\/essential-sound-production-website-thumbnail.jpg",
 		"oF": 0,
@@ -7174,6 +7259,7 @@
 	"\/img\/projects\/essential-sound-production\/index\/projectCard\/essential-sound-production-website-thumbnail_2x.jpg": {
 		"ft": 16384,
 		"iS": 94410,
+		"jF": 0,
 		"oA": 1,
 		"oAP": "\/img\/projects\/essential-sound-production\/index\/projectCard\/essential-sound-production-website-thumbnail_2x.jpg",
 		"oF": 0,
@@ -7184,6 +7270,7 @@
 	"\/img\/projects\/greencare-tx\/index\/projectCard\/greencare-interior-plants-website-thumbnail.jpg": {
 		"ft": 16384,
 		"iS": 63239,
+		"jF": 0,
 		"oA": 1,
 		"oAP": "\/img\/projects\/greencare-tx\/index\/projectCard\/greencare-interior-plants-website-thumbnail.jpg",
 		"oF": 0,
@@ -7194,6 +7281,7 @@
 	"\/img\/projects\/greencare-tx\/index\/projectCard\/greencare-interior-plants-website-thumbnail_2x.jpg": {
 		"ft": 16384,
 		"iS": 97009,
+		"jF": 0,
 		"oA": 1,
 		"oAP": "\/img\/projects\/greencare-tx\/index\/projectCard\/greencare-interior-plants-website-thumbnail_2x.jpg",
 		"oF": 0,
@@ -7204,6 +7292,7 @@
 	"\/img\/projects\/houston-interior-plants\/index\/projectCard\/houston-interior-plants-website-thumbnail.jpg": {
 		"ft": 16384,
 		"iS": 72453,
+		"jF": 0,
 		"oA": 1,
 		"oAP": "\/img\/projects\/houston-interior-plants\/index\/projectCard\/houston-interior-plants-website-thumbnail.jpg",
 		"oF": 0,
@@ -7214,6 +7303,7 @@
 	"\/img\/projects\/houston-interior-plants\/index\/projectCard\/houston-interior-plants-website-thumbnail_2x.jpg": {
 		"ft": 16384,
 		"iS": 115646,
+		"jF": 0,
 		"oA": 1,
 		"oAP": "\/img\/projects\/houston-interior-plants\/index\/projectCard\/houston-interior-plants-website-thumbnail_2x.jpg",
 		"oF": 0,
@@ -7224,6 +7314,7 @@
 	"\/img\/projects\/houston-pals\/index\/projectCard\/houston-pals-logo-website-thumbnail.jpg": {
 		"ft": 16384,
 		"iS": 49611,
+		"jF": 0,
 		"oA": 1,
 		"oAP": "\/img\/projects\/houston-pals\/index\/projectCard\/houston-pals-logo-website-thumbnail.jpg",
 		"oF": 0,
@@ -7234,6 +7325,7 @@
 	"\/img\/projects\/houston-pals\/index\/projectCard\/houston-pals-logo-website-thumbnail_2x.jpg": {
 		"ft": 16384,
 		"iS": 74727,
+		"jF": 0,
 		"oA": 1,
 		"oAP": "\/img\/projects\/houston-pals\/index\/projectCard\/houston-pals-logo-website-thumbnail_2x.jpg",
 		"oF": 0,
@@ -7244,6 +7336,7 @@
 	"\/img\/projects\/jardin-de-france-tx\/index\/graphic-design\/jardin-de-france-price-tag.jpg": {
 		"ft": 16384,
 		"iS": 60775,
+		"jF": 0,
 		"oA": 1,
 		"oAP": "\/img\/projects\/jardin-de-france-tx\/index\/graphic-design\/jardin-de-france-price-tag.jpg",
 		"oF": 0,
@@ -7254,6 +7347,7 @@
 	"\/img\/projects\/jardin-de-france-tx\/index\/graphic-design\/jardin-de-france-price-tag_2x.jpg": {
 		"ft": 16384,
 		"iS": 78426,
+		"jF": 0,
 		"oA": 1,
 		"oAP": "\/img\/projects\/jardin-de-france-tx\/index\/graphic-design\/jardin-de-france-price-tag_2x.jpg",
 		"oF": 0,
@@ -7264,6 +7358,7 @@
 	"\/img\/projects\/jardin-de-france-tx\/index\/projectCard\/jardin-de-france-tx-website-thumbnail.jpg": {
 		"ft": 16384,
 		"iS": 70366,
+		"jF": 0,
 		"oA": 1,
 		"oAP": "\/img\/projects\/jardin-de-france-tx\/index\/projectCard\/jardin-de-france-tx-website-thumbnail.jpg",
 		"oF": 0,
@@ -7274,6 +7369,7 @@
 	"\/img\/projects\/jardin-de-france-tx\/index\/projectCard\/jardin-de-france-tx-website-thumbnail_2x.jpg": {
 		"ft": 16384,
 		"iS": 123636,
+		"jF": 0,
 		"oA": 1,
 		"oAP": "\/img\/projects\/jardin-de-france-tx\/index\/projectCard\/jardin-de-france-tx-website-thumbnail_2x.jpg",
 		"oF": 0,
@@ -7284,6 +7380,7 @@
 	"\/img\/projects\/lisa-esposito\/index\/projectCard\/artist-lisa-esposito-website-thumbnail.jpg": {
 		"ft": 16384,
 		"iS": 44500,
+		"jF": 0,
 		"oA": 1,
 		"oAP": "\/img\/projects\/lisa-esposito\/index\/projectCard\/artist-lisa-esposito-website-thumbnail.jpg",
 		"oF": 0,
@@ -7294,8 +7391,31 @@
 	"\/img\/projects\/lisa-esposito\/index\/projectCard\/artist-lisa-esposito-website-thumbnail_2x.jpg": {
 		"ft": 16384,
 		"iS": 58303,
+		"jF": 0,
 		"oA": 1,
 		"oAP": "\/img\/projects\/lisa-esposito\/index\/projectCard\/artist-lisa-esposito-website-thumbnail_2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/projects\/miriam-rodriguez\/index\/projectCard\/miriam_rodriguez_website.jpg": {
+		"ft": 16384,
+		"iS": 47025,
+		"jF": 0,
+		"oA": 1,
+		"oAP": "\/img\/projects\/miriam-rodriguez\/index\/projectCard\/miriam_rodriguez_website.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/projects\/miriam-rodriguez\/index\/projectCard\/miriam_rodriguez_website_2x.jpg": {
+		"ft": 16384,
+		"iS": 78613,
+		"jF": 0,
+		"oA": 1,
+		"oAP": "\/img\/projects\/miriam-rodriguez\/index\/projectCard\/miriam_rodriguez_website_2x.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -7304,6 +7424,7 @@
 	"\/img\/projects\/starhill-farms\/index\/projectCard\/starhill-farms-website-thumbnail.jpg": {
 		"ft": 16384,
 		"iS": 46169,
+		"jF": 0,
 		"oA": 1,
 		"oAP": "\/img\/projects\/starhill-farms\/index\/projectCard\/starhill-farms-website-thumbnail.jpg",
 		"oF": 0,
@@ -7314,8 +7435,31 @@
 	"\/img\/projects\/starhill-farms\/index\/projectCard\/starhill-farms-website-thumbnail_2x.jpg": {
 		"ft": 16384,
 		"iS": 71060,
+		"jF": 0,
 		"oA": 1,
 		"oAP": "\/img\/projects\/starhill-farms\/index\/projectCard\/starhill-farms-website-thumbnail_2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/projects\/tacupra\/index\/projectCard\/tacupra_car_website.jpg": {
+		"ft": 16384,
+		"iS": 61292,
+		"jF": 0,
+		"oA": 1,
+		"oAP": "\/img\/projects\/tacupra\/index\/projectCard\/tacupra_car_website.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/projects\/tacupra\/index\/projectCard\/tacupra_car_website_2x.jpg": {
+		"ft": 16384,
+		"iS": 95980,
+		"jF": 0,
+		"oA": 1,
+		"oAP": "\/img\/projects\/tacupra\/index\/projectCard\/tacupra_car_website_2x.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -7324,6 +7468,7 @@
 	"\/img\/projects\/the-deck-on-fountainview\/index\/projectCard\/deck-on-fountainview-website-thumbnail.jpg": {
 		"ft": 16384,
 		"iS": 82852,
+		"jF": 0,
 		"oA": 1,
 		"oAP": "\/img\/projects\/the-deck-on-fountainview\/index\/projectCard\/deck-on-fountainview-website-thumbnail.jpg",
 		"oF": 0,
@@ -7334,6 +7479,7 @@
 	"\/img\/projects\/the-deck-on-fountainview\/index\/projectCard\/deck-on-fountainview-website-thumbnail_2x.jpg": {
 		"ft": 16384,
 		"iS": 123978,
+		"jF": 0,
 		"oA": 1,
 		"oAP": "\/img\/projects\/the-deck-on-fountainview\/index\/projectCard\/deck-on-fountainview-website-thumbnail_2x.jpg",
 		"oF": 0,
@@ -8045,7 +8191,8 @@
 	"creationDate": 499971892,
 	"displayValue": "studio-n-creations",
 	"displayValueWasSetByUser": 1,
-	"iconImageName": "\/assets\/touch-icon-192x192.png"
+	"iconImageName": "\/assets\/apple-touch-icon.png",
+	"iconImageWasSetByUser": 0
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
@@ -9848,6 +9995,7 @@
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
+		"outputFormat": 0,
 		"quality": 100
 		},
 	"languageDefaultsJS": {
