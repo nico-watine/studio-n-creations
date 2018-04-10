@@ -75,6 +75,38 @@ body-class: bodyLayout-unique
 	</div>
 	<div class="row small-collapse xlarge-uncollapse">
 		<div class="medium-6 columns">
+			<div class="projectCard text-center" id="testCard">
+				<div class="projectCard-info">
+					<div class="prose">
+						<h3>Houston PALS</h3>
+						<h4>Project Name</h4>
+						<br>
+						<a class="button" href="http://houstonpals.com/" target="_blank">www.HoustonPALS.com</a>
+					</div>
+				</div>
+				<div class="projectCard-image">
+					<img srcset="{{ cdn }}/img/projects/houston-pals/index/projectCard/houston-pals-logo-website-thumbnail_2x.jpg 2x" src="{{ cdn }}/img/projects/houston-pals/index/projectCard/houston-pals-logo-website-thumbnail.jpg" alt="Houston PALS website mockup">
+				</div>
+			</div>
+		</div>
+		<div class="medium-6 columns">
+			<div class="projectCard text-center">
+				<div class="projectCard-info">
+					<div class="prose">
+						<h3>Essential Sound Production</h3>
+						<h4>Project Name</h4>
+						<br>
+						<a class="button long-word" href="http://essentialsoundproduction.com/" target="_blank">www.EssentialSoundProduction.com</a>
+					</div>
+				</div>
+				<div class="projectCard-image">
+					<img srcset="{{ cdn }}/img/projects/essential-sound-production/index/projectCard/essential-sound-production-website-thumbnail_2x.jpg 2x" src="{{ cdn }}/img/projects/essential-sound-production/index/projectCard/essential-sound-production-website-thumbnail.jpg" alt="Essential Sound Production website mockup">
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="row small-collapse xlarge-uncollapse">
+		<div class="medium-6 columns">
 			<div class="projectCard text-center">
 				<div class="projectCard-info">
 					<div class="prose">
