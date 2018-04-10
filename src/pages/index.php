@@ -68,7 +68,7 @@ body-class: bodyLayout-unique
 					</div>
 				</div>
 				<div class="projectCard-image">
-					<img srcset="{{ cdn }}/img/projects/essential-sound-production/index/projectCard/essential-sound-production-website-thumbnail_2x.jpg 2x" src="{{ cdn }}/img/projects/essential-sound-production/index/projectCard/essential-sound-production-website-thumbnail.jpg" alt="Essential Sound Production website mockup">
+					<img srcset="{{ cdn }}/img/projects/miriam-rodriguez/index/projectCard/miriam_rodriguez_website_2x.jpg 2x" src="{{ cdn }}/img/projects/miriam-rodriguez/index/projectCard/miriam_rodriguez_website.jpg" alt="Miriam Rodríguez Couturier website mockup">
 				</div>
 			</div>
 		</div>
