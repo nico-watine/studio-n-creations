@@ -46,6 +46,38 @@ body-class: bodyLayout-unique
 			<div class="projectCard text-center" id="testCard">
 				<div class="projectCard-info">
 					<div class="prose">
+						<h3>Tacupra</h3>
+						<h4>Project Name</h4>
+						<br>
+						<a class="button" href="https://tacupra.com/" target="_blank">www.Tacupra.com</a>
+					</div>
+				</div>
+				<div class="projectCard-image">
+					<img srcset="{{ cdn }}/img/projects/tacupra/index/projectCard/tacupra_car_website_2x.jpg 2x" src="{{ cdn }}/img/projects/tacupra/index/projectCard/tacupra_car_website.jpg" alt="2JZ Tacupra website mockup">
+				</div>
+			</div>
+		</div>
+		<div class="medium-6 columns">
+			<div class="projectCard text-center">
+				<div class="projectCard-info">
+					<div class="prose">
+						<h3>Miriam Rodríguez</h3>
+						<h4>Project Name</h4>
+						<br>
+						<a class="button long-word" href="http://miriamrodriguez.com/eng/" target="_blank">www.MiriamRodriguez.com</a>
+					</div>
+				</div>
+				<div class="projectCard-image">
+					<img srcset="{{ cdn }}/img/projects/miriam-rodriguez/index/projectCard/miriam_rodriguez_website_2x.jpg 2x" src="{{ cdn }}/img/projects/miriam-rodriguez/index/projectCard/miriam_rodriguez_website.jpg" alt="Miriam Rodríguez Couturier website mockup">
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="row small-collapse xlarge-uncollapse">
+		<div class="medium-6 columns">
+			<div class="projectCard text-center" id="testCard">
+				<div class="projectCard-info">
+					<div class="prose">
 						<h3>Houston PALS</h3>
 						<h4>Project Name</h4>
 						<br>
