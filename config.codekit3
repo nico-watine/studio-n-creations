@@ -5463,21 +5463,21 @@
 	"\/dist\/.htaccess": {
 		"cB": 0,
 		"ft": 8192,
-		"oA": 2,
+		"oA": 0,
 		"oAP": "\/dist\/.htaccess",
 		"oF": 0
 		},
 	"\/dist\/403.html": {
 		"cB": 0,
 		"ft": 8192,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/dist\/403.html",
 		"oF": 0
 		},
 	"\/dist\/404.html": {
 		"cB": 0,
 		"ft": 8192,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/dist\/404.html",
 		"oF": 0
 		},
@@ -6243,29 +6243,29 @@
 	"\/dist\/browserconfig.xml": {
 		"cB": 0,
 		"ft": 8192,
-		"oA": 2,
+		"oA": 0,
 		"oAP": "\/dist\/browserconfig.xml",
 		"oF": 0
 		},
 	"\/dist\/css\/app.css": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/dist\/css\/app-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/dist\/css\/blog.css": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/dist\/css\/blog-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/dist\/favicon-16x16.png": {
 		"ft": 32768,
@@ -6303,21 +6303,21 @@
 	"\/dist\/favicon.ico": {
 		"cB": 0,
 		"ft": 8192,
-		"oA": 2,
+		"oA": 0,
 		"oAP": "\/dist\/favicon.ico",
 		"oF": 0
 		},
 	"\/dist\/googlea536b0ce9879dae9.html": {
 		"cB": 0,
 		"ft": 8192,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/dist\/googlea536b0ce9879dae9.html",
 		"oF": 0
 		},
 	"\/dist\/humans.txt": {
 		"cB": 0,
 		"ft": 8192,
-		"oA": 2,
+		"oA": 0,
 		"oAP": "\/dist\/humans.txt",
 		"oF": 0
 		},
@@ -6506,6 +6506,13 @@
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
+		},
+	"\/dist\/img\/index\/header\/bgvid\/studio-n-creations-website-mashup.mp4": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/dist\/img\/index\/header\/bgvid\/studio-n-creations-website-mashup.mp4",
+		"oF": 0
 		},
 	"\/dist\/img\/index\/header\/gfycatVideo\/gfycatVideo-poster.jpg": {
 		"ft": 16384,
@@ -6924,38 +6931,38 @@
 	"\/dist\/index.php": {
 		"cB": 0,
 		"ft": 8192,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/dist\/index.php",
 		"oF": 0
 		},
 	"\/dist\/js\/app-min.js": {
 		"ft": 64,
 		"ma": 0,
-		"mi": 0,
-		"oA": 1,
+		"mi": 1,
+		"oA": 0,
 		"oAP": "\/dist\/js\/app-min-min.js",
 		"oF": 0,
-		"sC": 0,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/dist\/js\/custom\/scripts-min.js": {
 		"ft": 64,
 		"ma": 0,
-		"mi": 0,
-		"oA": 1,
+		"mi": 1,
+		"oA": 0,
 		"oAP": "\/dist\/js\/custom\/scripts-min-min.js",
 		"oF": 0,
-		"sC": 0,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/dist\/js\/vendor\/jquery\/2-2-4\/jquery-min.js": {
 		"ft": 64,
 		"ma": 0,
-		"mi": 0,
-		"oA": 1,
+		"mi": 1,
+		"oA": 0,
 		"oAP": "\/dist\/js\/vendor\/jquery\/2-2-4\/jquery-min-min.js",
 		"oF": 0,
-		"sC": 0,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/dist\/manifest.json": {
@@ -7024,35 +7031,35 @@
 	"\/dist\/our-services\/web-development.php": {
 		"cB": 0,
 		"ft": 8192,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/dist\/our-services\/web-development.php",
 		"oF": 0
 		},
 	"\/dist\/php\/autoVer.php": {
 		"cB": 0,
 		"ft": 8192,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/dist\/php\/autoVer.php",
 		"oF": 0
 		},
 	"\/dist\/php\/sendContact.php": {
 		"cB": 0,
 		"ft": 8192,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/dist\/php\/sendContact.php",
 		"oF": 0
 		},
 	"\/dist\/robots.txt": {
 		"cB": 0,
 		"ft": 8192,
-		"oA": 2,
+		"oA": 0,
 		"oAP": "\/dist\/robots.txt",
 		"oF": 0
 		},
 	"\/dist\/sitemap.xml": {
 		"cB": 0,
 		"ft": 8192,
-		"oA": 2,
+		"oA": 0,
 		"oAP": "\/dist\/sitemap.xml",
 		"oF": 0
 		},
