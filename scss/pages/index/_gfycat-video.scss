@@ -1,11 +1,11 @@
 @import "../../_settings.scss";
 
 
-$medium--min-height-460: "only screen and (min-width: 40em) and (min-height : rem-calc(460))";
-$min-height-400: "only screen and (min-height : rem-calc(400))";
-$min-height-740: "only screen and (min-height : rem-calc(740))";
-$min-height-870: "only screen and (min-height : rem-calc(870))";
-$min-height-1050: "only screen and (min-height : rem-calc(1050))";
+$medium--min-height-460: "only screen and (min-width: 40em) and (min-height : 460px)";
+$min-height-400: "only screen and (min-height : 400px)";
+$min-height-740: "only screen and (min-height : 740px)";
+$min-height-870: "only screen and (min-height : 870px)";
+$min-height-1050: "only screen and (min-height : 1050px)";
 
 .bgvid-container {
 	position: relative;
