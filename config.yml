@@ -52,8 +52,8 @@ PATHS:
     # - "bower_components/jquery/dist/jquery.js" # <- alternatively utilize Google jQuery CDN
     - "bower_components/what-input/dist/what-input.js"
     # Core Foundation files
-    - "bower_components/foundation-sites/js/foundation.core.js"
-    - "bower_components/foundation-sites/js/foundation.util.*.js"
+    - "bower_components/foundation-sites/dist/js/plugins/foundation.core.js"
+    - "bower_components/foundation-sites/dist/js/plugins/foundation.util.*.js"
 
     # Individual util files
     # - "bower_components/foundation-sites/dist/js/plugins/foundation.util.box.js"
