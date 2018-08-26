@@ -7080,26 +7080,6 @@
 		"sC": 0,
 		"tS": 0
 		},
-	"\/js\/src\/custom\/form-validation.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 0,
-		"oA": 1,
-		"oAP": "\/js\/src\/custom\/form-validation-min.js",
-		"oF": 1,
-		"sC": 0,
-		"tS": 0
-		},
-	"\/js\/src\/custom\/scripts.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/js\/custom\/scripts-min.js",
-		"oF": 3,
-		"sC": 1,
-		"tS": 0
-		},
 	"\/js\/vendor\/jquery\/3-3-1\/jquery-min.js": {
 		"ft": 64,
 		"ma": 0,
@@ -7741,14 +7721,6 @@
 "hooks": [
 	],
 "manualImportLinks": {
-	"\/js\/src\/app.js": [
-		{
-			"followForSyntaxChecking": 1,
-			"linkedFileAbbreviatedPath": "\/js\/src\/custom\/form-validation.js",
-			"position": 0,
-			"type": 0
-			}
-		]
 	},
 "projectAttributes": {
 	"creationDate": 499971892,
