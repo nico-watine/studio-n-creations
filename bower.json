@@ -1,8 +1,7 @@
 {
-  "name": "zurb-f6-boilerplate",
-  "version": "1.0.0",
+  "name": "studio-n-creations",
   "authors": [
-    "Nico Watine <nico@studioncreations.com> (http://nicowatine.me/)"
+    "Nico Watine <nico@studioncreations.com> (https://nicowatine.me/)"
   ],
   "description": "New project boilerplate using ZURB's 'Advanced' Foundation 6 framework",
   "main": "gulpfile.js",
@@ -13,8 +12,12 @@
     "bower_components"
   ],
   "dependencies": {
-    "foundation-sites": "~6.3.0",
+    "foundation-sites": "^6.4.3",
     "motion-ui": "~1.2.2",
     "normalize-css": "^4.1.1"
+  },
+  "resolutions": {
+    "what-input": "~4.1.3",
+    "foundation-sites": "^6.4.3"
   }
 }
