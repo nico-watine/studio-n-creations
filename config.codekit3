@@ -6437,6 +6437,12 @@
 		"oF": 0,
 		"oS": 0
 		},
+	"\/dist": {
+		"ft": 65536,
+		"oA": 1,
+		"oAP": "\/build\/dist",
+		"oF": 0
+		},
 	"\/gulpfile.babel.js": {
 		"ft": 64,
 		"ma": 0,
@@ -7062,16 +7068,6 @@
 		"oAP": "\/js\/app-min-min.js",
 		"oF": 0,
 		"sC": 1,
-		"tS": 0
-		},
-	"\/js\/custom\/scripts-min.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 0,
-		"oA": 1,
-		"oAP": "\/js\/custom\/scripts-min-min.js",
-		"oF": 0,
-		"sC": 0,
 		"tS": 0
 		},
 	"\/js\/src\/app.js": {
