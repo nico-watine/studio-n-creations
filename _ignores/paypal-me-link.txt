@@ -1,0 +1,11 @@
+# --------------------------------------------
+# |            Direct PayPal Link            |
+# --------------------------------------------
+
+www.paypal.me/StudioNCreations
+
+// ---------------------------------------------------------------------- //
+
+Example of requesting money for $25.76 ::
+
+www.paypal.me/StudioNCreations/25.76
