@@ -1,8 +1,7 @@
 //  IMPORT CUSTOM SETTINGS FILE ::
 @import "settings/_custom-settings.scss";
-//  ---------------------------------------------------------------
-
-//  Foundation for Sites Settings v6.3.1
+//  -----------------------------
+//  Foundation for Sites Settings
 //  -----------------------------
 //
 //  Table of Contents:
@@ -25,25 +24,44 @@
 //  16. Drilldown
 //  17. Dropdown
 //  18. Dropdown Menu
-//  19. Forms
-//  20. Label
-//  21. Media Object
-//  22. Menu
-//  23. Meter
-//  24. Off-canvas
-//  25. Orbit
-//  26. Pagination
-//  27. Progress Bar
-//  28. Responsive Embed
-//  29. Reveal
-//  30. Slider
-//  31. Switch
-//  32. Table
-//  33. Tabs
-//  34. Thumbnail
-//  35. Title Bar
-//  36. Tooltip
-//  37. Top Bar
+//  19. Flexbox Utilities
+//  20. Forms
+//  21. Label
+//  22. Media Object
+//  23. Menu
+//  24. Meter
+//  25. Off-canvas
+//  26. Orbit
+//  27. Pagination
+//  28. Progress Bar
+//  29. Prototype Arrow
+//  30. Prototype Border-Box
+//  31. Prototype Border-None
+//  32. Prototype Bordered
+//  33. Prototype Display
+//  34. Prototype Font-Styling
+//  35. Prototype List-Style-Type
+//  36. Prototype Overflow
+//  37. Prototype Position
+//  38. Prototype Rounded
+//  39. Prototype Separator
+//  40. Prototype Shadow
+//  41. Prototype Sizing
+//  42. Prototype Spacing
+//  43. Prototype Text-Decoration
+//  44. Prototype Text-Transformation
+//  45. Prototype Text-Utilities
+//  46. Responsive Embed
+//  47. Reveal
+//  48. Slider
+//  49. Switch
+//  50. Table
+//  51. Tabs
+//  52. Thumbnail
+//  53. Title Bar
+//  54. Tooltip
+//  55. Top Bar
+//  56. Xy Grid
 
 @import 'util/util';
 
@@ -72,11 +90,17 @@ $body-font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 $body-antialiased: true;
 $global-margin: 1rem;
 $global-padding: 1rem;
+$global-position: 1rem;
 $global-weight-normal: normal;
 $global-weight-bold: bold;
 $global-radius: 0;
+$global-menu-padding: 0.7rem 1rem;
+$global-menu-nested-margin: 1rem;
 $global-text-direction: ltr;
-$global-flexbox: false;
+$global-flexbox: true;
+$global-prototype-breakpoints: false;
+$global-button-cursor: auto;
+$global-color-pick-contrast-tolerance: 0;
 $print-transparent-backgrounds: true;
 
 @include add-foundation-colors;
