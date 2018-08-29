@@ -11793,7 +11793,7 @@ h6 {
 #topNavBar #menu-contactLinks li {
   margin-right: 16px;
   display: inline-block;
-  background: #F4F4F4;
+  background: #f4f4f4;
   border: 2px solid #566372;
   border-radius: 6px;
 }
@@ -12040,12 +12040,12 @@ iframe#gfycatIE {
 }
 
 #index .graphic-branding .logos-row {
-  background: #F9F9F9;
+  background: #f9f9f9;
 }
 
 #index .graphic-branding .logos-row .dynasty-sports-report-wrapper,
 #index .graphic-branding .logos-row .column-1 {
-  background: #1E73BD;
+  background: #1e73bd;
 }
 
 @media screen and (max-width: 39.9375em) {
@@ -12112,7 +12112,7 @@ iframe#gfycatIE {
 }
 
 #index .about-us .row {
-  background: #F4F4F4;
+  background: #f4f4f4;
 }
 
 #index .about-us .row .image {
@@ -12155,7 +12155,7 @@ iframe#gfycatIE {
     padding: 0 1.25rem;
   }
   #index .about-us .row .image {
-    background: linear-gradient(90deg, #566372 50%, #F4F4F4 50%);
+    background: linear-gradient(90deg, #566372 50%, #f4f4f4 50%);
     padding: 0;
     border: 0;
   }
@@ -12224,7 +12224,7 @@ form#index-contact-form .contact-form-input-group-button input:hover {
 }
 
 form#index-contact-form span.input-group-label.error {
-  background: #F26B6C;
+  background: #f26b6c;
   font-weight: bold;
   color: #fff;
   border: 1px solid #fff;
@@ -12438,8 +12438,8 @@ form#index-contact-form span.input-group-label.error {
 #design-into-code-conversion {
   padding: 2.5rem 0;
   background: #566372;
-  border-top: 0.3125rem solid #E5FFB1;
-  border-bottom: 0.3125rem solid #E5FFB1;
+  border-top: 0.3125rem solid #e5ffb1;
+  border-bottom: 0.3125rem solid #e5ffb1;
 }
 
 #design-into-code-conversion .subHeading {
@@ -12520,7 +12520,7 @@ form#index-contact-form .contact-form-input-group-button input:hover {
 }
 
 form#index-contact-form span.input-group-label.error {
-  background: #F26B6C;
+  background: #f26b6c;
   font-weight: bold;
   color: #fff;
   border: 1px solid #fff;

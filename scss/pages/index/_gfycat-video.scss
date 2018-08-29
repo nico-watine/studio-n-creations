@@ -1,11 +1,8 @@
-@import "../../_settings.scss";
-
-
-$medium--min-height-460: "only screen and (min-width: 40em) and (min-height : 460px)";
-$min-height-400: "only screen and (min-height : 400px)";
-$min-height-740: "only screen and (min-height : 740px)";
-$min-height-870: "only screen and (min-height : 870px)";
-$min-height-1050: "only screen and (min-height : 1050px)";
+$medium--min-height-460: 'only screen and (min-width: 40em) and (min-height : 460px)';
+$min-height-400: 'only screen and (min-height : 400px)';
+$min-height-740: 'only screen and (min-height : 740px)';
+$min-height-870: 'only screen and (min-height : 870px)';
+$min-height-1050: 'only screen and (min-height : 1050px)';
 
 .bgvid-container {
 	position: relative;
@@ -38,7 +35,7 @@ $min-height-1050: "only screen and (min-height : 1050px)";
 			min-height: 100% !important;
 			top: 50% !important;
 			-webkit-transform: translateX(-50%) translateY(-50%) !important;
-			transform: translateX(-50%) translateY(-50%) !important;
+			        transform: translateX(-50%) translateY(-50%) !important;
 			width: auto !important;
 			height: auto !important;
 		}
@@ -98,5 +95,3 @@ iframe#gfycatIE {
 		}
 	}
 }
-
-

@@ -56,24 +56,22 @@
 // IN ORDER OF LOAD PRIORITY ::
 // ----------------------------------------------------------------
 
+@import 'settings/_custom-settings.scss';
+
 // #1 TYPOGRAPHY
-@import "components/_typography.scss";
+@import 'components/_typography.scss';
 
 // #2 COMMON PAGE BLOCKS
-@import "blocks/_header.scss";
-@import "blocks/_nav.scss";
-@import "blocks/_footer.scss";
-@import "blocks/_contact-banner.scss";
+@import 'blocks/_header.scss';
+@import 'blocks/_nav.scss';
+@import 'blocks/_footer.scss';
+@import 'blocks/_contact-banner.scss';
 
 // #3 SPECIFIC PAGE STYLES
-@import "pages/index/_index.scss";
-@import "pages/our-services/web-development/_web-development.scss";
+@import 'pages/index/_index.scss';
+@import 'pages/our-services/web-development/_web-development.scss';
 
 // #4 MISC COMPONENTS
-@import "components/_extras.scss";
-@import "components/_resets.scss";
-@import "components/_utility-classes.scss";
-@import "components/_foundation-customization.scss";
-@import "components/_metrics.scss";
-
-
+@import 'components/_resets.scss';
+@import 'components/_utility-classes.scss';
+@import 'components/_metrics.scss';

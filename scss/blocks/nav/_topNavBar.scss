@@ -1,5 +1,3 @@
-@import "../../_settings.scss";
-
 .phone-tooltip {
 	font-size: 20px;
 }
@@ -12,13 +10,12 @@
 	}
 
 	#menu-contactLinks {
-		left: 30px; 
+		left: 30px;
 
 		li {
 			margin-right: 16px;
 			display: inline-block;
-
-			background: #F4F4F4;
+			background: #f4f4f4;
 			border: 2px solid #566372;
 			border-radius: 6px;
 		}
@@ -60,5 +57,3 @@
 		vertical-align: bottom;
 	}
 }
-
-
