@@ -3,7 +3,7 @@
 # - http://cdn.studioncreations.com
 
 # Secure, SSL CDN for https use ::
-- https://studioncreations-studioncreations.netdna-ssl.com
+# - https://studioncreations-studioncreations.netdna-ssl.com
 
 # IMPLEMENT BY USING THIS AS VARIABLE::
 # {{ cdn }}
