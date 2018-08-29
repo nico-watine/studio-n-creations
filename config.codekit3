@@ -1312,7 +1312,7 @@
 		"uL": 1
 		},
 	"\/bower_components\/foundation-sites\/_vendor\/sassy-lists\/stylesheets\/functions\/_contain.scss": {
-		"aP": 1,
+		"aP": 0,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -1403,7 +1403,7 @@
 		"uL": 1
 		},
 	"\/bower_components\/foundation-sites\/assets\/foundation-float.scss": {
-		"aP": 1,
+		"aP": 0,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -1416,7 +1416,7 @@
 		"uL": 1
 		},
 	"\/bower_components\/foundation-sites\/assets\/foundation-prototype.scss": {
-		"aP": 1,
+		"aP": 0,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -3646,7 +3646,7 @@
 		"dS": 0,
 		"ft": 4,
 		"ma": 0,
-		"oA": 1,
+		"oA": 2,
 		"oAP": "\/bower_components\/foundation-sites\/scss\/foundation.scss",
 		"oF": 0,
 		"oS": 0,
@@ -3770,7 +3770,7 @@
 		"uL": 1
 		},
 	"\/bower_components\/foundation-sites\/scss\/prototype\/_arrow.scss": {
-		"aP": 1,
+		"aP": 0,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -3783,7 +3783,7 @@
 		"uL": 1
 		},
 	"\/bower_components\/foundation-sites\/scss\/prototype\/_border-box.scss": {
-		"aP": 1,
+		"aP": 0,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -3796,7 +3796,7 @@
 		"uL": 1
 		},
 	"\/bower_components\/foundation-sites\/scss\/prototype\/_border-none.scss": {
-		"aP": 1,
+		"aP": 0,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -3809,7 +3809,7 @@
 		"uL": 1
 		},
 	"\/bower_components\/foundation-sites\/scss\/prototype\/_bordered.scss": {
-		"aP": 1,
+		"aP": 0,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -3822,7 +3822,7 @@
 		"uL": 1
 		},
 	"\/bower_components\/foundation-sites\/scss\/prototype\/_box.scss": {
-		"aP": 1,
+		"aP": 0,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -3835,7 +3835,7 @@
 		"uL": 1
 		},
 	"\/bower_components\/foundation-sites\/scss\/prototype\/_display.scss": {
-		"aP": 1,
+		"aP": 0,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -3848,7 +3848,7 @@
 		"uL": 1
 		},
 	"\/bower_components\/foundation-sites\/scss\/prototype\/_font-styling.scss": {
-		"aP": 1,
+		"aP": 0,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -3861,7 +3861,7 @@
 		"uL": 1
 		},
 	"\/bower_components\/foundation-sites\/scss\/prototype\/_list-style-type.scss": {
-		"aP": 1,
+		"aP": 0,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -3874,7 +3874,7 @@
 		"uL": 1
 		},
 	"\/bower_components\/foundation-sites\/scss\/prototype\/_overflow.scss": {
-		"aP": 1,
+		"aP": 0,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -3887,7 +3887,7 @@
 		"uL": 1
 		},
 	"\/bower_components\/foundation-sites\/scss\/prototype\/_position.scss": {
-		"aP": 1,
+		"aP": 0,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -3900,7 +3900,7 @@
 		"uL": 1
 		},
 	"\/bower_components\/foundation-sites\/scss\/prototype\/_prototype.scss": {
-		"aP": 1,
+		"aP": 0,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -3913,7 +3913,7 @@
 		"uL": 1
 		},
 	"\/bower_components\/foundation-sites\/scss\/prototype\/_relation.scss": {
-		"aP": 1,
+		"aP": 0,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -3926,7 +3926,7 @@
 		"uL": 1
 		},
 	"\/bower_components\/foundation-sites\/scss\/prototype\/_rotate.scss": {
-		"aP": 1,
+		"aP": 0,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -3939,7 +3939,7 @@
 		"uL": 1
 		},
 	"\/bower_components\/foundation-sites\/scss\/prototype\/_rounded.scss": {
-		"aP": 1,
+		"aP": 0,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -3952,7 +3952,7 @@
 		"uL": 1
 		},
 	"\/bower_components\/foundation-sites\/scss\/prototype\/_separator.scss": {
-		"aP": 1,
+		"aP": 0,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -3965,7 +3965,7 @@
 		"uL": 1
 		},
 	"\/bower_components\/foundation-sites\/scss\/prototype\/_shadow.scss": {
-		"aP": 1,
+		"aP": 0,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -3978,7 +3978,7 @@
 		"uL": 1
 		},
 	"\/bower_components\/foundation-sites\/scss\/prototype\/_sizing.scss": {
-		"aP": 1,
+		"aP": 0,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -3991,7 +3991,7 @@
 		"uL": 1
 		},
 	"\/bower_components\/foundation-sites\/scss\/prototype\/_spacing.scss": {
-		"aP": 1,
+		"aP": 0,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -4004,7 +4004,7 @@
 		"uL": 1
 		},
 	"\/bower_components\/foundation-sites\/scss\/prototype\/_text-decoration.scss": {
-		"aP": 1,
+		"aP": 0,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -4017,7 +4017,7 @@
 		"uL": 1
 		},
 	"\/bower_components\/foundation-sites\/scss\/prototype\/_text-transformation.scss": {
-		"aP": 1,
+		"aP": 0,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -4030,7 +4030,7 @@
 		"uL": 1
 		},
 	"\/bower_components\/foundation-sites\/scss\/prototype\/_text-utilities.scss": {
-		"aP": 1,
+		"aP": 0,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -4264,7 +4264,7 @@
 		"uL": 1
 		},
 	"\/bower_components\/foundation-sites\/scss\/xy-grid\/_cell.scss": {
-		"aP": 1,
+		"aP": 0,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -4277,7 +4277,7 @@
 		"uL": 1
 		},
 	"\/bower_components\/foundation-sites\/scss\/xy-grid\/_classes.scss": {
-		"aP": 1,
+		"aP": 0,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -4290,7 +4290,7 @@
 		"uL": 1
 		},
 	"\/bower_components\/foundation-sites\/scss\/xy-grid\/_collapse.scss": {
-		"aP": 1,
+		"aP": 0,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -4303,7 +4303,7 @@
 		"uL": 1
 		},
 	"\/bower_components\/foundation-sites\/scss\/xy-grid\/_frame.scss": {
-		"aP": 1,
+		"aP": 0,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -4316,7 +4316,7 @@
 		"uL": 1
 		},
 	"\/bower_components\/foundation-sites\/scss\/xy-grid\/_grid.scss": {
-		"aP": 1,
+		"aP": 0,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -4329,7 +4329,7 @@
 		"uL": 1
 		},
 	"\/bower_components\/foundation-sites\/scss\/xy-grid\/_gutters.scss": {
-		"aP": 1,
+		"aP": 0,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -4342,7 +4342,7 @@
 		"uL": 1
 		},
 	"\/bower_components\/foundation-sites\/scss\/xy-grid\/_layout.scss": {
-		"aP": 1,
+		"aP": 0,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -4355,7 +4355,7 @@
 		"uL": 1
 		},
 	"\/bower_components\/foundation-sites\/scss\/xy-grid\/_position.scss": {
-		"aP": 1,
+		"aP": 0,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -4368,7 +4368,7 @@
 		"uL": 1
 		},
 	"\/bower_components\/foundation-sites\/scss\/xy-grid\/_xy-grid.scss": {
-		"aP": 1,
+		"aP": 0,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -6040,7 +6040,7 @@
 		"dS": 0,
 		"ft": 4,
 		"ma": 0,
-		"oA": 1,
+		"oA": 2,
 		"oAP": "\/bower_components\/motion-ui\/src\/motion-ui.scss",
 		"oF": 0,
 		"oS": 0,
@@ -6435,7 +6435,7 @@
 	"\/img\/assets\/icons\/phone.svg": {
 		"ft": 2097152,
 		"miP": 0,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/img\/assets\/icons\/phone.svg",
 		"oF": 0,
 		"opt": 0,
@@ -6595,7 +6595,7 @@
 	"\/img\/our-services\/web-development\/design-into-code-conversion\/html5-logo-square.svg": {
 		"ft": 2097152,
 		"miP": 0,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/img\/our-services\/web-development\/design-into-code-conversion\/html5-logo-square.svg",
 		"oF": 0,
 		"opt": 0,
@@ -6605,7 +6605,7 @@
 	"\/img\/our-services\/web-development\/design-into-code-conversion\/html5-logo.svg": {
 		"ft": 2097152,
 		"miP": 0,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/img\/our-services\/web-development\/design-into-code-conversion\/html5-logo.svg",
 		"oF": 0,
 		"opt": 0,
@@ -6681,7 +6681,7 @@
 	"\/img\/our-services\/web-development\/new-project-workflow\/server.svg": {
 		"ft": 2097152,
 		"miP": 0,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/img\/our-services\/web-development\/new-project-workflow\/server.svg",
 		"oF": 0,
 		"opt": 0,
@@ -6702,7 +6702,7 @@
 	"\/img\/our-services\/web-development\/new-project-workflow\/wrench.svg": {
 		"ft": 2097152,
 		"miP": 0,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/img\/our-services\/web-development\/new-project-workflow\/wrench.svg",
 		"oF": 0,
 		"opt": 0,
@@ -7015,15 +7015,11 @@
 		"sC": 0,
 		"tS": 0
 		},
-	"\/js\/vendor\/jquery\/3-3-1\/jquery-min.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/js\/vendor\/jquery\/3-3-1\/jquery-min-min.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
+	"\/js\/vendor": {
+		"ft": 65536,
+		"oA": 1,
+		"oAP": "\/build\/js\/vendor",
+		"oF": 0
 		},
 	"\/node_modules": {
 		"ft": 65536,
@@ -9435,7 +9431,7 @@
 		"shouldRunBless": 0
 		},
 	"languageDefaultsGIF": {
-		"autoOutputAction": 0,
+		"autoOutputAction": 1,
 		"autoOutputPathFilenamePattern": "*.gif",
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
@@ -9579,7 +9575,7 @@
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"outputStyle": 0,
-		"shouldRunAutoprefixer": 1,
+		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 1
 		},
@@ -9613,7 +9609,7 @@
 		"shouldRunBless": 0
 		},
 	"languageDefaultsSVG": {
-		"autoOutputAction": 2,
+		"autoOutputAction": 1,
 		"autoOutputPathFilenamePattern": "*.svg",
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
@@ -9643,16 +9639,6 @@
 	"languageDefaultsUserDefined": [
 		{
 			"autoOutputAction": 1,
-			"autoOutputPathFilenamePattern": "*.php",
-			"autoOutputPathRelativePath": "",
-			"autoOutputPathReplace1": "",
-			"autoOutputPathReplace2": "",
-			"autoOutputPathStyle": 0,
-			"fileExtension": "php",
-			"shouldRunCacheBuster": 0
-			},
-		{
-			"autoOutputAction": 1,
 			"autoOutputPathFilenamePattern": "*.html",
 			"autoOutputPathRelativePath": "",
 			"autoOutputPathReplace1": "",
@@ -9660,11 +9646,21 @@
 			"autoOutputPathStyle": 0,
 			"fileExtension": "html",
 			"shouldRunCacheBuster": 0
+			},
+		{
+			"autoOutputAction": 1,
+			"autoOutputPathFilenamePattern": "*.php",
+			"autoOutputPathRelativePath": "",
+			"autoOutputPathReplace1": "",
+			"autoOutputPathReplace2": "",
+			"autoOutputPathStyle": 0,
+			"fileExtension": "php",
+			"shouldRunCacheBuster": 0
 			}
 		],
 	"overrideExternalServerCSS": 0,
 	"previewPathAddition": "",
-	"skippedFoldersString": "log, _logs, logs, _cache, cache, .idea, \/storage\/framework\/sessions, node_modules, \/dist",
+	"skippedFoldersString": "log, _logs, logs, _cache, cache, .idea, \/storage\/framework\/sessions, node_modules, \/dist, \/js\/vendor",
 	"sourceFolderName": "source",
 	"susyVersion": 3,
 	"uglifyDefinesString": "",
