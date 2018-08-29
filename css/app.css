@@ -12438,8 +12438,8 @@ form#index-contact-form span.input-group-label.error {
 #design-into-code-conversion {
   padding: 2.5rem 0;
   background: #566372;
-  border-top: 0.3125rem solid #E5FFB1;
-  border-bottom: 0.3125rem solid #E5FFB1;
+  border-top: 0.3125rem solid #e5ffb1;
+  border-bottom: 0.3125rem solid #e5ffb1;
 }
 
 #design-into-code-conversion .subHeading {
@@ -12520,7 +12520,7 @@ form#index-contact-form .contact-form-input-group-button input:hover {
 }
 
 form#index-contact-form span.input-group-label.error {
-  background: #F26B6C;
+  background: #f26b6c;
   font-weight: bold;
   color: #fff;
   border: 1px solid #fff;
