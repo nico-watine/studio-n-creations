@@ -1,10 +1,6 @@
-@import "../../_settings.scss";
-
 #index {
 	.bubble-bg {
-		background: #fff url('#{$url}/img/index/bubble-bg/bubble-background.png') center center no-repeat;	
+		background: #fff url('#{$url}/img/index/bubble-bg/bubble-background.png') center center no-repeat;
 		background-size: cover;
 	}
 }
-
-
