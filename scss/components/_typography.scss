@@ -1,5 +1,4 @@
-@import "../_settings.scss";
-@import "typography/_fonts.scss";
+@import 'typography/_fonts.scss';
 
 
 h1,
@@ -65,7 +64,7 @@ h6 {
 // -------------------------------------
 
 .textShadow-black {
-	text-shadow: rem-calc(-2) rem-calc(3) 0 rgba(0,0,0,0.80); 
+	text-shadow: rem-calc(-2) rem-calc(3) 0 rgba(0,0,0,.80);
 }
 
 
@@ -81,4 +80,3 @@ h6 {
 .fontWeight-400 {
 	font-weight: normal;
 }
-
