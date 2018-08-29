@@ -1,7 +1,5 @@
-@import "../_settings.scss";
-@import "nav/_nav.scss";
 // For use with top-nav.html partial ::
 // @import "nav/_top-nav.scss";
-@import "nav/_offCanvas.scss";
-@import "nav/_contactModal.scss";
-@import "nav/_topNavBar.scss";
+@import 'nav/_offCanvas.scss';
+@import 'nav/_contactModal.scss';
+@import 'nav/_topNavBar.scss';

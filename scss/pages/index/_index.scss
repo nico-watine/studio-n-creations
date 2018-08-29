@@ -1,11 +1,10 @@
-@import "../../_settings.scss";
-@import "_gfycat-video.scss";
-@import "_header.scss";
-@import "_graphic-branding.scss";
-@import "_about-us.scss";
-@import "_contact.scss";
-@import "_bubble-bg.scss";
-@import "_recent-projects.scss";
+@import '_gfycat-video.scss';
+@import '_header.scss';
+@import '_graphic-branding.scss';
+@import '_about-us.scss';
+@import '_contact.scss';
+@import '_bubble-bg.scss';
+@import '_recent-projects.scss';
 // @import "_bubble-bg-base-64.scss";
 
 
@@ -26,14 +25,14 @@
 
 		h2 {
 			color: #fff;
-			text-shadow: rem-calc(-2) rem-calc(3) 0 rgba(0,0,0,0.45);
+			text-shadow: rem-calc(-2) rem-calc(3) 0 rgba(0,0,0,.45);
 		}
 
 		.prose {
 			padding: rem-calc(30) rem-calc(16);
 			background: #fff;
 			border-radius: rem-calc(3);
-			
+
 			p {
 				margin: 0;
 			}
@@ -51,4 +50,3 @@
 		}
 	}
 }
-
