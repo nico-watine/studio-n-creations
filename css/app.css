@@ -12526,16 +12526,6 @@ form#index-contact-form span.input-group-label.error {
   border: 1px solid #fff;
 }
 
-.inline-block,
-.display-inline-block {
-  display: inline-block;
-}
-
-.block,
-.display-block {
-  display: block;
-}
-
 .ie-only {
   display: none;
   visibility: hidden;

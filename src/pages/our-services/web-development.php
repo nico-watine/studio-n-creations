@@ -22,7 +22,7 @@ body-class: bodyLayout-default
 					<h3 class="color-white text-shadow-black margin-0">1. Site Layout Planning</h3>
 				</div>
 				<div class="workflowCard-description">
-					<p class="color-white font-weight-normal margin-0">This includes the content strategy of what info will be presented <span class="inline-block">on the website.</span></p>
+					<p class="color-white font-weight-normal margin-0">This includes the content strategy of what info will be presented <span class="display-inline-block">on the website.</span></p>
 				</div>
 			</div>
 		</div>
@@ -44,7 +44,7 @@ body-class: bodyLayout-default
 					<h3 class="color-white text-shadow-black margin-0">3. Coding &amp; Development Stage</h3>
 				</div>
 				<div class="workflowCard-description">
-					<p class="color-white font-weight-normal margin-0">I then code the approved design into a functioning website, using the industry’s latest <span class="inline-block">methods and standards.</span></p>
+					<p class="color-white font-weight-normal margin-0">I then code the approved design into a functioning website, using the industry’s latest <span class="display-inline-block">methods and standards.</span></p>
 				</div>
 			</div>
 		</div>
