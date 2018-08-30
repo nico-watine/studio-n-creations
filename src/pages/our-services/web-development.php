@@ -19,10 +19,10 @@ body-class: bodyLayout-default
 		<div class="medium-10 medium-push-1 large-6 large-push-0 columns">
 			<div class="workflowCard text-center" id="site-layout-planning" data-equalizer-watch>
 				<div class="workflowCard-title">
-					<h3 class="textColor-white textShadow-black margin-0">1. Site Layout Planning</h3>
+					<h3 class="color-white textShadow-black margin-0">1. Site Layout Planning</h3>
 				</div>
 				<div class="workflowCard-description">
-					<p class="textColor-white fontWeight-400 margin-0">This includes the content strategy of what info will be presented <span class="inline-block">on the website.</span></p>
+					<p class="color-white fontWeight-400 margin-0">This includes the content strategy of what info will be presented <span class="inline-block">on the website.</span></p>
 				</div>
 			</div>
 		</div>
@@ -32,7 +32,7 @@ body-class: bodyLayout-default
 					<h3 class="margin-0">2. Design Phase</h3>
 				</div>
 				<div class="workflowCard-description">
-					<p class="textColor-white fontWeight-400 margin-0">I consult with my clients closely throughout the design process to ensure full satisfaction with the site’s look and feel.</p>
+					<p class="color-white fontWeight-400 margin-0">I consult with my clients closely throughout the design process to ensure full satisfaction with the site’s look and feel.</p>
 				</div>
 			</div>
 		</div>
@@ -41,10 +41,10 @@ body-class: bodyLayout-default
 		<div class="medium-10 medium-push-1 large-8 large-push-2 columns end">
 			<div class="workflowCard text-center" id="coding-development-stage">
 				<div class="workflowCard-title">
-					<h3 class="textColor-white textShadow-black margin-0">3. Coding &amp; Development Stage</h3>
+					<h3 class="color-white textShadow-black margin-0">3. Coding &amp; Development Stage</h3>
 				</div>
 				<div class="workflowCard-description">
-					<p class="textColor-white fontWeight-400 margin-0">I then code the approved design into a functioning website, using the industry’s latest <span class="inline-block">methods and standards.</span></p>
+					<p class="color-white fontWeight-400 margin-0">I then code the approved design into a functioning website, using the industry’s latest <span class="inline-block">methods and standards.</span></p>
 				</div>
 			</div>
 		</div>
@@ -77,7 +77,7 @@ body-class: bodyLayout-default
 		</div>
 	</div>
 </section>
-<section id="design-into-code-conversion" class="textColor-white">
+<section id="design-into-code-conversion" class="color-white">
 	<div class="row">
 		<div class="medium-push-1 medium-11 large-push-2 large-10 columns">
 			<h5 class="subHeading monospace">Service Offered</h5>
