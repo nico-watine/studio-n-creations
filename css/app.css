@@ -12526,7 +12526,8 @@ form#index-contact-form span.input-group-label.error {
   border: 1px solid #fff;
 }
 
-.inline-block {
+.inline-block,
+.display-inline-block {
   display: inline-block;
 }
 
