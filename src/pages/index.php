@@ -9,7 +9,7 @@ body-id: index
 body-class: bodyLayout-unique
 ---
 <header class="bgvid-container">
-	<div class="prose text-left textColor-white">
+	<div class="prose text-left color-white">
 		<div class="row expanded">
 			<div class="small-12 columns">
 				<h1>Studio N Creations</h1>
@@ -26,7 +26,7 @@ body-class: bodyLayout-unique
 <section class="intro-slogan">
 	<div class="row">
 		<div class="medium-6 columns medium-text-right">
-			<h2>I create phone-friendly websites for projects of all sizes</h2>	
+			<h2>I create phone-friendly websites for projects of all sizes</h2>
 		</div>
 		<div class="medium-5 columns end">
 			<div class="prose">
