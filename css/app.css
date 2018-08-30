@@ -12531,7 +12531,8 @@ form#index-contact-form span.input-group-label.error {
   display: inline-block;
 }
 
-.block {
+.block,
+.display-block {
   display: block;
 }
 
