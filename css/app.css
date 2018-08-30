@@ -11657,7 +11657,8 @@ h6 {
   color: #fff;
 }
 
-.textShadow-black {
+.textShadow-black,
+.text-shadow-black {
   text-shadow: -0.125rem 0.1875rem 0 rgba(0, 0, 0, 0.8);
 }
 

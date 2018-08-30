@@ -19,7 +19,7 @@ body-class: bodyLayout-default
 		<div class="medium-10 medium-push-1 large-6 large-push-0 columns">
 			<div class="workflowCard text-center" id="site-layout-planning" data-equalizer-watch>
 				<div class="workflowCard-title">
-					<h3 class="color-white textShadow-black margin-0">1. Site Layout Planning</h3>
+					<h3 class="color-white text-shadow-black margin-0">1. Site Layout Planning</h3>
 				</div>
 				<div class="workflowCard-description">
 					<p class="color-white fontWeight-400 margin-0">This includes the content strategy of what info will be presented <span class="inline-block">on the website.</span></p>
@@ -41,7 +41,7 @@ body-class: bodyLayout-default
 		<div class="medium-10 medium-push-1 large-8 large-push-2 columns end">
 			<div class="workflowCard text-center" id="coding-development-stage">
 				<div class="workflowCard-title">
-					<h3 class="color-white textShadow-black margin-0">3. Coding &amp; Development Stage</h3>
+					<h3 class="color-white text-shadow-black margin-0">3. Coding &amp; Development Stage</h3>
 				</div>
 				<div class="workflowCard-description">
 					<p class="color-white fontWeight-400 margin-0">I then code the approved design into a functioning website, using the industry’s latest <span class="inline-block">methods and standards.</span></p>
