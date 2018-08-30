@@ -9,11 +9,11 @@ body-id: index
 body-class: bodyLayout-unique
 ---
 <header class="bgvid-container">
-	<div class="prose text-left textColor-white">
+	<div class="prose text-left color-white">
 		<div class="row expanded">
 			<div class="small-12 columns">
 				<h1>Studio N Creations</h1>
-				<h2 class="fontWeight-400">Web Design <span class="inline-block">| Graphic Branding</span> <span class="inline-block">| Site Maintenance</span></h2>
+				<h2 class="fontWeight-400">Web Design <span class="display-inline-block">| Graphic Branding</span> <span class="display-inline-block">| Site Maintenance</span></h2>
 			</div>
 		</div>
 	</div>
@@ -26,7 +26,7 @@ body-class: bodyLayout-unique
 <section class="intro-slogan">
 	<div class="row">
 		<div class="medium-6 columns medium-text-right">
-			<h2>I create phone-friendly websites for projects of all sizes</h2>	
+			<h2>I create phone-friendly websites for projects of all sizes</h2>
 		</div>
 		<div class="medium-5 columns end">
 			<div class="prose">
@@ -240,7 +240,7 @@ body-class: bodyLayout-unique
 		</div>
 		<div class="medium-8 large-9 columns prose">
 			<h3 class="show-for-medium">About Me</h3>
-			<h4>My name is <span itemprop="name">Nico Watine</span>, and I am the <span class="inline-block" itemprop="affiliation">Studio N Creations</span> team.</h4>
+			<h4>My name is <span itemprop="name">Nico Watine</span>, and I am the <span class="display-inline-block" itemprop="affiliation">Studio N Creations</span> team.</h4>
 			<p>I design, brand, code and maintain mobile-optimized websites for projects of all sizes. I’m located in Houston, TX, and am available for hire anywhere. I'm a <span itemprop="jobTitle">web developer</span> and am passionate about what I do. I love working with people who are excited about their new web project.</p>
 		</div>
 	</div>
