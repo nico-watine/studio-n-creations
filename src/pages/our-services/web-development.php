@@ -19,20 +19,20 @@ body-class: bodyLayout-default
 		<div class="medium-10 medium-push-1 large-6 large-push-0 columns">
 			<div class="workflowCard text-center" id="site-layout-planning" data-equalizer-watch>
 				<div class="workflowCard-title">
-					<h3 class="color-white text-shadow-black margin-0">1. Site Layout Planning</h3>
+					<h3 class="color-white text-shadow-black m-0">1. Site Layout Planning</h3>
 				</div>
 				<div class="workflowCard-description">
-					<p class="color-white font-weight-normal margin-0">This includes the content strategy of what info will be presented <span class="display-inline-block">on the website.</span></p>
+					<p class="color-white font-weight-normal m-0">This includes the content strategy of what info will be presented <span class="display-inline-block">on the website.</span></p>
 				</div>
 			</div>
 		</div>
 		<div class="medium-10 medium-push-1 large-6 large-push-0 end columns">
 			<div class="workflowCard text-center" id="design-phase" data-equalizer-watch>
 				<div class="workflowCard-title">
-					<h3 class="margin-0">2. Design Phase</h3>
+					<h3 class="m-0">2. Design Phase</h3>
 				</div>
 				<div class="workflowCard-description">
-					<p class="color-white font-weight-normal margin-0">I consult with my clients closely throughout the design process to ensure full satisfaction with the site’s look and feel.</p>
+					<p class="color-white font-weight-normal m-0">I consult with my clients closely throughout the design process to ensure full satisfaction with the site’s look and feel.</p>
 				</div>
 			</div>
 		</div>
@@ -41,10 +41,10 @@ body-class: bodyLayout-default
 		<div class="medium-10 medium-push-1 large-8 large-push-2 columns end">
 			<div class="workflowCard text-center" id="coding-development-stage">
 				<div class="workflowCard-title">
-					<h3 class="color-white text-shadow-black margin-0">3. Coding &amp; Development Stage</h3>
+					<h3 class="color-white text-shadow-black m-0">3. Coding &amp; Development Stage</h3>
 				</div>
 				<div class="workflowCard-description">
-					<p class="color-white font-weight-normal margin-0">I then code the approved design into a functioning website, using the industry’s latest <span class="display-inline-block">methods and standards.</span></p>
+					<p class="color-white font-weight-normal m-0">I then code the approved design into a functioning website, using the industry’s latest <span class="display-inline-block">methods and standards.</span></p>
 				</div>
 			</div>
 		</div>
