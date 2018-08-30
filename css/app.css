@@ -11653,7 +11653,8 @@ h6 {
   }
 }
 
-.textColor-white {
+.textColor-white,
+.color-white {
   color: #fff;
 }
 
