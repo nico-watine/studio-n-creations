@@ -34,6 +34,8 @@
     "url": "https://github.com/nico-watine/studio-n-creations.git"
   },
   "babel": {
-    "presets": ["es2015"]
+    "presets": [
+      "es2015"
+    ]
   }
 }
