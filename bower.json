@@ -1,18 +1,17 @@
 {
-  "name": "studio-n-creations",
-  "authors": [
-    "Nico Watine <nico@studioncreations.com> (https://nicowatine.me/)"
-  ],
-  "description": "www.studioncreations.com project repo. Site built on zurb-f6-boilerplate.",
-  "main": "gulpfile.js",
-  "license": "MIT",
-  "ignore": [
-    "**/.*",
-    "node_modules",
-    "bower_components"
-  ],
-  "dependencies": {
-    "foundation-sites": "^6.4.3",
-    "motion-ui": "~1.2.2"
-  }
+	"name": "studio-n-creations",
+	"authors": [
+		"Nico Watine <nico@studioncreations.com> (https://nicowatine.me/)"
+	],
+	"description": "www.studioncreations.com project repo. Site built on zurb-f6-boilerplate.",
+	"license": "MIT",
+	"ignore": [
+		"**/.*",
+		"node_modules",
+		"bower_components"
+	],
+	"dependencies": {
+		"foundation-sites": "^6.4.3",
+		"motion-ui": "~1.2.2"
+	}
 }
