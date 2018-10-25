@@ -18,14 +18,14 @@ UNCSS_OPTIONS:
     - body.is-reveal-open
     - .tooltip
     - .phone-tooltip
-    - .is-visible
-    - .js-off-canvas-exit
-    - .is-open-right
-    - .is-off-canvas-open
-    - .js-off-canvas-overlay
     - .is-overlay-fixed
     - .is-closable
     - .is-open
+    - .is-visible
+    - .is-open-right
+    - .is-off-canvas-open
+    - .js-off-canvas-exit
+    - .js-off-canvas-overlay
     - .off-canvas.is-open
     - .js-off-canvas-overlay.is-overlay-fixed
     - .js-off-canvas-overlay.is-closable
