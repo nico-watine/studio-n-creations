@@ -26,9 +26,9 @@ UNCSS_OPTIONS:
     - .js-off-canvas-overlay.is-closable
     - .js-off-canvas-overlay.is-visible
     - .js-off-canvas-overlay
-    - .bgvid-container div .gfy-video
     - .off-canvas-content.has-transition-push
     - .off-canvas-content.is-open-right.has-transition-push
+    - .bgvid-container div .gfy-video
 
 # Gulp will reference these paths when it copies files
 PATHS:
