@@ -33,6 +33,8 @@ UNCSS_OPTIONS:
     - .js-off-canvas-overlay
     - .position-right.is-open ~ .off-canvas-content
     - .bgvid-container div .gfy-video
+    - .off-canvas-content.has-transition-push
+    - .off-canvas-content.is-open-right.has-transition-push
 
 # Gulp will reference these paths when it copies files
 PATHS:

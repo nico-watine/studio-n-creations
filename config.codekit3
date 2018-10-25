@@ -7560,11 +7560,11 @@
 		"oAP": "/src/partials/googleGoal-snippet-contactModal.html",
 		"oF": 0
 		},
-	"/src/partials/offCanvas-menu--toggle.html": {
+	"/src/partials/medium--topNavBar.html": {
 		"cB": 0,
 		"ft": 8192,
-		"oA": 2,
-		"oAP": "/src/partials/offCanvas-menu--toggle.html",
+		"oA": 1,
+		"oAP": "/src/partials/medium--topNavBar.html",
 		"oF": 0
 		},
 	"/src/partials/offCanvas-menu.html": {
@@ -7574,25 +7574,11 @@
 		"oAP": "/src/partials/offCanvas-menu.html",
 		"oF": 0
 		},
-	"/src/partials/offCanvas-pageEnd.html": {
+	"/src/partials/small--offCanvas-menu--toggle.html": {
 		"cB": 0,
 		"ft": 8192,
-		"oA": 2,
-		"oAP": "/src/partials/offCanvas-pageEnd.html",
-		"oF": 0
-		},
-	"/src/partials/offCanvas-pageStart.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/src/partials/offCanvas-pageStart.html",
-		"oF": 0
-		},
-	"/src/partials/topNavBar-medium.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/src/partials/topNavBar-medium.html",
+		"oA": 1,
+		"oAP": "/src/partials/small--offCanvas-menu--toggle.html",
 		"oF": 0
 		}
 	},
@@ -9591,22 +9577,22 @@
 	"languageDefaultsUserDefined": [
 		{
 			"autoOutputAction": 1,
-			"autoOutputPathFilenamePattern": "*.html",
-			"autoOutputPathRelativePath": "",
-			"autoOutputPathReplace1": "",
-			"autoOutputPathReplace2": "",
-			"autoOutputPathStyle": 0,
-			"fileExtension": "html",
-			"shouldRunCacheBuster": 0
-			},
-		{
-			"autoOutputAction": 1,
 			"autoOutputPathFilenamePattern": "*.php",
 			"autoOutputPathRelativePath": "",
 			"autoOutputPathReplace1": "",
 			"autoOutputPathReplace2": "",
 			"autoOutputPathStyle": 0,
 			"fileExtension": "php",
+			"shouldRunCacheBuster": 0
+			},
+		{
+			"autoOutputAction": 1,
+			"autoOutputPathFilenamePattern": "*.html",
+			"autoOutputPathRelativePath": "",
+			"autoOutputPathReplace1": "",
+			"autoOutputPathReplace2": "",
+			"autoOutputPathStyle": 0,
+			"fileExtension": "html",
 			"shouldRunCacheBuster": 0
 			}
 		],
