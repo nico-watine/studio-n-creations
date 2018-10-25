@@ -18,23 +18,17 @@ UNCSS_OPTIONS:
     - body.is-reveal-open
     - .tooltip
     - .phone-tooltip
-    - .is-visible
-    - .js-off-canvas-exit
-    - .is-open-right
     - .is-off-canvas-open
+    - .js-off-canvas-exit
     - .js-off-canvas-overlay
-    - .is-overlay-fixed
-    - .is-closable
-    - .is-open
     - .off-canvas.is-open
     - .js-off-canvas-overlay.is-overlay-fixed
     - .js-off-canvas-overlay.is-closable
     - .js-off-canvas-overlay.is-visible
     - .js-off-canvas-overlay
-    - .position-right.is-open ~ .off-canvas-content
-    - .bgvid-container div .gfy-video
     - .off-canvas-content.has-transition-push
     - .off-canvas-content.is-open-right.has-transition-push
+    - .bgvid-container div .gfy-video
 
 # Gulp will reference these paths when it copies files
 PATHS:
