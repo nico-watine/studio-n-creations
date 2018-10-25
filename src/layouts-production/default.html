@@ -1,4 +1,4 @@
-<?php 
+<?php
 	include($_SERVER['DOCUMENT_ROOT'].'/php/autoVer.php');
 ?>
 <!DOCTYPE html>
@@ -22,7 +22,7 @@
 	<meta name="apple-mobile-web-app-title" content="Studio N C">
 	<meta name="application-name" content="Studio N C">
 	<meta name="format-detection" content="telephone=no">
-	
+
 	<meta property="og:locale" content="en_US">
 	<meta property="og:type" content="website">
 	<meta property="og:title" content="{{ og-title }}">
@@ -31,7 +31,7 @@
 	<meta property="og:site_name" content="Studio N Creations">
 	<meta property="og:image" content="https://studioncreations-studioncreations.netdna-ssl.com{{ og-image}}">
 	<meta property="fb:app_id" content="1681974038799263">
-	
+
 	<meta name="google-site-verification" content="KRkK5A_Jr3_V2SvGIzpyRMNi37bKOmqS_vBphvOJV7g" />
 	<meta name="p:domain_verify" content="bc4789b1440b540e061b16da850cc42a"/>
 
@@ -59,21 +59,45 @@
 	    "https://www.instagram.com/studio.n.creations/"
 	  ]
 	} </script>
-		
+
 </head>
 <body id="{{ body-id }}" class="{{ body-class }}">
 
 {{> google-tag-manager-body}}
 
+<div class="off-canvas-wrapper">
+	<div class="off-canvas position-right" id="offCanvas-menu" data-off-canvas data-position="right">
+		{{> offCanvas-menu}}
+	</div>
 
-{{> offCanvas-pageStart}}
+	<div class="off-canvas-content" data-off-canvas-content>
 
+		<nav class="show-for-medium" id="topNavBar">
+			<aside>
+				<ul class="menu" id="menu-contactLinks">
+					<li><a data-open="contactModal"><strong>@</strong></a></li>
+					<li id="phone"><span data-tooltip aria-haspopup="true" class="has-tip" tabindex="1" data-hover-delay="0" data-fade-in-duration="100" data-v-offset="14" data-template-classes="phone-tooltip" title="713-443-3761"><a id="phone"><img src="/img/assets/icons/phone.svg" alt="Phone Icon"></a></span></li>
+				</ul>
+			</aside>
+			<ul class="menu align-right" id="menu-pageLinks">
+				<li><button id="offCanvas-menu--toggle" type="button" class="button monospace" data-toggle="offCanvas-menu">Menu <i class="hamburger"></i></button></li>
+				<!-- <li><a href="/" class="monospace">Portfolio</a></li> -->
+			</ul>
+		</nav>
 
-{{> body}}
+		<div class="hide-for-medium" id="mobileNavBar-wrapper">
+			<a id="contactModal-toggle" data-open="contactModal"><img src="/img/assets/icons/phone.svg" alt="Phone Icon"></a>
+			<button id="offCanvas-menu--toggle" type="button" class="button monospace" data-toggle="offCanvas-menu">Menu <i class="hamburger"></i></button>
+		</div>
 
-{{> contact-footer-section}}
+		{{> body}}
 
-{{> offCanvas-pageEnd}}
+		{{> contact-footer-section}}
+
+	</div> <!-- .off-canvas-content -->
+</div> <!-- /.off-canvas-wrapper -->
+
+{{> contactModal}}
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 <script>window.jQuery || document.write('<script src="/js/vendor/jquery/3-3-1/jquery-min.js"><\/script>')</script>
