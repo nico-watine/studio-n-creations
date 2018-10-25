@@ -1,4 +1,4 @@
-<?php 
+<?php
 	include($_SERVER['DOCUMENT_ROOT'].'/php/autoVer.php');
 ?>
 <!DOCTYPE html>
@@ -22,7 +22,7 @@
 	<meta name="apple-mobile-web-app-title" content="Studio N C">
 	<meta name="application-name" content="Studio N C">
 	<meta name="format-detection" content="telephone=no">
-	
+
 	<meta property="og:locale" content="en_US">
 	<meta property="og:type" content="website">
 	<meta property="og:title" content="{{ og-title }}">
@@ -31,7 +31,7 @@
 	<meta property="og:site_name" content="Studio N Creations">
 	<meta property="og:image" content="https://studioncreations-studioncreations.netdna-ssl.com{{ og-image}}">
 	<meta property="fb:app_id" content="1681974038799263">
-	
+
 	<meta name="google-site-verification" content="KRkK5A_Jr3_V2SvGIzpyRMNi37bKOmqS_vBphvOJV7g" />
 	<meta name="p:domain_verify" content="bc4789b1440b540e061b16da850cc42a"/>
 
@@ -59,21 +59,28 @@
 	    "https://www.instagram.com/studio.n.creations/"
 	  ]
 	} </script>
-		
+
 </head>
 <body id="{{ body-id }}" class="{{ body-class }}">
 
 {{> google-tag-manager-body}}
 
+<div class="off-canvas-wrapper">
 
-{{> offCanvas-pageStart}}
+	<div class="off-canvas position-right" id="offCanvas-menu" data-off-canvas data-position="right">
+		{{> offCanvas-menu}}
+	</div>
 
+	<div class="off-canvas-content" data-off-canvas-content>
+		{{> small--offCanvas-menu--toggle}}
+		{{> medium--topNavBar}}
+		{{> body}}
+		{{> contact-footer-section}}
+	</div>
 
-{{> body}}
+</div> <!-- /.off-canvas-wrapper -->
 
-{{> contact-footer-section}}
-
-{{> offCanvas-pageEnd}}
+{{> contactModal}}
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 <script>window.jQuery || document.write('<script src="/js/vendor/jquery/3-3-1/jquery-min.js"><\/script>')</script>

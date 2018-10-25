@@ -1,5 +1,6 @@
 //  IMPORT CUSTOM SETTINGS FILE ::
 @import "settings/_custom-settings.scss";
+// For reference when updating Foundation core, customized lines are followed by the comment "// Vanilla: var"
 //  -----------------------------
 //  Foundation for Sites Settings
 //  -----------------------------
@@ -504,7 +505,7 @@ $offcanvas-sizes: (
 $offcanvas-vertical-sizes: (
   small: 250px,
 );
-$offcanvas-background: $light-gray;
+$offcanvas-background: $deep-blue; // (#566372) // Vanilla: $light-gray
 $offcanvas-shadow: 0 0 10px rgba($black, 0.7);
 $offcanvas-inner-shadow-size: 20px;
 $offcanvas-inner-shadow-color: rgba($black, 0.25);
