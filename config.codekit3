@@ -7462,13 +7462,6 @@
 		"oAP": "/src/data/_notes.txt",
 		"oF": 0
 		},
-	"/src/data/cdn.yml": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/src/data/cdn.yml",
-		"oF": 0
-		},
 	"/src/helpers/_notes.txt": {
 		"cB": 0,
 		"ft": 8192,
