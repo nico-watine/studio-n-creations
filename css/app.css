@@ -7907,7 +7907,7 @@ a.button:hover, a.button:focus {
   z-index: 12;
   transition: transform 0.5s ease;
   backface-visibility: hidden;
-  background: #e6e6e6;
+  background: #566372;
 }
 
 [data-whatinput='mouse'] .off-canvas {
@@ -7939,7 +7939,7 @@ a.button:hover, a.button:focus {
   z-index: 12;
   transition: transform 0.5s ease;
   backface-visibility: hidden;
-  background: #e6e6e6;
+  background: #566372;
 }
 
 [data-whatinput='mouse'] .off-canvas-absolute {
@@ -12011,7 +12011,7 @@ iframe#gfycatIE {
   bottom: 0;
   width: 100%;
   padding: 12.5rem 0 2.5rem;
-  background-image: linear-gradient(-180deg, transparent 0%, #000 100%);
+  background-image: linear-gradient(-180deg, rgba(0, 0, 0, 0) 0%, #000 100%);
 }
 
 @media screen and (min-width: 90em) {
