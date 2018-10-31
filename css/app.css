@@ -12179,6 +12179,15 @@ form#index-contact-form span.input-group-label.error {
   width: 100%;
 }
 
+#backgroundVideo {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  min-width: 100%;
+  min-height: 100%;
+  transform: translateX(-50%) translateY(-50%);
+}
+
 #index #mobileNavBar-wrapper {
   position: absolute;
   right: 0;
