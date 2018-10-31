@@ -11896,6 +11896,25 @@ footer .social-icons {
   margin: 0.125rem 0.125rem 0 0;
 }
 
+.splash-video-header {
+  background: #000;
+}
+
+.splash-video-header .prose-grid {
+  height: 80vh;
+  min-height: 300px;
+}
+
+.splash-video-header .prose-cell {
+  z-index: 20;
+  background-image: linear-gradient(-180deg, rgba(0, 0, 0, 0) 0%, #000 100%);
+}
+
+.splash-video-header .prose-cell h1 {
+  line-height: 1.2;
+  text-shadow: -4px 5px 0 rgba(0, 0, 0, 0.45);
+}
+
 #index .graphic-branding {
   background: #fff;
 }

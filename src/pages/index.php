@@ -10,19 +10,19 @@ body-class: index bodyLayout-unique
 ---
 <header class="splash-video-header grid-x position-relative overflow-hidden">
 	<div class="grid-container">
-		<div class="grid-x grid-padding-x align-bottom" style="height: 80vh; min-height: 300px;">
-			<div class="cell" style="z-index: 20; color: #fff; background-image: linear-gradient(-180deg, rgba(0,0,0,.00) 0%, #000 100%);">
-				<h1 style="line-height: 1.2; text-shadow: -4px 5px 0 rgba(0,0,0,0.45);">Studio N Creations</h1>
+		<div class="grid-x grid-padding-x align-bottom prose-grid">
+			<div class="prose-cell cell color-white">
+				<h1>Studio N Creations</h1>
 				<h2 class="fontWeight-400">Web Design <span class="display-inline-block">| Graphic Branding</span> <span class="display-inline-block">| Site Maintenance</span></h2>
 			</div>
 		</div>
 	</div>
 	<div class="grid-x position-absolute w-100 h-100" style="width: 100%; height: 100%;">
 		<div class="cell">
-			<video playsinline autoplay muted loop preload="auto" poster="poster.jpg" id="backgroundVideo">
-				<source src="img/index/website-mashup-video/studio-n-creations-website-mashup.mp4" type="video/mp4">
-				<source src="img/index/website-mashup-video/studio-n-creations-website-mashup.webm" type="video/webm">
-				<source src="img/index/website-mashup-video/studio-n-creations-website-mashup.ogv" type="video/ogg">
+			<video playsinline autoplay muted loop preload="auto" poster="/img/index/website-mashup-video/studio-n-creations-website-mashup-poster.jpg" id="backgroundVideo">
+				<source src="/img/index/website-mashup-video/studio-n-creations-website-mashup.mp4" type="video/mp4">
+				<source src="/img/index/website-mashup-video/studio-n-creations-website-mashup.webm" type="video/webm">
+				<source src="/img/index/website-mashup-video/studio-n-creations-website-mashup.ogv" type="video/ogg">
 			</video>
 		</div>
 	</div>

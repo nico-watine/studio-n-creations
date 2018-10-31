@@ -1,38 +1,20 @@
 
 .splash-video-header {
+	background: #000;
 
+	.prose-grid {
+		height: 80vh;
+		min-height: 300px;
+	}
+
+	.prose-cell {
+		z-index: 20;
+		background-image: linear-gradient(-180deg, rgba(0,0,0,.00) 0%, #000 100%);
+
+		h1 {
+			line-height: 1.2;
+			text-shadow: -4px 5px 0 rgba(0,0,0,0.45);
+		}
+	}
 }
 
-// $medium--min-height-460: 'only screen and (min-width: 40em) and (min-height : rem-calc(460))';
-// #index {
-// 	header {
-// 		position: relative;
-// 		background: $body-background url('#{$url}/img/index/header/1-small/small.jpg') left top/cover no-repeat;
-
-// 		@media #{$medium--min-height-460} {
-// 			background: $body-background url('#{$url}/img/index/header/gfycatVideo/gfycatVideo-poster.jpg') center center/cover no-repeat;
-// 		}
-
-// 		.prose {
-// 			position: absolute !important;
-// 			z-index: 10;
-// 			bottom: 0;
-// 			width: 100%;
-// 			padding: rem-calc(200) 0 rem-calc(40);
-// 			background-image: linear-gradient(-180deg, rgba(0,0,0,.00) 0%, #000 100%);
-
-// 			@include breakpoint(xxlarge) {
-// 				padding-left: rem-calc(100);
-// 			}
-// 		}
-
-// 		h1 {
-// 			line-height: 1.2;
-// 			text-shadow: rem-calc(-4) rem-calc(5) 0 rgba(0,0,0,.45);
-
-// 			@include breakpoint(medium) {
-// 				line-height: 1.1;
-// 			}
-// 		}
-// 	}
-// }
