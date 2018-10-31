@@ -8,19 +8,14 @@ og-image: /img/assets/og-images/index/studio-n-creations-og-image-1.png
 body-id: index
 body-class: bodyLayout-unique
 ---
-<header class="bgvid-container">
-	<div class="prose text-left color-white">
-		<div class="row expanded">
-			<div class="small-12 columns">
-				<h1>Studio N Creations</h1>
+<header style="background: red;">
+	<div class="grid-container">
+		<div class="grid-x align-bottom" style="height: 70vh;">
+			<div class="cell" style="color: #fff; background-image: linear-gradient(-180deg, rgba(0,0,0,.00) 0%, #000 100%);">
+				<h1 style="line-height: 1.2; text-shadow: -4px 5px 0 rgba(0,0,0,0.45);">Studio N Creations</h1>
 				<h2 class="fontWeight-400">Web Design <span class="display-inline-block">| Graphic Branding</span> <span class="display-inline-block">| Site Maintenance</span></h2>
 			</div>
 		</div>
-	</div>
-	<div class="gfyitem gfycatVideo" data-id="BaggyPossibleKiskadee"></div>
-	<div class="ie-only">
-		<div class="gfycat-cover" id="gfycat-cover"></div>
-		<iframe class="gfycatVideo" id="gfycatIE" src='https://gfycat.com/ifr/BaggyPossibleKiskadee' frameborder='0' scrolling='no' allowfullscreen></iframe>
 	</div>
 </header>
 <section class="intro-slogan">
