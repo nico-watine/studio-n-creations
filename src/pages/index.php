@@ -8,7 +8,7 @@ og-image: /img/assets/og-images/index/studio-n-creations-og-image-1.png
 body-id: index
 body-class: index bodyLayout-unique
 ---
-<header class="grid-x" style="position: relative; overflow: hidden;">
+<header class="splash-video-header grid-x position-relative overflow-hidden">
 	<div class="grid-container">
 		<div class="grid-x grid-padding-x align-bottom" style="height: 80vh; min-height: 300px;">
 			<div class="cell" style="z-index: 20; color: #fff; background-image: linear-gradient(-180deg, rgba(0,0,0,.00) 0%, #000 100%);">
