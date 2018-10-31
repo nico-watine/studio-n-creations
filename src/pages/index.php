@@ -10,7 +10,7 @@ body-class: bodyLayout-unique
 ---
 <header style="background: red;">
 	<div class="grid-container">
-		<div class="grid-x grid-padding-x align-bottom" style="height: 70vh;">
+		<div class="grid-x grid-padding-x align-bottom" style="height: 80vh; min-height: 300px;">
 			<div class="cell" style="color: #fff; background-image: linear-gradient(-180deg, rgba(0,0,0,.00) 0%, #000 100%);">
 				<h1 style="line-height: 1.2; text-shadow: -4px 5px 0 rgba(0,0,0,0.45);">Studio N Creations</h1>
 				<h2 class="fontWeight-400">Web Design <span class="display-inline-block">| Graphic Branding</span> <span class="display-inline-block">| Site Maintenance</span></h2>
