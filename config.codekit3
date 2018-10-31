@@ -6596,6 +6596,27 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/img/index/website-mashup/30fps-1000kbs-multi-automatic.oggtheora.ogv": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/img/index/website-mashup/30fps-1000kbs-multi-automatic.oggtheora.ogv",
+		"oF": 0
+		},
+	"/img/index/website-mashup/30fps-1000kbs-multi-automatic.webm": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/img/index/website-mashup/30fps-1000kbs-multi-automatic.webm",
+		"oF": 0
+		},
+	"/img/index/website-mashup/studio-n-creations-website-mashup.mp4": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/img/index/website-mashup/studio-n-creations-website-mashup.mp4",
+		"oF": 0
+		},
 	"/img/our-services/web-development/design-into-code-conversion/html5-logo-square.svg": {
 		"ft": 2097152,
 		"miP": 0,
