@@ -11902,12 +11902,13 @@ footer .social-icons {
 
 .splash-video-header .prose-grid {
   height: 80vh;
-  min-height: 300px;
+  min-height: 380px;
 }
 
 .splash-video-header .prose-cell {
   z-index: 20;
   background-image: linear-gradient(-180deg, rgba(0, 0, 0, 0) 0%, #000 100%);
+  padding-bottom: 2.5rem;
 }
 
 .splash-video-header .prose-cell h1 {
