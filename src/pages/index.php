@@ -13,7 +13,7 @@ body-class: index bodyLayout-unique
 		<div class="grid-x grid-padding-x align-bottom prose-grid">
 			<div class="prose-cell cell color-white">
 				<h1>Studio N Creations</h1>
-				<h2 class="fontWeight-400">Web Design <span class="display-inline-block">| Graphic Branding</span> <span class="display-inline-block">| Site Maintenance</span></h2>
+				<h2 class="fontWeight-400">Web Design <span class="display-inline-block">| Site Maintenance</span></h2>
 			</div>
 		</div>
 	</div>
