@@ -9,7 +9,7 @@ body-id: index
 body-class: index bodyLayout-unique
 ---
 <header class="splash-video-header grid-x position-relative overflow-hidden">
-	<div class="grid-container">
+	<div class="grid-container fluid" style="width: 100%;">
 		<div class="grid-x grid-padding-x align-bottom prose-grid">
 			<div class="prose-cell cell color-white">
 				<h1>Studio N Creations</h1>
