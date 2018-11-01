@@ -1,6 +1,6 @@
 
 .splash-video-header {
-	background: #000;
+	background: $body-background url('#{$url}/img/index/header/1-small/small.jpg') left top/cover no-repeat;
 
 	.prose-grid {
 		height: 80vh;

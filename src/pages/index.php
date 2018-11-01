@@ -19,7 +19,7 @@ body-class: index bodyLayout-unique
 			</div>
 		</div>
 	</div>
-	<div class="grid-x position-absolute w-100 h-100" style="width: 100%; height: 100%;">
+	<div class="grid-x position-absolute w-100 h-100 show-for-medium" style="width: 100%; height: 100%;">
 		<div class="cell">
 			<video playsinline autoplay muted loop preload="auto" poster="/img/index/website-mashup-video/studio-n-creations-website-mashup-poster.jpg" id="backgroundVideo">
 				<source src="/img/index/website-mashup-video/studio-n-creations-website-mashup.mp4" type="video/mp4">

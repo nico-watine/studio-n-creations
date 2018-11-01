@@ -11897,7 +11897,7 @@ footer .social-icons {
 }
 
 .splash-video-header {
-  background: #000;
+  background: #f4f4f4 url("/img/index/header/1-small/small.jpg") left top/cover no-repeat;
 }
 
 .splash-video-header .prose-grid {
