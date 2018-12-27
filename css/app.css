@@ -11896,139 +11896,33 @@ footer .social-icons {
   margin: 0.125rem 0.125rem 0 0;
 }
 
-.bgvid-container {
-  position: relative;
-  text-align: center;
-  top: 0;
-  left: 0;
-  overflow: hidden;
-  height: 28.75rem;
+.splash-video-header {
+  background: #f4f4f4 url("/img/index/website-mashup-video/studio-n-creations-website-mashup-poster.jpg") center center/cover no-repeat;
 }
 
-@media only screen and (min-height: 740px) {
-  .bgvid-container {
-    height: 43.75rem;
-  }
+.splash-video-header .prose-grid {
+  height: 80vh;
+  min-height: 380px;
 }
 
-@media only screen and (min-height: 870px) {
-  .bgvid-container {
-    height: 50rem;
-  }
-}
-
-@media only screen and (min-height: 1050px) {
-  .bgvid-container {
-    height: 56.25rem;
-  }
-}
-
-.bgvid-container div {
-  position: static !important;
-}
-
-.bgvid-container div .gfy-video {
-  position: absolute !important;
-  z-index: 1 !important;
-  left: 50% !important;
-  min-width: 100% !important;
-  min-height: 100% !important;
-  top: 50% !important;
-  -webkit-transform: translateX(-50%) translateY(-50%) !important;
-  transform: translateX(-50%) translateY(-50%) !important;
-  width: auto !important;
-  height: auto !important;
-}
-
-.gfycatVideo {
-  display: none;
-  visibility: hidden;
-}
-
-@media only screen and (min-width: 40em) and (min-height: 460px) {
-  .gfycatVideo {
-    display: block;
-    visibility: visible;
-  }
-}
-
-.gfycat-cover#gfycat-cover {
-  position: absolute !important;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  z-index: 10;
-}
-
-iframe#gfycatIE {
-  position: absolute;
-  width: 125rem;
-  top: 0;
-  left: -25rem;
-  height: 150%;
-}
-
-@media print, screen and (min-width: 64em) {
-  iframe#gfycatIE {
-    left: -12.5rem;
-    height: 210%;
-  }
-}
-
-@media only screen and (min-width: 64em) and (min-height: 740px) {
-  iframe#gfycatIE {
-    top: -18.75rem;
-  }
-}
-
-@media only screen and (min-width: 64em) and (min-height: 1050px) {
-  iframe#gfycatIE {
-    top: -25rem;
-  }
-}
-
-@media only screen and (min-width: 90em) and (min-height: 740px) {
-  iframe#gfycatIE {
-    left: 0;
-  }
-}
-
-#index header {
-  position: relative;
-  background: #f4f4f4 url("/img/index/header/1-small/small.jpg") left top/cover no-repeat;
-}
-
-@media only screen and (min-width: 40em) and (min-height: rem-calc(460)) {
-  #index header {
-    background: #f4f4f4 url("/img/index/header/gfycatVideo/gfycatVideo-poster.jpg") center center/cover no-repeat;
-  }
-}
-
-#index header .prose {
-  position: absolute !important;
-  z-index: 10;
-  bottom: 0;
-  width: 100%;
-  padding: 12.5rem 0 2.5rem;
+.splash-video-header .prose-cell {
+  z-index: 20;
   background-image: linear-gradient(-180deg, rgba(0, 0, 0, 0) 0%, #000 100%);
+  padding-bottom: 2.5rem;
 }
 
-@media screen and (min-width: 90em) {
-  #index header .prose {
-    padding-left: 6.25rem;
-  }
-}
-
-#index header h1 {
+.splash-video-header .prose-cell h1 {
   line-height: 1.2;
   text-shadow: -0.25rem 0.3125rem 0 rgba(0, 0, 0, 0.45);
 }
 
-@media print, screen and (min-width: 40em) {
-  #index header h1 {
-    line-height: 1.1;
-  }
+.splash-video-header #backgroundVideo {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  min-width: 100%;
+  min-height: 100%;
+  transform: translateX(-50%) translateY(-50%);
 }
 
 #index .graphic-branding {
