@@ -890,6 +890,28 @@
 		"oT": 1,
 		"q": 100
 		},
+	"/assets/assets/freeter/icons/projects/zaraza-design/project-icon.png": {
+		"ft": 32768,
+		"iS": 7877,
+		"oA": 1,
+		"oAP": "/assets/assets/freeter/icons/projects/zaraza-design/project-icon.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/assets/assets/freeter/icons/projects/zaraza-design/project-root.png": {
+		"ft": 32768,
+		"iS": 114052,
+		"oA": 1,
+		"oAP": "/assets/assets/freeter/icons/projects/zaraza-design/project-root.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"/assets/assets/freeter/icons/projects/zaraza-horzepa-wedding/project-icon.png": {
 		"ft": 32768,
 		"iS": 1632,
