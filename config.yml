@@ -64,7 +64,7 @@ PATHS:
     # - "bower_components/foundation-sites/dist/js/plugins/foundation.util.triggers.js"
     
     # Individual Foundation components
-    - "bower_components/foundation-sites/dist/js/plugins/foundation.abide.js"
+    # - "bower_components/foundation-sites/dist/js/plugins/foundation.abide.js"
     # - "bower_components/foundation-sites/dist/js/plugins/foundation.accordion.js"
     # - "bower_components/foundation-sites/dist/js/plugins/foundation.accordionMenu.js"
     # - "bower_components/foundation-sites/dist/js/plugins/foundation.drilldown.js"
