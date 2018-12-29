@@ -6398,6 +6398,12 @@
 		"oF": 0,
 		"oS": 0
 		},
+	"/dist": {
+		"ft": 65536,
+		"oA": 1,
+		"oAP": "/build/dist",
+		"oF": 0
+		},
 	"/gulpfile.babel.js": {
 		"ft": 64,
 		"ma": 0,
@@ -7126,6 +7132,19 @@
 		"oS": 0,
 		"uL": 1
 		},
+	"/scss/_var.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/css/_var.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
 	"/scss/app.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -7486,19 +7505,6 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "/scss/pages/our-services/css/_web-development.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"/scss/settings/_custom-settings.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "/scss/css/_custom-settings.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
