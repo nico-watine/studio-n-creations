@@ -890,6 +890,28 @@
 		"oT": 1,
 		"q": 100
 		},
+	"/assets/assets/freeter/icons/projects/zaraza-design/project-icon.png": {
+		"ft": 32768,
+		"iS": 7877,
+		"oA": 1,
+		"oAP": "/assets/assets/freeter/icons/projects/zaraza-design/project-icon.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/assets/assets/freeter/icons/projects/zaraza-design/project-root.png": {
+		"ft": 32768,
+		"iS": 114052,
+		"oA": 1,
+		"oAP": "/assets/assets/freeter/icons/projects/zaraza-design/project-root.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"/assets/assets/freeter/icons/projects/zaraza-horzepa-wedding/project-icon.png": {
 		"ft": 32768,
 		"iS": 1632,
@@ -6376,12 +6398,6 @@
 		"oF": 0,
 		"oS": 0
 		},
-	"/dist": {
-		"ft": 65536,
-		"oA": 1,
-		"oAP": "/build/dist",
-		"oF": 0
-		},
 	"/gulpfile.babel.js": {
 		"ft": 64,
 		"ma": 0,
@@ -6595,6 +6611,38 @@
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
+		},
+	"/img/index/website-mashup-video/studio-n-creations-website-mashup-poster.jpg": {
+		"ft": 16384,
+		"iS": 56597,
+		"jF": 0,
+		"oA": 1,
+		"oAP": "/img/index/website-mashup-video/studio-n-creations-website-mashup-poster.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/index/website-mashup-video/studio-n-creations-website-mashup.mp4": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/img/index/website-mashup-video/studio-n-creations-website-mashup.mp4",
+		"oF": 0
+		},
+	"/img/index/website-mashup-video/studio-n-creations-website-mashup.ogv": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/img/index/website-mashup-video/studio-n-creations-website-mashup.ogv",
+		"oF": 0
+		},
+	"/img/index/website-mashup-video/studio-n-creations-website-mashup.webm": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/img/index/website-mashup-video/studio-n-creations-website-mashup.webm",
+		"oF": 0
 		},
 	"/img/our-services/web-development/design-into-code-conversion/html5-logo-square.svg": {
 		"ft": 2097152,
@@ -7465,7 +7513,7 @@
 	"/src/data/cdn.yml": {
 		"cB": 0,
 		"ft": 8192,
-		"oA": 2,
+		"oA": 0,
 		"oAP": "/src/data/cdn.yml",
 		"oF": 0
 		},
@@ -9577,22 +9625,22 @@
 	"languageDefaultsUserDefined": [
 		{
 			"autoOutputAction": 1,
-			"autoOutputPathFilenamePattern": "*.html",
-			"autoOutputPathRelativePath": "",
-			"autoOutputPathReplace1": "",
-			"autoOutputPathReplace2": "",
-			"autoOutputPathStyle": 0,
-			"fileExtension": "html",
-			"shouldRunCacheBuster": 0
-			},
-		{
-			"autoOutputAction": 1,
 			"autoOutputPathFilenamePattern": "*.php",
 			"autoOutputPathRelativePath": "",
 			"autoOutputPathReplace1": "",
 			"autoOutputPathReplace2": "",
 			"autoOutputPathStyle": 0,
 			"fileExtension": "php",
+			"shouldRunCacheBuster": 0
+			},
+		{
+			"autoOutputAction": 1,
+			"autoOutputPathFilenamePattern": "*.html",
+			"autoOutputPathRelativePath": "",
+			"autoOutputPathReplace1": "",
+			"autoOutputPathReplace2": "",
+			"autoOutputPathStyle": 0,
+			"fileExtension": "html",
 			"shouldRunCacheBuster": 0
 			}
 		],

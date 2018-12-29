@@ -6,23 +6,30 @@ og-title: Web Design & Site Maintenance | Studio N Creations
 og-description: We create phone-friendly websites for projects of all sizes. From the design and branding to the coding and maintenance, we've got your web needs covered. Located in Houston, TX, available anywhere.
 og-image: /img/assets/og-images/index/studio-n-creations-og-image-1.png
 body-id: index
-body-class: bodyLayout-unique
+body-class: index bodyLayout-unique
 ---
-<header class="bgvid-container">
-	<div class="prose text-left color-white">
-		<div class="row expanded">
-			<div class="small-12 columns">
-				<h1>Studio N Creations</h1>
-				<h2 class="fontWeight-400">Web Design <span class="display-inline-block">| Graphic Branding</span> <span class="display-inline-block">| Site Maintenance</span></h2>
+<header class="splash-video-header grid-x position-relative overflow-hidden">
+	<div class="grid-container fluid" style="width: 100%;">
+		<div class="grid-x grid-padding-x align-bottom prose-grid">
+			<div class="prose-cell cell color-white">
+				<div class="grid-container">
+					<h1>Studio N Creations</h1>
+					<h2 class="fontWeight-400">Web Design <span class="display-inline-block">| Site Maintenance</span></h2>
+				</div>
 			</div>
 		</div>
 	</div>
-	<div class="gfyitem gfycatVideo" data-id="BaggyPossibleKiskadee"></div>
-	<div class="ie-only">
-		<div class="gfycat-cover" id="gfycat-cover"></div>
-		<iframe class="gfycatVideo" id="gfycatIE" src='https://gfycat.com/ifr/BaggyPossibleKiskadee' frameborder='0' scrolling='no' allowfullscreen></iframe>
+	<div class="grid-x position-absolute w-100 h-100" style="width: 100%; height: 100%;">
+		<div class="cell">
+			<video playsinline autoplay muted loop preload="auto" poster="{{ cdn }}/img/index/website-mashup-video/studio-n-creations-website-mashup-poster.jpg" id="backgroundVideo">
+				<source src="{{ cdn }}/img/index/website-mashup-video/studio-n-creations-website-mashup.mp4" type="video/mp4">
+				<source src="{{ cdn }}/img/index/website-mashup-video/studio-n-creations-website-mashup.webm" type="video/webm">
+				<source src="{{ cdn }}/img/index/website-mashup-video/studio-n-creations-website-mashup.ogv" type="video/ogg">
+			</video>
+		</div>
 	</div>
 </header>
+
 <section class="intro-slogan">
 	<div class="row">
 		<div class="medium-6 columns medium-text-right">
