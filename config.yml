@@ -58,7 +58,6 @@ PATHS:
     - "bower_components/foundation-sites/dist/js/plugins/foundation.util.motion.js"
     # - "bower_components/foundation-sites/dist/js/plugins/foundation.util.nest.js"
     # - "bower_components/foundation-sites/dist/js/plugins/foundation.util.timer.js"
-    # - "bower_components/foundation-sites/dist/js/plugins/foundation.util.timerAndImageLoader.js"
     # - "bower_components/foundation-sites/dist/js/plugins/foundation.util.touch.js"
     - "bower_components/foundation-sites/dist/js/plugins/foundation.util.triggers.js"
     
@@ -71,6 +70,7 @@ PATHS:
     # - "bower_components/foundation-sites/dist/js/plugins/foundation.dropdownMenu.js"
     - "bower_components/foundation-sites/dist/js/plugins/foundation.equalizer.js"
     # - "bower_components/foundation-sites/dist/js/plugins/foundation.interchange.js"
+    # - "bower_components/foundation-sites/dist/js/plugins/foundation.smoothScroll.js"
     # - "bower_components/foundation-sites/dist/js/plugins/foundation.magellan.js"
     - "bower_components/foundation-sites/dist/js/plugins/foundation.offcanvas.js"
     # - "bower_components/foundation-sites/dist/js/plugins/foundation.orbit.js"
@@ -79,12 +79,10 @@ PATHS:
     # - "bower_components/foundation-sites/dist/js/plugins/foundation.responsiveToggle.js"
     - "bower_components/foundation-sites/dist/js/plugins/foundation.reveal.js"
     # - "bower_components/foundation-sites/dist/js/plugins/foundation.slider.js"
-    # - "bower_components/foundation-sites/dist/js/plugins/foundation.smoothScroll.js"
     # - "bower_components/foundation-sites/dist/js/plugins/foundation.sticky.js"
     # - "bower_components/foundation-sites/dist/js/plugins/foundation.tabs.js"
     - "bower_components/foundation-sites/dist/js/plugins/foundation.toggler.js"
     - "bower_components/foundation-sites/dist/js/plugins/foundation.tooltip.js"
-    # - "bower_components/foundation-sites/dist/js/plugins/foundation.zf.responsiveAccordionTabs"
 
     # Main JS file (imports everything above)
     - "js/app-min.js"
