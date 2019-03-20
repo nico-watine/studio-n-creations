@@ -7248,17 +7248,6 @@
 		"oF": 0,
 		"oS": 0
 		},
-	"/gulpfile.babel.js": {
-		"bF": 0,
-		"ft": 64,
-		"ma": 0,
-		"mi": 0,
-		"oA": 1,
-		"oAP": "/gulpfile.babel-min.js",
-		"oF": 0,
-		"sC": 0,
-		"tS": 0
-		},
 	"/img/assets/icons/facebook.png": {
 		"ft": 32768,
 		"iS": 497,
