@@ -118,7 +118,7 @@ body-class: index bodyLayout-unique
 				<div class="projectCard-info">
 					<div class="prose">
 						<h3>Greencare Interior Plants</h3>
-						<h4>Project Name</h4>
+						<h4>Professional Plant Services</h4>
 						<br>
 						<a class="button" href="http://greencaretx.com/" target="_blank">www.GreencareTX.com</a>
 					</div>
@@ -128,7 +128,7 @@ body-class: index bodyLayout-unique
 				</div>
 			</div>
 		</div>
-		<div class="medium-6 columns">
+<!-- 		<div class="medium-6 columns">
 			<div class="projectCard text-center">
 				<div class="projectCard-info">
 					<div class="prose">
@@ -142,10 +142,10 @@ body-class: index bodyLayout-unique
 					<img srcset="{{ cdn }}/img/projects/lisa-esposito/index/projectCard/artist-lisa-esposito-website-thumbnail_2x.jpg 2x" src="{{ cdn }}/img/projects/lisa-esposito/index/projectCard/artist-lisa-esposito-website-thumbnail.jpg" alt="Dr Lisa Esposito website mockup">
 				</div>
 			</div>
-		</div>
+		</div> -->
 	</div>
 	<div class="row small-collapse xlarge-uncollapse">
-		<div class="medium-6 columns">
+<!-- 		<div class="medium-6 columns">
 			<div class="projectCard text-center">
 				<div class="projectCard-info">
 					<div class="prose">
@@ -159,13 +159,13 @@ body-class: index bodyLayout-unique
 					<img srcset="{{ cdn }}/img/projects/starhill-farms/index/projectCard/starhill-farms-website-thumbnail_2x.jpg 2x" src="{{ cdn }}/img/projects/starhill-farms/index/projectCard/starhill-farms-website-thumbnail.jpg" alt="Starhill Farms website mockup">
 				</div>
 			</div>
-		</div>
+		</div> -->
 		<div class="medium-6 columns">
 			<div class="projectCard text-center">
 				<div class="projectCard-info">
 					<div class="prose">
 						<h3>Jardin de France</h3>
-						<h4>Project Name</h4>
+						<h4>French Antiques Shop</h4>
 						<br>
 						<a class="button" href="http://jardindefrancetx.com/" target="_blank">www.JardinDeFranceTX.com</a>
 					</div>
