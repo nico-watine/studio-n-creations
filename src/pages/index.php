@@ -48,8 +48,41 @@ body-class: index bodyLayout-unique
 			<h3>Recent Projects</h3>
 		</div>
 	</div>
-	<!-- Tacupra & Miriam-Rodriguez -->
+	<!-- Miriam-Rodriguez & PALS -->
 	<div class="row small-collapse xlarge-uncollapse">
+		<div class="medium-6 columns">
+			<div class="projectCard text-center">
+				<div class="projectCard-info">
+					<div class="prose">
+						<h3>Miriam Rodríguez</h3>
+						<h4>International Bridal Couturier</h4>
+						<br>
+						<a class="button long-word" href="http://miriamrodriguez.com/eng/" target="_blank">www.MiriamRodriguez.com</a>
+					</div>
+				</div>
+				<div class="projectCard-image">
+					<img srcset="{{ cdn }}/img/projects/miriam-rodriguez/index/projectCard/miriam_rodriguez_website_2x.jpg 2x" src="{{ cdn }}/img/projects/miriam-rodriguez/index/projectCard/miriam_rodriguez_website.jpg" alt="Miriam Rodríguez Couturier website mockup">
+				</div>
+			</div>
+		</div>
+		<div class="medium-6 columns">
+			<div class="projectCard text-center" id="testCard">
+				<div class="projectCard-info">
+					<div class="prose">
+						<h3>Houston PALS</h3>
+						<h4>Specialized Veterinary Services</h4>
+						<br>
+						<a class="button" href="http://houstonpals.com/" target="_blank">www.HoustonPALS.com</a>
+					</div>
+				</div>
+				<div class="projectCard-image">
+					<img srcset="{{ cdn }}/img/projects/houston-pals/index/projectCard/houston-pals-logo-website-thumbnail_2x.jpg 2x" src="{{ cdn }}/img/projects/houston-pals/index/projectCard/houston-pals-logo-website-thumbnail.jpg" alt="Houston PALS website mockup">
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- Tacupra & Miriam-Rodriguez -->
+	<!-- <div class="row small-collapse xlarge-uncollapse">
 		<div class="medium-6 columns">
 			<div class="projectCard text-center" id="testCard">
 				<div class="projectCard-info">
@@ -80,21 +113,21 @@ body-class: index bodyLayout-unique
 				</div>
 			</div>
 		</div>
-	</div>
+	</div> -->
 	<!-- PALS & Essential Sound Production -->
 	<div class="row small-collapse xlarge-uncollapse">
 		<div class="medium-6 columns">
-			<div class="projectCard text-center" id="testCard">
+			<div class="projectCard text-center">
 				<div class="projectCard-info">
 					<div class="prose">
-						<h3>Houston PALS</h3>
-						<h4>Specialized Veterinary Services</h4>
+						<h3>The Deck On Fountainview</h3>
+						<h4>Restaurant Industry</h4>
 						<br>
-						<a class="button" href="http://houstonpals.com/" target="_blank">www.HoustonPALS.com</a>
+						<a class="button" href="http://thedeckonfountainview.com/" target="_blank">www.thedeckonfountainview.com</a>
 					</div>
 				</div>
 				<div class="projectCard-image">
-					<img srcset="{{ cdn }}/img/projects/houston-pals/index/projectCard/houston-pals-logo-website-thumbnail_2x.jpg 2x" src="{{ cdn }}/img/projects/houston-pals/index/projectCard/houston-pals-logo-website-thumbnail.jpg" alt="Houston PALS website mockup">
+					<img srcset="{{ cdn }}/img/projects/the-deck-on-fountainview/index/projectCard/deck-on-fountainview-website-thumbnail_2x.jpg 2x" src="{{ cdn }}/img/projects/the-deck-on-fountainview/index/projectCard/deck-on-fountainview-website-thumbnail.jpg" alt="The Deck On Fountainview website mockup">
 				</div>
 			</div>
 		</div>
@@ -114,28 +147,11 @@ body-class: index bodyLayout-unique
 			</div>
 		</div>
 	</div>
-	<!-- Greencare & JDF -->
 	<div class="row small-collapse xlarge-uncollapse">
 		<div class="medium-6 columns">
 			<div class="projectCard text-center">
 				<div class="projectCard-info">
 					<div class="prose">
-						<h3>Greencare Interior Plants</h3>
-						<h4>Professional Plant Services</h4>
-						<br>
-						<a class="button" href="http://greencaretx.com/" target="_blank">www.GreencareTX.com</a>
-					</div>
-				</div>
-				<div class="projectCard-image">
-					<img srcset="{{ cdn }}/img/projects/greencare-tx/index/projectCard/greencare-interior-plants-website-thumbnail_2x.jpg 2x" src="{{ cdn }}/img/projects/greencare-tx/index/projectCard/greencare-interior-plants-website-thumbnail.jpg" alt="Greencare Interior Plants website mockup">
-				</div>
-			</div>
-		</div>
-		<div class="medium-6 columns">
-			<div class="projectCard text-center">
-				<div class="projectCard-info">
-					<div class="prose">
-						<!-- Definitely optional project -->
 						<h3>Jardin de France</h3>
 						<h4>Brick & Mortar Antique Shop</h4>
 						<br>
@@ -144,6 +160,21 @@ body-class: index bodyLayout-unique
 				</div>
 				<div class="projectCard-image">
 					<img srcset="{{ cdn }}/img/projects/jardin-de-france-tx/index/projectCard/jardin-de-france-tx-website-thumbnail_2x.jpg 2x" src="{{ cdn }}/img/projects/jardin-de-france-tx/index/projectCard/jardin-de-france-tx-website-thumbnail.jpg" alt="Jardin de France TX website mockup">
+				</div>
+			</div>
+		</div>
+		<div class="medium-6 columns">
+			<div class="projectCard text-center">
+				<div class="projectCard-info">
+					<div class="prose">
+						<h3>Houston Interior Plants</h3>
+						<h4>E-Commerce Plant Shop</h4>
+						<br>
+						<a class="button" href="http://houstoninteriorplants.com/" target="_blank">www.HoustonInteriorPlants.com</a>
+					</div>
+				</div>
+				<div class="projectCard-image">
+					<img srcset="{{ cdn }}/img/projects/houston-interior-plants/index/projectCard/houston-interior-plants-website-thumbnail_2x.jpg 2x" src="{{ cdn }}/img/projects/houston-interior-plants/index/projectCard/houston-interior-plants-website-thumbnail.jpg" alt="Houston Interior Plants website mockup">
 				</div>
 			</div>
 		</div>
@@ -182,7 +213,7 @@ body-class: index bodyLayout-unique
 		</div>
 	</div> -->
 	<!-- DOFV & HIP -->
-	<div class="row small-collapse xlarge-uncollapse">
+	<!-- <div class="row small-collapse xlarge-uncollapse">
 		<div class="medium-6 columns">
 			<div class="projectCard text-center">
 				<div class="projectCard-info">
@@ -213,7 +244,7 @@ body-class: index bodyLayout-unique
 				</div>
 			</div>
 		</div>
-	</div>
+	</div> -->
 </section>
 <section class="graphic-branding">
 	<div class="row collapse" data-equalizer data-equalize-on="medium">
