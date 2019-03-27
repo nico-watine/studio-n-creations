@@ -132,6 +132,7 @@ body-class: index bodyLayout-unique
 			<div class="projectCard text-center">
 				<div class="projectCard-info">
 					<div class="prose">
+						<!-- Definitely optional project -->
 						<h3>Jardin de France</h3>
 						<h4>French Antiques Shop</h4>
 						<br>
