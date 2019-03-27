@@ -54,7 +54,7 @@ body-class: index bodyLayout-unique
 				<div class="projectCard-info">
 					<div class="prose">
 						<h3>Tacupra</h3>
-						<h4>Project Name</h4>
+						<h4>Automotive Industry</h4>
 						<br>
 						<a class="button" href="https://tacupra.com/" target="_blank">www.Tacupra.com</a>
 					</div>
@@ -69,7 +69,7 @@ body-class: index bodyLayout-unique
 				<div class="projectCard-info">
 					<div class="prose">
 						<h3>Miriam Rodríguez</h3>
-						<h4>Project Name</h4>
+						<h4>International Bridal Couturier</h4>
 						<br>
 						<a class="button long-word" href="http://miriamrodriguez.com/eng/" target="_blank">www.MiriamRodriguez.com</a>
 					</div>
@@ -86,7 +86,7 @@ body-class: index bodyLayout-unique
 				<div class="projectCard-info">
 					<div class="prose">
 						<h3>Houston PALS</h3>
-						<h4>Project Name</h4>
+						<h4>Specialized Veterinary Services</h4>
 						<br>
 						<a class="button" href="http://houstonpals.com/" target="_blank">www.HoustonPALS.com</a>
 					</div>
@@ -101,7 +101,7 @@ body-class: index bodyLayout-unique
 				<div class="projectCard-info">
 					<div class="prose">
 						<h3>Essential Sound Production</h3>
-						<h4>Project Name</h4>
+						<h4>DJ Music Services</h4>
 						<br>
 						<a class="button long-word" href="http://essentialsoundproduction.com/" target="_blank">www.EssentialSoundProduction.com</a>
 					</div>
