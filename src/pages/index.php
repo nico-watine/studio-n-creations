@@ -134,7 +134,7 @@ body-class: index bodyLayout-unique
 					<div class="prose">
 						<!-- Definitely optional project -->
 						<h3>Jardin de France</h3>
-						<h4>French Antiques Shop</h4>
+						<h4>Brick & Mortar Antique Shop</h4>
 						<br>
 						<a class="button" href="http://jardindefrancetx.com/" target="_blank">www.JardinDeFranceTX.com</a>
 					</div>
