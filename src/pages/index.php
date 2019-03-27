@@ -128,38 +128,6 @@ body-class: index bodyLayout-unique
 				</div>
 			</div>
 		</div>
-<!-- 		<div class="medium-6 columns">
-			<div class="projectCard text-center">
-				<div class="projectCard-info">
-					<div class="prose">
-						<h3>Artist Lisa Esposito</h3>
-						<h4>Client Name</h4>
-						<br>
-						<a class="button" href="http://www.lisaesposito.com/" target="_blank">www.LisaEsposito.com</a>
-					</div>
-				</div>
-				<div class="projectCard-image">
-					<img srcset="{{ cdn }}/img/projects/lisa-esposito/index/projectCard/artist-lisa-esposito-website-thumbnail_2x.jpg 2x" src="{{ cdn }}/img/projects/lisa-esposito/index/projectCard/artist-lisa-esposito-website-thumbnail.jpg" alt="Dr Lisa Esposito website mockup">
-				</div>
-			</div>
-		</div> -->
-	</div>
-	<div class="row small-collapse xlarge-uncollapse">
-<!-- 		<div class="medium-6 columns">
-			<div class="projectCard text-center">
-				<div class="projectCard-info">
-					<div class="prose">
-						<h3>StarHill Farms</h3>
-						<h4>Project Name</h4>
-						<br>
-						<a class="button" href="http://starhillfarms.com/" target="_blank">www.StarHillFarms.com</a>
-					</div>
-				</div>
-				<div class="projectCard-image">
-					<img srcset="{{ cdn }}/img/projects/starhill-farms/index/projectCard/starhill-farms-website-thumbnail_2x.jpg 2x" src="{{ cdn }}/img/projects/starhill-farms/index/projectCard/starhill-farms-website-thumbnail.jpg" alt="Starhill Farms website mockup">
-				</div>
-			</div>
-		</div> -->
 		<div class="medium-6 columns">
 			<div class="projectCard text-center">
 				<div class="projectCard-info">
@@ -176,6 +144,38 @@ body-class: index bodyLayout-unique
 			</div>
 		</div>
 	</div>
+	<!-- <div class="row small-collapse xlarge-uncollapse">
+		<div class="medium-6 columns">
+			<div class="projectCard text-center">
+				<div class="projectCard-info">
+					<div class="prose">
+						<h3>StarHill Farms</h3>
+						<h4>Project Name</h4>
+						<br>
+						<a class="button" href="http://starhillfarms.com/" target="_blank">www.StarHillFarms.com</a>
+					</div>
+				</div>
+				<div class="projectCard-image">
+					<img srcset="{{ cdn }}/img/projects/starhill-farms/index/projectCard/starhill-farms-website-thumbnail_2x.jpg 2x" src="{{ cdn }}/img/projects/starhill-farms/index/projectCard/starhill-farms-website-thumbnail.jpg" alt="Starhill Farms website mockup">
+				</div>
+			</div>
+		</div>
+		<div class="medium-6 columns">
+			<div class="projectCard text-center">
+				<div class="projectCard-info">
+					<div class="prose">
+						<h3>Artist Lisa Esposito</h3>
+						<h4>Client Name</h4>
+						<br>
+						<a class="button" href="http://www.lisaesposito.com/" target="_blank">www.LisaEsposito.com</a>
+					</div>
+				</div>
+				<div class="projectCard-image">
+					<img srcset="{{ cdn }}/img/projects/lisa-esposito/index/projectCard/artist-lisa-esposito-website-thumbnail_2x.jpg 2x" src="{{ cdn }}/img/projects/lisa-esposito/index/projectCard/artist-lisa-esposito-website-thumbnail.jpg" alt="Dr Lisa Esposito website mockup">
+				</div>
+			</div>
+		</div>
+	</div> -->
 	<div class="row small-collapse xlarge-uncollapse">
 		<div class="medium-6 columns">
 			<div class="projectCard text-center">
