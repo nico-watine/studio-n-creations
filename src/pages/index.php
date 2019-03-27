@@ -48,6 +48,7 @@ body-class: index bodyLayout-unique
 			<h3>Recent Projects</h3>
 		</div>
 	</div>
+	<!-- Tacupra & Miriam-Rodriguez -->
 	<div class="row small-collapse xlarge-uncollapse">
 		<div class="medium-6 columns">
 			<div class="projectCard text-center" id="testCard">
@@ -80,6 +81,7 @@ body-class: index bodyLayout-unique
 			</div>
 		</div>
 	</div>
+	<!-- PALS & Essential Sound Production -->
 	<div class="row small-collapse xlarge-uncollapse">
 		<div class="medium-6 columns">
 			<div class="projectCard text-center" id="testCard">
@@ -112,6 +114,7 @@ body-class: index bodyLayout-unique
 			</div>
 		</div>
 	</div>
+	<!-- Greencare & JDF -->
 	<div class="row small-collapse xlarge-uncollapse">
 		<div class="medium-6 columns">
 			<div class="projectCard text-center">
@@ -145,6 +148,7 @@ body-class: index bodyLayout-unique
 			</div>
 		</div>
 	</div>
+	<!-- Starhill Farms & Lisa Esposito -->
 	<!-- <div class="row small-collapse xlarge-uncollapse">
 		<div class="medium-6 columns">
 			<div class="projectCard text-center">
@@ -177,6 +181,7 @@ body-class: index bodyLayout-unique
 			</div>
 		</div>
 	</div> -->
+	<!-- DOFV & HIP -->
 	<div class="row small-collapse xlarge-uncollapse">
 		<div class="medium-6 columns">
 			<div class="projectCard text-center">
