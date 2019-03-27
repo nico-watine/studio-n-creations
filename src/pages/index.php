@@ -101,7 +101,7 @@ body-class: index bodyLayout-unique
 				<div class="projectCard-info">
 					<div class="prose">
 						<h3>Essential Sound Production</h3>
-						<h4>DJ Music Services</h4>
+						<h4>DJ Entertainment Services</h4>
 						<br>
 						<a class="button long-word" href="http://essentialsoundproduction.com/" target="_blank">www.EssentialSoundProduction.com</a>
 					</div>
