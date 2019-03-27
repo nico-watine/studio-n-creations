@@ -182,7 +182,7 @@ body-class: index bodyLayout-unique
 				<div class="projectCard-info">
 					<div class="prose">
 						<h3>The Deck On Fountainview</h3>
-						<h4>Project Name</h4>
+						<h4>Restaurant Industry</h4>
 						<br>
 						<a class="button" href="http://thedeckonfountainview.com/" target="_blank">www.thedeckonfountainview.com</a>
 					</div>
@@ -197,7 +197,7 @@ body-class: index bodyLayout-unique
 				<div class="projectCard-info">
 					<div class="prose">
 						<h3>Houston Interior Plants</h3>
-						<h4>Project Name</h4>
+						<h4>E-Commerce Plant Shop</h4>
 						<br>
 						<a class="button" href="http://houstoninteriorplants.com/" target="_blank">www.HoustonInteriorPlants.com</a>
 					</div>
