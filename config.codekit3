@@ -7264,6 +7264,12 @@
 		"oF": 0,
 		"oS": 0
 		},
+	"/dist": {
+		"ft": 65536,
+		"oA": 1,
+		"oAP": "/build/dist",
+		"oF": 0
+		},
 	"/gulpfile.babel.js": {
 		"bF": 0,
 		"ft": 64,
@@ -8427,14 +8433,6 @@
 		"hM": 0,
 		"oA": 1,
 		"oAP": "/src/data/_notes.txt",
-		"oF": 0
-		},
-	"/src/data/cdn.yml": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/src/data/cdn.yml",
 		"oF": 0
 		},
 	"/src/helpers/_notes.txt": {
