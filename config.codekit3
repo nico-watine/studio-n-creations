@@ -55,6 +55,14 @@
 		"oAP": "/_ignores/google-tag-manager-snippets.html",
 		"oF": 0
 		},
+	"/_ignores/head-schema.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 1,
+		"oAP": "/_ignores/head-schema.html",
+		"oF": 0
+		},
 	"/_ignores/head/favicon-linking.html": {
 		"cB": 0,
 		"ft": 8192,
