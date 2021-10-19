@@ -93,6 +93,13 @@
 			a {
 				font-size: rem-calc(22);
 				color: #fff;
+
+				#blog-count {
+					background: #C8DC65;
+					color: #000;
+					border-radius: 500px;
+					width: rem-calc(30);
+				}
 			}
 		}
 	}
