@@ -13,11 +13,14 @@ insert_final_newline = true
 trim_trailing_whitespace = false
 
 [config.yml]
+end_of_line = none
+insert_final_newline = none
 indent_style = space
 indent_size = 2
 
 [*.json]
-tab_width = 2
+indent_style = space
+indent_size = 2
 
 [{**-min.js,*.svg,**.min.js}]
 indent_style = ignore
