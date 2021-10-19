@@ -9,6 +9,14 @@
   ],
   "creatorBuild" : "34214",
   "files" : {
+    "\/_ignores\/autoprefixer-browser-string.txt" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/_ignores\/autoprefixer-browser-string.txt",
+      "oF" : 0
+    },
     "\/_ignores\/git-branch-previews\/feature\/obsolete\/index\/mockups-with-modals.png" : {
       "ft" : 32768,
       "iS" : 948833,
