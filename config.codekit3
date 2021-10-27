@@ -75,6 +75,14 @@
       "oAP" : "\/_ignores\/head\/head-references.html",
       "oF" : 0
     },
+    "\/_ignores\/htaccess\/force-https.txt" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/_ignores\/htaccess\/force-https.txt",
+      "oF" : 0
+    },
     "\/_ignores\/htaccess\/htaccess-develop.txt" : {
       "cB" : 0,
       "ft" : 8192,
@@ -8209,6 +8217,32 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/img\/our-services\/web-development\/design-into-code-conversion\/photoshop-2021_2x.png" : {
+      "ft" : 32768,
+      "iS" : 2338,
+      "oA" : 1,
+      "oAP" : "\/img\/our-services\/web-development\/design-into-code-conversion\/photoshop-2021_2x.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/img\/our-services\/web-development\/design-into-code-conversion\/photoshop-2021.png" : {
+      "ft" : 32768,
+      "iS" : 1655,
+      "oA" : 1,
+      "oAP" : "\/img\/our-services\/web-development\/design-into-code-conversion\/photoshop-2021.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/img\/our-services\/web-development\/design-into-code-conversion\/photoshop.png" : {
       "ft" : 32768,
       "iS" : 1043,
@@ -8227,6 +8261,32 @@
       "iS" : 7441,
       "oA" : 1,
       "oAP" : "\/img\/our-services\/web-development\/design-into-code-conversion\/sketch-app_2x.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/img\/our-services\/web-development\/design-into-code-conversion\/sketch-app-2021_2x.png" : {
+      "ft" : 32768,
+      "iS" : 14268,
+      "oA" : 1,
+      "oAP" : "\/img\/our-services\/web-development\/design-into-code-conversion\/sketch-app-2021_2x.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/img\/our-services\/web-development\/design-into-code-conversion\/sketch-app-2021.png" : {
+      "ft" : 32768,
+      "iS" : 6098,
+      "oA" : 1,
+      "oAP" : "\/img\/our-services\/web-development\/design-into-code-conversion\/sketch-app-2021.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -8491,7 +8551,7 @@
     },
     "\/img\/projects\/jardin-de-france-tx\/index\/projectCard\/jardin-de-france-tx-website-thumbnail_2x.jpg" : {
       "ft" : 16384,
-      "iS" : 123636,
+      "iS" : 122430,
       "jF" : 0,
       "oA" : 1,
       "oAP" : "\/img\/projects\/jardin-de-france-tx\/index\/projectCard\/jardin-de-france-tx-website-thumbnail_2x.jpg",
@@ -8504,7 +8564,7 @@
     },
     "\/img\/projects\/jardin-de-france-tx\/index\/projectCard\/jardin-de-france-tx-website-thumbnail.jpg" : {
       "ft" : 16384,
-      "iS" : 70366,
+      "iS" : 68371,
       "jF" : 0,
       "oA" : 1,
       "oAP" : "\/img\/projects\/jardin-de-france-tx\/index\/projectCard\/jardin-de-france-tx-website-thumbnail.jpg",
