@@ -57,7 +57,7 @@ body-class: index bodyLayout-unique
 						<h3>Miriam Rodríguez</h3>
 						<h4>International Bridal Couturier</h4>
 						<br>
-						<a class="button long-word" href="http://miriamrodriguez.com/eng/" target="_blank">www.MiriamRodriguez.com</a>
+						<a class="button long-word" href="http://miriamrodriguez.com/eng/">www.MiriamRodriguez.com</a>
 					</div>
 				</div>
 				<div class="projectCard-image">
@@ -72,7 +72,7 @@ body-class: index bodyLayout-unique
 						<h3>Houston PALS</h3>
 						<h4>Specialized Veterinary Services</h4>
 						<br>
-						<a class="button" href="http://houstonpals.com/" target="_blank">www.HoustonPALS.com</a>
+						<a class="button" href="https://houstonpals.com/">www.HoustonPALS.com</a>
 					</div>
 				</div>
 				<div class="projectCard-image">
@@ -90,7 +90,7 @@ body-class: index bodyLayout-unique
 						<h3>The Deck On Fountainview</h3>
 						<h4>Restaurant Industry</h4>
 						<br>
-						<a class="button" href="http://thedeckonfountainview.com/" target="_blank">www.thedeckonfountainview.com</a>
+						<a class="button" href="https://thedeckonfountainview.com/">www.thedeckonfountainview.com</a>
 					</div>
 				</div>
 				<div class="projectCard-image">
@@ -105,7 +105,7 @@ body-class: index bodyLayout-unique
 						<h3>Essential Sound Production</h3>
 						<h4>DJ Entertainment Services</h4>
 						<br>
-						<a class="button long-word" href="http://essentialsoundproduction.com/" target="_blank">www.EssentialSoundProduction.com</a>
+						<a class="button long-word" href="http://essentialsoundproduction.com/">www.EssentialSoundProduction.com</a>
 					</div>
 				</div>
 				<div class="projectCard-image">
@@ -123,7 +123,7 @@ body-class: index bodyLayout-unique
 						<h3>Jardin de France</h3>
 						<h4>Brick & Mortar Antique Shop</h4>
 						<br>
-						<a class="button" href="http://jardindefrancetx.com/" target="_blank">www.JardinDeFranceTX.com</a>
+						<a class="button" href="https://jardindefrancetx.com/">www.JardinDeFranceTX.com</a>
 					</div>
 				</div>
 				<div class="projectCard-image">
@@ -138,7 +138,7 @@ body-class: index bodyLayout-unique
 						<h3>Houston Interior Plants</h3>
 						<h4>E-Commerce Plant Shop</h4>
 						<br>
-						<a class="button" href="http://houstoninteriorplants.com/" target="_blank">www.HoustonInteriorPlants.com</a>
+						<a class="button" href="https://houstoninteriorplants.com/">www.HoustonInteriorPlants.com</a>
 					</div>
 				</div>
 				<div class="projectCard-image">
@@ -160,15 +160,15 @@ body-class: index bodyLayout-unique
 			<div class="row logos-row collapse">
 				<div class="medium-4 columns text-center column-1">
 					<div class="dynasty-sports-report-wrapper">
-						<img srcset="{{ cdn }}/img/projects/dynasty-sports-report/index/graphic-design/dynasty-sports-report-logo_2x.png 2x" src="{{ cdn }}/img/projects/dynasty-sports-report/index/graphic-design/dynasty-sports-report-logo.png" alt="Dynasty Sports Report logo" title="DynastySportsReport.com website logo - a Studio N Creation">
+						<img srcset="{{ cdn }}/img/projects/dynasty-sports-report/index/graphic-design/dynasty-sports-report-logo_2x.png 2x" src="{{ cdn }}/img/projects/dynasty-sports-report/index/graphic-design/dynasty-sports-report-logo.png" alt="Dynasty Sports Report logo" title="DynastySportsReport.com website logo">
 					</div>
-					<img class="dmesa-home-img show-for-large" srcset="{{ cdn }}/img/projects/dmesa/index/graphic-design/dmesa-logo_2x.png 2x" src="{{ cdn }}/img/projects/dmesa/index/graphic-design/dmesa-logo.png" alt="d'Mesa Home logo" title="d'Mesa Home company logo - a Studio N Creation">
+					<img class="dmesa-home-img show-for-large" srcset="{{ cdn }}/img/projects/dmesa/index/graphic-design/dmesa-logo_2x.png 2x" src="{{ cdn }}/img/projects/dmesa/index/graphic-design/dmesa-logo.png" alt="d'Mesa Home logo" title="d'Mesa Home company logo">
 				</div>
 				<div class="medium-push-4 medium-3 columns hide-for-large text-center dmesa-home-wrapper column-2">
-					<img srcset="{{ cdn }}/img/projects/dmesa/index/graphic-design/dmesa-logo_2x.png 2x" src="{{ cdn }}/img/projects/dmesa/index/graphic-design/dmesa-logo.png" alt="d'Mesa Home logo" title="d'Mesa Home company logo - a Studio N Creation">
+					<img srcset="{{ cdn }}/img/projects/dmesa/index/graphic-design/dmesa-logo_2x.png 2x" src="{{ cdn }}/img/projects/dmesa/index/graphic-design/dmesa-logo.png" alt="d'Mesa Home logo" title="d'Mesa Home company logo">
 				</div>
 				<div class="medium-5 large-8 columns jardin-de-france-wrapper column-3">
-					<img srcset="{{ cdn }}/img/projects/jardin-de-france-tx/index/graphic-design/jardin-de-france-price-tag_2x.jpg 2x" src="{{ cdn }}/img/projects/jardin-de-france-tx/index/graphic-design/jardin-de-france-price-tag.jpg" alt="Jardin de France TX logo" title="Jardin de France TX product price tag design - a Studio N Creation">
+					<img srcset="{{ cdn }}/img/projects/jardin-de-france-tx/index/graphic-design/jardin-de-france-price-tag_2x.jpg 2x" src="{{ cdn }}/img/projects/jardin-de-france-tx/index/graphic-design/jardin-de-france-price-tag.jpg" alt="Jardin de France TX logo" title="Jardin de France TX product price tag design">
 				</div>
 			</div>
 		</div>
@@ -187,7 +187,7 @@ body-class: index bodyLayout-unique
 		<div class="medium-8 large-9 columns prose">
 			<h3 class="show-for-medium">About Me</h3>
 			<h4>My name is <span itemprop="name">Nico Watine</span>, and I am the <span class="display-inline-block" itemprop="affiliation">Studio N Creations</span> team.</h4>
-			<p>I design, brand, code and maintain mobile-optimized websites for projects of all sizes. I’m located in Houston, TX, and am available for hire anywhere. I'm a <span itemprop="jobTitle">web developer</span> and am passionate about what I do. I love working with people who are excited about their new web project.</p>
+			<p>I design, brand, code and maintain mobile-optimized websites for projects of all sizes. I’m located in Houston, TX, and am available for hire anywhere. I'm a <span itemprop="jobTitle">web developer</span> at heart and am passionate about what I do. Get in touch and we'll get started.</p>
 		</div>
 	</div>
 </section>
