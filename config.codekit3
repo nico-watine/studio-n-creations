@@ -7,8 +7,16 @@
       "uuidString" : "D3AFDADF-58B6-45BD-9063-434B0C0A7D18"
     }
   ],
-  "creatorBuild" : "34127",
+  "creatorBuild" : "34214",
   "files" : {
+    "\/_ignores\/autoprefixer-browser-string.txt" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/_ignores\/autoprefixer-browser-string.txt",
+      "oF" : 0
+    },
     "\/_ignores\/git-branch-previews\/feature\/obsolete\/index\/mockups-with-modals.png" : {
       "ft" : 32768,
       "iS" : 948833,
@@ -67,6 +75,14 @@
       "oAP" : "\/_ignores\/head\/head-references.html",
       "oF" : 0
     },
+    "\/_ignores\/htaccess\/force-https.txt" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/_ignores\/htaccess\/force-https.txt",
+      "oF" : 0
+    },
     "\/_ignores\/htaccess\/htaccess-develop.txt" : {
       "cB" : 0,
       "ft" : 8192,
@@ -92,14 +108,15 @@
       "oF" : 0
     },
     "\/_ignores\/old-contact-files\/_some-sass.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/_ignores\/css\/_some-sass.css",
+      "oAP" : "\/css\/_some-sass.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
@@ -1400,8 +1417,9 @@
       "rq" : 75
     },
     "\/bower_components\/foundation-sites\/_vendor\/sassy-lists\/stylesheets\/functions\/_contain.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -1414,8 +1432,9 @@
       "sct" : 1
     },
     "\/bower_components\/foundation-sites\/_vendor\/sassy-lists\/stylesheets\/functions\/_purge.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -1428,8 +1447,9 @@
       "sct" : 1
     },
     "\/bower_components\/foundation-sites\/_vendor\/sassy-lists\/stylesheets\/functions\/_remove.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -1442,8 +1462,9 @@
       "sct" : 1
     },
     "\/bower_components\/foundation-sites\/_vendor\/sassy-lists\/stylesheets\/functions\/_replace.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -1456,8 +1477,9 @@
       "sct" : 1
     },
     "\/bower_components\/foundation-sites\/_vendor\/sassy-lists\/stylesheets\/functions\/_to-list.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -1470,8 +1492,9 @@
       "sct" : 1
     },
     "\/bower_components\/foundation-sites\/_vendor\/sassy-lists\/stylesheets\/helpers\/_missing-dependencies.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -1484,8 +1507,9 @@
       "sct" : 1
     },
     "\/bower_components\/foundation-sites\/_vendor\/sassy-lists\/stylesheets\/helpers\/_true.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -1522,8 +1546,9 @@
       "oF" : 0
     },
     "\/bower_components\/foundation-sites\/assets\/foundation-float.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -1536,8 +1561,9 @@
       "sct" : 1
     },
     "\/bower_components\/foundation-sites\/assets\/foundation-prototype.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -1550,8 +1576,9 @@
       "sct" : 1
     },
     "\/bower_components\/foundation-sites\/assets\/foundation-rtl.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -1564,8 +1591,9 @@
       "sct" : 1
     },
     "\/bower_components\/foundation-sites\/assets\/foundation.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -3841,8 +3869,9 @@
       "tS" : 0
     },
     "\/bower_components\/foundation-sites\/scss\/_global.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -3855,8 +3884,9 @@
       "sct" : 1
     },
     "\/bower_components\/foundation-sites\/scss\/components\/_accordion-menu.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -3869,8 +3899,9 @@
       "sct" : 1
     },
     "\/bower_components\/foundation-sites\/scss\/components\/_accordion.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -3883,8 +3914,9 @@
       "sct" : 1
     },
     "\/bower_components\/foundation-sites\/scss\/components\/_badge.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -3897,8 +3929,9 @@
       "sct" : 1
     },
     "\/bower_components\/foundation-sites\/scss\/components\/_breadcrumbs.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -3911,8 +3944,9 @@
       "sct" : 1
     },
     "\/bower_components\/foundation-sites\/scss\/components\/_button-group.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -3925,8 +3959,9 @@
       "sct" : 1
     },
     "\/bower_components\/foundation-sites\/scss\/components\/_button.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -3939,8 +3974,9 @@
       "sct" : 1
     },
     "\/bower_components\/foundation-sites\/scss\/components\/_callout.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -3953,8 +3989,9 @@
       "sct" : 1
     },
     "\/bower_components\/foundation-sites\/scss\/components\/_card.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -3967,8 +4004,9 @@
       "sct" : 1
     },
     "\/bower_components\/foundation-sites\/scss\/components\/_close-button.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -3981,8 +4019,9 @@
       "sct" : 1
     },
     "\/bower_components\/foundation-sites\/scss\/components\/_drilldown.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -3995,8 +4034,9 @@
       "sct" : 1
     },
     "\/bower_components\/foundation-sites\/scss\/components\/_dropdown-menu.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -4009,8 +4049,9 @@
       "sct" : 1
     },
     "\/bower_components\/foundation-sites\/scss\/components\/_dropdown.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -4023,8 +4064,9 @@
       "sct" : 1
     },
     "\/bower_components\/foundation-sites\/scss\/components\/_flex-video.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -4037,8 +4079,9 @@
       "sct" : 1
     },
     "\/bower_components\/foundation-sites\/scss\/components\/_flex.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -4051,8 +4094,9 @@
       "sct" : 1
     },
     "\/bower_components\/foundation-sites\/scss\/components\/_float.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -4065,8 +4109,9 @@
       "sct" : 1
     },
     "\/bower_components\/foundation-sites\/scss\/components\/_label.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -4079,8 +4124,9 @@
       "sct" : 1
     },
     "\/bower_components\/foundation-sites\/scss\/components\/_media-object.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -4093,8 +4139,9 @@
       "sct" : 1
     },
     "\/bower_components\/foundation-sites\/scss\/components\/_menu-icon.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -4107,8 +4154,9 @@
       "sct" : 1
     },
     "\/bower_components\/foundation-sites\/scss\/components\/_menu.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -4121,8 +4169,9 @@
       "sct" : 1
     },
     "\/bower_components\/foundation-sites\/scss\/components\/_off-canvas.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -4135,8 +4184,9 @@
       "sct" : 1
     },
     "\/bower_components\/foundation-sites\/scss\/components\/_orbit.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -4149,8 +4199,9 @@
       "sct" : 1
     },
     "\/bower_components\/foundation-sites\/scss\/components\/_pagination.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -4163,8 +4214,9 @@
       "sct" : 1
     },
     "\/bower_components\/foundation-sites\/scss\/components\/_progress-bar.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -4177,8 +4229,9 @@
       "sct" : 1
     },
     "\/bower_components\/foundation-sites\/scss\/components\/_responsive-embed.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -4191,8 +4244,9 @@
       "sct" : 1
     },
     "\/bower_components\/foundation-sites\/scss\/components\/_reveal.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -4205,8 +4259,9 @@
       "sct" : 1
     },
     "\/bower_components\/foundation-sites\/scss\/components\/_slider.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -4219,8 +4274,9 @@
       "sct" : 1
     },
     "\/bower_components\/foundation-sites\/scss\/components\/_sticky.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -4233,8 +4289,9 @@
       "sct" : 1
     },
     "\/bower_components\/foundation-sites\/scss\/components\/_switch.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -4247,8 +4304,9 @@
       "sct" : 1
     },
     "\/bower_components\/foundation-sites\/scss\/components\/_table.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -4261,8 +4319,9 @@
       "sct" : 1
     },
     "\/bower_components\/foundation-sites\/scss\/components\/_tabs.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -4275,8 +4334,9 @@
       "sct" : 1
     },
     "\/bower_components\/foundation-sites\/scss\/components\/_thumbnail.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -4289,8 +4349,9 @@
       "sct" : 1
     },
     "\/bower_components\/foundation-sites\/scss\/components\/_title-bar.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -4303,8 +4364,9 @@
       "sct" : 1
     },
     "\/bower_components\/foundation-sites\/scss\/components\/_tooltip.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -4317,8 +4379,9 @@
       "sct" : 1
     },
     "\/bower_components\/foundation-sites\/scss\/components\/_top-bar.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -4331,8 +4394,9 @@
       "sct" : 1
     },
     "\/bower_components\/foundation-sites\/scss\/components\/_visibility.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -4345,8 +4409,9 @@
       "sct" : 1
     },
     "\/bower_components\/foundation-sites\/scss\/forms\/_checkbox.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -4359,8 +4424,9 @@
       "sct" : 1
     },
     "\/bower_components\/foundation-sites\/scss\/forms\/_error.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -4373,8 +4439,9 @@
       "sct" : 1
     },
     "\/bower_components\/foundation-sites\/scss\/forms\/_fieldset.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -4387,8 +4454,9 @@
       "sct" : 1
     },
     "\/bower_components\/foundation-sites\/scss\/forms\/_forms.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -4401,8 +4469,9 @@
       "sct" : 1
     },
     "\/bower_components\/foundation-sites\/scss\/forms\/_help-text.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -4415,8 +4484,9 @@
       "sct" : 1
     },
     "\/bower_components\/foundation-sites\/scss\/forms\/_input-group.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -4429,8 +4499,9 @@
       "sct" : 1
     },
     "\/bower_components\/foundation-sites\/scss\/forms\/_label.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -4443,8 +4514,9 @@
       "sct" : 1
     },
     "\/bower_components\/foundation-sites\/scss\/forms\/_meter.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -4457,8 +4529,9 @@
       "sct" : 1
     },
     "\/bower_components\/foundation-sites\/scss\/forms\/_progress.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -4471,8 +4544,9 @@
       "sct" : 1
     },
     "\/bower_components\/foundation-sites\/scss\/forms\/_range.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -4485,8 +4559,9 @@
       "sct" : 1
     },
     "\/bower_components\/foundation-sites\/scss\/forms\/_select.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -4499,8 +4574,9 @@
       "sct" : 1
     },
     "\/bower_components\/foundation-sites\/scss\/forms\/_text.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -4513,13 +4589,14 @@
       "sct" : 1
     },
     "\/bower_components\/foundation-sites\/scss\/foundation.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
       "ma" : 0,
-      "oA" : 1,
+      "oA" : 2,
       "oAP" : "\/bower_components\/foundation-sites\/scss\/foundation.scss",
       "oF" : 0,
       "oS" : 0,
@@ -4527,8 +4604,9 @@
       "sct" : 1
     },
     "\/bower_components\/foundation-sites\/scss\/grid\/_classes.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -4541,8 +4619,9 @@
       "sct" : 1
     },
     "\/bower_components\/foundation-sites\/scss\/grid\/_column.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -4555,8 +4634,9 @@
       "sct" : 1
     },
     "\/bower_components\/foundation-sites\/scss\/grid\/_flex-grid.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -4569,8 +4649,9 @@
       "sct" : 1
     },
     "\/bower_components\/foundation-sites\/scss\/grid\/_grid.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -4583,8 +4664,9 @@
       "sct" : 1
     },
     "\/bower_components\/foundation-sites\/scss\/grid\/_gutter.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -4597,8 +4679,9 @@
       "sct" : 1
     },
     "\/bower_components\/foundation-sites\/scss\/grid\/_layout.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -4611,8 +4694,9 @@
       "sct" : 1
     },
     "\/bower_components\/foundation-sites\/scss\/grid\/_position.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -4625,8 +4709,9 @@
       "sct" : 1
     },
     "\/bower_components\/foundation-sites\/scss\/grid\/_row.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -4639,8 +4724,9 @@
       "sct" : 1
     },
     "\/bower_components\/foundation-sites\/scss\/grid\/_size.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -4653,8 +4739,9 @@
       "sct" : 1
     },
     "\/bower_components\/foundation-sites\/scss\/prototype\/_arrow.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -4667,8 +4754,9 @@
       "sct" : 1
     },
     "\/bower_components\/foundation-sites\/scss\/prototype\/_border-box.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -4681,8 +4769,9 @@
       "sct" : 1
     },
     "\/bower_components\/foundation-sites\/scss\/prototype\/_border-none.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -4695,8 +4784,9 @@
       "sct" : 1
     },
     "\/bower_components\/foundation-sites\/scss\/prototype\/_bordered.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -4709,8 +4799,9 @@
       "sct" : 1
     },
     "\/bower_components\/foundation-sites\/scss\/prototype\/_box.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -4723,8 +4814,9 @@
       "sct" : 1
     },
     "\/bower_components\/foundation-sites\/scss\/prototype\/_display.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -4737,8 +4829,9 @@
       "sct" : 1
     },
     "\/bower_components\/foundation-sites\/scss\/prototype\/_font-styling.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -4751,8 +4844,9 @@
       "sct" : 1
     },
     "\/bower_components\/foundation-sites\/scss\/prototype\/_list-style-type.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -4765,8 +4859,9 @@
       "sct" : 1
     },
     "\/bower_components\/foundation-sites\/scss\/prototype\/_overflow.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -4779,8 +4874,9 @@
       "sct" : 1
     },
     "\/bower_components\/foundation-sites\/scss\/prototype\/_position.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -4793,8 +4889,9 @@
       "sct" : 1
     },
     "\/bower_components\/foundation-sites\/scss\/prototype\/_prototype.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -4807,8 +4904,9 @@
       "sct" : 1
     },
     "\/bower_components\/foundation-sites\/scss\/prototype\/_relation.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -4821,8 +4919,9 @@
       "sct" : 1
     },
     "\/bower_components\/foundation-sites\/scss\/prototype\/_rotate.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -4835,8 +4934,9 @@
       "sct" : 1
     },
     "\/bower_components\/foundation-sites\/scss\/prototype\/_rounded.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -4849,8 +4949,9 @@
       "sct" : 1
     },
     "\/bower_components\/foundation-sites\/scss\/prototype\/_separator.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -4863,8 +4964,9 @@
       "sct" : 1
     },
     "\/bower_components\/foundation-sites\/scss\/prototype\/_shadow.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -4877,8 +4979,9 @@
       "sct" : 1
     },
     "\/bower_components\/foundation-sites\/scss\/prototype\/_sizing.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -4891,8 +4994,9 @@
       "sct" : 1
     },
     "\/bower_components\/foundation-sites\/scss\/prototype\/_spacing.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -4905,8 +5009,9 @@
       "sct" : 1
     },
     "\/bower_components\/foundation-sites\/scss\/prototype\/_text-decoration.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -4919,8 +5024,9 @@
       "sct" : 1
     },
     "\/bower_components\/foundation-sites\/scss\/prototype\/_text-transformation.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -4933,8 +5039,9 @@
       "sct" : 1
     },
     "\/bower_components\/foundation-sites\/scss\/prototype\/_text-utilities.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -4947,8 +5054,9 @@
       "sct" : 1
     },
     "\/bower_components\/foundation-sites\/scss\/settings\/_settings.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -4961,8 +5069,9 @@
       "sct" : 1
     },
     "\/bower_components\/foundation-sites\/scss\/typography\/_alignment.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -4975,8 +5084,9 @@
       "sct" : 1
     },
     "\/bower_components\/foundation-sites\/scss\/typography\/_base.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -4989,8 +5099,9 @@
       "sct" : 1
     },
     "\/bower_components\/foundation-sites\/scss\/typography\/_helpers.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -5003,8 +5114,9 @@
       "sct" : 1
     },
     "\/bower_components\/foundation-sites\/scss\/typography\/_print.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -5017,8 +5129,9 @@
       "sct" : 1
     },
     "\/bower_components\/foundation-sites\/scss\/typography\/_typography.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -5031,8 +5144,9 @@
       "sct" : 1
     },
     "\/bower_components\/foundation-sites\/scss\/util\/_breakpoint.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -5045,8 +5159,9 @@
       "sct" : 1
     },
     "\/bower_components\/foundation-sites\/scss\/util\/_color.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -5059,8 +5174,9 @@
       "sct" : 1
     },
     "\/bower_components\/foundation-sites\/scss\/util\/_direction.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -5073,8 +5189,9 @@
       "sct" : 1
     },
     "\/bower_components\/foundation-sites\/scss\/util\/_flex.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -5087,8 +5204,9 @@
       "sct" : 1
     },
     "\/bower_components\/foundation-sites\/scss\/util\/_math.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -5101,8 +5219,9 @@
       "sct" : 1
     },
     "\/bower_components\/foundation-sites\/scss\/util\/_mixins.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -5115,8 +5234,9 @@
       "sct" : 1
     },
     "\/bower_components\/foundation-sites\/scss\/util\/_selector.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -5129,8 +5249,9 @@
       "sct" : 1
     },
     "\/bower_components\/foundation-sites\/scss\/util\/_typography.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -5143,8 +5264,9 @@
       "sct" : 1
     },
     "\/bower_components\/foundation-sites\/scss\/util\/_unit.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -5157,8 +5279,9 @@
       "sct" : 1
     },
     "\/bower_components\/foundation-sites\/scss\/util\/_util.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -5171,8 +5294,9 @@
       "sct" : 1
     },
     "\/bower_components\/foundation-sites\/scss\/util\/_value.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -5185,13 +5309,14 @@
       "sct" : 1
     },
     "\/bower_components\/foundation-sites\/scss\/vendor\/normalize.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
       "ma" : 0,
-      "oA" : 1,
+      "oA" : 2,
       "oAP" : "\/bower_components\/foundation-sites\/scss\/vendor\/normalize.scss",
       "oF" : 0,
       "oS" : 0,
@@ -5199,8 +5324,9 @@
       "sct" : 1
     },
     "\/bower_components\/foundation-sites\/scss\/xy-grid\/_cell.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -5213,8 +5339,9 @@
       "sct" : 1
     },
     "\/bower_components\/foundation-sites\/scss\/xy-grid\/_classes.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -5227,8 +5354,9 @@
       "sct" : 1
     },
     "\/bower_components\/foundation-sites\/scss\/xy-grid\/_collapse.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -5241,8 +5369,9 @@
       "sct" : 1
     },
     "\/bower_components\/foundation-sites\/scss\/xy-grid\/_frame.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -5255,8 +5384,9 @@
       "sct" : 1
     },
     "\/bower_components\/foundation-sites\/scss\/xy-grid\/_grid.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -5269,8 +5399,9 @@
       "sct" : 1
     },
     "\/bower_components\/foundation-sites\/scss\/xy-grid\/_gutters.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -5283,8 +5414,9 @@
       "sct" : 1
     },
     "\/bower_components\/foundation-sites\/scss\/xy-grid\/_layout.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -5297,8 +5429,9 @@
       "sct" : 1
     },
     "\/bower_components\/foundation-sites\/scss\/xy-grid\/_position.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -5311,8 +5444,9 @@
       "sct" : 1
     },
     "\/bower_components\/foundation-sites\/scss\/xy-grid\/_xy-grid.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -5355,17 +5489,6 @@
       "oF" : 0,
       "oO" : 0,
       "oS" : 1
-    },
-    "\/bower_components\/jquery\/dist\/core.js" : {
-      "bF" : 0,
-      "ft" : 64,
-      "ma" : 0,
-      "mi" : 0,
-      "oA" : 2,
-      "oAP" : "\/bower_components\/jquery\/dist\/core.js",
-      "oF" : 0,
-      "sC" : 0,
-      "tS" : 0
     },
     "\/bower_components\/jquery\/dist\/jquery.js" : {
       "bF" : 0,
@@ -5492,14 +5615,6 @@
       "rFN" : 0,
       "uCM" : 0
     },
-    "\/bower_components\/jquery\/src\/.eslintrc.json" : {
-      "ft" : 524288,
-      "oA" : 1,
-      "oAP" : "\/bower_components\/jquery\/src\/.eslintrc.json",
-      "oF" : 0,
-      "oO" : 0,
-      "oS" : 1
-    },
     "\/bower_components\/jquery\/src\/ajax.js" : {
       "bF" : 0,
       "ft" : 64,
@@ -5529,17 +5644,6 @@
       "mi" : 0,
       "oA" : 2,
       "oAP" : "\/bower_components\/jquery\/src\/ajax\/load.js",
-      "oF" : 0,
-      "sC" : 0,
-      "tS" : 0
-    },
-    "\/bower_components\/jquery\/src\/ajax\/parseXML.js" : {
-      "bF" : 0,
-      "ft" : 64,
-      "ma" : 0,
-      "mi" : 0,
-      "oA" : 2,
-      "oAP" : "\/bower_components\/jquery\/src\/ajax\/parseXML.js",
       "oF" : 0,
       "sC" : 0,
       "tS" : 0
@@ -5731,6 +5835,17 @@
       "sC" : 0,
       "tS" : 0
     },
+    "\/bower_components\/jquery\/src\/core\/isAttached.js" : {
+      "bF" : 0,
+      "ft" : 64,
+      "ma" : 0,
+      "mi" : 1,
+      "oA" : 2,
+      "oAP" : "\/bower_components\/jquery\/src\/core\/isAttached.js",
+      "oF" : 0,
+      "sC" : 3,
+      "tS" : 0
+    },
     "\/bower_components\/jquery\/src\/core\/nodeName.js" : {
       "bF" : 0,
       "ft" : 64,
@@ -5751,6 +5866,17 @@
       "oAP" : "\/bower_components\/jquery\/src\/core\/parseHTML.js",
       "oF" : 0,
       "sC" : 0,
+      "tS" : 0
+    },
+    "\/bower_components\/jquery\/src\/core\/parseXML.js" : {
+      "bF" : 0,
+      "ft" : 64,
+      "ma" : 0,
+      "mi" : 1,
+      "oA" : 2,
+      "oAP" : "\/bower_components\/jquery\/src\/core\/parseXML.js",
+      "oF" : 0,
+      "sC" : 3,
       "tS" : 0
     },
     "\/bower_components\/jquery\/src\/core\/ready-no-deferred.js" : {
@@ -5872,6 +5998,17 @@
       "oAP" : "\/bower_components\/jquery\/src\/css\/curCSS.js",
       "oF" : 0,
       "sC" : 0,
+      "tS" : 0
+    },
+    "\/bower_components\/jquery\/src\/css\/finalPropName.js" : {
+      "bF" : 0,
+      "ft" : 64,
+      "ma" : 0,
+      "mi" : 1,
+      "oA" : 2,
+      "oAP" : "\/bower_components\/jquery\/src\/css\/finalPropName.js",
+      "oF" : 0,
+      "sC" : 3,
       "tS" : 0
     },
     "\/bower_components\/jquery\/src\/css\/hiddenVisibleSelectors.js" : {
@@ -6061,6 +6198,28 @@
       "sC" : 0,
       "tS" : 0
     },
+    "\/bower_components\/jquery\/src\/deprecated\/ajax-event-alias.js" : {
+      "bF" : 0,
+      "ft" : 64,
+      "ma" : 0,
+      "mi" : 1,
+      "oA" : 2,
+      "oAP" : "\/bower_components\/jquery\/src\/deprecated\/ajax-event-alias.js",
+      "oF" : 0,
+      "sC" : 3,
+      "tS" : 0
+    },
+    "\/bower_components\/jquery\/src\/deprecated\/event.js" : {
+      "bF" : 0,
+      "ft" : 64,
+      "ma" : 0,
+      "mi" : 1,
+      "oA" : 2,
+      "oAP" : "\/bower_components\/jquery\/src\/deprecated\/event.js",
+      "oF" : 0,
+      "sC" : 3,
+      "tS" : 0
+    },
     "\/bower_components\/jquery\/src\/dimensions.js" : {
       "bF" : 0,
       "ft" : 64,
@@ -6112,28 +6271,6 @@
       "mi" : 0,
       "oA" : 2,
       "oAP" : "\/bower_components\/jquery\/src\/event.js",
-      "oF" : 0,
-      "sC" : 0,
-      "tS" : 0
-    },
-    "\/bower_components\/jquery\/src\/event\/ajax.js" : {
-      "bF" : 0,
-      "ft" : 64,
-      "ma" : 0,
-      "mi" : 0,
-      "oA" : 2,
-      "oAP" : "\/bower_components\/jquery\/src\/event\/ajax.js",
-      "oF" : 0,
-      "sC" : 0,
-      "tS" : 0
-    },
-    "\/bower_components\/jquery\/src\/event\/alias.js" : {
-      "bF" : 0,
-      "ft" : 64,
-      "ma" : 0,
-      "mi" : 0,
-      "oA" : 2,
-      "oAP" : "\/bower_components\/jquery\/src\/event\/alias.js",
       "oF" : 0,
       "sC" : 0,
       "tS" : 0
@@ -6266,17 +6403,6 @@
       "mi" : 0,
       "oA" : 2,
       "oAP" : "\/bower_components\/jquery\/src\/manipulation\/support.js",
-      "oF" : 0,
-      "sC" : 0,
-      "tS" : 0
-    },
-    "\/bower_components\/jquery\/src\/manipulation\/var\/rcheckableType.js" : {
-      "bF" : 0,
-      "ft" : 64,
-      "ma" : 0,
-      "mi" : 0,
-      "oA" : 2,
-      "oAP" : "\/bower_components\/jquery\/src\/manipulation\/var\/rcheckableType.js",
       "oF" : 0,
       "sC" : 0,
       "tS" : 0
@@ -6468,17 +6594,6 @@
       "sC" : 0,
       "tS" : 0
     },
-    "\/bower_components\/jquery\/src\/var\/concat.js" : {
-      "bF" : 0,
-      "ft" : 64,
-      "ma" : 0,
-      "mi" : 0,
-      "oA" : 2,
-      "oAP" : "\/bower_components\/jquery\/src\/var\/concat.js",
-      "oF" : 0,
-      "sC" : 0,
-      "tS" : 0
-    },
     "\/bower_components\/jquery\/src\/var\/document.js" : {
       "bF" : 0,
       "ft" : 64,
@@ -6499,6 +6614,17 @@
       "oAP" : "\/bower_components\/jquery\/src\/var\/documentElement.js",
       "oF" : 0,
       "sC" : 0,
+      "tS" : 0
+    },
+    "\/bower_components\/jquery\/src\/var\/flat.js" : {
+      "bF" : 0,
+      "ft" : 64,
+      "ma" : 0,
+      "mi" : 1,
+      "oA" : 2,
+      "oAP" : "\/bower_components\/jquery\/src\/var\/flat.js",
+      "oF" : 0,
+      "sC" : 3,
       "tS" : 0
     },
     "\/bower_components\/jquery\/src\/var\/fnToString.js" : {
@@ -6598,6 +6724,17 @@
       "oAP" : "\/bower_components\/jquery\/src\/var\/push.js",
       "oF" : 0,
       "sC" : 0,
+      "tS" : 0
+    },
+    "\/bower_components\/jquery\/src\/var\/rcheckableType.js" : {
+      "bF" : 0,
+      "ft" : 64,
+      "ma" : 0,
+      "mi" : 1,
+      "oA" : 2,
+      "oAP" : "\/bower_components\/jquery\/src\/var\/rcheckableType.js",
+      "oF" : 0,
+      "sC" : 3,
       "tS" : 0
     },
     "\/bower_components\/jquery\/src\/var\/rcssNum.js" : {
@@ -6968,8 +7105,9 @@
       "tS" : 0
     },
     "\/bower_components\/motion-ui\/motion-ui.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -7028,8 +7166,9 @@
       "uCM" : 0
     },
     "\/bower_components\/motion-ui\/src\/_classes.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -7042,8 +7181,9 @@
       "sct" : 1
     },
     "\/bower_components\/motion-ui\/src\/_settings.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -7056,8 +7196,9 @@
       "sct" : 1
     },
     "\/bower_components\/motion-ui\/src\/effects\/_fade.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -7070,8 +7211,9 @@
       "sct" : 1
     },
     "\/bower_components\/motion-ui\/src\/effects\/_hinge.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -7084,8 +7226,9 @@
       "sct" : 1
     },
     "\/bower_components\/motion-ui\/src\/effects\/_shake.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -7098,8 +7241,9 @@
       "sct" : 1
     },
     "\/bower_components\/motion-ui\/src\/effects\/_slide.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -7112,8 +7256,9 @@
       "sct" : 1
     },
     "\/bower_components\/motion-ui\/src\/effects\/_spin.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -7126,8 +7271,9 @@
       "sct" : 1
     },
     "\/bower_components\/motion-ui\/src\/effects\/_wiggle.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -7140,8 +7286,9 @@
       "sct" : 1
     },
     "\/bower_components\/motion-ui\/src\/effects\/_zoom.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -7154,13 +7301,14 @@
       "sct" : 1
     },
     "\/bower_components\/motion-ui\/src\/motion-ui.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
       "ma" : 0,
-      "oA" : 1,
+      "oA" : 2,
       "oAP" : "\/bower_components\/motion-ui\/src\/motion-ui.scss",
       "oF" : 0,
       "oS" : 0,
@@ -7168,8 +7316,9 @@
       "sct" : 1
     },
     "\/bower_components\/motion-ui\/src\/transitions\/_fade.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -7182,8 +7331,9 @@
       "sct" : 1
     },
     "\/bower_components\/motion-ui\/src\/transitions\/_hinge.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -7196,8 +7346,9 @@
       "sct" : 1
     },
     "\/bower_components\/motion-ui\/src\/transitions\/_slide.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -7210,8 +7361,9 @@
       "sct" : 1
     },
     "\/bower_components\/motion-ui\/src\/transitions\/_spin.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -7224,8 +7376,9 @@
       "sct" : 1
     },
     "\/bower_components\/motion-ui\/src\/transitions\/_zoom.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -7238,8 +7391,9 @@
       "sct" : 1
     },
     "\/bower_components\/motion-ui\/src\/util\/_animation.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -7252,8 +7406,9 @@
       "sct" : 1
     },
     "\/bower_components\/motion-ui\/src\/util\/_args.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -7266,8 +7421,9 @@
       "sct" : 1
     },
     "\/bower_components\/motion-ui\/src\/util\/_function.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -7280,8 +7436,9 @@
       "sct" : 1
     },
     "\/bower_components\/motion-ui\/src\/util\/_keyframe.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -7294,8 +7451,9 @@
       "sct" : 1
     },
     "\/bower_components\/motion-ui\/src\/util\/_selector.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -7308,8 +7466,9 @@
       "sct" : 1
     },
     "\/bower_components\/motion-ui\/src\/util\/_series.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -7322,8 +7481,9 @@
       "sct" : 1
     },
     "\/bower_components\/motion-ui\/src\/util\/_string.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -7336,8 +7496,9 @@
       "sct" : 1
     },
     "\/bower_components\/motion-ui\/src\/util\/_transition.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -7350,8 +7511,9 @@
       "sct" : 1
     },
     "\/bower_components\/motion-ui\/src\/util\/_unit.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -7379,12 +7541,28 @@
       "oO" : 0,
       "oS" : 1
     },
+    "\/bower_components\/what-input\/.browserslistrc" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/bower_components\/what-input\/.browserslistrc",
+      "oF" : 0
+    },
     "\/bower_components\/what-input\/.editorconfig" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 2,
       "oAP" : "\/bower_components\/what-input\/.editorconfig",
+      "oF" : 0
+    },
+    "\/bower_components\/what-input\/.eslintrc" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/bower_components\/what-input\/.eslintrc",
       "oF" : 0
     },
     "\/bower_components\/what-input\/.gitignore" : {
@@ -7395,6 +7573,14 @@
       "oAP" : "\/bower_components\/what-input\/.gitignore",
       "oF" : 0
     },
+    "\/bower_components\/what-input\/.nvmrc" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/bower_components\/what-input\/.nvmrc",
+      "oF" : 0
+    },
     "\/bower_components\/what-input\/.prettierrc" : {
       "cB" : 0,
       "ft" : 8192,
@@ -7403,12 +7589,12 @@
       "oAP" : "\/bower_components\/what-input\/.prettierrc",
       "oF" : 0
     },
-    "\/bower_components\/what-input\/dist\/maps\/what-input.min.js.map" : {
+    "\/bower_components\/what-input\/.stylelintrc" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 2,
-      "oAP" : "\/bower_components\/what-input\/dist\/maps\/what-input.min.js.map",
+      "oAP" : "\/bower_components\/what-input\/.stylelintrc",
       "oF" : 0
     },
     "\/bower_components\/what-input\/dist\/what-input.js" : {
@@ -7432,6 +7618,14 @@
       "oF" : 0,
       "sC" : 0,
       "tS" : 0
+    },
+    "\/bower_components\/what-input\/dist\/what-input.min.js.map" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/bower_components\/what-input\/dist\/what-input.min.js.map",
+      "oF" : 0
     },
     "\/bower_components\/what-input\/Gulpfile.js" : {
       "bF" : 0,
@@ -7497,6 +7691,20 @@
       "oAP" : "\/bower_components\/what-input\/src\/markup\/index.html",
       "oF" : 0
     },
+    "\/bower_components\/what-input\/src\/scripts\/what-input.d.ts" : {
+      "cDF" : 0,
+      "ft" : 128,
+      "jxM" : 0,
+      "ma" : 0,
+      "mi" : 0,
+      "moR" : 0,
+      "moT" : 2,
+      "oA" : 2,
+      "oAP" : "\/bower_components\/what-input\/src\/scripts\/what-input.d.ts",
+      "oF" : 0,
+      "rC" : 0,
+      "tEC" : 0
+    },
     "\/bower_components\/what-input\/src\/scripts\/what-input.js" : {
       "bF" : 0,
       "ft" : 64,
@@ -7509,8 +7717,9 @@
       "tS" : 0
     },
     "\/bower_components\/what-input\/src\/styles\/_html.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -7523,8 +7732,9 @@
       "sct" : 1
     },
     "\/bower_components\/what-input\/src\/styles\/_layout.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -7537,8 +7747,9 @@
       "sct" : 1
     },
     "\/bower_components\/what-input\/src\/styles\/_mixins.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -7551,8 +7762,9 @@
       "sct" : 1
     },
     "\/bower_components\/what-input\/src\/styles\/_variables.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -7565,8 +7777,9 @@
       "sct" : 1
     },
     "\/bower_components\/what-input\/src\/styles\/index.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -7618,6 +7831,70 @@
       "ft" : 65536,
       "oA" : 1,
       "oAP" : "\/dist",
+      "oF" : 0
+    },
+    "\/fonts\/lato-v17-latin-300.woff" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/fonts\/lato-v17-latin-300.woff",
+      "oF" : 0
+    },
+    "\/fonts\/lato-v17-latin-300.woff2" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/fonts\/lato-v17-latin-300.woff2",
+      "oF" : 0
+    },
+    "\/fonts\/lato-v17-latin-700.woff" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/fonts\/lato-v17-latin-700.woff",
+      "oF" : 0
+    },
+    "\/fonts\/lato-v17-latin-700.woff2" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/fonts\/lato-v17-latin-700.woff2",
+      "oF" : 0
+    },
+    "\/fonts\/lato-v17-latin-regular.woff" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/fonts\/lato-v17-latin-regular.woff",
+      "oF" : 0
+    },
+    "\/fonts\/lato-v17-latin-regular.woff2" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/fonts\/lato-v17-latin-regular.woff2",
+      "oF" : 0
+    },
+    "\/fonts\/source-code-pro-v14-latin-600.woff" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/fonts\/source-code-pro-v14-latin-600.woff",
+      "oF" : 0
+    },
+    "\/fonts\/source-code-pro-v14-latin-600.woff2" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/fonts\/source-code-pro-v14-latin-600.woff2",
       "oF" : 0
     },
     "\/gulpfile.babel.js" : {
@@ -7940,6 +8217,32 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/img\/our-services\/web-development\/design-into-code-conversion\/photoshop-2021_2x.png" : {
+      "ft" : 32768,
+      "iS" : 2338,
+      "oA" : 1,
+      "oAP" : "\/img\/our-services\/web-development\/design-into-code-conversion\/photoshop-2021_2x.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/img\/our-services\/web-development\/design-into-code-conversion\/photoshop-2021.png" : {
+      "ft" : 32768,
+      "iS" : 1655,
+      "oA" : 1,
+      "oAP" : "\/img\/our-services\/web-development\/design-into-code-conversion\/photoshop-2021.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/img\/our-services\/web-development\/design-into-code-conversion\/photoshop.png" : {
       "ft" : 32768,
       "iS" : 1043,
@@ -7958,6 +8261,32 @@
       "iS" : 7441,
       "oA" : 1,
       "oAP" : "\/img\/our-services\/web-development\/design-into-code-conversion\/sketch-app_2x.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/img\/our-services\/web-development\/design-into-code-conversion\/sketch-app-2021_2x.png" : {
+      "ft" : 32768,
+      "iS" : 14268,
+      "oA" : 1,
+      "oAP" : "\/img\/our-services\/web-development\/design-into-code-conversion\/sketch-app-2021_2x.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/img\/our-services\/web-development\/design-into-code-conversion\/sketch-app-2021.png" : {
+      "ft" : 32768,
+      "iS" : 6098,
+      "oA" : 1,
+      "oAP" : "\/img\/our-services\/web-development\/design-into-code-conversion\/sketch-app-2021.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -8222,7 +8551,7 @@
     },
     "\/img\/projects\/jardin-de-france-tx\/index\/projectCard\/jardin-de-france-tx-website-thumbnail_2x.jpg" : {
       "ft" : 16384,
-      "iS" : 123636,
+      "iS" : 122430,
       "jF" : 0,
       "oA" : 1,
       "oAP" : "\/img\/projects\/jardin-de-france-tx\/index\/projectCard\/jardin-de-france-tx-website-thumbnail_2x.jpg",
@@ -8235,7 +8564,7 @@
     },
     "\/img\/projects\/jardin-de-france-tx\/index\/projectCard\/jardin-de-france-tx-website-thumbnail.jpg" : {
       "ft" : 16384,
-      "iS" : 70366,
+      "iS" : 68371,
       "jF" : 0,
       "oA" : 1,
       "oAP" : "\/img\/projects\/jardin-de-france-tx\/index\/projectCard\/jardin-de-france-tx-website-thumbnail.jpg",
@@ -8384,7 +8713,7 @@
       "oA" : 1,
       "oAP" : "\/js\/app-min-min.js",
       "oF" : 0,
-      "sC" : 1,
+      "sC" : 3,
       "tS" : 0
     },
     "\/js\/src\/app.js" : {
@@ -8454,14 +8783,6 @@
       "sC" : 3,
       "tS" : 0
     },
-    "\/package-lock.json" : {
-      "ft" : 524288,
-      "oA" : 1,
-      "oAP" : "\/package-lock-min.json",
-      "oF" : 0,
-      "oO" : 0,
-      "oS" : 1
-    },
     "\/package.json" : {
       "ft" : 524288,
       "oA" : 1,
@@ -8490,8 +8811,9 @@
       "uCM" : 0
     },
     "\/scss\/_settings.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -8504,8 +8826,9 @@
       "sct" : 1
     },
     "\/scss\/_var.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -8520,6 +8843,7 @@
     "\/scss\/app.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -8527,383 +8851,695 @@
       "oA" : 0,
       "oAP" : "\/css\/app.css",
       "oF" : 0,
-      "oS" : 1,
+      "oS" : 0,
       "pg" : 0,
       "sct" : 1
     },
     "\/scss\/blocks\/_contact-banner.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/scss\/css\/_contact-banner.css",
+      "oAP" : "\/css\/_contact-banner.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 1
     },
     "\/scss\/blocks\/_footer.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/scss\/css\/_footer.css",
+      "oAP" : "\/css\/_footer.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 1
     },
     "\/scss\/blocks\/_header.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/scss\/css\/_header.css",
+      "oAP" : "\/css\/_header.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 1
     },
     "\/scss\/blocks\/_nav.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/scss\/css\/_nav.css",
+      "oAP" : "\/css\/_nav.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 1
     },
     "\/scss\/blocks\/nav\/_contactModal.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/scss\/blocks\/css\/_contactModal.css",
+      "oAP" : "\/css\/_contactModal.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 1
     },
     "\/scss\/blocks\/nav\/_offCanvas.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/scss\/blocks\/css\/_offCanvas.css",
+      "oAP" : "\/css\/_offCanvas.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 1
     },
     "\/scss\/blocks\/nav\/_top-nav.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/scss\/blocks\/css\/_top-nav.css",
+      "oAP" : "\/css\/_top-nav.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 1
     },
     "\/scss\/blocks\/nav\/_topNavBar.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/scss\/blocks\/css\/_topNavBar.css",
+      "oAP" : "\/css\/_topNavBar.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 1
     },
-    "\/scss\/components\/_padding-margin.scss" : {
-      "aP" : 0,
+    "\/scss\/elements\/_elements.scss" : {
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/scss\/css\/_padding-margin.css",
+      "oAP" : "\/css\/_elements.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 1
     },
-    "\/scss\/components\/_resets.scss" : {
-      "aP" : 0,
+    "\/scss\/elements\/typography\/_font-face.scss" : {
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/scss\/css\/_resets.css",
+      "oAP" : "\/css\/_font-face.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 1
     },
-    "\/scss\/components\/_typography.scss" : {
-      "aP" : 0,
+    "\/scss\/elements\/typography\/_font-family.scss" : {
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/scss\/css\/_typography.css",
+      "oAP" : "\/css\/_font-family.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 1
     },
-    "\/scss\/components\/_utility-classes.scss" : {
-      "aP" : 0,
+    "\/scss\/elements\/typography\/_font-weight.scss" : {
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/scss\/css\/_utility-classes.css",
+      "oAP" : "\/css\/_font-weight.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 1
     },
-    "\/scss\/components\/typography\/_fonts.scss" : {
-      "aP" : 0,
+    "\/scss\/elements\/typography\/_text-color.scss" : {
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/scss\/components\/css\/_fonts.css",
+      "oAP" : "\/css\/_text-color.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 1
+    },
+    "\/scss\/elements\/typography\/_text-decoration.scss" : {
+      "aP" : 1,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/css\/_text-decoration.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 1
+    },
+    "\/scss\/elements\/typography\/_typography.scss" : {
+      "aP" : 1,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/css\/_typography.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 1
+    },
+    "\/scss\/elements\/utilities\/_border-radius.scss" : {
+      "aP" : 1,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/css\/_border-radius.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 1
+    },
+    "\/scss\/elements\/utilities\/_border.scss" : {
+      "aP" : 1,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/css\/_border.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 1
+    },
+    "\/scss\/elements\/utilities\/_box-shadow.scss" : {
+      "aP" : 1,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/css\/_box-shadow.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 1
+    },
+    "\/scss\/elements\/utilities\/_clearfix.scss" : {
+      "aP" : 1,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/css\/_clearfix.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 1
+    },
+    "\/scss\/elements\/utilities\/_display.scss" : {
+      "aP" : 1,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/css\/_display.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 1
+    },
+    "\/scss\/elements\/utilities\/_flexbox.scss" : {
+      "aP" : 1,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/css\/_flexbox.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 1
+    },
+    "\/scss\/elements\/utilities\/_floats.scss" : {
+      "aP" : 1,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/css\/_floats.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 1
+    },
+    "\/scss\/elements\/utilities\/_heights.scss" : {
+      "aP" : 1,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/css\/_heights.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 1
+    },
+    "\/scss\/elements\/utilities\/_highlight-effect.scss" : {
+      "aP" : 1,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/css\/_highlight-effect.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 1
+    },
+    "\/scss\/elements\/utilities\/_ie.scss" : {
+      "aP" : 1,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/css\/_ie.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 1
+    },
+    "\/scss\/elements\/utilities\/_margin.scss" : {
+      "aP" : 1,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/css\/_margin.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 1
+    },
+    "\/scss\/elements\/utilities\/_mixins.scss" : {
+      "aP" : 1,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/css\/_mixins.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 1
+    },
+    "\/scss\/elements\/utilities\/_overflow.scss" : {
+      "aP" : 1,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/css\/_overflow.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 1
+    },
+    "\/scss\/elements\/utilities\/_padding.scss" : {
+      "aP" : 1,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/css\/_padding.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 1
+    },
+    "\/scss\/elements\/utilities\/_position.scss" : {
+      "aP" : 1,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/css\/_position.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 1
+    },
+    "\/scss\/elements\/utilities\/_utilities.scss" : {
+      "aP" : 1,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/css\/_utilities.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 1
+    },
+    "\/scss\/elements\/utilities\/_widths.scss" : {
+      "aP" : 1,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/css\/_widths.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 1
     },
     "\/scss\/pages\/index\/_about-us.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/scss\/pages\/css\/_about-us.css",
+      "oAP" : "\/css\/_about-us.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 1
     },
     "\/scss\/pages\/index\/_bubble-bg-base-64.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/scss\/pages\/css\/_bubble-bg-base-64.css",
+      "oAP" : "\/css\/_bubble-bg-base-64.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 1
     },
     "\/scss\/pages\/index\/_bubble-bg.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/scss\/pages\/css\/_bubble-bg.css",
+      "oAP" : "\/css\/_bubble-bg.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 1
     },
     "\/scss\/pages\/index\/_contact.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/scss\/pages\/css\/_contact.css",
+      "oAP" : "\/css\/_contact.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 1
     },
     "\/scss\/pages\/index\/_gfycat-video.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/scss\/pages\/css\/_gfycat-video.css",
+      "oAP" : "\/css\/_gfycat-video.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 1
     },
     "\/scss\/pages\/index\/_graphic-branding.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/scss\/pages\/css\/_graphic-branding.css",
+      "oAP" : "\/css\/_graphic-branding.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 1
     },
     "\/scss\/pages\/index\/_header.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/scss\/pages\/css\/_header.css",
+      "oAP" : "\/css\/_header.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 1
     },
     "\/scss\/pages\/index\/_index.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/scss\/pages\/css\/_index.css",
+      "oAP" : "\/css\/_index.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 1
     },
     "\/scss\/pages\/index\/_recent-projects.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/scss\/pages\/css\/_recent-projects.css",
+      "oAP" : "\/css\/_recent-projects.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 1
     },
     "\/scss\/pages\/our-services\/web-development\/_bubble-bg.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/scss\/pages\/our-services\/css\/_bubble-bg.css",
+      "oAP" : "\/css\/_bubble-bg.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 1
     },
     "\/scss\/pages\/our-services\/web-development\/_contact.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/scss\/pages\/our-services\/css\/_contact.css",
+      "oAP" : "\/css\/_contact.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 1
     },
     "\/scss\/pages\/our-services\/web-development\/_design-into-code-conversion.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/scss\/pages\/our-services\/css\/_design-into-code-conversion.css",
+      "oAP" : "\/css\/_design-into-code-conversion.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 1
     },
     "\/scss\/pages\/our-services\/web-development\/_new-project-workflow.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/scss\/pages\/our-services\/css\/_new-project-workflow.css",
+      "oAP" : "\/css\/_new-project-workflow.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 1
     },
     "\/scss\/pages\/our-services\/web-development\/_web-development.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/scss\/pages\/our-services\/css\/_web-development.css",
+      "oAP" : "\/css\/_web-development.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
@@ -8937,7 +9573,7 @@
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
-      "oA" : 2,
+      "oA" : 1,
       "oAP" : "\/src\/layouts-production\/default.html",
       "oF" : 0
     },
@@ -8953,7 +9589,7 @@
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
-      "oA" : 0,
+      "oA" : 1,
       "oAP" : "\/src\/layouts\/default.html",
       "oF" : 0
     },
@@ -8961,7 +9597,7 @@
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
-      "oA" : 2,
+      "oA" : 1,
       "oAP" : "\/src\/pages\/index.php",
       "oF" : 0
     },
@@ -8969,7 +9605,7 @@
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
-      "oA" : 2,
+      "oA" : 1,
       "oAP" : "\/src\/pages\/our-services\/web-development.php",
       "oF" : 0
     },
@@ -8985,7 +9621,7 @@
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
-      "oA" : 2,
+      "oA" : 1,
       "oAP" : "\/src\/partials\/contact-footer-section.html",
       "oF" : 0
     },
@@ -8993,7 +9629,7 @@
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
-      "oA" : 2,
+      "oA" : 1,
       "oAP" : "\/src\/partials\/contactModal.html",
       "oF" : 0
     },
@@ -9001,7 +9637,7 @@
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
-      "oA" : 2,
+      "oA" : 1,
       "oAP" : "\/src\/partials\/google-tag-manager-body.html",
       "oF" : 0
     },
@@ -9009,7 +9645,7 @@
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
-      "oA" : 2,
+      "oA" : 1,
       "oAP" : "\/src\/partials\/google-tag-manager-head.html",
       "oF" : 0
     },
@@ -9017,7 +9653,7 @@
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
-      "oA" : 0,
+      "oA" : 1,
       "oAP" : "\/src\/partials\/google-tracking-id.html",
       "oF" : 0
     },
@@ -9025,7 +9661,7 @@
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
-      "oA" : 2,
+      "oA" : 1,
       "oAP" : "\/src\/partials\/googleGoal-snippet-contactModal.html",
       "oF" : 0
     },
@@ -9041,7 +9677,7 @@
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
-      "oA" : 2,
+      "oA" : 1,
       "oAP" : "\/src\/partials\/offCanvas-menu.html",
       "oF" : 0
     },
@@ -9051,6 +9687,14 @@
       "hM" : 0,
       "oA" : 1,
       "oAP" : "\/src\/partials\/small--offCanvas-menu--toggle.html",
+      "oF" : 0
+    },
+    "\/yarn.lock" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/yarn.lock",
       "oF" : 0
     }
   },
@@ -10000,7 +10644,8 @@
         "optionString" : ""
       },
       "no-multi-assign" : {
-        "active" : 0
+        "active" : 0,
+        "optionString" : "{'ignoreNonDeclaration': false}"
       },
       "no-multi-spaces" : {
         "active" : 0,
@@ -10123,7 +10768,8 @@
         "active" : 0
       },
       "no-sequences" : {
-        "active" : 0
+        "active" : 0,
+        "optionString" : "{'allowInParentheses': true}"
       },
       "no-setter-return" : {
         "active" : 1
@@ -10487,354 +11133,6 @@
     "gitIgnoreBuildFolder" : 1,
     "hideConfigFile" : 0,
     "jsCheckerReservedNamesString" : "",
-    "jsHintFlags2" : {
-      "asi" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "bitwise" : {
-        "active" : 1,
-        "flagValue" : -1
-      },
-      "boss" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "browser" : {
-        "active" : 1,
-        "flagValue" : -1
-      },
-      "browserify" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "camelcase" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "couch" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "curly" : {
-        "active" : 1,
-        "flagValue" : -1
-      },
-      "debug" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "devel" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "dojo" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "elision" : {
-        "active" : 1,
-        "flagValue" : -1
-      },
-      "eqeqeq" : {
-        "active" : 1,
-        "flagValue" : -1
-      },
-      "eqnull" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "es3" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "esnext" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "evil" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "expr" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "forin" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "freeze" : {
-        "active" : 1,
-        "flagValue" : -1
-      },
-      "funcscope" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "futurehostile" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "globalstrict" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "immed" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "indent" : {
-        "active" : 0,
-        "flagValue" : 4
-      },
-      "iterator" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "jasmine" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "jquery" : {
-        "active" : 1,
-        "flagValue" : -1
-      },
-      "lastsemic" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "latedef" : {
-        "active" : 1,
-        "flagValue" : -1
-      },
-      "laxbreak" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "laxcomma" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "loopfunc" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "maxcomplexity" : {
-        "active" : 0,
-        "flagValue" : 10
-      },
-      "maxdepth" : {
-        "active" : 0,
-        "flagValue" : 3
-      },
-      "maxlen" : {
-        "active" : 0,
-        "flagValue" : 150
-      },
-      "maxparams" : {
-        "active" : 0,
-        "flagValue" : 3
-      },
-      "maxstatements" : {
-        "active" : 0,
-        "flagValue" : 4
-      },
-      "mocha" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "mootools" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "moz" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "multistr" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "newcap" : {
-        "active" : 1,
-        "flagValue" : -1
-      },
-      "noarg" : {
-        "active" : 1,
-        "flagValue" : -1
-      },
-      "nocomma" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "node" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "noempty" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "nonbsp" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "nonew" : {
-        "active" : 1,
-        "flagValue" : -1
-      },
-      "nonstandard" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "notypeof" : {
-        "active" : 1,
-        "flagValue" : -1
-      },
-      "noyield" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "onecase" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "phantom" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "plusplus" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "proto" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "prototypejs" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "qunit" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "regexp" : {
-        "active" : 1,
-        "flagValue" : -1
-      },
-      "rhino" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "scripturl" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "shadow" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "shelljs" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "singleGroups" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "strict" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "sub" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "supernew" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "typed" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "undef" : {
-        "active" : 1,
-        "flagValue" : -1
-      },
-      "unused" : {
-        "active" : 1,
-        "flagValue" : -1
-      },
-      "varstmt" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "withstmt" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "worker" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "wsh" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "yui" : {
-        "active" : 0,
-        "flagValue" : -1
-      }
-    },
-    "jsLintFlags2" : {
-      "bitwise" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "browser" : {
-        "active" : 1,
-        "flagValue" : -1
-      },
-      "couch" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "devel" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "es6" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "eval" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "for" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "maxlen" : {
-        "active" : 0,
-        "flagValue" : 150
-      },
-      "node" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "this" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "white" : {
-        "active" : 0,
-        "flagValue" : -1
-      }
-    },
     "languageDefaultsCOFFEE" : {
       "autoOutputAction" : 0,
       "autoOutputPathFilenamePattern" : "*.js",
@@ -11011,17 +11309,17 @@
     "languageDefaultsSASS" : {
       "autoOutputAction" : 0,
       "autoOutputPathFilenamePattern" : "*.css",
-      "autoOutputPathRelativePath" : "..\/css",
+      "autoOutputPathRelativePath" : "\/css",
       "autoOutputPathReplace1" : "sass",
       "autoOutputPathReplace2" : "css",
-      "autoOutputPathStyle" : 2,
+      "autoOutputPathStyle" : 1,
       "compilerType" : 1,
       "cssoStyle" : 0,
       "decimalPrecision" : 10,
       "emitCharset" : 1,
       "outputStyle" : 0,
       "purgeCSSStyle" : 0,
-      "shouldRunAutoprefixer" : 0,
+      "shouldRunAutoprefixer" : 1,
       "shouldRunBless" : 0,
       "sourceMapStyle" : 0
     },
@@ -11164,6 +11462,7 @@
     "tsEmitBOM" : 0,
     "tsEmitDecoratorMetadata" : 0,
     "tsESModuleInterop" : 0,
+    "tsExactOptionalPropertyTypes" : 0,
     "tsForceConsistentCasingInFileNames" : 0,
     "tsImportHelpers" : 0,
     "tsIsolatedModules" : 0,
@@ -11172,6 +11471,7 @@
     "tsNoEmitHelpers" : 0,
     "tsNoFallthroughCasesInSwitch" : 0,
     "tsNoImplicitAny" : 0,
+    "tsNoImplicitOverride" : 0,
     "tsNoImplicitReturns" : 0,
     "tsNoImplicitThis" : 0,
     "tsNoImplicitUseStrict" : 0,
@@ -11192,6 +11492,7 @@
     "tsStripInternal" : 0,
     "tsSuppressExcessPropertyErrors" : 0,
     "tsSuppressImplicitAnyIndexErrors" : 0,
+    "tsUseUnknownInCatchVariables" : 0,
     "uglifyDefinesString" : "",
     "uglifyFlags2" : {
       "arguments" : {

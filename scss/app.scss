@@ -58,8 +58,7 @@
 
 @import '_var.scss';
 
-// #1 TYPOGRAPHY
-@import 'components/_typography.scss';
+@import 'elements/_elements.scss';
 
 // #2 COMMON PAGE BLOCKS
 @import 'blocks/_header.scss';
@@ -70,8 +69,3 @@
 // #3 SPECIFIC PAGE STYLES
 @import 'pages/index/_index.scss';
 @import 'pages/our-services/web-development/_web-development.scss';
-
-// #4 MISC COMPONENTS
-@import 'components/_resets.scss';
-@import 'components/_utility-classes.scss';
-@import 'components/_padding-margin.scss';
