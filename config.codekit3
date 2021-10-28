@@ -268,6 +268,14 @@
       "oAP" : "\/.gitignore",
       "oF" : 0
     },
+    "\/.yarnclean" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/.yarnclean",
+      "oF" : 0
+    },
     "\/assets\/.htaccess" : {
       "cB" : 0,
       "ft" : 8192,
