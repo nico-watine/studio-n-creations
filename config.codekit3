@@ -268,6 +268,14 @@
       "oAP" : "\/.gitignore",
       "oF" : 0
     },
+    "\/.yarnclean" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/.yarnclean",
+      "oF" : 0
+    },
     "\/assets\/.htaccess" : {
       "cB" : 0,
       "ft" : 8192,
@@ -1545,6 +1553,14 @@
       "oAP" : "\/bower_components\/foundation-sites\/.npmignore",
       "oF" : 0
     },
+    "\/bower_components\/foundation-sites\/.sonarcloud.properties" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/bower_components\/foundation-sites\/.sonarcloud.properties",
+      "oF" : 0
+    },
     "\/bower_components\/foundation-sites\/assets\/foundation-float.scss" : {
       "aP" : 1,
       "bl" : 0,
@@ -1694,7 +1710,7 @@
       "oF" : 0
     },
     "\/bower_components\/foundation-sites\/dist\/css\/foundation-rtl.css" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
       "ci" : 0,
       "co" : 0,
@@ -1714,7 +1730,7 @@
       "oF" : 0
     },
     "\/bower_components\/foundation-sites\/dist\/css\/foundation-rtl.min.css" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
       "ci" : 0,
       "co" : 0,
@@ -1734,7 +1750,7 @@
       "oF" : 0
     },
     "\/bower_components\/foundation-sites\/dist\/css\/foundation.css" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
       "ci" : 0,
       "co" : 0,
@@ -1754,7 +1770,7 @@
       "oF" : 0
     },
     "\/bower_components\/foundation-sites\/dist\/css\/foundation.min.css" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
       "ci" : 0,
       "co" : 0,
@@ -1799,7 +1815,7 @@
       "ma" : 0,
       "mi" : 0,
       "moR" : 0,
-      "moT" : 0,
+      "moT" : 2,
       "oA" : 2,
       "oAP" : "\/bower_components\/foundation-sites\/dist\/js\/foundation.d.ts",
       "oF" : 0,
@@ -1848,11 +1864,11 @@
       "bF" : 0,
       "ft" : 64,
       "ma" : 0,
-      "mi" : 0,
+      "mi" : 1,
       "oA" : 2,
       "oAP" : "\/bower_components\/foundation-sites\/dist\/js\/foundation.js",
       "oF" : 0,
-      "sC" : 0,
+      "sC" : 3,
       "tS" : 0
     },
     "\/bower_components\/foundation-sites\/dist\/js\/foundation.js.map" : {
@@ -1867,11 +1883,11 @@
       "bF" : 0,
       "ft" : 64,
       "ma" : 0,
-      "mi" : 0,
+      "mi" : 1,
       "oA" : 2,
       "oAP" : "\/bower_components\/foundation-sites\/dist\/js\/foundation.min.js",
       "oF" : 0,
-      "sC" : 0,
+      "sC" : 3,
       "tS" : 0
     },
     "\/bower_components\/foundation-sites\/dist\/js\/foundation.min.js.map" : {
@@ -1886,11 +1902,11 @@
       "bF" : 0,
       "ft" : 64,
       "ma" : 0,
-      "mi" : 0,
+      "mi" : 1,
       "oA" : 2,
       "oAP" : "\/bower_components\/foundation-sites\/dist\/js\/plugins\/foundation.abide.js",
       "oF" : 0,
-      "sC" : 0,
+      "sC" : 3,
       "tS" : 0
     },
     "\/bower_components\/foundation-sites\/dist\/js\/plugins\/foundation.abide.js.map" : {
@@ -1905,11 +1921,11 @@
       "bF" : 0,
       "ft" : 64,
       "ma" : 0,
-      "mi" : 0,
+      "mi" : 1,
       "oA" : 2,
       "oAP" : "\/bower_components\/foundation-sites\/dist\/js\/plugins\/foundation.abide.min.js",
       "oF" : 0,
-      "sC" : 0,
+      "sC" : 3,
       "tS" : 0
     },
     "\/bower_components\/foundation-sites\/dist\/js\/plugins\/foundation.abide.min.js.map" : {
@@ -1924,11 +1940,11 @@
       "bF" : 0,
       "ft" : 64,
       "ma" : 0,
-      "mi" : 0,
-      "oA" : 1,
+      "mi" : 1,
+      "oA" : 2,
       "oAP" : "\/bower_components\/foundation-sites\/dist\/js\/plugins\/foundation.accordion.js",
       "oF" : 0,
-      "sC" : 0,
+      "sC" : 3,
       "tS" : 0
     },
     "\/bower_components\/foundation-sites\/dist\/js\/plugins\/foundation.accordion.js.map" : {
@@ -1943,11 +1959,11 @@
       "bF" : 0,
       "ft" : 64,
       "ma" : 0,
-      "mi" : 0,
+      "mi" : 1,
       "oA" : 2,
       "oAP" : "\/bower_components\/foundation-sites\/dist\/js\/plugins\/foundation.accordion.min.js",
       "oF" : 0,
-      "sC" : 0,
+      "sC" : 3,
       "tS" : 0
     },
     "\/bower_components\/foundation-sites\/dist\/js\/plugins\/foundation.accordion.min.js.map" : {
@@ -1962,11 +1978,11 @@
       "bF" : 0,
       "ft" : 64,
       "ma" : 0,
-      "mi" : 0,
-      "oA" : 1,
+      "mi" : 1,
+      "oA" : 2,
       "oAP" : "\/bower_components\/foundation-sites\/dist\/js\/plugins\/foundation.accordionMenu.js",
       "oF" : 0,
-      "sC" : 0,
+      "sC" : 3,
       "tS" : 0
     },
     "\/bower_components\/foundation-sites\/dist\/js\/plugins\/foundation.accordionMenu.js.map" : {
@@ -1981,11 +1997,11 @@
       "bF" : 0,
       "ft" : 64,
       "ma" : 0,
-      "mi" : 0,
+      "mi" : 1,
       "oA" : 2,
       "oAP" : "\/bower_components\/foundation-sites\/dist\/js\/plugins\/foundation.accordionMenu.min.js",
       "oF" : 0,
-      "sC" : 0,
+      "sC" : 3,
       "tS" : 0
     },
     "\/bower_components\/foundation-sites\/dist\/js\/plugins\/foundation.accordionMenu.min.js.map" : {
@@ -2000,11 +2016,11 @@
       "bF" : 0,
       "ft" : 64,
       "ma" : 0,
-      "mi" : 0,
-      "oA" : 1,
+      "mi" : 1,
+      "oA" : 2,
       "oAP" : "\/bower_components\/foundation-sites\/dist\/js\/plugins\/foundation.core.js",
       "oF" : 0,
-      "sC" : 0,
+      "sC" : 3,
       "tS" : 0
     },
     "\/bower_components\/foundation-sites\/dist\/js\/plugins\/foundation.core.js.map" : {
@@ -2019,11 +2035,11 @@
       "bF" : 0,
       "ft" : 64,
       "ma" : 0,
-      "mi" : 0,
+      "mi" : 1,
       "oA" : 2,
       "oAP" : "\/bower_components\/foundation-sites\/dist\/js\/plugins\/foundation.core.min.js",
       "oF" : 0,
-      "sC" : 0,
+      "sC" : 3,
       "tS" : 0
     },
     "\/bower_components\/foundation-sites\/dist\/js\/plugins\/foundation.core.min.js.map" : {
@@ -2038,11 +2054,11 @@
       "bF" : 0,
       "ft" : 64,
       "ma" : 0,
-      "mi" : 0,
-      "oA" : 1,
+      "mi" : 1,
+      "oA" : 2,
       "oAP" : "\/bower_components\/foundation-sites\/dist\/js\/plugins\/foundation.drilldown.js",
       "oF" : 0,
-      "sC" : 0,
+      "sC" : 3,
       "tS" : 0
     },
     "\/bower_components\/foundation-sites\/dist\/js\/plugins\/foundation.drilldown.js.map" : {
@@ -2057,11 +2073,11 @@
       "bF" : 0,
       "ft" : 64,
       "ma" : 0,
-      "mi" : 0,
+      "mi" : 1,
       "oA" : 2,
       "oAP" : "\/bower_components\/foundation-sites\/dist\/js\/plugins\/foundation.drilldown.min.js",
       "oF" : 0,
-      "sC" : 0,
+      "sC" : 3,
       "tS" : 0
     },
     "\/bower_components\/foundation-sites\/dist\/js\/plugins\/foundation.drilldown.min.js.map" : {
@@ -2076,11 +2092,11 @@
       "bF" : 0,
       "ft" : 64,
       "ma" : 0,
-      "mi" : 0,
+      "mi" : 1,
       "oA" : 2,
       "oAP" : "\/bower_components\/foundation-sites\/dist\/js\/plugins\/foundation.dropdown.js",
       "oF" : 0,
-      "sC" : 0,
+      "sC" : 3,
       "tS" : 0
     },
     "\/bower_components\/foundation-sites\/dist\/js\/plugins\/foundation.dropdown.js.map" : {
@@ -2095,11 +2111,11 @@
       "bF" : 0,
       "ft" : 64,
       "ma" : 0,
-      "mi" : 0,
+      "mi" : 1,
       "oA" : 2,
       "oAP" : "\/bower_components\/foundation-sites\/dist\/js\/plugins\/foundation.dropdown.min.js",
       "oF" : 0,
-      "sC" : 0,
+      "sC" : 3,
       "tS" : 0
     },
     "\/bower_components\/foundation-sites\/dist\/js\/plugins\/foundation.dropdown.min.js.map" : {
@@ -2114,11 +2130,11 @@
       "bF" : 0,
       "ft" : 64,
       "ma" : 0,
-      "mi" : 0,
-      "oA" : 1,
+      "mi" : 1,
+      "oA" : 2,
       "oAP" : "\/bower_components\/foundation-sites\/dist\/js\/plugins\/foundation.dropdownMenu.js",
       "oF" : 0,
-      "sC" : 0,
+      "sC" : 3,
       "tS" : 0
     },
     "\/bower_components\/foundation-sites\/dist\/js\/plugins\/foundation.dropdownMenu.js.map" : {
@@ -2133,11 +2149,11 @@
       "bF" : 0,
       "ft" : 64,
       "ma" : 0,
-      "mi" : 0,
+      "mi" : 1,
       "oA" : 2,
       "oAP" : "\/bower_components\/foundation-sites\/dist\/js\/plugins\/foundation.dropdownMenu.min.js",
       "oF" : 0,
-      "sC" : 0,
+      "sC" : 3,
       "tS" : 0
     },
     "\/bower_components\/foundation-sites\/dist\/js\/plugins\/foundation.dropdownMenu.min.js.map" : {
@@ -2152,11 +2168,11 @@
       "bF" : 0,
       "ft" : 64,
       "ma" : 0,
-      "mi" : 0,
+      "mi" : 1,
       "oA" : 2,
       "oAP" : "\/bower_components\/foundation-sites\/dist\/js\/plugins\/foundation.equalizer.js",
       "oF" : 0,
-      "sC" : 0,
+      "sC" : 3,
       "tS" : 0
     },
     "\/bower_components\/foundation-sites\/dist\/js\/plugins\/foundation.equalizer.js.map" : {
@@ -2171,11 +2187,11 @@
       "bF" : 0,
       "ft" : 64,
       "ma" : 0,
-      "mi" : 0,
+      "mi" : 1,
       "oA" : 2,
       "oAP" : "\/bower_components\/foundation-sites\/dist\/js\/plugins\/foundation.equalizer.min.js",
       "oF" : 0,
-      "sC" : 0,
+      "sC" : 3,
       "tS" : 0
     },
     "\/bower_components\/foundation-sites\/dist\/js\/plugins\/foundation.equalizer.min.js.map" : {
@@ -2190,11 +2206,11 @@
       "bF" : 0,
       "ft" : 64,
       "ma" : 0,
-      "mi" : 0,
+      "mi" : 1,
       "oA" : 2,
       "oAP" : "\/bower_components\/foundation-sites\/dist\/js\/plugins\/foundation.interchange.js",
       "oF" : 0,
-      "sC" : 0,
+      "sC" : 3,
       "tS" : 0
     },
     "\/bower_components\/foundation-sites\/dist\/js\/plugins\/foundation.interchange.js.map" : {
@@ -2209,11 +2225,11 @@
       "bF" : 0,
       "ft" : 64,
       "ma" : 0,
-      "mi" : 0,
+      "mi" : 1,
       "oA" : 2,
       "oAP" : "\/bower_components\/foundation-sites\/dist\/js\/plugins\/foundation.interchange.min.js",
       "oF" : 0,
-      "sC" : 0,
+      "sC" : 3,
       "tS" : 0
     },
     "\/bower_components\/foundation-sites\/dist\/js\/plugins\/foundation.interchange.min.js.map" : {
@@ -2228,11 +2244,11 @@
       "bF" : 0,
       "ft" : 64,
       "ma" : 0,
-      "mi" : 0,
+      "mi" : 1,
       "oA" : 2,
       "oAP" : "\/bower_components\/foundation-sites\/dist\/js\/plugins\/foundation.magellan.js",
       "oF" : 0,
-      "sC" : 0,
+      "sC" : 3,
       "tS" : 0
     },
     "\/bower_components\/foundation-sites\/dist\/js\/plugins\/foundation.magellan.js.map" : {
@@ -2247,11 +2263,11 @@
       "bF" : 0,
       "ft" : 64,
       "ma" : 0,
-      "mi" : 0,
+      "mi" : 1,
       "oA" : 2,
       "oAP" : "\/bower_components\/foundation-sites\/dist\/js\/plugins\/foundation.magellan.min.js",
       "oF" : 0,
-      "sC" : 0,
+      "sC" : 3,
       "tS" : 0
     },
     "\/bower_components\/foundation-sites\/dist\/js\/plugins\/foundation.magellan.min.js.map" : {
@@ -2266,11 +2282,11 @@
       "bF" : 0,
       "ft" : 64,
       "ma" : 0,
-      "mi" : 0,
+      "mi" : 1,
       "oA" : 2,
       "oAP" : "\/bower_components\/foundation-sites\/dist\/js\/plugins\/foundation.offcanvas.js",
       "oF" : 0,
-      "sC" : 0,
+      "sC" : 3,
       "tS" : 0
     },
     "\/bower_components\/foundation-sites\/dist\/js\/plugins\/foundation.offcanvas.js.map" : {
@@ -2285,11 +2301,11 @@
       "bF" : 0,
       "ft" : 64,
       "ma" : 0,
-      "mi" : 0,
+      "mi" : 1,
       "oA" : 2,
       "oAP" : "\/bower_components\/foundation-sites\/dist\/js\/plugins\/foundation.offcanvas.min.js",
       "oF" : 0,
-      "sC" : 0,
+      "sC" : 3,
       "tS" : 0
     },
     "\/bower_components\/foundation-sites\/dist\/js\/plugins\/foundation.offcanvas.min.js.map" : {
@@ -2304,11 +2320,11 @@
       "bF" : 0,
       "ft" : 64,
       "ma" : 0,
-      "mi" : 0,
+      "mi" : 1,
       "oA" : 2,
       "oAP" : "\/bower_components\/foundation-sites\/dist\/js\/plugins\/foundation.orbit.js",
       "oF" : 0,
-      "sC" : 0,
+      "sC" : 3,
       "tS" : 0
     },
     "\/bower_components\/foundation-sites\/dist\/js\/plugins\/foundation.orbit.js.map" : {
@@ -2323,11 +2339,11 @@
       "bF" : 0,
       "ft" : 64,
       "ma" : 0,
-      "mi" : 0,
+      "mi" : 1,
       "oA" : 2,
       "oAP" : "\/bower_components\/foundation-sites\/dist\/js\/plugins\/foundation.orbit.min.js",
       "oF" : 0,
-      "sC" : 0,
+      "sC" : 3,
       "tS" : 0
     },
     "\/bower_components\/foundation-sites\/dist\/js\/plugins\/foundation.orbit.min.js.map" : {
@@ -2380,11 +2396,11 @@
       "bF" : 0,
       "ft" : 64,
       "ma" : 0,
-      "mi" : 0,
+      "mi" : 1,
       "oA" : 2,
       "oAP" : "\/bower_components\/foundation-sites\/dist\/js\/plugins\/foundation.responsiveMenu.js",
       "oF" : 0,
-      "sC" : 0,
+      "sC" : 3,
       "tS" : 0
     },
     "\/bower_components\/foundation-sites\/dist\/js\/plugins\/foundation.responsiveMenu.js.map" : {
@@ -2399,11 +2415,11 @@
       "bF" : 0,
       "ft" : 64,
       "ma" : 0,
-      "mi" : 0,
+      "mi" : 1,
       "oA" : 2,
       "oAP" : "\/bower_components\/foundation-sites\/dist\/js\/plugins\/foundation.responsiveMenu.min.js",
       "oF" : 0,
-      "sC" : 0,
+      "sC" : 3,
       "tS" : 0
     },
     "\/bower_components\/foundation-sites\/dist\/js\/plugins\/foundation.responsiveMenu.min.js.map" : {
@@ -2418,11 +2434,11 @@
       "bF" : 0,
       "ft" : 64,
       "ma" : 0,
-      "mi" : 0,
+      "mi" : 1,
       "oA" : 2,
       "oAP" : "\/bower_components\/foundation-sites\/dist\/js\/plugins\/foundation.responsiveToggle.js",
       "oF" : 0,
-      "sC" : 0,
+      "sC" : 3,
       "tS" : 0
     },
     "\/bower_components\/foundation-sites\/dist\/js\/plugins\/foundation.responsiveToggle.js.map" : {
@@ -2437,11 +2453,11 @@
       "bF" : 0,
       "ft" : 64,
       "ma" : 0,
-      "mi" : 0,
+      "mi" : 1,
       "oA" : 2,
       "oAP" : "\/bower_components\/foundation-sites\/dist\/js\/plugins\/foundation.responsiveToggle.min.js",
       "oF" : 0,
-      "sC" : 0,
+      "sC" : 3,
       "tS" : 0
     },
     "\/bower_components\/foundation-sites\/dist\/js\/plugins\/foundation.responsiveToggle.min.js.map" : {
@@ -2456,11 +2472,11 @@
       "bF" : 0,
       "ft" : 64,
       "ma" : 0,
-      "mi" : 0,
+      "mi" : 1,
       "oA" : 2,
       "oAP" : "\/bower_components\/foundation-sites\/dist\/js\/plugins\/foundation.reveal.js",
       "oF" : 0,
-      "sC" : 0,
+      "sC" : 3,
       "tS" : 0
     },
     "\/bower_components\/foundation-sites\/dist\/js\/plugins\/foundation.reveal.js.map" : {
@@ -2475,11 +2491,11 @@
       "bF" : 0,
       "ft" : 64,
       "ma" : 0,
-      "mi" : 0,
+      "mi" : 1,
       "oA" : 2,
       "oAP" : "\/bower_components\/foundation-sites\/dist\/js\/plugins\/foundation.reveal.min.js",
       "oF" : 0,
-      "sC" : 0,
+      "sC" : 3,
       "tS" : 0
     },
     "\/bower_components\/foundation-sites\/dist\/js\/plugins\/foundation.reveal.min.js.map" : {
@@ -2494,11 +2510,11 @@
       "bF" : 0,
       "ft" : 64,
       "ma" : 0,
-      "mi" : 0,
+      "mi" : 1,
       "oA" : 2,
       "oAP" : "\/bower_components\/foundation-sites\/dist\/js\/plugins\/foundation.slider.js",
       "oF" : 0,
-      "sC" : 0,
+      "sC" : 3,
       "tS" : 0
     },
     "\/bower_components\/foundation-sites\/dist\/js\/plugins\/foundation.slider.js.map" : {
@@ -2513,11 +2529,11 @@
       "bF" : 0,
       "ft" : 64,
       "ma" : 0,
-      "mi" : 0,
+      "mi" : 1,
       "oA" : 2,
       "oAP" : "\/bower_components\/foundation-sites\/dist\/js\/plugins\/foundation.slider.min.js",
       "oF" : 0,
-      "sC" : 0,
+      "sC" : 3,
       "tS" : 0
     },
     "\/bower_components\/foundation-sites\/dist\/js\/plugins\/foundation.slider.min.js.map" : {
@@ -2533,7 +2549,7 @@
       "ft" : 64,
       "ma" : 0,
       "mi" : 1,
-      "oA" : 1,
+      "oA" : 2,
       "oAP" : "\/bower_components\/foundation-sites\/dist\/js\/plugins\/foundation.smoothScroll.js",
       "oF" : 0,
       "sC" : 3,
@@ -2570,11 +2586,11 @@
       "bF" : 0,
       "ft" : 64,
       "ma" : 0,
-      "mi" : 0,
+      "mi" : 1,
       "oA" : 2,
       "oAP" : "\/bower_components\/foundation-sites\/dist\/js\/plugins\/foundation.sticky.js",
       "oF" : 0,
-      "sC" : 0,
+      "sC" : 3,
       "tS" : 0
     },
     "\/bower_components\/foundation-sites\/dist\/js\/plugins\/foundation.sticky.js.map" : {
@@ -2589,11 +2605,11 @@
       "bF" : 0,
       "ft" : 64,
       "ma" : 0,
-      "mi" : 0,
+      "mi" : 1,
       "oA" : 2,
       "oAP" : "\/bower_components\/foundation-sites\/dist\/js\/plugins\/foundation.sticky.min.js",
       "oF" : 0,
-      "sC" : 0,
+      "sC" : 3,
       "tS" : 0
     },
     "\/bower_components\/foundation-sites\/dist\/js\/plugins\/foundation.sticky.min.js.map" : {
@@ -2608,11 +2624,11 @@
       "bF" : 0,
       "ft" : 64,
       "ma" : 0,
-      "mi" : 0,
-      "oA" : 1,
+      "mi" : 1,
+      "oA" : 2,
       "oAP" : "\/bower_components\/foundation-sites\/dist\/js\/plugins\/foundation.tabs.js",
       "oF" : 0,
-      "sC" : 0,
+      "sC" : 3,
       "tS" : 0
     },
     "\/bower_components\/foundation-sites\/dist\/js\/plugins\/foundation.tabs.js.map" : {
@@ -2627,11 +2643,11 @@
       "bF" : 0,
       "ft" : 64,
       "ma" : 0,
-      "mi" : 0,
+      "mi" : 1,
       "oA" : 2,
       "oAP" : "\/bower_components\/foundation-sites\/dist\/js\/plugins\/foundation.tabs.min.js",
       "oF" : 0,
-      "sC" : 0,
+      "sC" : 3,
       "tS" : 0
     },
     "\/bower_components\/foundation-sites\/dist\/js\/plugins\/foundation.tabs.min.js.map" : {
@@ -2646,11 +2662,11 @@
       "bF" : 0,
       "ft" : 64,
       "ma" : 0,
-      "mi" : 0,
+      "mi" : 1,
       "oA" : 2,
       "oAP" : "\/bower_components\/foundation-sites\/dist\/js\/plugins\/foundation.toggler.js",
       "oF" : 0,
-      "sC" : 0,
+      "sC" : 3,
       "tS" : 0
     },
     "\/bower_components\/foundation-sites\/dist\/js\/plugins\/foundation.toggler.js.map" : {
@@ -2665,11 +2681,11 @@
       "bF" : 0,
       "ft" : 64,
       "ma" : 0,
-      "mi" : 0,
+      "mi" : 1,
       "oA" : 2,
       "oAP" : "\/bower_components\/foundation-sites\/dist\/js\/plugins\/foundation.toggler.min.js",
       "oF" : 0,
-      "sC" : 0,
+      "sC" : 3,
       "tS" : 0
     },
     "\/bower_components\/foundation-sites\/dist\/js\/plugins\/foundation.toggler.min.js.map" : {
@@ -2684,11 +2700,11 @@
       "bF" : 0,
       "ft" : 64,
       "ma" : 0,
-      "mi" : 0,
+      "mi" : 1,
       "oA" : 2,
       "oAP" : "\/bower_components\/foundation-sites\/dist\/js\/plugins\/foundation.tooltip.js",
       "oF" : 0,
-      "sC" : 0,
+      "sC" : 3,
       "tS" : 0
     },
     "\/bower_components\/foundation-sites\/dist\/js\/plugins\/foundation.tooltip.js.map" : {
@@ -2703,11 +2719,11 @@
       "bF" : 0,
       "ft" : 64,
       "ma" : 0,
-      "mi" : 0,
+      "mi" : 1,
       "oA" : 2,
       "oAP" : "\/bower_components\/foundation-sites\/dist\/js\/plugins\/foundation.tooltip.min.js",
       "oF" : 0,
-      "sC" : 0,
+      "sC" : 3,
       "tS" : 0
     },
     "\/bower_components\/foundation-sites\/dist\/js\/plugins\/foundation.tooltip.min.js.map" : {
@@ -2722,11 +2738,11 @@
       "bF" : 0,
       "ft" : 64,
       "ma" : 0,
-      "mi" : 0,
-      "oA" : 1,
+      "mi" : 1,
+      "oA" : 2,
       "oAP" : "\/bower_components\/foundation-sites\/dist\/js\/plugins\/foundation.util.box.js",
       "oF" : 0,
-      "sC" : 0,
+      "sC" : 3,
       "tS" : 0
     },
     "\/bower_components\/foundation-sites\/dist\/js\/plugins\/foundation.util.box.js.map" : {
@@ -2741,11 +2757,11 @@
       "bF" : 0,
       "ft" : 64,
       "ma" : 0,
-      "mi" : 0,
+      "mi" : 1,
       "oA" : 2,
       "oAP" : "\/bower_components\/foundation-sites\/dist\/js\/plugins\/foundation.util.box.min.js",
       "oF" : 0,
-      "sC" : 0,
+      "sC" : 3,
       "tS" : 0
     },
     "\/bower_components\/foundation-sites\/dist\/js\/plugins\/foundation.util.box.min.js.map" : {
@@ -2761,7 +2777,7 @@
       "ft" : 64,
       "ma" : 0,
       "mi" : 1,
-      "oA" : 1,
+      "oA" : 2,
       "oAP" : "\/bower_components\/foundation-sites\/dist\/js\/plugins\/foundation.util.imageLoader.js",
       "oF" : 0,
       "sC" : 3,
@@ -2798,11 +2814,11 @@
       "bF" : 0,
       "ft" : 64,
       "ma" : 0,
-      "mi" : 0,
-      "oA" : 1,
+      "mi" : 1,
+      "oA" : 2,
       "oAP" : "\/bower_components\/foundation-sites\/dist\/js\/plugins\/foundation.util.keyboard.js",
       "oF" : 0,
-      "sC" : 0,
+      "sC" : 3,
       "tS" : 0
     },
     "\/bower_components\/foundation-sites\/dist\/js\/plugins\/foundation.util.keyboard.js.map" : {
@@ -2817,11 +2833,11 @@
       "bF" : 0,
       "ft" : 64,
       "ma" : 0,
-      "mi" : 0,
+      "mi" : 1,
       "oA" : 2,
       "oAP" : "\/bower_components\/foundation-sites\/dist\/js\/plugins\/foundation.util.keyboard.min.js",
       "oF" : 0,
-      "sC" : 0,
+      "sC" : 3,
       "tS" : 0
     },
     "\/bower_components\/foundation-sites\/dist\/js\/plugins\/foundation.util.keyboard.min.js.map" : {
@@ -2836,11 +2852,11 @@
       "bF" : 0,
       "ft" : 64,
       "ma" : 0,
-      "mi" : 0,
-      "oA" : 1,
+      "mi" : 1,
+      "oA" : 2,
       "oAP" : "\/bower_components\/foundation-sites\/dist\/js\/plugins\/foundation.util.mediaQuery.js",
       "oF" : 0,
-      "sC" : 0,
+      "sC" : 3,
       "tS" : 0
     },
     "\/bower_components\/foundation-sites\/dist\/js\/plugins\/foundation.util.mediaQuery.js.map" : {
@@ -2855,11 +2871,11 @@
       "bF" : 0,
       "ft" : 64,
       "ma" : 0,
-      "mi" : 0,
+      "mi" : 1,
       "oA" : 2,
       "oAP" : "\/bower_components\/foundation-sites\/dist\/js\/plugins\/foundation.util.mediaQuery.min.js",
       "oF" : 0,
-      "sC" : 0,
+      "sC" : 3,
       "tS" : 0
     },
     "\/bower_components\/foundation-sites\/dist\/js\/plugins\/foundation.util.mediaQuery.min.js.map" : {
@@ -2874,11 +2890,11 @@
       "bF" : 0,
       "ft" : 64,
       "ma" : 0,
-      "mi" : 0,
-      "oA" : 1,
+      "mi" : 1,
+      "oA" : 2,
       "oAP" : "\/bower_components\/foundation-sites\/dist\/js\/plugins\/foundation.util.motion.js",
       "oF" : 0,
-      "sC" : 0,
+      "sC" : 3,
       "tS" : 0
     },
     "\/bower_components\/foundation-sites\/dist\/js\/plugins\/foundation.util.motion.js.map" : {
@@ -2893,11 +2909,11 @@
       "bF" : 0,
       "ft" : 64,
       "ma" : 0,
-      "mi" : 0,
+      "mi" : 1,
       "oA" : 2,
       "oAP" : "\/bower_components\/foundation-sites\/dist\/js\/plugins\/foundation.util.motion.min.js",
       "oF" : 0,
-      "sC" : 0,
+      "sC" : 3,
       "tS" : 0
     },
     "\/bower_components\/foundation-sites\/dist\/js\/plugins\/foundation.util.motion.min.js.map" : {
@@ -2912,11 +2928,11 @@
       "bF" : 0,
       "ft" : 64,
       "ma" : 0,
-      "mi" : 0,
-      "oA" : 1,
+      "mi" : 1,
+      "oA" : 2,
       "oAP" : "\/bower_components\/foundation-sites\/dist\/js\/plugins\/foundation.util.nest.js",
       "oF" : 0,
-      "sC" : 0,
+      "sC" : 3,
       "tS" : 0
     },
     "\/bower_components\/foundation-sites\/dist\/js\/plugins\/foundation.util.nest.js.map" : {
@@ -2931,11 +2947,11 @@
       "bF" : 0,
       "ft" : 64,
       "ma" : 0,
-      "mi" : 0,
+      "mi" : 1,
       "oA" : 2,
       "oAP" : "\/bower_components\/foundation-sites\/dist\/js\/plugins\/foundation.util.nest.min.js",
       "oF" : 0,
-      "sC" : 0,
+      "sC" : 3,
       "tS" : 0
     },
     "\/bower_components\/foundation-sites\/dist\/js\/plugins\/foundation.util.nest.min.js.map" : {
@@ -2951,7 +2967,7 @@
       "ft" : 64,
       "ma" : 0,
       "mi" : 1,
-      "oA" : 1,
+      "oA" : 2,
       "oAP" : "\/bower_components\/foundation-sites\/dist\/js\/plugins\/foundation.util.timer.js",
       "oF" : 0,
       "sC" : 3,
@@ -2988,11 +3004,11 @@
       "bF" : 0,
       "ft" : 64,
       "ma" : 0,
-      "mi" : 0,
-      "oA" : 1,
+      "mi" : 1,
+      "oA" : 2,
       "oAP" : "\/bower_components\/foundation-sites\/dist\/js\/plugins\/foundation.util.touch.js",
       "oF" : 0,
-      "sC" : 0,
+      "sC" : 3,
       "tS" : 0
     },
     "\/bower_components\/foundation-sites\/dist\/js\/plugins\/foundation.util.touch.js.map" : {
@@ -3007,11 +3023,11 @@
       "bF" : 0,
       "ft" : 64,
       "ma" : 0,
-      "mi" : 0,
+      "mi" : 1,
       "oA" : 2,
       "oAP" : "\/bower_components\/foundation-sites\/dist\/js\/plugins\/foundation.util.touch.min.js",
       "oF" : 0,
-      "sC" : 0,
+      "sC" : 3,
       "tS" : 0
     },
     "\/bower_components\/foundation-sites\/dist\/js\/plugins\/foundation.util.touch.min.js.map" : {
@@ -3026,11 +3042,11 @@
       "bF" : 0,
       "ft" : 64,
       "ma" : 0,
-      "mi" : 0,
-      "oA" : 1,
+      "mi" : 1,
+      "oA" : 2,
       "oAP" : "\/bower_components\/foundation-sites\/dist\/js\/plugins\/foundation.util.triggers.js",
       "oF" : 0,
-      "sC" : 0,
+      "sC" : 3,
       "tS" : 0
     },
     "\/bower_components\/foundation-sites\/dist\/js\/plugins\/foundation.util.triggers.js.map" : {
@@ -3045,11 +3061,11 @@
       "bF" : 0,
       "ft" : 64,
       "ma" : 0,
-      "mi" : 0,
+      "mi" : 1,
       "oA" : 2,
       "oAP" : "\/bower_components\/foundation-sites\/dist\/js\/plugins\/foundation.util.triggers.min.js",
       "oF" : 0,
-      "sC" : 0,
+      "sC" : 3,
       "tS" : 0
     },
     "\/bower_components\/foundation-sites\/dist\/js\/plugins\/foundation.util.triggers.min.js.map" : {
@@ -3427,44 +3443,44 @@
       "bF" : 0,
       "ft" : 64,
       "ma" : 0,
-      "mi" : 0,
+      "mi" : 1,
       "oA" : 1,
       "oAP" : "\/bower_components\/foundation-sites\/js\/foundation.abide.js",
       "oF" : 0,
-      "sC" : 0,
+      "sC" : 3,
       "tS" : 0
     },
     "\/bower_components\/foundation-sites\/js\/foundation.accordion.js" : {
       "bF" : 0,
       "ft" : 64,
       "ma" : 0,
-      "mi" : 0,
+      "mi" : 1,
       "oA" : 1,
       "oAP" : "\/bower_components\/foundation-sites\/js\/foundation.accordion.js",
       "oF" : 0,
-      "sC" : 0,
+      "sC" : 3,
       "tS" : 0
     },
     "\/bower_components\/foundation-sites\/js\/foundation.accordionMenu.js" : {
       "bF" : 0,
       "ft" : 64,
       "ma" : 0,
-      "mi" : 0,
+      "mi" : 1,
       "oA" : 1,
       "oAP" : "\/bower_components\/foundation-sites\/js\/foundation.accordionMenu.js",
       "oF" : 0,
-      "sC" : 0,
+      "sC" : 3,
       "tS" : 0
     },
     "\/bower_components\/foundation-sites\/js\/foundation.core.js" : {
       "bF" : 0,
       "ft" : 64,
       "ma" : 0,
-      "mi" : 0,
+      "mi" : 1,
       "oA" : 1,
       "oAP" : "\/bower_components\/foundation-sites\/js\/foundation.core.js",
       "oF" : 0,
-      "sC" : 0,
+      "sC" : 3,
       "tS" : 0
     },
     "\/bower_components\/foundation-sites\/js\/foundation.core.plugin.js" : {
@@ -3493,55 +3509,55 @@
       "bF" : 0,
       "ft" : 64,
       "ma" : 0,
-      "mi" : 0,
+      "mi" : 1,
       "oA" : 1,
       "oAP" : "\/bower_components\/foundation-sites\/js\/foundation.drilldown.js",
       "oF" : 0,
-      "sC" : 0,
+      "sC" : 3,
       "tS" : 0
     },
     "\/bower_components\/foundation-sites\/js\/foundation.dropdown.js" : {
       "bF" : 0,
       "ft" : 64,
       "ma" : 0,
-      "mi" : 0,
+      "mi" : 1,
       "oA" : 1,
       "oAP" : "\/bower_components\/foundation-sites\/js\/foundation.dropdown.js",
       "oF" : 0,
-      "sC" : 0,
+      "sC" : 3,
       "tS" : 0
     },
     "\/bower_components\/foundation-sites\/js\/foundation.dropdownMenu.js" : {
       "bF" : 0,
       "ft" : 64,
       "ma" : 0,
-      "mi" : 0,
+      "mi" : 1,
       "oA" : 1,
       "oAP" : "\/bower_components\/foundation-sites\/js\/foundation.dropdownMenu.js",
       "oF" : 0,
-      "sC" : 0,
+      "sC" : 3,
       "tS" : 0
     },
     "\/bower_components\/foundation-sites\/js\/foundation.equalizer.js" : {
       "bF" : 0,
       "ft" : 64,
       "ma" : 0,
-      "mi" : 0,
+      "mi" : 1,
       "oA" : 1,
       "oAP" : "\/bower_components\/foundation-sites\/js\/foundation.equalizer.js",
       "oF" : 0,
-      "sC" : 0,
+      "sC" : 3,
       "tS" : 0
     },
     "\/bower_components\/foundation-sites\/js\/foundation.interchange.js" : {
       "bF" : 0,
       "ft" : 64,
       "ma" : 0,
-      "mi" : 0,
+      "mi" : 1,
       "oA" : 1,
       "oAP" : "\/bower_components\/foundation-sites\/js\/foundation.interchange.js",
       "oF" : 0,
-      "sC" : 0,
+      "sC" : 3,
       "tS" : 0
     },
     "\/bower_components\/foundation-sites\/js\/foundation.js" : {
@@ -3559,33 +3575,33 @@
       "bF" : 0,
       "ft" : 64,
       "ma" : 0,
-      "mi" : 0,
+      "mi" : 1,
       "oA" : 1,
       "oAP" : "\/bower_components\/foundation-sites\/js\/foundation.magellan.js",
       "oF" : 0,
-      "sC" : 0,
+      "sC" : 3,
       "tS" : 0
     },
     "\/bower_components\/foundation-sites\/js\/foundation.offcanvas.js" : {
       "bF" : 0,
       "ft" : 64,
       "ma" : 0,
-      "mi" : 0,
+      "mi" : 1,
       "oA" : 1,
       "oAP" : "\/bower_components\/foundation-sites\/js\/foundation.offcanvas.js",
       "oF" : 0,
-      "sC" : 0,
+      "sC" : 3,
       "tS" : 0
     },
     "\/bower_components\/foundation-sites\/js\/foundation.orbit.js" : {
       "bF" : 0,
       "ft" : 64,
       "ma" : 0,
-      "mi" : 0,
+      "mi" : 1,
       "oA" : 1,
       "oAP" : "\/bower_components\/foundation-sites\/js\/foundation.orbit.js",
       "oF" : 0,
-      "sC" : 0,
+      "sC" : 3,
       "tS" : 0
     },
     "\/bower_components\/foundation-sites\/js\/foundation.positionable.js" : {
@@ -3614,44 +3630,44 @@
       "bF" : 0,
       "ft" : 64,
       "ma" : 0,
-      "mi" : 0,
+      "mi" : 1,
       "oA" : 1,
       "oAP" : "\/bower_components\/foundation-sites\/js\/foundation.responsiveMenu.js",
       "oF" : 0,
-      "sC" : 0,
+      "sC" : 3,
       "tS" : 0
     },
     "\/bower_components\/foundation-sites\/js\/foundation.responsiveToggle.js" : {
       "bF" : 0,
       "ft" : 64,
       "ma" : 0,
-      "mi" : 0,
+      "mi" : 1,
       "oA" : 1,
       "oAP" : "\/bower_components\/foundation-sites\/js\/foundation.responsiveToggle.js",
       "oF" : 0,
-      "sC" : 0,
+      "sC" : 3,
       "tS" : 0
     },
     "\/bower_components\/foundation-sites\/js\/foundation.reveal.js" : {
       "bF" : 0,
       "ft" : 64,
       "ma" : 0,
-      "mi" : 0,
+      "mi" : 1,
       "oA" : 1,
       "oAP" : "\/bower_components\/foundation-sites\/js\/foundation.reveal.js",
       "oF" : 0,
-      "sC" : 0,
+      "sC" : 3,
       "tS" : 0
     },
     "\/bower_components\/foundation-sites\/js\/foundation.slider.js" : {
       "bF" : 0,
       "ft" : 64,
       "ma" : 0,
-      "mi" : 0,
+      "mi" : 1,
       "oA" : 1,
       "oAP" : "\/bower_components\/foundation-sites\/js\/foundation.slider.js",
       "oF" : 0,
-      "sC" : 0,
+      "sC" : 3,
       "tS" : 0
     },
     "\/bower_components\/foundation-sites\/js\/foundation.smoothScroll.js" : {
@@ -3669,55 +3685,55 @@
       "bF" : 0,
       "ft" : 64,
       "ma" : 0,
-      "mi" : 0,
+      "mi" : 1,
       "oA" : 1,
       "oAP" : "\/bower_components\/foundation-sites\/js\/foundation.sticky.js",
       "oF" : 0,
-      "sC" : 0,
+      "sC" : 3,
       "tS" : 0
     },
     "\/bower_components\/foundation-sites\/js\/foundation.tabs.js" : {
       "bF" : 0,
       "ft" : 64,
       "ma" : 0,
-      "mi" : 0,
+      "mi" : 1,
       "oA" : 1,
       "oAP" : "\/bower_components\/foundation-sites\/js\/foundation.tabs.js",
       "oF" : 0,
-      "sC" : 0,
+      "sC" : 3,
       "tS" : 0
     },
     "\/bower_components\/foundation-sites\/js\/foundation.toggler.js" : {
       "bF" : 0,
       "ft" : 64,
       "ma" : 0,
-      "mi" : 0,
+      "mi" : 1,
       "oA" : 1,
       "oAP" : "\/bower_components\/foundation-sites\/js\/foundation.toggler.js",
       "oF" : 0,
-      "sC" : 0,
+      "sC" : 3,
       "tS" : 0
     },
     "\/bower_components\/foundation-sites\/js\/foundation.tooltip.js" : {
       "bF" : 0,
       "ft" : 64,
       "ma" : 0,
-      "mi" : 0,
+      "mi" : 1,
       "oA" : 1,
       "oAP" : "\/bower_components\/foundation-sites\/js\/foundation.tooltip.js",
       "oF" : 0,
-      "sC" : 0,
+      "sC" : 3,
       "tS" : 0
     },
     "\/bower_components\/foundation-sites\/js\/foundation.util.box.js" : {
       "bF" : 0,
       "ft" : 64,
       "ma" : 0,
-      "mi" : 0,
+      "mi" : 1,
       "oA" : 1,
       "oAP" : "\/bower_components\/foundation-sites\/js\/foundation.util.box.js",
       "oF" : 0,
-      "sC" : 0,
+      "sC" : 3,
       "tS" : 0
     },
     "\/bower_components\/foundation-sites\/js\/foundation.util.imageLoader.js" : {
@@ -3735,44 +3751,44 @@
       "bF" : 0,
       "ft" : 64,
       "ma" : 0,
-      "mi" : 0,
+      "mi" : 1,
       "oA" : 1,
       "oAP" : "\/bower_components\/foundation-sites\/js\/foundation.util.keyboard.js",
       "oF" : 0,
-      "sC" : 0,
+      "sC" : 3,
       "tS" : 0
     },
     "\/bower_components\/foundation-sites\/js\/foundation.util.mediaQuery.js" : {
       "bF" : 0,
       "ft" : 64,
       "ma" : 0,
-      "mi" : 0,
+      "mi" : 1,
       "oA" : 1,
       "oAP" : "\/bower_components\/foundation-sites\/js\/foundation.util.mediaQuery.js",
       "oF" : 0,
-      "sC" : 0,
+      "sC" : 3,
       "tS" : 0
     },
     "\/bower_components\/foundation-sites\/js\/foundation.util.motion.js" : {
       "bF" : 0,
       "ft" : 64,
       "ma" : 0,
-      "mi" : 0,
+      "mi" : 1,
       "oA" : 1,
       "oAP" : "\/bower_components\/foundation-sites\/js\/foundation.util.motion.js",
       "oF" : 0,
-      "sC" : 0,
+      "sC" : 3,
       "tS" : 0
     },
     "\/bower_components\/foundation-sites\/js\/foundation.util.nest.js" : {
       "bF" : 0,
       "ft" : 64,
       "ma" : 0,
-      "mi" : 0,
+      "mi" : 1,
       "oA" : 1,
       "oAP" : "\/bower_components\/foundation-sites\/js\/foundation.util.nest.js",
       "oF" : 0,
-      "sC" : 0,
+      "sC" : 3,
       "tS" : 0
     },
     "\/bower_components\/foundation-sites\/js\/foundation.util.timer.js" : {
@@ -3790,22 +3806,22 @@
       "bF" : 0,
       "ft" : 64,
       "ma" : 0,
-      "mi" : 0,
+      "mi" : 1,
       "oA" : 1,
       "oAP" : "\/bower_components\/foundation-sites\/js\/foundation.util.touch.js",
       "oF" : 0,
-      "sC" : 0,
+      "sC" : 3,
       "tS" : 0
     },
     "\/bower_components\/foundation-sites\/js\/foundation.util.triggers.js" : {
       "bF" : 0,
       "ft" : 64,
       "ma" : 0,
-      "mi" : 0,
+      "mi" : 1,
       "oA" : 1,
       "oAP" : "\/bower_components\/foundation-sites\/js\/foundation.util.triggers.js",
       "oF" : 0,
-      "sC" : 0,
+      "sC" : 3,
       "tS" : 0
     },
     "\/bower_components\/foundation-sites\/js\/typescript\/foundation.d.ts" : {
@@ -3836,6 +3852,14 @@
       "hM" : 0,
       "oA" : 2,
       "oAP" : "\/bower_components\/foundation-sites\/package.nuspec",
+      "oF" : 0
+    },
+    "\/bower_components\/foundation-sites\/patches\/browserstack-runner+0.9.2.patch" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/bower_components\/foundation-sites\/patches\/browserstack-runner+0.9.2.patch",
       "oF" : 0
     },
     "\/bower_components\/foundation-sites\/README.md" : {
@@ -4596,7 +4620,7 @@
       "ec" : 1,
       "ft" : 4,
       "ma" : 0,
-      "oA" : 2,
+      "oA" : 1,
       "oAP" : "\/bower_components\/foundation-sites\/scss\/foundation.scss",
       "oF" : 0,
       "oS" : 0,
@@ -5316,7 +5340,7 @@
       "ec" : 1,
       "ft" : 4,
       "ma" : 0,
-      "oA" : 2,
+      "oA" : 1,
       "oAP" : "\/bower_components\/foundation-sites\/scss\/vendor\/normalize.scss",
       "oF" : 0,
       "oS" : 0,
@@ -5458,13 +5482,24 @@
       "pg" : 0,
       "sct" : 1
     },
-    "\/bower_components\/foundation-sites\/shrinkwrap.yaml" : {
+    "\/bower_components\/foundation-sites\/SECURITY.md" : {
       "cB" : 0,
-      "ft" : 8192,
+      "cS" : 0,
+      "eF" : 1,
+      "eL" : 1,
+      "ema" : 1,
+      "eSQ" : 1,
+      "ft" : 4096,
       "hM" : 0,
       "oA" : 2,
-      "oAP" : "\/bower_components\/foundation-sites\/shrinkwrap.yaml",
-      "oF" : 0
+      "oAP" : "\/bower_components\/foundation-sites\/SECURITY.md",
+      "oF" : 0,
+      "oFM" : 0,
+      "oS" : 0,
+      "pHT" : 0,
+      "pME" : 1,
+      "rFN" : 0,
+      "uCM" : 0
     },
     "\/bower_components\/jquery\/.bower.json" : {
       "ft" : 524288,
