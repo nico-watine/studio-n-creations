@@ -7,7 +7,7 @@
       "uuidString" : "D3AFDADF-58B6-45BD-9063-434B0C0A7D18"
     }
   ],
-  "creatorBuild" : "34214",
+  "creatorBuild" : "34264",
   "files" : {
     "\/_ignores\/autoprefixer-browser-string.txt" : {
       "cB" : 0,
@@ -1401,14 +1401,6 @@
       "hM" : 0,
       "oA" : 2,
       "oAP" : "\/assets\/robots.txt",
-      "oF" : 0
-    },
-    "\/assets\/sitemap.xml" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/assets\/sitemap.xml",
       "oF" : 0
     },
     "\/assets\/touch-icon-192x192.png" : {
@@ -9596,6 +9588,14 @@
       "oAP" : "\/src\/data\/cdn.yml",
       "oF" : 0
     },
+    "\/src\/data\/meta-viewport.yml" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/src\/data\/meta-viewport.yml",
+      "oF" : 0
+    },
     "\/src\/helpers\/_notes.txt" : {
       "cB" : 0,
       "ft" : 8192,
@@ -10891,6 +10891,9 @@
       },
       "no-unused-labels" : {
         "active" : 1
+      },
+      "no-unused-private-class-members" : {
+        "active" : 0
       },
       "no-unused-vars" : {
         "active" : 1,
