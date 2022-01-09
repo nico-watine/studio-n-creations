@@ -1403,14 +1403,6 @@
       "oAP" : "\/assets\/robots.txt",
       "oF" : 0
     },
-    "\/assets\/sitemap.xml" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/assets\/sitemap.xml",
-      "oF" : 0
-    },
     "\/assets\/touch-icon-192x192.png" : {
       "ft" : 32768,
       "iS" : 7056,
@@ -9594,6 +9586,14 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/src\/data\/cdn.yml",
+      "oF" : 0
+    },
+    "\/src\/data\/meta-viewport.yml" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/src\/data\/meta-viewport.yml",
       "oF" : 0
     },
     "\/src\/helpers\/_notes.txt" : {
