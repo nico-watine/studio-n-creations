@@ -9,14 +9,6 @@
   ],
   "creatorBuild" : "34335",
   "files" : {
-    "\/_ignores\/about-new.txt" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/_ignores\/about-new.txt",
-      "oF" : 0
-    },
     "\/_ignores\/autoprefixer-browser-string.txt" : {
       "cB" : 0,
       "ft" : 8192,
