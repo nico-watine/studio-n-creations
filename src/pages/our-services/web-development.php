@@ -12,7 +12,7 @@ body-class: bodyLayout-default
 	<div class="row page-intro-prose">
 		<div class="medium-10 medium-push-1 large-7 large-push-2 columns end">
 			<h2>I offer a personalized website design and creation experience.</h2>
-			<h4>My workflow for any new web project consists of 4 steps:</h4>
+			<p class="h4 font-weight-normal">My workflow for any new web project consists of 4 steps:</p>
 		</div>
 	</div>
 	<div class="row" data-equalizer data-equalize-on="large">
@@ -22,7 +22,7 @@ body-class: bodyLayout-default
 					<h3 class="color-white text-shadow-black m-0">1. Site Layout Planning</h3>
 				</div>
 				<div class="workflowCard-description">
-					<p class="color-white font-weight-normal m-0">This includes the content strategy of what info will be presented <span class="display-inline-block">on the website.</span></p>
+					<p class="color-white m-0">This includes the content strategy of what info will be presented on&nbsp;the&nbsp;website.</p>
 				</div>
 			</div>
 		</div>
@@ -32,7 +32,7 @@ body-class: bodyLayout-default
 					<h3 class="m-0">2. Design Phase</h3>
 				</div>
 				<div class="workflowCard-description">
-					<p class="color-white font-weight-normal m-0">I consult with my clients closely throughout the design process to ensure full satisfaction with the site’s look and feel.</p>
+					<p class="color-white m-0">I consult with my clients closely throughout the design process to ensure full satisfaction with the site’s look&nbsp;and&nbsp;feel.</p>
 				</div>
 			</div>
 		</div>
@@ -44,7 +44,7 @@ body-class: bodyLayout-default
 					<h3 class="color-white text-shadow-black m-0">3. Coding &amp; Development Stage</h3>
 				</div>
 				<div class="workflowCard-description">
-					<p class="color-white font-weight-normal m-0">I then code the approved design into a functioning website, using the industry’s latest <span class="display-inline-block">methods and standards.</span></p>
+					<p class="color-white m-0">I then code the approved design into a functioning website, using the industry’s latestmethods&nbsp;and&nbsp;standards.</p>
 				</div>
 			</div>
 		</div>
@@ -103,7 +103,7 @@ body-class: bodyLayout-default
 					</div>
 				</div>
 				<div class="medium-6 columns">
-					<p class="font-weight-normal">I work with both <strong>Photoshop</strong> and <strong>Sketch App</strong> when converting files into functioning <strong>HTML5</strong>.</p>
+					<p>I work with both <strong>Photoshop</strong> and <strong>Sketch App</strong> when converting files into functioning <strong>HTML5</strong>.</p>
 				</div>
 				<div class="show-for-medium">
 					<div class="small-6 medium-3 columns">
