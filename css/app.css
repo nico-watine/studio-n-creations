@@ -8214,11 +8214,7 @@ footer {
   padding: 5rem 0; }
   footer * {
     color: #fff; }
-  footer .social-icons {
-    padding-top: 2.5rem; }
-    @media print, screen and (min-width: 64em) {
-      footer .social-icons {
-        padding-top: 0; } }
+
 .contact-banner .modalTrigger {
   margin: 1.25rem 0;
   padding: 0.875rem 0; }

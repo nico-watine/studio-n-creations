@@ -7,12 +7,4 @@ footer {
 	* {
 		color: #fff;
 	}
-
-	.social-icons {
-		padding-top: rem-calc(40);
-
-		@include breakpoint(large) {
-			padding-top: 0;
-		}
-	}
 }
