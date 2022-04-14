@@ -46,7 +46,7 @@ PATHS:
     # - "bower_components/foundation-sites/dist/js/plugins/foundation.util.*.js"
 
     # Individual util files
-    # - "bower_components/foundation-sites/dist/js/plugins/foundation.util.box.js"
+    - "bower_components/foundation-sites/dist/js/plugins/foundation.util.box.js"
     - "bower_components/foundation-sites/dist/js/plugins/foundation.util.imageLoader.js"
     - "bower_components/foundation-sites/dist/js/plugins/foundation.util.keyboard.js"
     - "bower_components/foundation-sites/dist/js/plugins/foundation.util.mediaQuery.js"
@@ -77,7 +77,7 @@ PATHS:
     # - "bower_components/foundation-sites/dist/js/plugins/foundation.sticky.js" # mediaQuery / triggers
     # - "bower_components/foundation-sites/dist/js/plugins/foundation.tabs.js" # imageLoader / keyboard
     - "bower_components/foundation-sites/dist/js/plugins/foundation.toggler.js" # motion / triggers
-    # - "bower_components/foundation-sites/dist/js/plugins/foundation.tooltip.js" # box / mediaQuery / triggers
+    - "bower_components/foundation-sites/dist/js/plugins/foundation.tooltip.js" # box / mediaQuery / triggers
 
     # Main JS file (imports everything above)
     - "js/app-min.js"
