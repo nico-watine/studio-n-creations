@@ -7361,7 +7361,6 @@ p {
   @media print, screen and (min-width: 40em) {
     p {
       font-size: 1rem; } }
-p,
 h6 {
   font-weight: 300; }
 
