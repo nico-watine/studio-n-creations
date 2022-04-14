@@ -14,7 +14,7 @@ body-class: index bodyLayout-unique
 			<div class="prose-cell cell color-white">
 				<div class="grid-container">
 					<h1>Studio N Creations</h1>
-					<h2 class="fontWeight-400">Web Design <span class="display-inline-block">| Site Maintenance</span></h2>
+					<h2>Web Design |&nbsp;Site&nbsp;Maintenance</h2>
 				</div>
 			</div>
 		</div>
