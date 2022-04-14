@@ -13,8 +13,6 @@ UNCSS_OPTIONS:
     - !!js/regexp ^\.is-.*
     - .reveal-overlay
     - body.is-reveal-open
-    - .tooltip
-    - .phone-tooltip
     - .is-off-canvas-open
     - .js-off-canvas-exit
     - .js-off-canvas-overlay
