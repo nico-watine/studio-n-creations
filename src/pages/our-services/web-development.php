@@ -12,7 +12,7 @@ body-class: bodyLayout-default
 	<div class="row page-intro-prose">
 		<div class="medium-10 medium-push-1 large-7 large-push-2 columns end">
 			<h2>I offer a personalized website design and creation experience.</h2>
-			<h4>My workflow for any new web project consists of 4 steps:</h4>
+			<p class="h4 font-weight-normal">My workflow for any new web project consists of 4 steps:</p>
 		</div>
 	</div>
 	<div class="row" data-equalizer data-equalize-on="large">
