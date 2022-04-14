@@ -503,7 +503,7 @@ h5, .h5,
 h6, .h6 {
   font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-style: normal;
-  font-weight: normal;
+  font-weight: bold;
   color: inherit;
   text-rendering: optimizeLegibility; }
   h1 small, .h1 small,
@@ -7352,9 +7352,6 @@ form#index-contact-form .contact-form-input-group-button input,
   font-family: 'Source Code Pro', Consolas, 'Liberation Mono', Courier, monospace;
   font-weight: 600;
   text-transform: uppercase; }
-
-h2 {
-  font-weight: 700; }
 
 p {
   font-size: 1.125rem; }
