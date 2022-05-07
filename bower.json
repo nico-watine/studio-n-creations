@@ -1,6 +1,6 @@
 {
   "name": "studio-n-creations",
-  "authors": [
+  "author": [
     "Nico Watine <nico@studioncreations.com> (https://nicowatine.me/)"
   ],
   "description": "www.studioncreations.com project repo. Site built on zurb-f6-boilerplate.",
