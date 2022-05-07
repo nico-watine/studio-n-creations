@@ -14,7 +14,7 @@ body-class: index bodyLayout-unique
 			<h3 style="margin-bottom: 40px;">Projects</h3>
 		</div>
 	</div>
-	<div id="masonryGrid" class="row small-up-2 medium-up-3">
+	<div id="masonryGrid" class="row small-up-2 medium-up-3 large-up-4">
 		<div class="tile column column-block">
 			<div class="tileBase">
 				<a href="/img/projects/_dev/greencare.png"><img src="/img/projects/_dev/greencare.png" alt="Greencare Interior Plants Gallery Image - 1"></a>
