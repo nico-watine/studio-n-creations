@@ -9033,24 +9033,11 @@
       "plM" : 3758088159,
       "prP" : 0
     },
-    "\/img\/projects\/_dev\/A Plus Permit.png" : {
-      "ft" : 32768,
-      "iS" : 1609299,
-      "oA" : 1,
-      "oAP" : "\/img\/projects\/_dev\/A Plus Permit.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/img\/projects\/_dev\/Antica Collection.png" : {
+    "\/img\/projects\/_dev\/ac.png" : {
       "ft" : 32768,
       "iS" : 8569111,
       "oA" : 1,
-      "oAP" : "\/img\/projects\/_dev\/Antica Collection.png",
+      "oAP" : "\/img\/projects\/_dev\/ac.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -9059,11 +9046,24 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/img\/projects\/_dev\/Clements Athletic Booster Club.png" : {
+    "\/img\/projects\/_dev\/app.png" : {
+      "ft" : 32768,
+      "iS" : 1609299,
+      "oA" : 1,
+      "oAP" : "\/img\/projects\/_dev\/app.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/img\/projects\/_dev\/cabc.png" : {
       "ft" : 32768,
       "iS" : 1520879,
       "oA" : 1,
-      "oAP" : "\/img\/projects\/_dev\/Clements Athletic Booster Club.png",
+      "oAP" : "\/img\/projects\/_dev\/cabc.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -9072,11 +9072,11 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/img\/projects\/_dev\/Cross Eye Centers.png" : {
+    "\/img\/projects\/_dev\/cross.png" : {
       "ft" : 32768,
       "iS" : 3307542,
       "oA" : 1,
-      "oAP" : "\/img\/projects\/_dev\/Cross Eye Centers.png",
+      "oAP" : "\/img\/projects\/_dev\/cross.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -9085,11 +9085,11 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/img\/projects\/_dev\/Essential Sound Production.png" : {
+    "\/img\/projects\/_dev\/esp.png" : {
       "ft" : 32768,
       "iS" : 4357021,
       "oA" : 1,
-      "oAP" : "\/img\/projects\/_dev\/Essential Sound Production.png",
+      "oAP" : "\/img\/projects\/_dev\/esp.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -9098,11 +9098,11 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/img\/projects\/_dev\/Excess Field.png" : {
+    "\/img\/projects\/_dev\/excess.png" : {
       "ft" : 32768,
       "iS" : 2443435,
       "oA" : 1,
-      "oAP" : "\/img\/projects\/_dev\/Excess Field.png",
+      "oAP" : "\/img\/projects\/_dev\/excess.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -9111,11 +9111,11 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/img\/projects\/_dev\/Greencare Interior Plants.png" : {
+    "\/img\/projects\/_dev\/greencare.png" : {
       "ft" : 32768,
       "iS" : 7504447,
       "oA" : 1,
-      "oAP" : "\/img\/projects\/_dev\/Greencare Interior Plants.png",
+      "oAP" : "\/img\/projects\/_dev\/greencare.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -9124,11 +9124,11 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/img\/projects\/_dev\/Houston Interior Plants.png" : {
+    "\/img\/projects\/_dev\/hip.png" : {
       "ft" : 32768,
       "iS" : 3913166,
       "oA" : 1,
-      "oAP" : "\/img\/projects\/_dev\/Houston Interior Plants.png",
+      "oAP" : "\/img\/projects\/_dev\/hip.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -9137,11 +9137,11 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/img\/projects\/_dev\/Houston PALS.png" : {
+    "\/img\/projects\/_dev\/hpals.png" : {
       "ft" : 32768,
       "iS" : 2970741,
       "oA" : 1,
-      "oAP" : "\/img\/projects\/_dev\/Houston PALS.png",
+      "oAP" : "\/img\/projects\/_dev\/hpals.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -9150,11 +9150,11 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/img\/projects\/_dev\/Houston Uncovered - 1.png" : {
+    "\/img\/projects\/_dev\/hu.png" : {
       "ft" : 32768,
       "iS" : 1694677,
       "oA" : 1,
-      "oAP" : "\/img\/projects\/_dev\/Houston Uncovered - 1.png",
+      "oAP" : "\/img\/projects\/_dev\/hu.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -9163,11 +9163,11 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/img\/projects\/_dev\/Julia and Garrison.png" : {
+    "\/img\/projects\/_dev\/jg.png" : {
       "ft" : 32768,
       "iS" : 2615398,
       "oA" : 1,
-      "oAP" : "\/img\/projects\/_dev\/Julia and Garrison.png",
+      "oAP" : "\/img\/projects\/_dev\/jg.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -9176,24 +9176,11 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/img\/projects\/_dev\/Lemon Peel Facial.png" : {
-      "ft" : 32768,
-      "iS" : 1345728,
-      "oA" : 1,
-      "oAP" : "\/img\/projects\/_dev\/Lemon Peel Facial.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/img\/projects\/_dev\/Lisa Esposito.png" : {
+    "\/img\/projects\/_dev\/le.png" : {
       "ft" : 32768,
       "iS" : 4461765,
       "oA" : 1,
-      "oAP" : "\/img\/projects\/_dev\/Lisa Esposito.png",
+      "oAP" : "\/img\/projects\/_dev\/le.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -9202,11 +9189,24 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/img\/projects\/_dev\/Miriam Rodríguez.png" : {
+    "\/img\/projects\/_dev\/lpf.png" : {
+      "ft" : 32768,
+      "iS" : 1345728,
+      "oA" : 1,
+      "oAP" : "\/img\/projects\/_dev\/lpf.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/img\/projects\/_dev\/mr.png" : {
       "ft" : 32768,
       "iS" : 4292485,
       "oA" : 1,
-      "oAP" : "\/img\/projects\/_dev\/Miriam Rodríguez.png",
+      "oAP" : "\/img\/projects\/_dev\/mr.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -9215,11 +9215,11 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/img\/projects\/_dev\/nicolas-watine-fr.png" : {
+    "\/img\/projects\/_dev\/nwfr.png" : {
       "ft" : 32768,
       "iS" : 8697051,
       "oA" : 1,
-      "oAP" : "\/img\/projects\/_dev\/nicolas-watine-fr.png",
+      "oAP" : "\/img\/projects\/_dev\/nwfr.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -9228,11 +9228,11 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/img\/projects\/_dev\/Starhill Farms.png" : {
+    "\/img\/projects\/_dev\/shf.png" : {
       "ft" : 32768,
       "iS" : 4612065,
       "oA" : 1,
-      "oAP" : "\/img\/projects\/_dev\/Starhill Farms.png",
+      "oAP" : "\/img\/projects\/_dev\/shf.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -9267,11 +9267,11 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/img\/projects\/_dev\/TB-Antiques.png" : {
+    "\/img\/projects\/_dev\/tba.png" : {
       "ft" : 32768,
       "iS" : 5394891,
       "oA" : 1,
-      "oAP" : "\/img\/projects\/_dev\/TB-Antiques.png",
+      "oAP" : "\/img\/projects\/_dev\/tba.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -9280,11 +9280,11 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/img\/projects\/_dev\/Zaraza Design.png" : {
+    "\/img\/projects\/_dev\/zd.png" : {
       "ft" : 32768,
       "iS" : 865551,
       "oA" : 1,
-      "oAP" : "\/img\/projects\/_dev\/Zaraza Design.png",
+      "oAP" : "\/img\/projects\/_dev\/zd.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
