@@ -45,6 +45,26 @@ body-class: index bodyLayout-unique
 				<a href="/img/projects/_dev/hpals.png"><img src="/img/projects/_dev/hpals.png" alt="Greencare Interior Plants Gallery Image - 7"></a>
 			</div>
 		</div>
+		<div class="tile column column-block">
+			<div class="tileBase">
+				<a href="/img/projects/_dev/jg.png"><img src="/img/projects/_dev/jg.png" alt="Greencare Interior Plants Gallery Image - 7"></a>
+			</div>
+		</div>
+		<div class="tile column column-block">
+			<div class="tileBase">
+				<a href="/img/projects/_dev/hu.png"><img src="/img/projects/_dev/hu.png" alt="Greencare Interior Plants Gallery Image - 7"></a>
+			</div>
+		</div>
+		<div class="tile column column-block">
+			<div class="tileBase">
+				<a href="/img/projects/_dev/zd.png"><img src="/img/projects/_dev/zd.png" alt="Greencare Interior Plants Gallery Image - 7"></a>
+			</div>
+		</div>
+		<div class="tile column column-block">
+			<div class="tileBase">
+				<a href="/img/projects/_dev/shf.png"><img src="/img/projects/_dev/shf.png" alt="Greencare Interior Plants Gallery Image - 7"></a>
+			</div>
+		</div>
 	</div>
 </section>
 <section class="recent-projects">
