@@ -10254,7 +10254,7 @@
     "bowerAbbreviatedPath" : "bower_components",
     "bowerForceLatestOnConflict" : 1,
     "bowerTargetDependencyListType" : 1,
-    "bowerUseExactVersion" : 0,
+    "bowerUseExactVersion" : 1,
     "browserRefreshDelay" : 0,
     "browserslistString" : ">0.2%, last 2 versions, Firefox ESR, not dead",
     "buildEnvironment" : 0,
