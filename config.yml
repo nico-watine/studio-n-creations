@@ -11,6 +11,7 @@ UNCSS_OPTIONS:
   ignore:
     - !!js/regexp .foundation-mq
     - !!js/regexp ^\.is-.*
+    - !!js/regexp ^\.mfp-.*
     - !!js/regexp ^img\.mfp-.*
     - !!js/regexp ^button\.mfp-.*
     - .reveal-overlay
