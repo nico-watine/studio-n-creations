@@ -1,0 +1,14 @@
+.gallery-section {
+	padding: rem-calc(80 0);
+	background: #eee;
+
+	#masonryGrid {
+		.tile {
+			.tileBase {
+				border: rem-calc(4) solid #654111;
+				border-radius: rem-calc(24);
+				overflow: hidden;
+			}
+		}
+	}
+}

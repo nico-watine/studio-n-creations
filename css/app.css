@@ -8436,6 +8436,14 @@ form#index-contact-form span.input-group-label.error {
     left: 0;
     width: 100%; }
 
+.gallery-section {
+  padding: 5rem 0;
+  background: #eee; }
+  .gallery-section #masonryGrid .tile .tileBase {
+    border: 0.25rem solid #654111;
+    border-radius: 1.5rem;
+    overflow: hidden; }
+
 #index #mobileNavBar-wrapper {
   position: absolute;
   right: 0;
