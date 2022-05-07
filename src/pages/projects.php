@@ -22,7 +22,7 @@ body-class: index bodyLayout-unique
 		</div>
 		<div class="tile column column-block">
 			<div class="tileBase">
-				<a href="/img/projects/_dev/mr.png"><img src="/img/projects/_dev/mr.png" alt="Greencare Interior Plants Gallery Image - 2"></a>
+				<a href="/img/projects/_dev/miriam-rodriguez.png"><img src="/img/projects/_dev/miriam-rodriguez.png" alt="Greencare Interior Plants Gallery Image - 2"></a>
 			</div>
 		</div>
 		<div class="tile column column-block">
@@ -32,12 +32,12 @@ body-class: index bodyLayout-unique
 		</div>
 		<div class="tile column column-block">
 			<div class="tileBase">
-				<a href="/img/projects/_dev/nwfr.png"><img src="/img/projects/_dev/nwfr.png" alt="Greencare Interior Plants Gallery Image - 4"></a>
+				<a href="/img/projects/_dev/nicolas-watine-fr.png"><img src="/img/projects/_dev/nicolas-watine-fr.png" alt="Greencare Interior Plants Gallery Image - 4"></a>
 			</div>
 		</div>
 		<div class="tile column column-block">
 			<div class="tileBase">
-				<a href="/img/projects/_dev/lpf.png"><img src="/img/projects/_dev/lpf.png" alt="Greencare Interior Plants Gallery Image - 5"></a>
+				<a href="/img/projects/_dev/lemon-peel-facial.png"><img src="/img/projects/_dev/lemon-peel-facial.png" alt="Greencare Interior Plants Gallery Image - 5"></a>
 			</div>
 		</div>
 		<div class="tile column column-block">
@@ -47,27 +47,27 @@ body-class: index bodyLayout-unique
 		</div>
 		<div class="tile column column-block">
 			<div class="tileBase">
-				<a href="/img/projects/_dev/hpals.png"><img src="/img/projects/_dev/hpals.png" alt="Greencare Interior Plants Gallery Image - 7"></a>
+				<a href="/img/projects/_dev/houston-pals.png"><img src="/img/projects/_dev/houston-pals.png" alt="Greencare Interior Plants Gallery Image - 7"></a>
 			</div>
 		</div>
 		<div class="tile column column-block">
 			<div class="tileBase">
-				<a href="/img/projects/_dev/jg.png"><img src="/img/projects/_dev/jg.png" alt="Greencare Interior Plants Gallery Image - 7"></a>
+				<a href="/img/projects/_dev/julia-garrison.png"><img src="/img/projects/_dev/julia-garrison.png" alt="Greencare Interior Plants Gallery Image - 7"></a>
 			</div>
 		</div>
 		<div class="tile column column-block">
 			<div class="tileBase">
-				<a href="/img/projects/_dev/hu.png"><img src="/img/projects/_dev/hu.png" alt="Greencare Interior Plants Gallery Image - 7"></a>
+				<a href="/img/projects/_dev/houston-uncovered.png"><img src="/img/projects/_dev/houston-uncovered.png" alt="Greencare Interior Plants Gallery Image - 7"></a>
 			</div>
 		</div>
 		<div class="tile column column-block">
 			<div class="tileBase">
-				<a href="/img/projects/_dev/zd.png"><img src="/img/projects/_dev/zd.png" alt="Greencare Interior Plants Gallery Image - 7"></a>
+				<a href="/img/projects/_dev/zaraza-design.png"><img src="/img/projects/_dev/zaraza-design.png" alt="Greencare Interior Plants Gallery Image - 7"></a>
 			</div>
 		</div>
 		<div class="tile column column-block">
 			<div class="tileBase">
-				<a href="/img/projects/_dev/shf.png"><img src="/img/projects/_dev/shf.png" alt="Greencare Interior Plants Gallery Image - 7"></a>
+				<a href="/img/projects/_dev/starhill-farms.png"><img src="/img/projects/_dev/starhill-farms.png" alt="Greencare Interior Plants Gallery Image - 7"></a>
 			</div>
 		</div>
 	</div>
