@@ -1,6 +1,6 @@
 {
   "name": "studio-n-creations",
-  "authors": [
+  "author": [
     "Nico Watine <nico@studioncreations.com> (https://nicowatine.me/)"
   ],
   "description": "www.studioncreations.com project repo. Site built on zurb-f6-boilerplate.",
@@ -14,6 +14,9 @@
     "foundation-sites": "6.7.3",
     "jquery": ">=2.2.0",
     "motion-ui": "^2.0.2",
-    "what-input": ">=4.1.0"
+    "what-input": ">=4.1.0",
+    "masonry-layout": "4.2.2",
+    "imagesloaded": "4.1.4",
+    "magnific-popup": "1.1.0"
   }
 }
