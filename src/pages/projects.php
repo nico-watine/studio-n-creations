@@ -9,6 +9,11 @@ body-id: index
 body-class: index bodyLayout-unique
 ---
 <section class="gallery-section">
+	<div class="row">
+		<div class="small-12 columns text-center">
+			<h3 style="margin-bottom: 40px;">Projects</h3>
+		</div>
+	</div>
 	<div id="masonryGrid" class="row small-up-2 medium-up-3">
 		<div class="tile column column-block">
 			<div class="tileBase">
