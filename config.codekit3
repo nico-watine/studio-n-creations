@@ -9600,6 +9600,14 @@
       "oAP" : "\/src\/pages\/our-services\/web-development.php",
       "oF" : 0
     },
+    "\/src\/pages\/projects.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/src\/pages\/projects.php",
+      "oF" : 0
+    },
     "\/src\/partials\/_notes.txt" : {
       "cB" : 0,
       "ft" : 8192,
