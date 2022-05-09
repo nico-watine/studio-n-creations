@@ -106,7 +106,7 @@ body-class: index bodyLayout-unique
 		</div>
 	</div>
 </section>
-<section class="recent-projects">
+<section class="display-none recent-projects">
 	<div class="row">
 		<div class="small-12 columns text-center">
 			<h3>Recent Projects</h3>
