@@ -10461,6 +10461,19 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/dist\/img\/projects\/miriam-rodriguez\/miriam-rodriguez.png" : {
+      "ft" : 32768,
+      "iS" : 1323798,
+      "oA" : 1,
+      "oAP" : "\/dist\/img\/projects\/miriam-rodriguez\/miriam-rodriguez.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/dist\/img\/projects\/starhill-farms\/index\/projectCard\/starhill-farms-website-thumbnail_2x.jpg" : {
       "ft" : 16384,
       "iS" : 71060,
@@ -11647,6 +11660,19 @@
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/img\/projects\/miriam-rodriguez\/miriam-rodriguez.png" : {
+      "ft" : 32768,
+      "iS" : 1323798,
+      "oA" : 1,
+      "oAP" : "\/img\/projects\/miriam-rodriguez\/miriam-rodriguez.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
