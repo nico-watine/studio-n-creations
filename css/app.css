@@ -8442,6 +8442,8 @@ form#index-contact-form span.input-group-label.error {
     background: rgba(68, 68, 68, 0.75);
     border-radius: 1.5rem;
     padding: 1.5rem; }
+  .projectBanner#miriam-rodriguez .img-wrap img {
+    box-shadow: 0 17px 17px 0 rgba(0, 0, 0, 0.15), 0 17px 17px 0 rgba(0, 0, 0, 0.15), 0 27px 55px 0 rgba(0, 0, 0, 0.3), 0 27px 55px 0 rgba(0, 0, 0, 0.3); }
 
 .gallery-section {
   padding: 5rem 0;

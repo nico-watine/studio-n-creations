@@ -8,7 +8,7 @@ og-image: /img/assets/og-images/index/studio-n-creations-og-image-1.png
 body-id: index
 body-class: index bodyLayout-unique
 ---
-<section class="projectBanner" id="miriam-rodriguez" style="padding-top: 50px; padding-bottom: 50px;">
+<section class="projectBanner overflow-hidden" id="miriam-rodriguez" style="padding-top: 50px; height: 400px;">
 	<div class="row">
 		<div class="medium-6 columns">
 			<div class="prose-wrap color-white display-inline-block float-right">
@@ -16,6 +16,10 @@ body-class: index bodyLayout-unique
 				<p style="font-size: 18px; max-width: 400px;">International bridal couturier Miriam Rodríguez hired me to create her bilingual online portfolio so she could expand her business and capitalize on her booming Instagram profile.</p>
 			</div>
 		</div>
-		<div class="medium-6 columns"></div>
+		<div class="medium-6 columns">
+			<div class="img-wrap">
+				<img style="max-width: 475px;" src="/img/projects/miriam-rodriguez/miriam-rodriguez.png" alt="">
+			</div>
+		</div>
 	</div>
 </section>

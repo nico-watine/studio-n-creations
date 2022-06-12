@@ -6,4 +6,10 @@
 		border-radius: rem-calc(24);
 		padding: rem-calc(24);
 	}
+
+	.img-wrap {
+		img {
+			box-shadow: 0 17px 17px 0 rgba(0,0,0,.15), 0 17px 17px 0 rgba(0,0,0,.15), 0 27px 55px 0 rgba(0,0,0,.30), 0 27px 55px 0 rgba(0,0,0,.30);
+		}
+	}
 }
