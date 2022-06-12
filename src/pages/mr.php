@@ -8,8 +8,8 @@ og-image: /img/assets/og-images/index/studio-n-creations-og-image-1.png
 body-id: index
 body-class: index bodyLayout-unique
 ---
-<section class="projectBanner overflow-hidden" id="miriam-rodriguez" style="padding-top: 50px; height: 400px;">
-	<div class="row">
+<section class="projectBanner overflow-hidden" id="miriam-rodriguez" style="position: relative; padding-top: 50px; height: 400px;">
+	<div class="row" style="position: relative; z-index: 10;">
 		<div class="medium-6 columns">
 			<div class="prose-wrap color-white display-inline-block float-right">
 				<h3 class="monospace text-center mb-20">Miriam Rodríguez</h3>
@@ -22,4 +22,5 @@ body-class: index bodyLayout-unique
 			</div>
 		</div>
 	</div>
+	<img class="box-shadow-5" style="position: absolute; width: 490px; top: -575px; right: 0;" src="/img/projects/miriam-rodriguez/miriam-rodriguez.png" alt="">
 </section>
