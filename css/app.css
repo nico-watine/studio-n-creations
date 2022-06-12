@@ -8437,13 +8437,25 @@ form#index-contact-form span.input-group-label.error {
     width: 100%; }
 
 .projectBanner#miriam-rodriguez {
-  background: #a2a4c9 url("/img/projects/miriam-rodriguez/hex-pattern.png") center/auto repeat; }
+  background: #a2a4c9 url("/img/projects/miriam-rodriguez/hex-pattern.png") center/auto repeat;
+  padding-top: 50px;
+  height: 400px; }
   .projectBanner#miriam-rodriguez .prose-wrap {
     background: rgba(68, 68, 68, 0.75);
     border-radius: 1.5rem;
     padding: 1.5rem; }
+    .projectBanner#miriam-rodriguez .prose-wrap p {
+      font-size: 18px;
+      max-width: 400px; }
   .projectBanner#miriam-rodriguez .img-wrap img {
-    box-shadow: 0 17px 17px 0 rgba(0, 0, 0, 0.15), 0 17px 17px 0 rgba(0, 0, 0, 0.15), 0 27px 55px 0 rgba(0, 0, 0, 0.3), 0 27px 55px 0 rgba(0, 0, 0, 0.3); }
+    box-shadow: 0 17px 17px 0 rgba(0, 0, 0, 0.15), 0 17px 17px 0 rgba(0, 0, 0, 0.15), 0 27px 55px 0 rgba(0, 0, 0, 0.3), 0 27px 55px 0 rgba(0, 0, 0, 0.3);
+    max-width: 475px; }
+  .projectBanner#miriam-rodriguez img.bg-screenshot {
+    position: absolute;
+    width: 490px;
+    top: -575px;
+    right: 0;
+    box-shadow: 0 1.0625rem 1.0625rem 0 rgba(0, 0, 0, 0.15), 0 1.6875rem 3.4375rem 0 rgba(0, 0, 0, 0.3); }
 
 .gallery-section {
   padding: 5rem 0;
