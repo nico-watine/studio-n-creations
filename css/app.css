@@ -8437,7 +8437,11 @@ form#index-contact-form span.input-group-label.error {
     width: 100%; }
 
 .projectBanner#miriam-rodriguez {
-  background: #A2A4C9 url("/img/projects/miriam-rodriguez/hex-pattern.png") center/auto repeat; }
+  background: #a2a4c9 url("/img/projects/miriam-rodriguez/hex-pattern.png") center/auto repeat; }
+  .projectBanner#miriam-rodriguez .prose-wrap {
+    background: rgba(68, 68, 68, 0.75);
+    border-radius: 1.5rem;
+    padding: 1.5rem; }
 
 .gallery-section {
   padding: 5rem 0;

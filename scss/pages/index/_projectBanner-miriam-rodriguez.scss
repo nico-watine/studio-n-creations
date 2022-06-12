@@ -1,3 +1,9 @@
 .projectBanner#miriam-rodriguez {
-	background: #A2A4C9 url("/img/projects/miriam-rodriguez/hex-pattern.png") center/auto repeat;
+	background: #a2a4c9 url('/img/projects/miriam-rodriguez/hex-pattern.png') center/auto repeat;
+
+	.prose-wrap {
+		background: rgba(68,68,68,.75);
+		border-radius: rem-calc(24);
+		padding: rem-calc(24);
+	}
 }
