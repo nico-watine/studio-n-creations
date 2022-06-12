@@ -10588,6 +10588,14 @@
       "oO" : 0,
       "oS" : 1
     },
+    "\/dist\/mr.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dist\/mr.php",
+      "oF" : 0
+    },
     "\/dist\/mstile-70x70.png" : {
       "ft" : 32768,
       "iS" : 1664,
@@ -10675,14 +10683,6 @@
       "hM" : 0,
       "oA" : 1,
       "oAP" : "\/dist\/php\/sendContact.php",
-      "oF" : 0
-    },
-    "\/dist\/projects.php" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/dist\/projects.php",
       "oF" : 0
     },
     "\/dist\/robots.txt" : {
@@ -12450,6 +12450,21 @@
       "pg" : 0,
       "sct" : 1
     },
+    "\/scss\/pages\/index\/_projectBanner-miriam-rodriguez.scss" : {
+      "aP" : 1,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/css\/_projectBanner-miriam-rodriguez.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 1
+    },
     "\/scss\/pages\/index\/_projects.scss" : {
       "aP" : 1,
       "bl" : 0,
@@ -12625,6 +12640,14 @@
       "oA" : 1,
       "oAP" : "\/index.php",
       "oF" : 3
+    },
+    "\/src\/pages\/mr.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/src\/pages\/mr.php",
+      "oF" : 0
     },
     "\/src\/pages\/our-services\/web-development.php" : {
       "cB" : 0,
