@@ -18,7 +18,7 @@ body-class: index bodyLayout-unique
 		</div>
 		<div class="medium-6 columns">
 			<div class="img-wrap">
-				<img src="/img/projects/miriam-rodriguez/miriam-rodriguez.png" alt="">
+				<img src="/img/projects/miriam-rodriguez/miriam-rodriguez.png" alt="Screenshot of miriamrodriguez.com">
 			</div>
 		</div>
 	</div>
