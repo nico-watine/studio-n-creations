@@ -9,5 +9,5 @@ body-id: index
 body-class: index bodyLayout-unique
 ---
 <section class="projectBanner" id="miriam-rodriguez">
-
+&nbsp;
 </section>

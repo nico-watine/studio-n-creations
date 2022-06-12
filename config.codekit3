@@ -10435,6 +10435,19 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/dist\/img\/projects\/miriam-rodriguez\/hex-pattern.png" : {
+      "ft" : 32768,
+      "iS" : 2054,
+      "oA" : 1,
+      "oAP" : "\/dist\/img\/projects\/miriam-rodriguez\/hex-pattern.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/dist\/img\/projects\/miriam-rodriguez\/index\/projectCard\/miriam_rodriguez_website_2x.jpg" : {
       "ft" : 16384,
       "iS" : 78613,
@@ -11378,7 +11391,7 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/img\/projects\/_dev\/Tacupra.png" : {
+    "\/img\/projects\/_dev\/tacupra.png" : {
       "ft" : 32768,
       "iS" : 3722883,
       "oA" : 1,
@@ -11634,6 +11647,19 @@
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/img\/projects\/miriam-rodriguez\/hex-pattern.png" : {
+      "ft" : 32768,
+      "iS" : 2054,
+      "oA" : 1,
+      "oAP" : "\/img\/projects\/miriam-rodriguez\/hex-pattern.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
