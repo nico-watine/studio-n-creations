@@ -8441,6 +8441,9 @@ form#index-contact-form span.input-group-label.error {
   padding-top: 50px; }
   @media print, screen and (min-width: 40em) {
     .projectBanner#miriam-rodriguez {
+      height: 530px; } }
+  @media print, screen and (min-width: 64em) {
+    .projectBanner#miriam-rodriguez {
       height: 480px; } }
   .projectBanner#miriam-rodriguez .prose-wrap {
     background: rgba(68, 68, 68, 0.75);
