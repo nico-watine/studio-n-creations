@@ -1,6 +1,7 @@
 .projectBanner#miriam-rodriguez {
-	background: #a2a4c9 url('/img/projects/miriam-rodriguez/hex-pattern.png') center/auto repeat;
-	padding-top: 50px;
+	// background: #a2a4c9 url('/img/projects/miriam-rodriguez/hex-pattern.png') center/auto repeat;
+	background: #a2a4c9 url('/img/projects/miriam-rodriguez/miriam-rodriguez.png') center/cover repeat;
+	// padding-top: 50px;
 
 	@include breakpoint(medium) {
 		height: 530px;
@@ -8,6 +9,15 @@
 
 	@include breakpoint(large) {
 		height: 480px;
+	}
+
+	.bg-blur {
+		z-index: 10;
+		padding-top: 50px;
+
+		@include breakpoint(medium) {
+			backdrop-filter: blur(10px);
+		}
 	}
 
 	.prose-wrap {
@@ -63,6 +73,7 @@
 		position: absolute;
 		box-shadow: $z-5;
 		top: 0;
+		z-index: -1;
 
 		@include breakpoint(medium) {
 			width: 490px;
