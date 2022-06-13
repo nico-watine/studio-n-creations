@@ -8453,6 +8453,12 @@ form#index-contact-form span.input-group-label.error {
     .projectBanner#miriam-rodriguez .prose-wrap p {
       font-size: 18px;
       max-width: 400px; }
+      .projectBanner#miriam-rodriguez .prose-wrap p a {
+        color: #fff;
+        text-decoration: underline; }
+        .projectBanner#miriam-rodriguez .prose-wrap p a:hover {
+          border-bottom: 2px solid #fff;
+          text-decoration: none; }
     .projectBanner#miriam-rodriguez .prose-wrap a.site-link {
       padding: 0.875rem 1.25rem;
       box-shadow: -0.25rem 0.25rem 0 0 rgba(99, 129, 153, 0.8);

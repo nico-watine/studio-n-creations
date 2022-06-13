@@ -20,6 +20,16 @@
 		p {
 			font-size: 18px;
 			max-width: 400px;
+
+			a {
+				color: #fff;
+				text-decoration: underline;
+
+				&:hover {
+					border-bottom: 2px solid #fff;
+					text-decoration: none;
+				}
+			}
 		}
 
 		a.site-link {
