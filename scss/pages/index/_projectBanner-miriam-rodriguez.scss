@@ -1,12 +1,17 @@
 .projectBanner#miriam-rodriguez {
 	background: #a2a4c9 url('/img/projects/miriam-rodriguez/hex-pattern.png') center/auto repeat;
 	padding-top: 50px;
-	height: 400px;
+	// height: 400px;
 
 	.prose-wrap {
 		background: rgba(68,68,68,.75);
 		border-radius: rem-calc(24);
 		padding: rem-calc(24);
+		margin-bottom: 50px;
+
+		@include breakpoint(medium) {
+			float: right;
+		}
 
 		p {
 			font-size: 18px;
@@ -23,9 +28,11 @@
 
 	img.bg-screenshot {
 		position: absolute;
-		width: 490px;
-		top: -575px;
-		right: 0;
 		box-shadow: $z-5;
+		top: 0;
+
+		// width: 490px;
+		// top: -575px;
+		// right: 0;
 	}
 }
