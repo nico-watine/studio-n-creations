@@ -13,7 +13,10 @@ body-class: index bodyLayout-unique
 		<div class="medium-6 columns text-center medium-text-left">
 			<div class="prose-wrap color-white display-inline-block text-left">
 				<h3 class="monospace text-center mb-20">Miriam Rodríguez</h3>
-				<p>International bridal couturier Miriam Rodríguez hired me to create her bilingual online portfolio so she could expand her business and capitalize on her booming Instagram profile.</p>
+				<p>International bridal couturier Miriam Rodríguez hired me to create her bilingual online portfolio so she could expand her business and capitalize on her booming <a href="https://instagram.com/realmiriamrodriguez?igshid=YmMyMTA2M2Y=" target="_blank">Instagram profile</a>.</p>
+				<div class="text-center">
+					<a href="https://miriamrodriguez.com/" class="site-link">www.miriamrodriguez.com</a>
+				</div>
 			</div>
 		</div>
 		<div class="medium-6 columns">
