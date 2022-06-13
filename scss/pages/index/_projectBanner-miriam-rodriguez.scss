@@ -1,6 +1,10 @@
 .projectBanner#miriam-rodriguez {
 	background: #a2a4c9 url('/img/projects/miriam-rodriguez/hex-pattern.png') center/auto repeat;
 	padding-top: 50px;
+
+	@include breakpoint(medium) {
+		height: 480px;
+	}
 	// height: 400px;
 
 	.prose-wrap {
@@ -31,8 +35,10 @@
 		box-shadow: $z-5;
 		top: 0;
 
-		// width: 490px;
-		// top: -575px;
-		// right: 0;
+		@include breakpoint(medium) {
+			width: 490px;
+			top: -575px;
+			right: 0;
+		}
 	}
 }
