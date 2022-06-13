@@ -10474,19 +10474,6 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/dist\/img\/projects\/miriam-rodriguez\/miriam-rodriguez copy.png" : {
-      "ft" : 32768,
-      "iS" : 1323798,
-      "oA" : 1,
-      "oAP" : "\/dist\/img\/projects\/miriam-rodriguez\/miriam-rodriguez copy.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
     "\/dist\/img\/projects\/miriam-rodriguez\/miriam-rodriguez.png" : {
       "ft" : 32768,
       "iS" : 1323798,
@@ -11404,7 +11391,7 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/img\/projects\/_dev\/tacupra.png" : {
+    "\/img\/projects\/_dev\/Tacupra.png" : {
       "ft" : 32768,
       "iS" : 3722883,
       "oA" : 1,
