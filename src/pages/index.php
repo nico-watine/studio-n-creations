@@ -24,7 +24,6 @@ body-class: index bodyLayout-unique
 			<video playsinline autoplay muted loop preload="auto" poster="{{ cdn }}/img/index/website-mashup-video/studio-n-creations-website-mashup-poster.jpg" id="backgroundVideo">
 				<source src="{{ cdn }}/img/index/website-mashup-video/studio-n-creations-website-mashup.mp4" type="video/mp4">
 				<source src="{{ cdn }}/img/index/website-mashup-video/studio-n-creations-website-mashup.webm" type="video/webm">
-				<source src="{{ cdn }}/img/index/website-mashup-video/studio-n-creations-website-mashup.ogv" type="video/ogg">
 			</video>
 		</div>
 	</div>
