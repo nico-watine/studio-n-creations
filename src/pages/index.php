@@ -56,7 +56,7 @@ body-class: index bodyLayout-unique
 			<h3 class="show-for-medium">About Me</h3>
 			<h4 class="mb-16">My name is <span itemprop="name">Nico Watine</span>, and I am the <span class="display-inline-block" itemprop="affiliation">Studio N Creations</span> team. I design, code and maintain mobile-optimized websites for projects of all sizes.</h4>
 			<p>Having a professional website is key to a company’s image and success, and that’s exactly what I specialize in — strong websites for B2B and B2C small businesses. While I used to do full-stack web development full time, I now offer my services as a part-time <span itemprop="jobTitle">freelance web designer</span>. I only take on 1 or 2 projects at a time to ensure I can provide the utmost excellence in service and quality with every job, for every client.</p>
-			<p>I’m located in Houston, TX, and am available for hire anywhere. Please contact me and let’s see when we can get started — I’m only a message away.</p>
+			<p>I’m located in Houston, TX, and am available for hire anywhere. Please <a class="text-underline" data-open="contactModal">contact me</a> and let’s see when we can get started — I’m only a message away.</p>
 		</div>
 	</div>
 </section>
