@@ -11049,14 +11049,6 @@
       "oAP" : "\/img\/index\/website-mashup-video\/studio-n-creations-website-mashup.mp4",
       "oF" : 0
     },
-    "\/img\/index\/website-mashup-video\/studio-n-creations-website-mashup.ogv" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/img\/index\/website-mashup-video\/studio-n-creations-website-mashup.ogv",
-      "oF" : 0
-    },
     "\/img\/index\/website-mashup-video\/studio-n-creations-website-mashup.webm" : {
       "cB" : 0,
       "ft" : 8192,
@@ -11365,7 +11357,7 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/img\/projects\/_dev\/tacupra.png" : {
+    "\/img\/projects\/_dev\/Tacupra.png" : {
       "ft" : 32768,
       "iS" : 3722883,
       "oA" : 1,
