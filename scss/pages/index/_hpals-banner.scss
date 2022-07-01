@@ -25,7 +25,7 @@
 		margin-bottom: 50px;
 
 		@include breakpoint(medium) {
-			float: right;
+			// float: right;
 		}
 
 		p {
@@ -76,7 +76,7 @@
 		@include breakpoint(medium) {
 			width: 490px;
 			top: -575px;
-			right: 0;
+			left: 0;
 		}
 	}
 }

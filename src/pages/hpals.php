@@ -11,6 +11,11 @@ body-class: index bodyLayout-unique
 <section class="projectBanner overflow-hidden position-relative" id="hpals">
 	<div class="bg-blur position-relative">
 		<div class="row">
+			<div class="medium-6 columns">
+				<div class="img-wrap float-right show-for-medium">
+					<img src="/img/projects/houston-pals/houston-pals.png" alt="Screenshot of houstonpals.com">
+				</div>
+			</div>
 			<div class="medium-6 columns text-center medium-text-left">
 				<div class="prose-wrap color-white display-inline-block text-left">
 					<h3 class="monospace text-center mb-20">Houston PALS</h3>
@@ -18,11 +23,6 @@ body-class: index bodyLayout-unique
 					<div class="text-center">
 						<a href="https://houstonpals.com/" class="site-link">www.houstonpals.com</a>
 					</div>
-				</div>
-			</div>
-			<div class="medium-6 columns">
-				<div class="img-wrap show-for-medium">
-					<img src="/img/projects/houston-pals/houston-pals.png" alt="Screenshot of houstonpals.com">
 				</div>
 			</div>
 		</div>
