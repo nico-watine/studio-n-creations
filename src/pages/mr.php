@@ -26,6 +26,6 @@ body-class: index bodyLayout-unique
 				</div>
 			</div>
 		</div>
+		<img class="bg-screenshot" style="user-select: none;pointer-events: none;" src="/img/projects/miriam-rodriguez/miriam-rodriguez.png" alt="">
 	</div>
-	<img class="bg-screenshot" style="user-select: none;pointer-events: none;" src="/img/projects/miriam-rodriguez/miriam-rodriguez.png" alt="">
 </section>
