@@ -9142,7 +9142,7 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/img\/projects\/_dev\/tacupra.png" : {
+    "\/img\/projects\/_dev\/Tacupra.png" : {
       "ft" : 32768,
       "iS" : 3722883,
       "oA" : 1,
@@ -9294,6 +9294,19 @@
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/img\/projects\/houston-pals\/houston-pals.png" : {
+      "ft" : 32768,
+      "iS" : 759553,
+      "oA" : 1,
+      "oAP" : "\/img\/projects\/houston-pals\/houston-pals.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
