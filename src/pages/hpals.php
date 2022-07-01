@@ -13,16 +13,16 @@ body-class: index bodyLayout-unique
 		<div class="row">
 			<div class="medium-6 columns text-center medium-text-left">
 				<div class="prose-wrap color-white display-inline-block text-left">
-					<h3 class="monospace text-center mb-20">Miriam Rodríguez</h3>
-					<p>International bridal couturier Miriam Rodríguez hired me to create her bilingual online portfolio so she could expand her business and capitalize on her booming <a href="https://instagram.com/realmiriamrodriguez?igshid=YmMyMTA2M2Y=" target="_blank">Instagram profile</a>.</p>
+					<h3 class="monospace text-center mb-20">Houston PALS</h3>
+					<p>I worked with Bill Bickley of Houston Pet Artifical Limbs & Supports to craft a professional online presence for his specialized animal veterinary business in time for Puppy Bowl 15.</p>
 					<div class="text-center">
-						<a href="https://miriamrodriguez.com/" class="site-link">www.miriamrodriguez.com</a>
+						<a href="https://houstonpals.com/" class="site-link">www.houstonpals.com</a>
 					</div>
 				</div>
 			</div>
 			<div class="medium-6 columns">
 				<div class="img-wrap show-for-medium">
-					<img src="/img/projects/houston-pals/houston-pals.png" alt="Screenshot of miriamrodriguez.com">
+					<img src="/img/projects/houston-pals/houston-pals.png" alt="Screenshot of houstonpals.com">
 				</div>
 			</div>
 		</div>
