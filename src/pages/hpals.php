@@ -8,7 +8,7 @@ og-image: /img/assets/og-images/index/studio-n-creations-og-image-1.png
 body-id: index
 body-class: index bodyLayout-unique
 ---
-<section class="projectBanner overflow-hidden position-relative" id="miriam-rodriguez">
+<section class="projectBanner overflow-hidden position-relative" id="hpals">
 	<div class="bg-blur position-relative">
 		<div class="row">
 			<div class="medium-6 columns text-center medium-text-left">
@@ -22,10 +22,10 @@ body-class: index bodyLayout-unique
 			</div>
 			<div class="medium-6 columns">
 				<div class="img-wrap show-for-medium">
-					<img src="/img/projects/miriam-rodriguez/miriam-rodriguez.png" alt="Screenshot of miriamrodriguez.com">
+					<img src="/img/projects/houston-pals/houston-pals.png" alt="Screenshot of miriamrodriguez.com">
 				</div>
 			</div>
 		</div>
-		<img class="bg-screenshot" style="user-select: none;pointer-events: none;" src="/img/projects/miriam-rodriguez/miriam-rodriguez.png" alt="">
+		<img class="bg-screenshot" style="user-select: none;pointer-events: none;" src="/img/projects/houston-pals/houston-pals.png" alt="">
 	</div>
 </section>
