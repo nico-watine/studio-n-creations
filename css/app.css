@@ -8449,7 +8449,7 @@ form#index-contact-form span.input-group-label.error {
     padding-top: 50px; }
     @media print, screen and (min-width: 40em) {
       .projectBanner#miriam-rodriguez .bg-blur {
-        backdrop-filter: blur(10px); } }
+        backdrop-filter: blur(5px); } }
   .projectBanner#miriam-rodriguez .prose-wrap {
     background: rgba(68, 68, 68, 0.75);
     border-radius: 1.5rem;
