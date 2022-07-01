@@ -8437,14 +8437,19 @@ form#index-contact-form span.input-group-label.error {
     width: 100%; }
 
 .projectBanner#miriam-rodriguez {
-  background: #a2a4c9 url("/img/projects/miriam-rodriguez/hex-pattern.png") center/auto repeat;
-  padding-top: 50px; }
+  background: #a2a4c9 url("/img/projects/miriam-rodriguez/miriam-rodriguez.png") center/cover repeat; }
   @media print, screen and (min-width: 40em) {
     .projectBanner#miriam-rodriguez {
       height: 530px; } }
   @media print, screen and (min-width: 64em) {
     .projectBanner#miriam-rodriguez {
       height: 480px; } }
+  .projectBanner#miriam-rodriguez .bg-blur {
+    z-index: 10;
+    padding-top: 50px; }
+    @media print, screen and (min-width: 40em) {
+      .projectBanner#miriam-rodriguez .bg-blur {
+        backdrop-filter: blur(5px); } }
   .projectBanner#miriam-rodriguez .prose-wrap {
     background: rgba(68, 68, 68, 0.75);
     border-radius: 1.5rem;
@@ -8480,7 +8485,8 @@ form#index-contact-form span.input-group-label.error {
   .projectBanner#miriam-rodriguez img.bg-screenshot {
     position: absolute;
     box-shadow: 0 1.0625rem 1.0625rem 0 rgba(0, 0, 0, 0.15), 0 1.6875rem 3.4375rem 0 rgba(0, 0, 0, 0.3);
-    top: 0; }
+    top: 0;
+    z-index: -1; }
     @media print, screen and (min-width: 40em) {
       .projectBanner#miriam-rodriguez img.bg-screenshot {
         width: 490px;
