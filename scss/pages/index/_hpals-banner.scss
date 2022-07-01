@@ -41,7 +41,7 @@
 
 		a.site-link {
 			padding: rem-calc(14) rem-calc(20);
-			box-shadow: rem-calc(-4) rem-calc(4) 0 0 rgba(99,129,153,.80);
+			box-shadow: rem-calc(-4) rem-calc(4) 0 0 rgba(48,101,155,0.80);
 			color: $black;
 			font-size: rem-calc(18);
 			border-radius: rem-calc(3);
@@ -50,7 +50,7 @@
 			display: inline-block;
 
 			&:hover {
-				box-shadow: rem-calc(-4) rem-calc(2) 0 0 rgba(99,129,153,.80);
+				box-shadow: rem-calc(-4) rem-calc(2) 0 0 rgba(48,101,155,0.80);
 				margin: rem-calc(22 0 0);
 			}
 		}
