@@ -1,7 +1,5 @@
 .projectBanner#miriam-rodriguez {
-	// background: #a2a4c9 url('/img/projects/miriam-rodriguez/hex-pattern.png') center/auto repeat;
 	background: #a2a4c9 url('/img/projects/miriam-rodriguez/miriam-rodriguez.png') center/cover repeat;
-	// padding-top: 50px;
 
 	@include breakpoint(medium) {
 		height: 530px;
