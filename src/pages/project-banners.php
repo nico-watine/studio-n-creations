@@ -29,7 +29,9 @@ body-class: index bodyLayout-unique
 		<img class="bg-screenshot" style="user-select: none;pointer-events: none;" src="/img/projects/miriam-rodriguez/miriam-rodriguez.png" alt="">
 	</div>
 </section>
-
+<br>
+<hr>
+<br>
 <section class="projectBanner overflow-hidden position-relative" id="hpals">
 	<div class="bg-blur position-relative">
 		<div class="row">
