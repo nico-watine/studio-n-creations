@@ -9415,6 +9415,19 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/img\/projects\/miriam-rodriguez\/hex-pattern.png" : {
+      "ft" : 32768,
+      "iS" : 2054,
+      "oA" : 1,
+      "oAP" : "\/img\/projects\/miriam-rodriguez\/hex-pattern.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/img\/projects\/miriam-rodriguez\/index\/projectCard\/miriam_rodriguez_website_2x.jpg" : {
       "ft" : 16384,
       "iS" : 78613,
@@ -9437,6 +9450,19 @@
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/img\/projects\/miriam-rodriguez\/miriam-rodriguez.png" : {
+      "ft" : 32768,
+      "iS" : 1323798,
+      "oA" : 1,
+      "oAP" : "\/img\/projects\/miriam-rodriguez\/miriam-rodriguez.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -10225,21 +10251,6 @@
       "pg" : 0,
       "sct" : 1
     },
-    "\/scss\/pages\/index\/_hpals-banner.scss" : {
-      "aP" : 1,
-      "bl" : 0,
-      "co" : 0,
-      "dP" : 10,
-      "ec" : 1,
-      "ft" : 4,
-      "ma" : 0,
-      "oA" : 1,
-      "oAP" : "\/css\/_hpals-banner.css",
-      "oF" : 0,
-      "oS" : 0,
-      "pg" : 0,
-      "sct" : 1
-    },
     "\/scss\/pages\/index\/_index.scss" : {
       "aP" : 1,
       "bl" : 0,
@@ -10250,6 +10261,36 @@
       "ma" : 0,
       "oA" : 1,
       "oAP" : "\/css\/_index.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 1
+    },
+    "\/scss\/pages\/index\/_projectBanner-hpals.scss" : {
+      "aP" : 1,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/css\/_projectBanner-hpals.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 1
+    },
+    "\/scss\/pages\/index\/_projectBanner-miriam-rodriguez.scss" : {
+      "aP" : 1,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/css\/_projectBanner-miriam-rodriguez.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
@@ -10439,20 +10480,20 @@
       "oAP" : "\/index.php",
       "oF" : 3
     },
+    "\/src\/pages\/mr.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/src\/pages\/mr.php",
+      "oF" : 0
+    },
     "\/src\/pages\/our-services\/web-development.php" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 1,
       "oAP" : "\/src\/pages\/our-services\/web-development.php",
-      "oF" : 0
-    },
-    "\/src\/pages\/projects.php" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/src\/pages\/projects.php",
       "oF" : 0
     },
     "\/src\/partials\/_notes.txt" : {
