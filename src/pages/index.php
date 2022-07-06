@@ -29,7 +29,7 @@ body-class: index bodyLayout-unique
 	</div>
 </header>
 
-<section class="intro-slogan" style="margin-bottom: 40px;">
+<section class="intro-slogan">
 	<div class="row">
 		<div class="medium-6 columns medium-text-right">
 			<h2>I create phone-friendly websites for projects of all&nbsp;sizes</h2>
@@ -42,7 +42,7 @@ body-class: index bodyLayout-unique
 	</div>
 </section>
 
-<section class="about-me py-40">
+<section class="about-me" style="padding-bottom: 60px;">
 	<div class="row">
 		<div class="column">
 			<div class="prose-wrap float-center">
