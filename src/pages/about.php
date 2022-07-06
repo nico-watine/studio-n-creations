@@ -12,9 +12,9 @@ body-class: index bodyLayout-unique
 	<div class="row">
 		<div class="column">
 			<div class="prose-wrap float-center" style="background: #F4F4F4;border-radius: 16px;max-width:830px;">
-				<div class="prose float-center" style="max-width: 690px; padding-top: 30px;padding-bottom: 60px;">
+				<div class="prose float-center" style="max-width: 690px; padding-top: 40px;padding-bottom: 40px;">
 					<h3 class="h3 ff-monospace">About Me</h3>
-					<h4 class="h4">My name is Nico Watine, and I am the Studio N Creations team. I design, code and maintain mobile-optimized websites for projects of all sizes.</h4>
+					<h4 class="h4 mb-16">My name is Nico Watine, and I am the Studio N Creations team. I design, code and maintain mobile-optimized websites for projects of all sizes.</h4>
 					<p>Having a professional website is key to a company’s image and success, and that’s exactly what I specialize in — strong websites for B2B and B2C small businesses. While I used to do full-stack web development full time, I now offer my services as a part-time freelance web designer. I only take on 1 or 2 projects at a time to ensure I can provide the utmost excellence in service and quality with every job, for every client.</p>
 					<p>I’m located in Houston, TX, and am available for hire anywhere. Please contact me and let’s see when we can get started — I’m only a message away.</p>
 				</div>
