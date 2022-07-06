@@ -56,6 +56,11 @@ body-class: index bodyLayout-unique
 	</div>
 </section>
 
+<div class="p-8" style="background: #566372;">
+	<hr>
+	<h2 class="text-center text-white ff-monospace">Featured Projects</h2>
+</div>
+
 <section class="projectBanner overflow-hidden position-relative" id="miriam-rodriguez">
 	<div class="bg-blur position-relative">
 		<div class="row">
