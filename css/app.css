@@ -8256,10 +8256,16 @@ footer {
   #index .about-me .prose-wrap {
     background: #f4f4f4;
     border-radius: 16px;
-    max-width: 830px; }
+    max-width: 830px;
+    padding: 20px 16px; }
+    @media print, screen and (min-width: 40em) {
+      #index .about-me .prose-wrap {
+        padding: 32px; } }
+    @media print, screen and (min-width: 64em) {
+      #index .about-me .prose-wrap {
+        padding: 40px; } }
     #index .about-me .prose-wrap .prose {
-      max-width: 690px;
-      padding: 40px 0; }
+      max-width: 690px; }
 
 #index .graphic-branding {
   background: #fff; }

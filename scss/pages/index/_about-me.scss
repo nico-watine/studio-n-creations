@@ -6,10 +6,18 @@
 			background: #f4f4f4;
 			border-radius: 16px;
 			max-width: 830px;
+			padding: 20px 16px;
+
+			@include breakpoint(medium) {
+				padding: 32px;
+			}
+
+			@include breakpoint(large) {
+				padding: 40px;
+			}
 
 			.prose {
 				max-width: 690px;
-				padding: 40px 0;
 			}
 		}
 	}
