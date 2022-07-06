@@ -56,176 +56,59 @@ body-class: index bodyLayout-unique
 	</div>
 </section>
 
-<section class="gallery-section">
-	<div class="row">
-		<div class="small-12 columns text-center">
-			<h3 style="margin-bottom: 40px;">Projects</h3>
-		</div>
-	</div>
-	<div id="masonryGrid" class="row small-up-2 medium-up-3 large-up-4">
-		<div class="tile column column-block">
-			<div class="tileBase">
-				<a href="/img/projects/_dev/greencare.png"><img src="/img/projects/_dev/greencare.png" alt="Greencare Interior Plants"></a>
+<div class="p-8" style="background: #566372;">
+	<hr>
+	<h2 class="mb-16 text-center text-white ff-monospace">Featured Projects</h2>
+</div>
+
+<section class="projectBanner overflow-hidden position-relative" id="miriam-rodriguez">
+	<div class="bg-blur position-relative">
+		<div class="row">
+			<div class="medium-6 columns text-center medium-text-left">
+				<div class="prose-wrap color-white display-inline-block text-left">
+					<h3 class="monospace text-center mb-20">Miriam Rodríguez</h3>
+					<p>International bridal couturier Miriam Rodríguez hired me to create her bilingual online portfolio so she could expand her business and capitalize on her booming <a href="https://www.instagram.com/realmiriamrodriguez/" target="_blank">Instagram profile</a>.</p>
+					<div class="text-center">
+						<a href="https://miriamrodriguez.com/" class="site-link">www.miriamrodriguez.com</a>
+					</div>
+				</div>
+			</div>
+			<div class="medium-6 columns">
+				<div class="img-wrap show-for-medium">
+					<img src="/img/projects/miriam-rodriguez/miriam-rodriguez.png" alt="Screenshot of miriamrodriguez.com">
+				</div>
 			</div>
 		</div>
-		<div class="tile column column-block">
-			<div class="tileBase">
-				<a href="/img/projects/_dev/miriam-rodriguez.png"><img src="/img/projects/_dev/miriam-rodriguez.png" alt="Miriam Rodriguez Couturier"></a>
-			</div>
-		</div>
-		<div class="tile column column-block">
-			<div class="tileBase">
-				<a href="/img/projects/_dev/excess.png"><img src="/img/projects/_dev/excess.png" alt="Excess Fields"></a>
-			</div>
-		</div>
-		<div class="tile column column-block">
-			<div class="tileBase">
-				<a href="/img/projects/_dev/nicolas-watine-fr.png"><img src="/img/projects/_dev/nicolas-watine-fr.png" alt="Artist Nicolas Watine FR"></a>
-			</div>
-		</div>
-		<div class="tile column column-block">
-			<div class="tileBase">
-				<a href="/img/projects/_dev/lemon-peel-facial.png"><img src="/img/projects/_dev/lemon-peel-facial.png" alt="Lemon Peel Facial"></a>
-			</div>
-		</div>
-		<div class="tile column column-block">
-			<div class="tileBase">
-				<a href="/img/projects/_dev/tacupra.png"><img src="/img/projects/_dev/tacupra.png" alt="Tacupra"></a>
-			</div>
-		</div>
-		<div class="tile column column-block">
-			<div class="tileBase">
-				<a href="/img/projects/_dev/houston-pals.png"><img src="/img/projects/_dev/houston-pals.png" alt="Houston PALS"></a>
-			</div>
-		</div>
-		<div class="tile column column-block">
-			<div class="tileBase">
-				<a href="/img/projects/_dev/julia-garrison.png"><img src="/img/projects/_dev/julia-garrison.png" alt="Julia & Garrison"></a>
-			</div>
-		</div>
-		<div class="tile column column-block">
-			<div class="tileBase">
-				<a href="/img/projects/_dev/houston-uncovered.png"><img src="/img/projects/_dev/houston-uncovered.png" alt="Houston Uncovered"></a>
-			</div>
-		</div>
-		<div class="tile column column-block">
-			<div class="tileBase">
-				<a href="/img/projects/_dev/zaraza-design.png"><img src="/img/projects/_dev/zaraza-design.png" alt="Zaraza Design"></a>
-			</div>
-		</div>
-		<div class="tile column column-block">
-			<div class="tileBase">
-				<a href="/img/projects/_dev/starhill-farms.png"><img src="/img/projects/_dev/starhill-farms.png" alt="Starhill Farms"></a>
-			</div>
-		</div>
+		<img class="bg-screenshot" style="user-select: none;pointer-events: none;" src="/img/projects/miriam-rodriguez/miriam-rodriguez.png" alt="">
 	</div>
 </section>
-<section class="display-none recent-projects">
-	<div class="row">
-		<div class="small-12 columns text-center">
-			<h3>Recent Projects</h3>
-		</div>
-	</div>
-	<!-- Miriam-Rodriguez & PALS -->
-	<div class="row small-collapse xlarge-uncollapse">
-		<div class="medium-6 columns">
-			<div class="projectCard text-center">
-				<div class="projectCard-info">
-					<div class="prose">
-						<h3>Miriam Rodríguez</h3>
-						<h4>International Bridal Couturier</h4>
-						<br>
-						<a class="button long-word" href="http://miriamrodriguez.com/eng/">www.MiriamRodriguez.com</a>
-					</div>
+
+<div class="py-8" style="background: #566372;">
+	<hr>
+</div>
+
+<section class="projectBanner overflow-hidden position-relative" id="hpals">
+	<div class="bg-blur position-relative">
+		<div class="row">
+			<div class="medium-6 columns">
+				<div class="img-wrap float-right show-for-medium">
+					<img src="/img/projects/houston-pals/houston-pals.png" alt="Screenshot of houstonpals.com">
 				</div>
-				<div class="projectCard-image">
-					<img srcset="{{ cdn }}/img/projects/miriam-rodriguez/index/projectCard/miriam_rodriguez_website_2x.jpg 2x" src="{{ cdn }}/img/projects/miriam-rodriguez/index/projectCard/miriam_rodriguez_website.jpg" alt="Miriam Rodríguez Couturier website mockup">
+			</div>
+			<div class="medium-6 columns text-center medium-text-left">
+				<div class="prose-wrap color-white display-inline-block text-left">
+					<h3 class="monospace text-center mb-20">Houston PALS</h3>
+					<p>I worked with Bill Bickley of Houston Pet Artifical Limbs & Supports to craft a professional online presence for his specialized animal veterinary business in time for <a href="https://houstonpals.com/puppy-bowl-2019-journey">Puppy Bowl 15</a>.</p>
+					<div class="text-center">
+						<a href="https://houstonpals.com/" class="site-link">www.houstonpals.com</a>
+					</div>
 				</div>
 			</div>
 		</div>
-		<div class="medium-6 columns">
-			<div class="projectCard text-center" id="testCard">
-				<div class="projectCard-info">
-					<div class="prose">
-						<h3>Houston PALS</h3>
-						<h4>Specialized Veterinary Services</h4>
-						<br>
-						<a class="button" href="https://houstonpals.com/">www.HoustonPALS.com</a>
-					</div>
-				</div>
-				<div class="projectCard-image">
-					<img srcset="{{ cdn }}/img/projects/houston-pals/index/projectCard/houston-pals-logo-website-thumbnail_2x.jpg 2x" src="{{ cdn }}/img/projects/houston-pals/index/projectCard/houston-pals-logo-website-thumbnail.jpg" alt="Houston PALS website mockup">
-				</div>
-			</div>
-		</div>
-	</div>
-	<!-- DOFV & ESP -->
-	<div class="row small-collapse xlarge-uncollapse">
-		<div class="medium-6 columns">
-			<div class="projectCard text-center">
-				<div class="projectCard-info">
-					<div class="prose">
-						<h3>The Deck On Fountainview</h3>
-						<h4>Restaurant Industry</h4>
-						<br>
-						<a class="button" href="https://thedeckonfountainview.com/">www.thedeckonfountainview.com</a>
-					</div>
-				</div>
-				<div class="projectCard-image">
-					<img srcset="{{ cdn }}/img/projects/the-deck-on-fountainview/index/projectCard/deck-on-fountainview-website-thumbnail_2x.jpg 2x" src="{{ cdn }}/img/projects/the-deck-on-fountainview/index/projectCard/deck-on-fountainview-website-thumbnail.jpg" alt="The Deck On Fountainview website mockup">
-				</div>
-			</div>
-		</div>
-		<div class="medium-6 columns">
-			<div class="projectCard text-center">
-				<div class="projectCard-info">
-					<div class="prose">
-						<h3>Essential Sound Production</h3>
-						<h4>DJ Entertainment Services</h4>
-						<br>
-						<a class="button long-word" href="http://essentialsoundproduction.com/">www.EssentialSoundProduction.com</a>
-					</div>
-				</div>
-				<div class="projectCard-image">
-					<img srcset="{{ cdn }}/img/projects/essential-sound-production/index/projectCard/essential-sound-production-website-thumbnail_2x.jpg 2x" src="{{ cdn }}/img/projects/essential-sound-production/index/projectCard/essential-sound-production-website-thumbnail.jpg" alt="Essential Sound Production website mockup">
-				</div>
-			</div>
-		</div>
-	</div>
-	<!-- JDF & HIP -->
-	<div class="row small-collapse xlarge-uncollapse">
-		<div class="medium-6 columns">
-			<div class="projectCard text-center">
-				<div class="projectCard-info">
-					<div class="prose">
-						<h3>Jardin de France</h3>
-						<h4>Brick & Mortar Antique Shop</h4>
-						<br>
-						<a class="button" href="https://jardindefrancetx.com/">www.JardinDeFranceTX.com</a>
-					</div>
-				</div>
-				<div class="projectCard-image">
-					<img srcset="{{ cdn }}/img/projects/jardin-de-france-tx/index/projectCard/jardin-de-france-tx-website-thumbnail_2x.jpg 2x" src="{{ cdn }}/img/projects/jardin-de-france-tx/index/projectCard/jardin-de-france-tx-website-thumbnail.jpg" alt="Jardin de France TX website mockup">
-				</div>
-			</div>
-		</div>
-		<div class="medium-6 columns">
-			<div class="projectCard text-center">
-				<div class="projectCard-info">
-					<div class="prose">
-						<h3>Houston Interior Plants</h3>
-						<h4>E-Commerce Plant Shop</h4>
-						<br>
-						<a class="button" href="https://houstoninteriorplants.com/">www.HoustonInteriorPlants.com</a>
-					</div>
-				</div>
-				<div class="projectCard-image">
-					<img srcset="{{ cdn }}/img/projects/houston-interior-plants/index/projectCard/houston-interior-plants-website-thumbnail_2x.jpg 2x" src="{{ cdn }}/img/projects/houston-interior-plants/index/projectCard/houston-interior-plants-website-thumbnail.jpg" alt="Houston Interior Plants website mockup">
-				</div>
-			</div>
-		</div>
+		<img class="bg-screenshot" style="user-select: none;pointer-events: none;" src="/img/projects/houston-pals/houston-pals.png" alt="">
 	</div>
 </section>
+
 <section class="graphic-branding">
 	<div class="row collapse" data-equalizer data-equalize-on="medium">
 		<div class="medium-push-1 medium-11 large-4 large-push-0 columns" data-equalizer-watch>
@@ -252,21 +135,3 @@ body-class: index bodyLayout-unique
 		</div>
 	</div>
 </section>
-<!-- <section class="about-us">
-	<div class="row" itemscope itemtype="http://schema.org/Person">
-		<div class="medium-4 large-3 columns medium-text-center large-text-right image">
-			<div class="small-6 medium-12 columns no-padding">
-				<img srcset="{{ cdn }}/img/index/about-us/hello-lanyard_2x.jpg 2x" src="{{ cdn }}/img/index/about-us/hello-lanyard.jpg" alt="Nico Watine is Studio N Creations" title="HELLO my name is Nico Watine" itemprop="image">
-			</div>
-			<div class="small-6 columns hide-for-medium">
-				<h3>About Me</h3>
-			</div>
-		</div>
-		<div class="medium-8 large-9 columns prose">
-			<h3 class="show-for-medium">About Me</h3>
-			<h4 class="mb-16">My name is <span itemprop="name">Nico Watine</span>, and I am the <span class="display-inline-block" itemprop="affiliation">Studio N Creations</span> team. I design, code and maintain mobile-optimized websites for projects of all sizes.</h4>
-			<p>Having a professional website is key to a company’s image and success, and that’s exactly what I specialize in — strong websites for B2B and B2C small businesses. While I used to do full-stack web development full time, I now offer my services as a part-time <span itemprop="jobTitle">freelance web designer</span>. I only take on 1 or 2 projects at a time to ensure I can provide the utmost excellence in service and quality with every job, for every client.</p>
-			<p>I’m located in Houston, TX, and am available for hire anywhere. Please contact me and let’s see when we can get started — I’m only a message away.</p>
-		</div>
-	</div>
-</section> -->

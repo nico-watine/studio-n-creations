@@ -1,3 +1,15 @@
+#index {
+	.recent-projects {
+		padding: rem-calc(60) 0;
+
+		.project {
+			margin-bottom: rem-calc(20);
+			border: rem-calc(3) solid #566372;
+		}
+	}
+}
+
+
 .gallery-section {
 	padding: rem-calc(80 0);
 	background: #eee;
