@@ -10122,6 +10122,21 @@
       "pg" : 0,
       "sct" : 1
     },
+    "\/scss\/pages\/index\/_about-us-beta.scss" : {
+      "aP" : 1,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/css\/_about-us-beta.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 1
+    },
     "\/scss\/pages\/index\/_about-us.scss" : {
       "aP" : 1,
       "bl" : 0,
@@ -10393,6 +10408,14 @@
       "hM" : 0,
       "oA" : 1,
       "oAP" : "\/src\/layouts\/default.html",
+      "oF" : 0
+    },
+    "\/src\/pages\/about.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/src\/pages\/about.php",
       "oF" : 0
     },
     "\/src\/pages\/index.php" : {
