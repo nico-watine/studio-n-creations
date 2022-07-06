@@ -57,7 +57,7 @@ body-class: index bodyLayout-unique
 	</div>
 </section>
 
-<section class="about-us">
+<!-- <section class="about-us">
 	<div class="row" itemscope itemtype="http://schema.org/Person">
 		<div class="medium-4 large-3 columns medium-text-center large-text-right image">
 			<div class="small-6 medium-12 columns no-padding">
@@ -74,7 +74,7 @@ body-class: index bodyLayout-unique
 			<p>I’m located in Houston, TX, and am available for hire anywhere. Please <a class="text-underline" data-open="contactModal">contact me</a> and let’s see when we can get started — I’m only a message away.</p>
 		</div>
 	</div>
-</section>
+</section> -->
 
 <section class="gallery-section">
 	<div class="row">
