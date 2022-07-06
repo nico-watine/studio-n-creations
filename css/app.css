@@ -8465,14 +8465,6 @@ form#index-contact-form span.input-group-label.error {
         width: 490px;
         top: -575px;
         right: 0; } }
-.gallery-section {
-  padding: 5rem 0;
-  background: #eee; }
-  .gallery-section #masonryGrid .tile .tileBase {
-    border: 0.25rem solid #566372;
-    border-radius: 1.5rem;
-    overflow: hidden; }
-
 #index #mobileNavBar-wrapper {
   position: absolute;
   right: 0;
@@ -8491,12 +8483,6 @@ form#index-contact-form span.input-group-label.error {
     border-radius: 12px; }
     #index .intro-slogan .prose p {
       margin: 0; }
-
-#index .recent-projects {
-  padding: 3.75rem 0; }
-  #index .recent-projects .project {
-    margin-bottom: 1.25rem;
-    border: 0.1875rem solid #566372; }
 
 #web-development .page-intro-prose {
   margin-bottom: 2.5rem; }

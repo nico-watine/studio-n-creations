@@ -8,8 +8,6 @@
 @import '_projectBanner-miriam-rodriguez.scss';
 // @import "_bubble-bg-base-64.scss";
 
-@import '_projects.scss';
-
 #index {
 	#mobileNavBar-wrapper {
 		position: absolute;
@@ -39,17 +37,6 @@
 			p {
 				margin: 0;
 			}
-		}
-	}
-}
-
-#index {
-	.recent-projects {
-		padding: rem-calc(60) 0;
-
-		.project {
-			margin-bottom: rem-calc(20);
-			border: rem-calc(3) solid #566372;
 		}
 	}
 }
