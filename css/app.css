@@ -8316,49 +8316,6 @@ footer {
       height: 100%;
       overflow: hidden; } }
 
-#index .about-us {
-  background: #566372;
-  border: 0.1875rem solid #566372; }
-  #index .about-us .row {
-    background: #f4f4f4; }
-    #index .about-us .row .image {
-      background: #566372;
-      padding: 0 1rem;
-      border-bottom: 0.1875rem solid #566372; }
-      @media only screen and (max-width : 26.875em) {
-        #index .about-us .row .image {
-          padding: 0; } }
-      #index .about-us .row .image img {
-        border-right: 0.1875rem solid #566372;
-        border-bottom: 0.1875rem solid #566372;
-        max-width: 240px;
-        width: 100%; }
-      #index .about-us .row .image h3, #index .about-us .row .image form#index-contact-form .contact-form-input-group-button input, form#index-contact-form .contact-form-input-group-button #index .about-us .row .image input {
-        padding-top: 8.75rem;
-        color: #fff; }
-        @media only screen and (max-width : 26.875em) {
-          #index .about-us .row .image h3, #index .about-us .row .image form#index-contact-form .contact-form-input-group-button input, form#index-contact-form .contact-form-input-group-button #index .about-us .row .image input {
-            padding-top: 5rem; } }
-    #index .about-us .row .prose {
-      padding: 1.875rem 1rem; }
-
-@media print, screen and (min-width: 40em) {
-  #index .about-us {
-    background: #566372;
-    border: 0.1875rem solid #566372;
-    padding: 0 1.25rem; }
-    #index .about-us .row .image {
-      padding: 0;
-      border: 0; }
-    #index .about-us .row .prose {
-      padding-top: 1.875rem; } }
-    @media only screen and (min-width: 40em) and (max-width : 45.625em) {
-      #index .about-us .row .prose {
-        padding: 1rem; } }
-@media print, screen and (min-width: 64em) {
-  #index .about-us {
-    padding: 0 2.5rem; } }
-
 #index .contact-form {
   padding: 2.5rem 0; }
   #index .contact-form .section-title h2,
