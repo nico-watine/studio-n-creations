@@ -1,0 +1,16 @@
+#index {
+	.about-me {
+		background: $deep-blue;
+
+		.prose-wrap {
+			background: #f4f4f4;
+			border-radius: 16px;
+			max-width: 830px;
+
+			.prose {
+				max-width: 690px;
+				padding: 40px 0;
+			}
+		}
+	}
+}
