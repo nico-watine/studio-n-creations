@@ -99,6 +99,14 @@
       "oAP" : "\/_ignores\/htaccess\/htaccess-https.txt",
       "oF" : 0
     },
+    "\/_ignores\/masonry-project-gallery\/masonry-project-gallery.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/_ignores\/masonry-project-gallery\/masonry-project-gallery.php",
+      "oF" : 0
+    },
     "\/_ignores\/misc\/browser-upgrade-snippet.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -9165,7 +9173,7 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/img\/projects\/_dev\/tacupra.png" : {
+    "\/img\/projects\/_dev\/Tacupra.png" : {
       "ft" : 32768,
       "iS" : 3722883,
       "oA" : 1,
