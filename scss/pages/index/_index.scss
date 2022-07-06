@@ -1,12 +1,10 @@
 // @import '_gfycat-video.scss';
 @import '_splash-video-header.scss';
+@import '_about-me.scss';
 @import '_graphic-branding.scss';
-@import '_about-us.scss';
 @import '_contact.scss';
 @import '_bubble-bg.scss';
 @import '_recent-projects.scss';
-@import '_projectBanner-hpals.scss';
-@import '_projectBanner-miriam-rodriguez.scss';
 // @import "_bubble-bg-base-64.scss";
 
 @import '_projects.scss';
@@ -29,12 +27,13 @@
 		h2 {
 			color: #fff;
 			text-shadow: rem-calc(-2) rem-calc(3) 0 rgba(0,0,0,.45);
+			margin-bottom: 24px;
 		}
 
 		.prose {
 			padding: rem-calc(30) rem-calc(16);
 			background: #fff;
-			border-radius: rem-calc(3);
+			border-radius: 12px;
 
 			p {
 				margin: 0;

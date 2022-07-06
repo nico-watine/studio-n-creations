@@ -8251,6 +8251,23 @@ footer {
     min-height: 100%;
     transform: translateX(-50%) translateY(-50%); }
 
+#index .about-me {
+  background: #566372;
+  padding-bottom: 60px; }
+  #index .about-me .prose-wrap {
+    background: #f4f4f4;
+    border-radius: 24px;
+    max-width: 51.875rem;
+    padding: 20px 16px; }
+    @media print, screen and (min-width: 40em) {
+      #index .about-me .prose-wrap {
+        padding: 32px; } }
+    @media print, screen and (min-width: 64em) {
+      #index .about-me .prose-wrap {
+        padding: 40px; } }
+    #index .about-me .prose-wrap .prose {
+      max-width: 43.125rem; }
+
 #index .graphic-branding {
   background: #fff; }
   #index .graphic-branding .prose {
@@ -8298,49 +8315,6 @@ footer {
       max-width: none;
       height: 100%;
       overflow: hidden; } }
-
-#index .about-us {
-  background: #566372;
-  border: 0.1875rem solid #566372; }
-  #index .about-us .row {
-    background: #f4f4f4; }
-    #index .about-us .row .image {
-      background: #566372;
-      padding: 0 1rem;
-      border-bottom: 0.1875rem solid #566372; }
-      @media only screen and (max-width : 26.875em) {
-        #index .about-us .row .image {
-          padding: 0; } }
-      #index .about-us .row .image img {
-        border-right: 0.1875rem solid #566372;
-        border-bottom: 0.1875rem solid #566372;
-        max-width: 240px;
-        width: 100%; }
-      #index .about-us .row .image h3, #index .about-us .row .image form#index-contact-form .contact-form-input-group-button input, form#index-contact-form .contact-form-input-group-button #index .about-us .row .image input {
-        padding-top: 8.75rem;
-        color: #fff; }
-        @media only screen and (max-width : 26.875em) {
-          #index .about-us .row .image h3, #index .about-us .row .image form#index-contact-form .contact-form-input-group-button input, form#index-contact-form .contact-form-input-group-button #index .about-us .row .image input {
-            padding-top: 5rem; } }
-    #index .about-us .row .prose {
-      padding: 1.875rem 1rem; }
-
-@media print, screen and (min-width: 40em) {
-  #index .about-us {
-    background: #566372;
-    border: 0.1875rem solid #566372;
-    padding: 0 1.25rem; }
-    #index .about-us .row .image {
-      padding: 0;
-      border: 0; }
-    #index .about-us .row .prose {
-      padding-top: 1.875rem; } }
-    @media only screen and (min-width: 40em) and (max-width : 45.625em) {
-      #index .about-us .row .prose {
-        padding: 1rem; } }
-@media print, screen and (min-width: 64em) {
-  #index .about-us {
-    padding: 0 2.5rem; } }
 
 #index .contact-form {
   padding: 2.5rem 0; }
@@ -8436,115 +8410,6 @@ form#index-contact-form span.input-group-label.error {
     left: 0;
     width: 100%; }
 
-.projectBanner#hpals {
-  background: #a2a4c9 url("/img/projects/houston-pals/houston-pals.png") center/cover repeat; }
-  @media print, screen and (min-width: 40em) {
-    .projectBanner#hpals {
-      height: 530px; } }
-  @media print, screen and (min-width: 64em) {
-    .projectBanner#hpals {
-      height: 480px; } }
-  .projectBanner#hpals .bg-blur {
-    z-index: 10;
-    padding-top: 50px; }
-    @media print, screen and (min-width: 40em) {
-      .projectBanner#hpals .bg-blur {
-        backdrop-filter: blur(5px); } }
-  .projectBanner#hpals .prose-wrap {
-    background: rgba(68, 68, 68, 0.75);
-    border-radius: 1.5rem;
-    padding: 1.5rem;
-    margin-bottom: 50px; }
-    .projectBanner#hpals .prose-wrap p {
-      font-size: 18px;
-      max-width: 400px; }
-      .projectBanner#hpals .prose-wrap p a {
-        color: #fff;
-        text-decoration: underline; }
-        .projectBanner#hpals .prose-wrap p a:hover {
-          border-bottom: 2px solid #fff;
-          text-decoration: none; }
-    .projectBanner#hpals .prose-wrap a.site-link {
-      padding: 0.875rem 1.25rem;
-      box-shadow: -0.25rem 0.25rem 0 0 rgba(48, 101, 155, 0.8);
-      color: #0a0a0a;
-      font-size: 1.125rem;
-      border-radius: 0.1875rem;
-      margin: 1.25rem 0 0.125rem;
-      background: #fff;
-      display: inline-block; }
-      .projectBanner#hpals .prose-wrap a.site-link:hover {
-        box-shadow: -0.25rem 0.125rem 0 0 rgba(48, 101, 155, 0.8);
-        margin: 1.375rem 0 0; }
-  .projectBanner#hpals .img-wrap img {
-    box-shadow: 0 17px 17px 0 rgba(0, 0, 0, 0.15), 0 17px 17px 0 rgba(0, 0, 0, 0.15), 0 27px 55px 0 rgba(0, 0, 0, 0.3), 0 27px 55px 0 rgba(0, 0, 0, 0.3);
-    max-width: 475px; }
-  .projectBanner#hpals img.bg-screenshot {
-    position: absolute;
-    box-shadow: 0 1.0625rem 1.0625rem 0 rgba(0, 0, 0, 0.15), 0 1.6875rem 3.4375rem 0 rgba(0, 0, 0, 0.3);
-    top: 0;
-    z-index: -1; }
-    @media print, screen and (min-width: 40em) {
-      .projectBanner#hpals img.bg-screenshot {
-        width: 490px;
-        top: -575px;
-        left: 0; } }
-.projectBanner#miriam-rodriguez {
-  background: #a2a4c9 url("/img/projects/miriam-rodriguez/miriam-rodriguez.png") center/cover repeat; }
-  @media print, screen and (min-width: 40em) {
-    .projectBanner#miriam-rodriguez {
-      height: 530px; } }
-  @media print, screen and (min-width: 64em) {
-    .projectBanner#miriam-rodriguez {
-      height: 480px; } }
-  .projectBanner#miriam-rodriguez .bg-blur {
-    z-index: 10;
-    padding-top: 50px; }
-    @media print, screen and (min-width: 40em) {
-      .projectBanner#miriam-rodriguez .bg-blur {
-        backdrop-filter: blur(5px); } }
-  .projectBanner#miriam-rodriguez .prose-wrap {
-    background: rgba(68, 68, 68, 0.75);
-    border-radius: 1.5rem;
-    padding: 1.5rem;
-    margin-bottom: 50px; }
-    @media print, screen and (min-width: 40em) {
-      .projectBanner#miriam-rodriguez .prose-wrap {
-        float: right; } }
-    .projectBanner#miriam-rodriguez .prose-wrap p {
-      font-size: 18px;
-      max-width: 400px; }
-      .projectBanner#miriam-rodriguez .prose-wrap p a {
-        color: #fff;
-        text-decoration: underline; }
-        .projectBanner#miriam-rodriguez .prose-wrap p a:hover {
-          border-bottom: 2px solid #fff;
-          text-decoration: none; }
-    .projectBanner#miriam-rodriguez .prose-wrap a.site-link {
-      padding: 0.875rem 1.25rem;
-      box-shadow: -0.25rem 0.25rem 0 0 rgba(99, 129, 153, 0.8);
-      color: #0a0a0a;
-      font-size: 1.125rem;
-      border-radius: 0.1875rem;
-      margin: 1.25rem 0 0.125rem;
-      background: #fff;
-      display: inline-block; }
-      .projectBanner#miriam-rodriguez .prose-wrap a.site-link:hover {
-        box-shadow: -0.25rem 0.125rem 0 0 rgba(99, 129, 153, 0.8);
-        margin: 1.375rem 0 0; }
-  .projectBanner#miriam-rodriguez .img-wrap img {
-    box-shadow: 0 17px 17px 0 rgba(0, 0, 0, 0.15), 0 17px 17px 0 rgba(0, 0, 0, 0.15), 0 27px 55px 0 rgba(0, 0, 0, 0.3), 0 27px 55px 0 rgba(0, 0, 0, 0.3);
-    max-width: 475px; }
-  .projectBanner#miriam-rodriguez img.bg-screenshot {
-    position: absolute;
-    box-shadow: 0 1.0625rem 1.0625rem 0 rgba(0, 0, 0, 0.15), 0 1.6875rem 3.4375rem 0 rgba(0, 0, 0, 0.3);
-    top: 0;
-    z-index: -1; }
-    @media print, screen and (min-width: 40em) {
-      .projectBanner#miriam-rodriguez img.bg-screenshot {
-        width: 490px;
-        top: -575px;
-        right: 0; } }
 .gallery-section {
   padding: 5rem 0;
   background: #eee; }
@@ -8563,11 +8428,12 @@ form#index-contact-form span.input-group-label.error {
   padding: 3.75rem 0; }
   #index .intro-slogan h2 {
     color: #fff;
-    text-shadow: -0.125rem 0.1875rem 0 rgba(0, 0, 0, 0.45); }
+    text-shadow: -0.125rem 0.1875rem 0 rgba(0, 0, 0, 0.45);
+    margin-bottom: 24px; }
   #index .intro-slogan .prose {
     padding: 1.875rem 1rem;
     background: #fff;
-    border-radius: 0.1875rem; }
+    border-radius: 12px; }
     #index .intro-slogan .prose p {
       margin: 0; }
 
