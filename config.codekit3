@@ -9165,7 +9165,7 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/img\/projects\/_dev\/tacupra.png" : {
+    "\/img\/projects\/_dev\/Tacupra.png" : {
       "ft" : 32768,
       "iS" : 3722883,
       "oA" : 1,
@@ -10416,14 +10416,6 @@
       "hM" : 0,
       "oA" : 1,
       "oAP" : "\/src\/layouts\/default.html",
-      "oF" : 0
-    },
-    "\/src\/pages\/about.php" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/src\/pages\/about.php",
       "oF" : 0
     },
     "\/src\/pages\/index.php" : {
