@@ -22,9 +22,9 @@ body-class: index bodyLayout-unique
 		</div>
 	</div>
 </section>
+<!-- <br>
 <br>
-<br>
-<br>
+<br> --><!--
 <section class="about-us">
 	<div class="row" itemscope itemtype="http://schema.org/Person">
 		<div class="medium-4 large-3 columns medium-text-center large-text-right image">
@@ -43,3 +43,4 @@ body-class: index bodyLayout-unique
 		</div>
 	</div>
 </section>
+ -->
