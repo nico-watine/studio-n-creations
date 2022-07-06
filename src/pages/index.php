@@ -56,7 +56,7 @@ body-class: index bodyLayout-unique
 	</div>
 </section>
 
-<section class="gallery-section">
+<!-- <section class="gallery-section">
 	<div class="row">
 		<div class="small-12 columns text-center">
 			<h3 style="margin-bottom: 40px;">Projects</h3>
@@ -119,7 +119,7 @@ body-class: index bodyLayout-unique
 			</div>
 		</div>
 	</div>
-</section>
+</section> -->
 
 <section class="graphic-branding">
 	<div class="row collapse" data-equalizer data-equalize-on="medium">
