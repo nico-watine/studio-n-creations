@@ -8252,7 +8252,8 @@ footer {
     transform: translateX(-50%) translateY(-50%); }
 
 #index .about-me {
-  background: #566372; }
+  background: #566372;
+  padding-bottom: 60px; }
   #index .about-me .prose-wrap {
     background: #f4f4f4;
     border-radius: 24px;

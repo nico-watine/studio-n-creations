@@ -42,7 +42,7 @@ body-class: index bodyLayout-unique
 	</div>
 </section>
 
-<section class="about-me" style="padding-bottom: 60px;">
+<section class="about-me">
 	<div class="row">
 		<div class="column">
 			<div class="prose-wrap float-center">
