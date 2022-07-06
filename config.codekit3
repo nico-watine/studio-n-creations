@@ -114,6 +114,17 @@
       "pg" : 0,
       "sct" : 1
     },
+    "\/_ignores\/masonry-project-gallery\/app.js" : {
+      "bF" : 0,
+      "ft" : 64,
+      "ma" : 0,
+      "mi" : 1,
+      "oA" : 1,
+      "oAP" : "\/_ignores\/masonry-project-gallery\/app-min.js",
+      "oF" : 1,
+      "sC" : 3,
+      "tS" : 0
+    },
     "\/_ignores\/masonry-project-gallery\/masonry-project-gallery.php" : {
       "cB" : 0,
       "ft" : 8192,
@@ -9188,7 +9199,7 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/img\/projects\/_dev\/tacupra.png" : {
+    "\/img\/projects\/_dev\/Tacupra.png" : {
       "ft" : 32768,
       "iS" : 3722883,
       "oA" : 1,
