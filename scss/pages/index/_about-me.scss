@@ -5,7 +5,7 @@
 		.prose-wrap {
 			background: #f4f4f4;
 			border-radius: 16px;
-			max-width: 830px;
+			max-width: rem-calc(830);
 			padding: 20px 16px;
 
 			@include breakpoint(medium) {
@@ -17,7 +17,7 @@
 			}
 
 			.prose {
-				max-width: 690px;
+				max-width: rem-calc(690);
 			}
 		}
 	}

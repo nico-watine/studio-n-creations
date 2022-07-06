@@ -8256,7 +8256,7 @@ footer {
   #index .about-me .prose-wrap {
     background: #f4f4f4;
     border-radius: 16px;
-    max-width: 830px;
+    max-width: 51.875rem;
     padding: 20px 16px; }
     @media print, screen and (min-width: 40em) {
       #index .about-me .prose-wrap {
@@ -8265,7 +8265,7 @@ footer {
       #index .about-me .prose-wrap {
         padding: 40px; } }
     #index .about-me .prose-wrap .prose {
-      max-width: 690px; }
+      max-width: 43.125rem; }
 
 #index .graphic-branding {
   background: #fff; }
