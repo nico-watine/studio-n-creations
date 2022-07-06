@@ -119,9 +119,9 @@
       "ft" : 64,
       "ma" : 0,
       "mi" : 1,
-      "oA" : 1,
+      "oA" : 0,
       "oAP" : "\/_ignores\/masonry-project-gallery\/app-min.js",
-      "oF" : 1,
+      "oF" : 0,
       "sC" : 3,
       "tS" : 0
     },
@@ -139,6 +139,29 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/_ignores\/misc\/browser-upgrade-snippet.html",
+      "oF" : 0
+    },
+    "\/_ignores\/old-about-us\/_about-us.scss" : {
+      "aP" : 1,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/css\/_about-us.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 1
+    },
+    "\/_ignores\/old-about-us\/about-us.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/_ignores\/old-about-us\/about-us.php",
       "oF" : 0
     },
     "\/_ignores\/old-contact-files\/_some-sass.scss" : {
@@ -10228,21 +10251,6 @@
       "ma" : 0,
       "oA" : 1,
       "oAP" : "\/css\/_about-me.css",
-      "oF" : 0,
-      "oS" : 0,
-      "pg" : 0,
-      "sct" : 1
-    },
-    "\/scss\/pages\/index\/_about-us.scss" : {
-      "aP" : 1,
-      "bl" : 0,
-      "co" : 0,
-      "dP" : 10,
-      "ec" : 1,
-      "ft" : 4,
-      "ma" : 0,
-      "oA" : 1,
-      "oAP" : "\/css\/_about-us.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
