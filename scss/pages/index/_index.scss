@@ -27,12 +27,13 @@
 		h2 {
 			color: #fff;
 			text-shadow: rem-calc(-2) rem-calc(3) 0 rgba(0,0,0,.45);
+			margin-bottom: 24px;
 		}
 
 		.prose {
 			padding: rem-calc(30) rem-calc(16);
 			background: #fff;
-			border-radius: rem-calc(3);
+			border-radius: 12px;
 
 			p {
 				margin: 0;
