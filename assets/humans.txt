@@ -24,7 +24,9 @@ Components:
 Software: 
   Sublime Text
   CodeKit
-  Sketch 3
+  MAMP Pro
+  Sketch
+  Photoshop
 
 What is this rambling file??
 humanstxt.org
