@@ -2,22 +2,43 @@
 	include($_SERVER['DOCUMENT_ROOT'].'/php/autoVer.php');
 ?>
 <!DOCTYPE html>
-<html class="no-js" lang="en-US">
+<html prefix="og: http://ogp.me/ns#" class="no-js" lang="en-US">
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
+	<!-- <link rel="preconnect" href="{{ cdn }}" crossorigin> -->
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>{{ title }} | Studio N Creations</title>
 	<meta name="description" content="{{ description }}">
-	<link href="http://studioncreations.com{{ url }}" rel="canonical">
+	<link href="https://studioncreations.com{{ url }}" rel="canonical">
 	<link href="/humans.txt" rel="author">
 
+	<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+	<link rel="icon" href="/android-chrome-192x192.png" sizes="192x192">
+	<link rel="manifest" href="/manifest.json">
+
+	<meta name="apple-mobile-web-app-title" content="Studio N C">
+	<meta name="application-name" content="Studio N C">
 	<meta name="format-detection" content="telephone=no">
 
-	<link href="<?php autoVer('/css/app.css'); ?>" rel="stylesheet">
+	<meta property="og:locale" content="en_US">
+	<meta property="og:type" content="website">
+	<meta property="og:title" content="{{ og-title }}">
+	<meta property="og:description" content="{{ og-description }}">
+	<meta property="og:url" content="https://studioncreations.com{{ url }}">
+	<meta property="og:site_name" content="Studio N Creations">
+	<meta property="og:image" content="https://studioncreations.com{{ og-image}}">
+	<meta property="fb:app_id" content="1681974038799263">
+
+	<meta name="google-site-verification" content="KRkK5A_Jr3_V2SvGIzpyRMNi37bKOmqS_vBphvOJV7g" />
+	<meta name="p:domain_verify" content="bc4789b1440b540e061b16da850cc42a"/>
+
+	<link href="{{ cdn }}<?php autoVer('/css/app.css'); ?>" rel="stylesheet">
 
 </head>
 <body id="{{ body-id }}" class="{{ body-class }}">
+
+{{> google-analytics-tracking-code}}
 
 <div class="off-canvas-wrapper">
 
@@ -38,7 +59,7 @@
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
 <script>window.jQuery || document.write('<script src="/js/vendor/jquery/3-6-0/jquery-min.js"><\/script>')</script>
-<script src="<?php autoVer('/js/app-min.js'); ?>"></script>
+<script src="{{ cdn }}<?php autoVer('/js/app-min.js'); ?>"></script>
 
 </body>
 </html>
