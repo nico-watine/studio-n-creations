@@ -10,7 +10,6 @@ Coded with <3 and powered by HTML5 for a better web
 ================
 
 Need a website? :: nico@studioncreations.com
-Get in touch with Nico :: nico.w@tine.rocks
 
 ================
 
@@ -25,7 +24,9 @@ Components:
 Software: 
   Sublime Text
   CodeKit
-  Sketch 3
+  MAMP Pro
+  Sketch
+  Photoshop
 
 What is this rambling file??
 humanstxt.org
