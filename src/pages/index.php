@@ -123,7 +123,7 @@ body-class: index bodyLayout-unique
 					<div class="dynasty-sports-report-wrapper">
 						<img srcset="{{ cdn }}/img/projects/dynasty-sports-report/index/graphic-design/dynasty-sports-report-logo_2x.png 2x" src="{{ cdn }}/img/projects/dynasty-sports-report/index/graphic-design/dynasty-sports-report-logo.png" alt="Dynasty Sports Report logo" title="DynastySportsReport.com website logo">
 					</div>
-					<img class="dmesa-home-img show-for-large" srcset="{{ cdn }}/img/projects/dmesa/index/graphic-design/dmesa-logo_2x.png 2x" src="{{ cdn }}/img/projects/dmesa/index/graphic-design/dmesa-logo.png" alt="d'Mesa Home logo" title="d'Mesa Home company logo">
+					<img class="dmesa-home-img show-for-large" src="/img/projects/dmesa/dmesa-logo.svg" alt="d'Mesa Home logo" title="d'Mesa Home company logo">
 				</div>
 				<div class="medium-push-4 medium-3 columns hide-for-large text-center dmesa-home-wrapper column-2">
 					<img srcset="{{ cdn }}/img/projects/dmesa/index/graphic-design/dmesa-logo_2x.png 2x" src="{{ cdn }}/img/projects/dmesa/index/graphic-design/dmesa-logo.png" alt="d'Mesa Home logo" title="d'Mesa Home company logo">
