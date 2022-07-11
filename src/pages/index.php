@@ -75,11 +75,11 @@ body-class: index bodyLayout-unique
 			</div>
 			<div class="medium-6 columns">
 				<div class="img-wrap show-for-medium">
-					<img src="/img/projects/miriam-rodriguez/miriam-rodriguez.png" alt="Screenshot of miriamrodriguez.com">
+					<img src="/img/projects/miriam-rodriguez/miriam-rodriguez-900w.png" alt="Screenshot of miriamrodriguez.com">
 				</div>
 			</div>
 		</div>
-		<img class="bg-screenshot" style="user-select: none;pointer-events: none;" src="/img/projects/miriam-rodriguez/miriam-rodriguez.png" alt="Screenshot of miriamrodriguez.com">
+		<img class="bg-screenshot" style="user-select: none;pointer-events: none;" src="/img/projects/miriam-rodriguez/miriam-rodriguez-900w.png" alt="Screenshot of miriamrodriguez.com">
 	</div>
 </section>
 
