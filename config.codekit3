@@ -9534,6 +9534,19 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/img\/projects\/miriam-rodriguez\/miriam-rodriguez-900w.png" : {
+      "ft" : 32768,
+      "iS" : 465823,
+      "oA" : 1,
+      "oAP" : "\/img\/projects\/miriam-rodriguez\/miriam-rodriguez-900w.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/img\/projects\/miriam-rodriguez\/miriam-rodriguez.png" : {
       "ft" : 32768,
       "iS" : 1323798,
