@@ -15,11 +15,14 @@
 			}
 
 			.dmesa-home-wrapper {
-				@include breakpoint(small only) {
-					img {
-						max-width: 250px;
+				// @include breakpoint(small only) {
+				img {
+					max-width: 250px;
+
+					@include breakpoint(small only) {
 						margin: rem-calc(30) 0;
 					}
+					// }
 				}
 			}
 
@@ -55,6 +58,7 @@
 
 				.dmesa-home-wrapper {
 					img {
+						width: 100%;
 						padding: 0 rem-calc(10);
 					}
 				}
