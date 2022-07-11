@@ -122,7 +122,7 @@ body-class: index bodyLayout-unique
 				<div class="medium-4 columns text-center column-1">
 					<div class="dynasty-sports-report-wrapper">
 						<!-- <img srcset="{{ cdn }}/img/projects/dynasty-sports-report/index/graphic-design/dynasty-sports-report-logo_2x.png 2x" src="{{ cdn }}/img/projects/dynasty-sports-report/index/graphic-design/dynasty-sports-report-logo.png" alt="Dynasty Sports Report logo" title="DynastySportsReport.com website logo"> -->
-						<img src="/img/projects/dynasty-sports-report/dynasty-sports-report-logo.svg" alt="">
+						<img src="/img/projects/dynasty-sports-report/dynasty-sports-report-logo.svg" alt="Dynasty Sports Report logo" title="DynastySportsReport.com website logo">
 					</div>
 					<img class="dmesa-home-img show-for-large" src="/img/projects/dmesa/dmesa-logo.svg" alt="d'Mesa Home logo" title="d'Mesa Home logo">
 				</div>
