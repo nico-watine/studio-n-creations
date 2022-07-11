@@ -3,7 +3,7 @@ Index - Graphic Branding:
 	✔	d'Mesa - change png to svg @done (22-07-11 12:51)
 
 head:
-	☐	<meta name="theme-color" content="#566372">
+	✔	<meta name="theme-color" content="#566372"> @done (22-07-11 12:57)
 
 CSS:
 	✔	Remove all lato-300 font-weight CSS entries @done (22-07-11 12:51)
