@@ -9248,6 +9248,16 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/img\/projects\/dmesa\/dmesa-logo.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 1,
+      "oAP" : "\/img\/projects\/dmesa\/dmesa-logo.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 3758088159,
+      "prP" : 0
+    },
     "\/img\/projects\/dmesa\/index\/graphic-design\/dmesa-logo_2x.png" : {
       "ft" : 32768,
       "iS" : 32960,
@@ -9273,6 +9283,16 @@
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
+    },
+    "\/img\/projects\/dynasty-sports-report\/dynasty-sports-report-logo.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 1,
+      "oAP" : "\/img\/projects\/dynasty-sports-report\/dynasty-sports-report-logo.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 3758088159,
+      "prP" : 0
     },
     "\/img\/projects\/dynasty-sports-report\/index\/graphic-design\/dynasty-sports-report-logo_2x.png" : {
       "ft" : 32768,
@@ -10642,6 +10662,14 @@
       "hM" : 0,
       "oA" : 1,
       "oAP" : "\/src\/partials\/small--offCanvas-menu--toggle.html",
+      "oF" : 0
+    },
+    "\/TODO" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/TODO",
       "oF" : 0
     },
     "\/yarn.lock" : {
