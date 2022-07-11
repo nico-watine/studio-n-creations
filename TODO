@@ -6,5 +6,4 @@ head:
 	☐	<meta name="theme-color" content="#566372">
 
 CSS:
-	☐	Remove lato-300 font-files
-	☐	Remove all lato-300 font-weight CSS entries
+	✔	Remove all lato-300 font-weight CSS entries @done (22-07-11 12:51)
