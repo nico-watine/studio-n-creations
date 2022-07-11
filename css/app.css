@@ -8279,6 +8279,7 @@ footer {
       background: #1e73bd; }
     @media print, screen and (max-width: 39.99875em) {
       #index .graphic-branding .logos-row .dmesa-home-wrapper img {
+        max-width: 250px;
         margin: 1.875rem 0; } }
     #index .graphic-branding .logos-row .jardin-de-france-wrapper {
       background: #fff; }

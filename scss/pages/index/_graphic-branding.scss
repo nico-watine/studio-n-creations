@@ -17,6 +17,7 @@
 			.dmesa-home-wrapper {
 				@include breakpoint(small only) {
 					img {
+						max-width: 250px;
 						margin: rem-calc(30) 0;
 					}
 				}
