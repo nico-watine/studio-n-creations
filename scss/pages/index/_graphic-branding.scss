@@ -14,9 +14,17 @@
 				background: #1e73bd;
 			}
 
+			.dynasty-sports-report-wrapper {
+				img {
+					max-width: 270px;
+				}
+			}
+
 			.dmesa-home-wrapper {
-				@include breakpoint(small only) {
-					img {
+				img {
+					max-width: 250px;
+
+					@include breakpoint(small only) {
 						margin: rem-calc(30) 0;
 					}
 				}
@@ -54,13 +62,15 @@
 
 				.dmesa-home-wrapper {
 					img {
+						width: 100%;
 						padding: 0 rem-calc(10);
 					}
 				}
 
 				.dynasty-sports-report-wrapper {
 					img {
-						max-height: 90%;
+						width: 100%;
+						padding: 0 rem-calc(10);
 					}
 				}
 			}

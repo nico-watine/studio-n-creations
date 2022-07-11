@@ -121,12 +121,12 @@ body-class: index bodyLayout-unique
 			<div class="row logos-row collapse">
 				<div class="medium-4 columns text-center column-1">
 					<div class="dynasty-sports-report-wrapper">
-						<img srcset="{{ cdn }}/img/projects/dynasty-sports-report/index/graphic-design/dynasty-sports-report-logo_2x.png 2x" src="{{ cdn }}/img/projects/dynasty-sports-report/index/graphic-design/dynasty-sports-report-logo.png" alt="Dynasty Sports Report logo" title="DynastySportsReport.com website logo">
+						<img src="/img/projects/dynasty-sports-report/dynasty-sports-report-logo.svg" alt="Dynasty Sports Report logo" title="DynastySportsReport.com website logo">
 					</div>
-					<img class="dmesa-home-img show-for-large" srcset="{{ cdn }}/img/projects/dmesa/index/graphic-design/dmesa-logo_2x.png 2x" src="{{ cdn }}/img/projects/dmesa/index/graphic-design/dmesa-logo.png" alt="d'Mesa Home logo" title="d'Mesa Home company logo">
+					<img class="dmesa-home-img show-for-large" src="/img/projects/dmesa/dmesa-logo.svg" alt="d'Mesa Home logo" title="d'Mesa Home logo">
 				</div>
 				<div class="medium-push-4 medium-3 columns hide-for-large text-center dmesa-home-wrapper column-2">
-					<img srcset="{{ cdn }}/img/projects/dmesa/index/graphic-design/dmesa-logo_2x.png 2x" src="{{ cdn }}/img/projects/dmesa/index/graphic-design/dmesa-logo.png" alt="d'Mesa Home logo" title="d'Mesa Home company logo">
+					<img src="/img/projects/dmesa/dmesa-logo.svg" alt="d'Mesa Home logo" title="d'Mesa Home logo">
 				</div>
 				<div class="medium-5 large-8 columns jardin-de-france-wrapper column-3">
 					<img srcset="{{ cdn }}/img/projects/jardin-de-france-tx/index/graphic-design/jardin-de-france-price-tag_2x.jpg 2x" src="{{ cdn }}/img/projects/jardin-de-france-tx/index/graphic-design/jardin-de-france-price-tag.jpg" alt="Jardin de France TX logo" title="Jardin de France TX product price tag design">
