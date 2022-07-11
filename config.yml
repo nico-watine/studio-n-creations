@@ -52,7 +52,7 @@ PATHS:
 
     # Individual util files
     # - "bower_components/foundation-sites/dist/js/plugins/foundation.util.box.js"
-    - "bower_components/foundation-sites/dist/js/plugins/foundation.util.imageLoader.js"
+    # - "bower_components/foundation-sites/dist/js/plugins/foundation.util.imageLoader.js"
     - "bower_components/foundation-sites/dist/js/plugins/foundation.util.keyboard.js"
     - "bower_components/foundation-sites/dist/js/plugins/foundation.util.mediaQuery.js"
     - "bower_components/foundation-sites/dist/js/plugins/foundation.util.motion.js"
@@ -68,7 +68,7 @@ PATHS:
     # - "bower_components/foundation-sites/dist/js/plugins/foundation.drilldown.js" # box / keyboard / nest
     # - "bower_components/foundation-sites/dist/js/plugins/foundation.dropdown.js" # box / keyboard / triggers
     # - "bower_components/foundation-sites/dist/js/plugins/foundation.dropdownMenu.js" # box / keyboard / nest
-    - "bower_components/foundation-sites/dist/js/plugins/foundation.equalizer.js" # imageLoader / mediaQuery
+    # - "bower_components/foundation-sites/dist/js/plugins/foundation.equalizer.js" # imageLoader / mediaQuery
     # - "bower_components/foundation-sites/dist/js/plugins/foundation.interchange.js" # mediaQuery
     # - "bower_components/foundation-sites/dist/js/plugins/foundation.smoothScroll.js"
     # - "bower_components/foundation-sites/dist/js/plugins/foundation.magellan.js" # smoothScroll
