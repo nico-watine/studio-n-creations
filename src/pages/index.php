@@ -92,7 +92,7 @@ body-class: index bodyLayout-unique
 		<div class="row">
 			<div class="medium-6 columns">
 				<div class="img-wrap float-right show-for-medium">
-					<img src="/img/projects/houston-pals/houston-pals.png" alt="Screenshot of houstonpals.com">
+					<img src="/img/projects/houston-pals/houston-pals-900w.png" alt="Screenshot of houstonpals.com">
 				</div>
 			</div>
 			<div class="medium-6 columns text-center medium-text-left">
@@ -105,7 +105,7 @@ body-class: index bodyLayout-unique
 				</div>
 			</div>
 		</div>
-		<img class="bg-screenshot" style="user-select: none;pointer-events: none;" src="/img/projects/houston-pals/houston-pals.png" alt="Screenshot of houstonpals.com">
+		<img class="bg-screenshot" style="user-select: none;pointer-events: none;" src="/img/projects/houston-pals/houston-pals-900w.png" alt="Screenshot of houstonpals.com">
 	</div>
 </section>
 
