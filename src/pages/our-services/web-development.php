@@ -44,7 +44,7 @@ body-class: bodyLayout-default
 					<h3 class="color-white text-shadow-black m-0">3. Coding &amp; Development Stage</h3>
 				</div>
 				<div class="workflowCard-description">
-					<p class="color-white m-0">I then code the approved design into a functioning website, using the industry’s latestmethods&nbsp;and&nbsp;standards.</p>
+					<p class="color-white m-0">I then code the approved design into a functioning website, using the industry’s latest methods&nbsp;and&nbsp;standards.</p>
 				</div>
 			</div>
 		</div>
