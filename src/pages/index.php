@@ -36,7 +36,7 @@ body-class: index bodyLayout-unique
 		</div>
 		<div class="medium-5 columns end">
 			<div class="prose">
-				<p>No client is too big or too small. Whether you need a single brochure-type landing page or a full featured e-commerce site, I've got you covered.</p>
+				<p class="lead">No client is too big or too small. Whether you need a single brochure-type landing page or a full featured e-commerce site, I've got you covered.</p>
 			</div>
 		</div>
 	</div>
