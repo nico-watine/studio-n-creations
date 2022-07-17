@@ -8260,6 +8260,11 @@ footer {
         padding: 40px; } }
     #index .about-me .prose-wrap .prose {
       max-width: 43.125rem; }
+      #index .about-me .prose-wrap .prose a {
+        text-decoration: underline; }
+        #index .about-me .prose-wrap .prose a:hover {
+          border-bottom: 3px solid #1779ba;
+          text-decoration: none; }
 
 #index .graphic-branding {
   background: #fff; }
