@@ -19,6 +19,15 @@
 
 			.prose {
 				max-width: rem-calc(690);
+
+				a {
+					text-decoration: underline;
+
+					&:hover {
+						border-bottom: 3px solid $anchor-color;
+						text-decoration: none;
+					}
+				}
 			}
 		}
 	}
