@@ -8260,6 +8260,11 @@ footer {
         padding: 40px; } }
     #index .about-me .prose-wrap .prose {
       max-width: 43.125rem; }
+      #index .about-me .prose-wrap .prose a {
+        text-decoration: underline; }
+        #index .about-me .prose-wrap .prose a:hover {
+          border-bottom: 3px solid #1779ba;
+          text-decoration: none; }
 
 #index .graphic-branding {
   background: #fff; }
@@ -8381,7 +8386,7 @@ form#index-contact-form span.input-group-label.error {
         color: #fff;
         text-decoration: underline; }
         .projectBanner#hpals .prose-wrap p a:hover {
-          border-bottom: 2px solid #fff;
+          border-bottom: 3px solid #fff;
           text-decoration: none; }
     .projectBanner#hpals .prose-wrap a.site-link {
       padding: 0.875rem 1.25rem;
@@ -8437,7 +8442,7 @@ form#index-contact-form span.input-group-label.error {
         color: #fff;
         text-decoration: underline; }
         .projectBanner#miriam-rodriguez .prose-wrap p a:hover {
-          border-bottom: 2px solid #fff;
+          border-bottom: 3px solid #fff;
           text-decoration: none; }
     .projectBanner#miriam-rodriguez .prose-wrap a.site-link {
       padding: 0.875rem 1.25rem;
