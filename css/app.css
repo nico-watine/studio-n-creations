@@ -8160,10 +8160,7 @@ h6 {
     border: 2px solid #566372;
     border-radius: 6px; }
   #topNavBar #menu-contactLinks a {
-    font-size: 40px;
-    line-height: 40px;
-    padding: 0 12px 6px;
-    color: #222; }
+    padding: 4px; }
   #topNavBar #menu-contactLinks li#phone .has-tip {
     border-bottom: 0;
     padding-bottom: 5px; }
