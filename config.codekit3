@@ -8742,11 +8742,11 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/img\/assets\/icons\/profile-icon (1).svg" : {
+    "\/img\/assets\/icons\/profile-icon.svg" : {
       "ft" : 2097152,
       "miP" : 0,
       "oA" : 1,
-      "oAP" : "\/img\/assets\/icons\/profile-icon (1).svg",
+      "oAP" : "\/img\/assets\/icons\/profile-icon.svg",
       "oF" : 0,
       "opt" : 0,
       "plM" : 3758088159,
@@ -9232,7 +9232,7 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/img\/projects\/_dev\/tacupra.png" : {
+    "\/img\/projects\/_dev\/Tacupra.png" : {
       "ft" : 32768,
       "iS" : 3722883,
       "oA" : 1,
