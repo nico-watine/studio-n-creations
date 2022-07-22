@@ -8110,7 +8110,11 @@ h6 {
 #contactModal-toggle {
   margin-right: 0.75rem; }
   #contactModal-toggle img {
-    padding-top: 0.25rem; }
+    background: #f4f4f4;
+    border: 2px solid #566372;
+    border-radius: 6px;
+    display: inline-block;
+    padding: 2px; }
 
 #offCanvas-menu button.close-button span {
   font-size: 3.125rem;
@@ -8132,7 +8136,7 @@ h6 {
   font-size: 1.375rem;
   color: #fff; }
   #offCanvas-menu ul li a #blog-count {
-    background: #C8DC65;
+    background: #c8dc65;
     color: #000;
     border-radius: 500px;
     width: 1.875rem; }
