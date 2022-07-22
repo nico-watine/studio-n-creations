@@ -8742,6 +8742,16 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/img\/assets\/icons\/profile-icon.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 1,
+      "oAP" : "\/img\/assets\/icons\/profile-icon.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 3758088159,
+      "prP" : 0
+    },
     "\/img\/assets\/og-images\/index\/generic.jpg" : {
       "ft" : 16384,
       "iS" : 286856,

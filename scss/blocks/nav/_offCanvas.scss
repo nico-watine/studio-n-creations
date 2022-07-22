@@ -51,8 +51,13 @@
 
 #contactModal-toggle {
 	margin-right: rem-calc(12);
+
 	img {
-		padding-top: rem-calc(4);
+		background: #f4f4f4;
+		border: 2px solid #566372;
+		border-radius: 6px;
+		display: inline-block;
+		padding: 2px;
 	}
 }
 
@@ -95,7 +100,7 @@
 				color: #fff;
 
 				#blog-count {
-					background: #C8DC65;
+					background: #c8dc65;
 					color: #000;
 					border-radius: 500px;
 					width: rem-calc(30);
