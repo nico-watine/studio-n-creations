@@ -8235,12 +8235,9 @@ footer {
     padding-bottom: 2.5rem; }
     .splash-video-header .prose-cell h1 {
       line-height: 1.2;
-      text-shadow: -0.25rem 0.3125rem 0 rgba(0, 0, 0, 0.45);
       text-shadow: -0.25rem 0.3125rem 0 #000;
       margin: 0; }
     .splash-video-header .prose-cell h2 {
-      text-shadow: -0.1875rem 0.1875rem 0 rgba(0, 0, 0, 0.45);
-      text-shadow: -2px 2px 10px #000;
       text-shadow: -0.1875rem 0.1875rem 0 #000; }
   .splash-video-header .backgroundVideo-container:after {
     content: '';
@@ -8249,11 +8246,8 @@ footer {
     left: 0;
     width: 100%;
     height: 100%;
-    background-image: linear-gradient(90deg, #566372, #566372);
-    background-image: linear-gradient(90deg, #444, #444);
-    background-image: linear-gradient(90deg, #c8dc65, #c8dc65);
     background-image: linear-gradient(90deg, #5ac4be, #5ac4be);
-    opacity: .5;
+    opacity: .7;
     mix-blend-mode: multiply; }
   .splash-video-header #backgroundVideo {
     position: absolute;
