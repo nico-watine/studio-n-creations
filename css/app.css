@@ -8231,8 +8231,7 @@ footer {
     height: 90vh;
     min-height: 420px; }
   .splash-video-header .prose-cell {
-    z-index: 20;
-    padding-bottom: 2.5rem; }
+    z-index: 20; }
     .splash-video-header .prose-cell h1 {
       line-height: 1.2;
       text-shadow: -0.25rem 0.3125rem 0 #000;
