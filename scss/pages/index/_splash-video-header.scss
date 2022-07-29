@@ -20,7 +20,7 @@
 
 	.backgroundVideo-container {
 		&:after {
-			content: ''; // ::before and ::after both require content
+			content: '';
 			position: absolute;
 			top: 0;
 			left: 0;
