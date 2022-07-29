@@ -9,9 +9,9 @@ body-id: index
 body-class: index bodyLayout-unique
 ---
 <header class="splash-video-header grid-x position-relative overflow-hidden">
-	<div class="grid-container fluid" style="width: 100%;">
-		<div class="grid-x grid-padding-x align-bottom prose-grid">
-			<div class="prose-cell cell color-white">
+	<div class="grid-container fluid width-100">
+		<div class="grid-x grid-padding-x align-middle prose-grid">
+			<div class="prose-cell cell color-white large-text-center">
 				<div class="grid-container">
 					<h1>Studio N Creations</h1>
 					<h2>Web Design |&nbsp;Site&nbsp;Maintenance</h2>
@@ -19,7 +19,7 @@ body-class: index bodyLayout-unique
 			</div>
 		</div>
 	</div>
-	<div class="grid-x position-absolute w-100 h-100" style="width: 100%; height: 100%;">
+	<div class="grid-x position-absolute backgroundVideo-container width-100 height-100">
 		<div class="cell">
 			<video playsinline autoplay muted loop preload="" poster="{{ cdn }}/img/index/website-mashup-video/studio-n-creations-website-mashup-poster.jpg" id="backgroundVideo">
 				<source src="{{ cdn }}/img/index/website-mashup-video/studio-n-creations-website-mashup.webm" type="video/webm">

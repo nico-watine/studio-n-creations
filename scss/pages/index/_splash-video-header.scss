@@ -9,12 +9,30 @@
 
 	.prose-cell {
 		z-index: 20;
-		background-image: linear-gradient(-180deg, rgba(0,0,0,.00) 0%, #000 100%);
-		padding-bottom: rem-calc(40);
+		// padding-bottom: rem-calc(40);
 
 		h1 {
 			line-height: 1.2;
-			text-shadow: rem-calc(-4) rem-calc(5) 0 rgba(0,0,0,0.45);
+			text-shadow: rem-calc(-4) rem-calc(5) 0 #000;
+			margin: 0;
+		}
+
+		h2 {
+			text-shadow: rem-calc(-3) rem-calc(3) 0 #000;
+		}
+	}
+
+	.backgroundVideo-container {
+		&:after {
+			content: '';
+			position: absolute;
+			top: 0;
+			left: 0;
+			width: 100%;
+			height: 100%;
+			background-image: linear-gradient(90deg, #5ac4be, #5ac4be);
+			opacity: .7;
+			mix-blend-mode: multiply;
 		}
 	}
 
@@ -27,4 +45,3 @@
 		transform: translateX(-50%) translateY(-50%);
 	}
 }
-
