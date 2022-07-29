@@ -8236,6 +8236,8 @@ footer {
     .splash-video-header .prose-cell h1 {
       line-height: 1.2;
       text-shadow: -0.25rem 0.3125rem 0 rgba(0, 0, 0, 0.45); }
+    .splash-video-header .prose-cell h2 {
+      text-shadow: -0.1875rem 0.1875rem 0 rgba(0, 0, 0, 0.45); }
   .splash-video-header .backgroundVideo-container:after {
     content: '';
     position: absolute;
