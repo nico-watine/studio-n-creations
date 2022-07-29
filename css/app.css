@@ -8243,7 +8243,7 @@ footer {
     left: 0;
     width: 100%;
     height: 100%;
-    background-image: linear-gradient(120deg, #566372, #566372);
+    background-image: linear-gradient(90deg, #566372, #566372);
     opacity: .5; }
   .splash-video-header #backgroundVideo {
     position: absolute;
