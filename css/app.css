@@ -8231,12 +8231,23 @@ footer {
     height: 90vh;
     min-height: 420px; }
   .splash-video-header .prose-cell {
-    z-index: 20;
-    background-image: linear-gradient(-180deg, rgba(0, 0, 0, 0) 0%, #000 100%);
-    padding-bottom: 2.5rem; }
+    z-index: 20; }
     .splash-video-header .prose-cell h1 {
       line-height: 1.2;
-      text-shadow: -0.25rem 0.3125rem 0 rgba(0, 0, 0, 0.45); }
+      text-shadow: -0.25rem 0.3125rem 0 #000;
+      margin: 0; }
+    .splash-video-header .prose-cell h2 {
+      text-shadow: -0.1875rem 0.1875rem 0 #000; }
+  .splash-video-header .backgroundVideo-container:after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: linear-gradient(90deg, #5ac4be, #5ac4be);
+    opacity: .7;
+    mix-blend-mode: multiply; }
   .splash-video-header #backgroundVideo {
     position: absolute;
     top: 50%;
