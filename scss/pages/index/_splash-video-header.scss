@@ -14,10 +14,12 @@
 		h1 {
 			line-height: 1.2;
 			text-shadow: rem-calc(-4) rem-calc(5) 0 rgba(0,0,0,.45);
+			text-shadow: rem-calc(-4) rem-calc(5) 0 #000;
 		}
 
 		h2 {
 			text-shadow: rem-calc(-3) rem-calc(3) 0 rgba(0,0,0,.45);
+			text-shadow: rem-calc(-3) rem-calc(3) 0 #000;
 		}
 	}
 
@@ -30,6 +32,9 @@
 			width: 100%;
 			height: 100%;
 			background-image: linear-gradient(90deg, #566372, #566372);
+			background-image: linear-gradient(90deg, #444, #444);
+			background-image: linear-gradient(90deg, #C8DC65, #C8DC65);
+			background-image: linear-gradient(90deg, #5AC4BE, #5AC4BE);
 			opacity: .5;
 			mix-blend-mode: multiply;
 		}
