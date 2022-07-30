@@ -16,5 +16,6 @@ Image Optimization:
 		projectBanner#miriam-rodriguez:
 			☐	1x PNG 475w
 			☐	2x PNG 950w
+			☐	2x JPG 950w since will be dimension-compressed?
 			☐	1x webp 475w
 			☐	2x webp 950w
