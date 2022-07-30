@@ -9434,6 +9434,43 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/img\/projects\/houston-pals\/index\/projectBanner\/primary\/houston-pals_2x.jpg" : {
+      "ft" : 16384,
+      "iS" : 129328,
+      "jF" : 0,
+      "oA" : 1,
+      "oAP" : "\/img\/projects\/houston-pals\/index\/projectBanner\/primary\/houston-pals_2x.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/img\/projects\/houston-pals\/index\/projectBanner\/primary\/houston-pals.jpg" : {
+      "ft" : 16384,
+      "iS" : 71722,
+      "jF" : 0,
+      "oA" : 1,
+      "oAP" : "\/img\/projects\/houston-pals\/index\/projectBanner\/primary\/houston-pals.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/img\/projects\/houston-pals\/index\/projectBanner\/primary\/houston-pals.webp" : {
+      "ft" : 8388608,
+      "iS" : 38012,
+      "oA" : 0,
+      "oAP" : "\/img\/projects\/houston-pals\/index\/projectBanner\/primary\/houston-pals.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
     "\/img\/projects\/houston-pals\/index\/projectCard\/houston-pals-logo-website-thumbnail_2x.jpg" : {
       "ft" : 16384,
       "iS" : 74727,
