@@ -8374,7 +8374,8 @@ form#index-contact-form span.input-group-label.error {
 
 .projectBanner#hpals {
   background: #31659B url("/img/projects/houston-pals/houston-pals.png") center/cover repeat;
-  background: #31659B url("/img/projects/houston-pals/index/projectBanner/primary/houston-pals_2x.jpg") center/cover repeat; }
+  background: #31659B url("/img/projects/houston-pals/index/projectBanner/primary/houston-pals_2x.jpg") center/cover repeat;
+  background: #31659B url("/img/projects/houston-pals/index/projectBanner/secondary/houston-pals_2x.jpg") center/cover repeat; }
   @media print, screen and (min-width: 40em) {
     .projectBanner#hpals {
       height: 530px; } }
