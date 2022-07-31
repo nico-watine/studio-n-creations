@@ -21,3 +21,11 @@ Image Optimization:
 			✔	1x webp 475w @done (22-07-30 13:57)
 			✔	2x webp 950w @done (22-07-30 13:57)
 			✔	<picture> markup with new optimized img assets for primary screenshot @done (22-07-31 16:28)
+		projectBanner#miriam-rodriguez:
+			☐	1x PNG 475w (not needed, chose jpg route)
+			☐	2x PNG 950w (not needed, chose jpg route)
+			☐	1x JPG 475w
+			☐	2x JPG 950w since will be dimension-compressed?
+			☐	1x webp 475w
+			☐	2x webp 950w
+			☐	<picture> markup with new optimized img assets for primary screenshot
