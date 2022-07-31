@@ -40,7 +40,11 @@ body-class: index bodyLayout-unique
 			<div class="medium-6 columns">
 				<div class="img-wrap float-right show-for-medium">
 					<!-- <img src="/img/projects/houston-pals/houston-pals.png" alt="Screenshot of houstonpals.com"> -->
-					<img srcset="/img/projects/houston-pals/index/projectBanner/primary/houston-pals_2x.jpg 2x" src="/img/projects/houston-pals/index/projectBanner/primary/houston-pals.jpg" alt="Screenshot of houstonpals.com">
+					<!-- <img srcset="/img/projects/houston-pals/index/projectBanner/primary/houston-pals_2x.jpg 2x" src="/img/projects/houston-pals/index/projectBanner/primary/houston-pals.jpg" alt="Screenshot of houstonpals.com"> -->
+					<picture>
+						<source srcset="/img/projects/houston-pals/index/projectBanner/primary/houston-pals.webp, /img/projects/houston-pals/index/projectBanner/primary/houston-pals_2x.webp 2x" type="image/webp">
+						<img srcset="/img/projects/houston-pals/index/projectBanner/primary/houston-pals_2x.jpg 2x" src="/img/projects/houston-pals/index/projectBanner/primary/houston-pals.jpg" alt="Screenshot of houstonpals.com">
+					</picture>
 				</div>
 			</div>
 			<div class="medium-6 columns text-center medium-text-left">
