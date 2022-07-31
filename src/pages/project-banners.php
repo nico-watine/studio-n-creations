@@ -39,7 +39,8 @@ body-class: index bodyLayout-unique
 		<div class="row">
 			<div class="medium-6 columns">
 				<div class="img-wrap float-right show-for-medium">
-					<img src="/img/projects/houston-pals/houston-pals.png" alt="Screenshot of houstonpals.com">
+					<!-- <img src="/img/projects/houston-pals/houston-pals.png" alt="Screenshot of houstonpals.com"> -->
+					<img srcset="/img/projects/houston-pals/index/projectBanner/primary/houston-pals_2x.jpg 2x" src="/img/projects/houston-pals/index/projectBanner/primary/houston-pals.jpg" alt="Screenshot of houstonpals.com">
 				</div>
 			</div>
 			<div class="medium-6 columns text-center medium-text-left">
