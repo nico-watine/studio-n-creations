@@ -1,7 +1,5 @@
 .projectBanner#hpals {
-	background: #31659b url('/img/projects/houston-pals/houston-pals.png') center/cover repeat;
 	background: #31659b url('/img/projects/houston-pals/index/projectBanner/primary/houston-pals_2x.jpg') center/cover repeat;
-	// background: #31659b url('/img/projects/houston-pals/index/projectBanner/secondary/houston-pals_2x.jpg') center/cover repeat;
 
 	@include breakpoint(medium) {
 		height: 530px;
@@ -74,11 +72,5 @@
 		z-index: -1;
 		user-select: none;
 		pointer-events: none;
-
-		// @include breakpoint(medium) {
-		// 	width: 490px;
-		// 	top: -575px;
-		// 	left: 0;
-		// }
 	}
 }

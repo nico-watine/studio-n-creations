@@ -8373,7 +8373,6 @@ form#index-contact-form span.input-group-label.error {
   background-size: cover; }
 
 .projectBanner#hpals {
-  background: #31659b url("/img/projects/houston-pals/houston-pals.png") center/cover repeat;
   background: #31659b url("/img/projects/houston-pals/index/projectBanner/primary/houston-pals_2x.jpg") center/cover repeat; }
   @media print, screen and (min-width: 40em) {
     .projectBanner#hpals {
