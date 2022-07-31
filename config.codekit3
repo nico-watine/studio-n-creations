@@ -9482,12 +9482,12 @@
       "ou" : "lpckwebp-default",
       "rq" : 75
     },
-    "\/img\/projects\/houston-pals\/index\/projectBanner\/secondary\/houston-pals-secondary_2x.jpg" : {
+    "\/img\/projects\/houston-pals\/index\/projectBanner\/secondary\/houston-pals_2x.jpg" : {
       "ft" : 16384,
       "iS" : 137652,
       "jF" : 0,
       "oA" : 1,
-      "oAP" : "\/img\/projects\/houston-pals\/index\/projectBanner\/secondary\/houston-pals-secondary_2x.jpg",
+      "oAP" : "\/img\/projects\/houston-pals\/index\/projectBanner\/secondary\/houston-pals_2x.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -9495,23 +9495,23 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/img\/projects\/houston-pals\/index\/projectBanner\/secondary\/houston-pals-secondary_2x.webp" : {
+    "\/img\/projects\/houston-pals\/index\/projectBanner\/secondary\/houston-pals_2x.webp" : {
       "ft" : 8388608,
       "iS" : 90208,
       "oA" : 0,
-      "oAP" : "\/img\/projects\/houston-pals\/index\/projectBanner\/secondary\/houston-pals-secondary_2x.webp",
+      "oAP" : "\/img\/projects\/houston-pals\/index\/projectBanner\/secondary\/houston-pals_2x.webp",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
       "ou" : "lpckwebp-default",
       "rq" : 75
     },
-    "\/img\/projects\/houston-pals\/index\/projectBanner\/secondary\/houston-pals-secondary.jpg" : {
+    "\/img\/projects\/houston-pals\/index\/projectBanner\/secondary\/houston-pals.jpg" : {
       "ft" : 16384,
       "iS" : 65881,
       "jF" : 0,
       "oA" : 1,
-      "oAP" : "\/img\/projects\/houston-pals\/index\/projectBanner\/secondary\/houston-pals-secondary.jpg",
+      "oAP" : "\/img\/projects\/houston-pals\/index\/projectBanner\/secondary\/houston-pals.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -9519,11 +9519,11 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/img\/projects\/houston-pals\/index\/projectBanner\/secondary\/houston-pals-secondary.webp" : {
+    "\/img\/projects\/houston-pals\/index\/projectBanner\/secondary\/houston-pals.webp" : {
       "ft" : 8388608,
       "iS" : 40386,
       "oA" : 0,
-      "oAP" : "\/img\/projects\/houston-pals\/index\/projectBanner\/secondary\/houston-pals-secondary.webp",
+      "oAP" : "\/img\/projects\/houston-pals\/index\/projectBanner\/secondary\/houston-pals.webp",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
