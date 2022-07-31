@@ -59,7 +59,7 @@
 
 	.img-wrap {
 		img {
-			box-shadow: 0 17px 17px 0 rgba(0,0,0,.15), 0 17px 17px 0 rgba(0,0,0,.15), 0 27px 55px 0 rgba(0,0,0,.30), 0 27px 55px 0 rgba(0,0,0,.30);
+			box-shadow: $z-5;
 			max-width: 475px;
 		}
 	}
