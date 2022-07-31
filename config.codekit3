@@ -9232,7 +9232,7 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/img\/projects\/_dev\/tacupra.png" : {
+    "\/img\/projects\/_dev\/Tacupra.png" : {
       "ft" : 32768,
       "iS" : 3722883,
       "oA" : 1,
@@ -9476,6 +9476,54 @@
       "iS" : 38012,
       "oA" : 0,
       "oAP" : "\/img\/projects\/houston-pals\/index\/projectBanner\/primary\/houston-pals.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
+    "\/img\/projects\/houston-pals\/index\/projectBanner\/secondary\/houston-pals-secondary_2x.jpg" : {
+      "ft" : 16384,
+      "iS" : 137652,
+      "jF" : 0,
+      "oA" : 1,
+      "oAP" : "\/img\/projects\/houston-pals\/index\/projectBanner\/secondary\/houston-pals-secondary_2x.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/img\/projects\/houston-pals\/index\/projectBanner\/secondary\/houston-pals-secondary_2x.webp" : {
+      "ft" : 8388608,
+      "iS" : 90208,
+      "oA" : 0,
+      "oAP" : "\/img\/projects\/houston-pals\/index\/projectBanner\/secondary\/houston-pals-secondary_2x.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
+    "\/img\/projects\/houston-pals\/index\/projectBanner\/secondary\/houston-pals-secondary.jpg" : {
+      "ft" : 16384,
+      "iS" : 65881,
+      "jF" : 0,
+      "oA" : 1,
+      "oAP" : "\/img\/projects\/houston-pals\/index\/projectBanner\/secondary\/houston-pals-secondary.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/img\/projects\/houston-pals\/index\/projectBanner\/secondary\/houston-pals-secondary.webp" : {
+      "ft" : 8388608,
+      "iS" : 40386,
+      "oA" : 0,
+      "oAP" : "\/img\/projects\/houston-pals\/index\/projectBanner\/secondary\/houston-pals-secondary.webp",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
