@@ -8373,9 +8373,9 @@ form#index-contact-form span.input-group-label.error {
   background-size: cover; }
 
 .projectBanner#hpals {
-  background: #31659B url("/img/projects/houston-pals/houston-pals.png") center/cover repeat;
-  background: #31659B url("/img/projects/houston-pals/index/projectBanner/primary/houston-pals_2x.jpg") center/cover repeat;
-  background: #31659B url("/img/projects/houston-pals/index/projectBanner/secondary/houston-pals_2x.jpg") center/cover repeat; }
+  background: #31659b url("/img/projects/houston-pals/houston-pals.png") center/cover repeat;
+  background: #31659b url("/img/projects/houston-pals/index/projectBanner/primary/houston-pals_2x.jpg") center/cover repeat;
+  background: #31659b url("/img/projects/houston-pals/index/projectBanner/secondary/houston-pals_2x.jpg") center/cover repeat; }
   @media print, screen and (min-width: 40em) {
     .projectBanner#hpals {
       height: 530px; } }
@@ -8422,7 +8422,9 @@ form#index-contact-form span.input-group-label.error {
     box-shadow: 0 1.0625rem 1.0625rem 0 rgba(0, 0, 0, 0.15), 0 1.6875rem 3.4375rem 0 rgba(0, 0, 0, 0.3);
     top: 0;
     left: 0;
-    z-index: -1; }
+    z-index: -1;
+    user-select: none;
+    pointer-events: none; }
 
 .projectBanner#miriam-rodriguez {
   background: #a2a4c9 url("/img/projects/miriam-rodriguez/miriam-rodriguez.png") center/cover repeat; }
