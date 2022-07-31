@@ -8417,16 +8417,13 @@ form#index-contact-form span.input-group-label.error {
   .projectBanner#hpals .img-wrap img {
     box-shadow: 0 17px 17px 0 rgba(0, 0, 0, 0.15), 0 17px 17px 0 rgba(0, 0, 0, 0.15), 0 27px 55px 0 rgba(0, 0, 0, 0.3), 0 27px 55px 0 rgba(0, 0, 0, 0.3);
     max-width: 475px; }
-  .projectBanner#hpals img.bg-screenshot {
+  .projectBanner#hpals .bg-screenshot {
     position: absolute;
     box-shadow: 0 1.0625rem 1.0625rem 0 rgba(0, 0, 0, 0.15), 0 1.6875rem 3.4375rem 0 rgba(0, 0, 0, 0.3);
     top: 0;
+    left: 0;
     z-index: -1; }
-    @media print, screen and (min-width: 40em) {
-      .projectBanner#hpals img.bg-screenshot {
-        width: 490px;
-        top: -575px;
-        left: 0; } }
+
 .projectBanner#miriam-rodriguez {
   background: #a2a4c9 url("/img/projects/miriam-rodriguez/miriam-rodriguez.png") center/cover repeat; }
   @media print, screen and (min-width: 40em) {

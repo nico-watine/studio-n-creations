@@ -65,16 +65,17 @@
 		}
 	}
 
-	img.bg-screenshot {
+	.bg-screenshot {
 		position: absolute;
 		box-shadow: $z-5;
 		top: 0;
+		left: 0;
 		z-index: -1;
 
-		@include breakpoint(medium) {
-			width: 490px;
-			top: -575px;
-			left: 0;
-		}
+		// @include breakpoint(medium) {
+		// 	width: 490px;
+		// 	top: -575px;
+		// 	left: 0;
+		// }
 	}
 }

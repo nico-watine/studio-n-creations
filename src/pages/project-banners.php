@@ -55,6 +55,11 @@ body-class: index bodyLayout-unique
 				</div>
 			</div>
 		</div>
-		<img class="bg-screenshot show-for-medium" style="user-select: none;pointer-events: none;" src="/img/projects/houston-pals/houston-pals.png" alt="">
+		<!-- <img class="bg-screenshot show-for-medium" style="user-select: none;pointer-events: none;" src="/img/projects/houston-pals/houston-pals.png" alt=""> -->
+		<!-- <img class="bg-screenshot show-for-medium" style="user-select: none;pointer-events: none;" src="/img/projects/houston-pals/index/projectBanner/secondary/houston-pals.jpg" style="user-select: none;pointer-events: none;" alt=""> -->
+		<picture class="show-for-medium bg-screenshot">
+			<source srcset="/img/projects/houston-pals/index/projectBanner/secondary/houston-pals.webp, /img/projects/houston-pals/index/projectBanner/secondary/houston-pals_2x.webp 2x" type="image/webp">
+			<img srcset="/img/projects/houston-pals/index/projectBanner/secondary/houston-pals_2x.jpg 2x" src="/img/projects/houston-pals/index/projectBanner/secondary/houston-pals.jpg" alt="Screenshot of houstonpals.com">
+		</picture>
 	</div>
 </section>
