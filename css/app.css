@@ -8421,9 +8421,7 @@ form#index-contact-form span.input-group-label.error {
     box-shadow: 0 1.0625rem 1.0625rem 0 rgba(0, 0, 0, 0.15), 0 1.6875rem 3.4375rem 0 rgba(0, 0, 0, 0.3);
     top: 0;
     left: 0;
-    z-index: -1;
-    user-select: none;
-    pointer-events: none; }
+    z-index: -1; }
 
 .projectBanner#miriam-rodriguez {
   background: #a2a4c9 url("/img/projects/miriam-rodriguez/miriam-rodriguez.png") center/cover repeat; }
