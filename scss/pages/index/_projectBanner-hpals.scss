@@ -1,5 +1,6 @@
 .projectBanner#hpals {
 	background: #31659B url('/img/projects/houston-pals/houston-pals.png') center/cover repeat;
+	background: #31659B url('/img/projects/houston-pals/index/projectBanner/primary/houston-pals_2x.jpg') center/cover repeat;
 
 	@include breakpoint(medium) {
 		height: 530px;

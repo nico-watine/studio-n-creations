@@ -55,6 +55,6 @@ body-class: index bodyLayout-unique
 				</div>
 			</div>
 		</div>
-		<img class="bg-screenshot" style="user-select: none;pointer-events: none;" src="/img/projects/houston-pals/houston-pals.png" alt="">
+		<img class="bg-screenshot show-for-medium" style="user-select: none;pointer-events: none;" src="/img/projects/houston-pals/houston-pals.png" alt="">
 	</div>
 </section>
