@@ -8373,10 +8373,11 @@ form#index-contact-form span.input-group-label.error {
   background-size: cover; }
 
 .projectBanner#hpals {
-  background: #a2a4c9 url("/img/projects/houston-pals/houston-pals.png") center/cover repeat; }
+  background: #31659b url("/img/projects/houston-pals/index/projectBanner/primary/houston-pals_2x.jpg") center/cover repeat; }
   @media print, screen and (min-width: 40em) {
     .projectBanner#hpals {
-      height: 530px; } }
+      height: 530px;
+      background: #31659b url("/img/projects/houston-pals/index/projectBanner/secondary/houston-pals_2x.jpg") center/cover repeat; } }
   @media print, screen and (min-width: 64em) {
     .projectBanner#hpals {
       height: 480px; } }
@@ -8413,23 +8414,20 @@ form#index-contact-form span.input-group-label.error {
         box-shadow: -0.25rem 0.125rem 0 0 rgba(48, 101, 155, 0.8);
         margin: 1.375rem 0 0; }
   .projectBanner#hpals .img-wrap img {
-    box-shadow: 0 17px 17px 0 rgba(0, 0, 0, 0.15), 0 17px 17px 0 rgba(0, 0, 0, 0.15), 0 27px 55px 0 rgba(0, 0, 0, 0.3), 0 27px 55px 0 rgba(0, 0, 0, 0.3);
+    box-shadow: 0 1.0625rem 1.0625rem 0 rgba(0, 0, 0, 0.15), 0 1.6875rem 3.4375rem 0 rgba(0, 0, 0, 0.3);
     max-width: 475px; }
-  .projectBanner#hpals img.bg-screenshot {
+  .projectBanner#hpals .bg-screenshot {
     position: absolute;
     box-shadow: 0 1.0625rem 1.0625rem 0 rgba(0, 0, 0, 0.15), 0 1.6875rem 3.4375rem 0 rgba(0, 0, 0, 0.3);
     top: 0;
+    left: 0;
     z-index: -1; }
-    @media print, screen and (min-width: 40em) {
-      .projectBanner#hpals img.bg-screenshot {
-        width: 490px;
-        top: -575px;
-        left: 0; } }
+
 .projectBanner#miriam-rodriguez {
-  background: #a2a4c9 url("/img/projects/miriam-rodriguez/miriam-rodriguez.png") center/cover repeat; }
+  background: #a2a4c9 url("/img/projects/miriam-rodriguez/index/projectBanner/primary/miriam-rodriguez_2x.jpg") center/cover repeat; }
   @media print, screen and (min-width: 40em) {
     .projectBanner#miriam-rodriguez {
-      height: 530px; } }
+      background: #a2a4c9 url("/img/projects/miriam-rodriguez/index/projectBanner/secondary/miriam-rodriguez_2x.jpg") center/cover repeat; } }
   @media print, screen and (min-width: 64em) {
     .projectBanner#miriam-rodriguez {
       height: 480px; } }
@@ -8458,7 +8456,7 @@ form#index-contact-form span.input-group-label.error {
           text-decoration: none; }
     .projectBanner#miriam-rodriguez .prose-wrap a.site-link {
       padding: 0.875rem 1.25rem;
-      box-shadow: -0.25rem 0.25rem 0 0 rgba(99, 129, 153, 0.8);
+      box-shadow: -0.25rem 0.25rem 0 0 rgba(163, 163, 202, 0.8);
       color: #0a0a0a;
       font-size: 1.125rem;
       border-radius: 0.1875rem;
@@ -8466,21 +8464,18 @@ form#index-contact-form span.input-group-label.error {
       background: #fff;
       display: inline-block; }
       .projectBanner#miriam-rodriguez .prose-wrap a.site-link:hover {
-        box-shadow: -0.25rem 0.125rem 0 0 rgba(99, 129, 153, 0.8);
+        box-shadow: -0.25rem 0.125rem 0 0 rgba(163, 163, 202, 0.8);
         margin: 1.375rem 0 0; }
   .projectBanner#miriam-rodriguez .img-wrap img {
-    box-shadow: 0 17px 17px 0 rgba(0, 0, 0, 0.15), 0 17px 17px 0 rgba(0, 0, 0, 0.15), 0 27px 55px 0 rgba(0, 0, 0, 0.3), 0 27px 55px 0 rgba(0, 0, 0, 0.3);
+    box-shadow: 0 1.0625rem 1.0625rem 0 rgba(0, 0, 0, 0.15), 0 1.6875rem 3.4375rem 0 rgba(0, 0, 0, 0.3);
     max-width: 475px; }
-  .projectBanner#miriam-rodriguez img.bg-screenshot {
+  .projectBanner#miriam-rodriguez .bg-screenshot {
     position: absolute;
     box-shadow: 0 1.0625rem 1.0625rem 0 rgba(0, 0, 0, 0.15), 0 1.6875rem 3.4375rem 0 rgba(0, 0, 0, 0.3);
     top: 0;
+    right: 0;
     z-index: -1; }
-    @media print, screen and (min-width: 40em) {
-      .projectBanner#miriam-rodriguez img.bg-screenshot {
-        width: 490px;
-        top: -575px;
-        right: 0; } }
+
 #index #mobileNavBar-wrapper {
   position: absolute;
   right: 0;
