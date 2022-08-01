@@ -1,8 +1,9 @@
 .projectBanner#miriam-rodriguez {
-	background: #a2a4c9 url('/img/projects/miriam-rodriguez/miriam-rodriguez.png') center/cover repeat;
+	background: #a2a4c9 url('/img/projects/miriam-rodriguez/index/projectBanner/primary/miriam-rodriguez_2x.jpg') center/cover repeat;
 
 	@include breakpoint(medium) {
-		height: 530px;
+		// height: 530px;
+		background: #a2a4c9 url('/img/projects/miriam-rodriguez/index/projectBanner/secondary/miriam-rodriguez_2x.jpg') center/cover repeat;
 	}
 
 	@include breakpoint(large) {
@@ -45,7 +46,7 @@
 
 		a.site-link {
 			padding: rem-calc(14) rem-calc(20);
-			box-shadow: rem-calc(-4) rem-calc(4) 0 0 rgba(99,129,153,.80);
+			box-shadow: rem-calc(-4) rem-calc(4) 0 0 rgba(163,163,202,0.80);
 			color: $black;
 			font-size: rem-calc(18);
 			border-radius: rem-calc(3);
@@ -54,7 +55,7 @@
 			display: inline-block;
 
 			&:hover {
-				box-shadow: rem-calc(-4) rem-calc(2) 0 0 rgba(99,129,153,.80);
+				box-shadow: rem-calc(-4) rem-calc(2) 0 0 rgba(163,163,202,0.80);
 				margin: rem-calc(22 0 0);
 			}
 		}
@@ -62,21 +63,18 @@
 
 	.img-wrap {
 		img {
-			box-shadow: 0 17px 17px 0 rgba(0,0,0,.15), 0 17px 17px 0 rgba(0,0,0,.15), 0 27px 55px 0 rgba(0,0,0,.30), 0 27px 55px 0 rgba(0,0,0,.30);
+			box-shadow: $z-5;
 			max-width: 475px;
 		}
 	}
 
-	img.bg-screenshot {
+	.bg-screenshot {
 		position: absolute;
 		box-shadow: $z-5;
 		top: 0;
+		right: 0;
 		z-index: -1;
-
-		@include breakpoint(medium) {
-			width: 490px;
-			top: -575px;
-			right: 0;
-		}
+		// user-select: none;
+		// pointer-events: none;
 	}
 }
