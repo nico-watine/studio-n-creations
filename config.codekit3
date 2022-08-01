@@ -9232,7 +9232,7 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/img\/projects\/_dev\/tacupra.png" : {
+    "\/img\/projects\/_dev\/Tacupra.png" : {
       "ft" : 32768,
       "iS" : 3722883,
       "oA" : 1,
@@ -9689,54 +9689,6 @@
       "iS" : 44028,
       "oA" : 0,
       "oAP" : "\/img\/projects\/miriam-rodriguez\/index\/projectBanner\/primary\/miriam-rodriguez.webp",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-default",
-      "rq" : 75
-    },
-    "\/img\/projects\/miriam-rodriguez\/index\/projectBanner\/secondary\/miriam-rodriguez_2x.jpg" : {
-      "ft" : 16384,
-      "iS" : 105664,
-      "jF" : 0,
-      "oA" : 1,
-      "oAP" : "\/img\/projects\/miriam-rodriguez\/index\/projectBanner\/secondary\/miriam-rodriguez_2x.jpg",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/img\/projects\/miriam-rodriguez\/index\/projectBanner\/secondary\/miriam-rodriguez_2x.webp" : {
-      "ft" : 8388608,
-      "iS" : 64714,
-      "oA" : 0,
-      "oAP" : "\/img\/projects\/miriam-rodriguez\/index\/projectBanner\/secondary\/miriam-rodriguez_2x.webp",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-default",
-      "rq" : 75
-    },
-    "\/img\/projects\/miriam-rodriguez\/index\/projectBanner\/secondary\/miriam-rodriguez.jpg" : {
-      "ft" : 16384,
-      "iS" : 52899,
-      "jF" : 0,
-      "oA" : 1,
-      "oAP" : "\/img\/projects\/miriam-rodriguez\/index\/projectBanner\/secondary\/miriam-rodriguez.jpg",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/img\/projects\/miriam-rodriguez\/index\/projectBanner\/secondary\/miriam-rodriguez.webp" : {
-      "ft" : 8388608,
-      "iS" : 30412,
-      "oA" : 0,
-      "oAP" : "\/img\/projects\/miriam-rodriguez\/index\/projectBanner\/secondary\/miriam-rodriguez.webp",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
