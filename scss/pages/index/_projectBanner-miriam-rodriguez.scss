@@ -1,8 +1,10 @@
 .projectBanner#miriam-rodriguez {
-	background: #a2a4c9 url('/img/projects/miriam-rodriguez/miriam-rodriguez.png') center/cover repeat;
+	// background: #a2a4c9 url('/img/projects/miriam-rodriguez/miriam-rodriguez.png') center/cover repeat;
+	background: #a2a4c9 url('/img/projects/miriam-rodriguez/index/projectBanner/primary/miriam-rodriguez_2x.jpg') center/cover repeat;
 
 	@include breakpoint(medium) {
 		height: 530px;
+		background: #a2a4c9 url('/img/projects/miriam-rodriguez/index/projectBanner/secondary/miriam-rodriguez_2x.jpg') center/cover repeat;
 	}
 
 	@include breakpoint(large) {
