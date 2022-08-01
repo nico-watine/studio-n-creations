@@ -1,5 +1,4 @@
 .projectBanner#miriam-rodriguez {
-	// background: #a2a4c9 url('/img/projects/miriam-rodriguez/miriam-rodriguez.png') center/cover repeat;
 	background: #a2a4c9 url('/img/projects/miriam-rodriguez/index/projectBanner/primary/miriam-rodriguez_2x.jpg') center/cover repeat;
 
 	@include breakpoint(medium) {
@@ -78,17 +77,4 @@
 		// user-select: none;
 		// pointer-events: none;
 	}
-
-	// img.bg-screenshot {
-	// 	position: absolute;
-	// 	box-shadow: $z-5;
-	// 	top: 0;
-	// 	z-index: -1;
-
-	// 	@include breakpoint(medium) {
-	// 		width: 490px;
-	// 		top: -575px;
-	// 		right: 0;
-	// 	}
-	// }
 }
