@@ -67,7 +67,7 @@ body-class: index bodyLayout-unique
 			<div class="medium-6 columns text-center medium-text-left">
 				<div class="prose-wrap color-white display-inline-block text-left">
 					<h3 class="monospace text-center mb-20">Miriam Rodríguez</h3>
-					<p>International bridal couturier Miriam Rodríguez hired me to create her bilingual online portfolio so she could expand her business and capitalize on her booming <a href="https://www.instagram.com/realmiriamrodriguez/" target="_blank">Instagram profile</a>.</p>
+					<p>International bridal couturier Miriam Rodríguez hired me to create her bilingual online portfolio so she could expand her business and capitalize on her booming <a href="https://instagram.com/realmiriamrodriguez?igshid=YmMyMTA2M2Y=" target="_blank">Instagram profile</a>.</p>
 					<div class="text-center">
 						<a href="https://miriamrodriguez.com/" class="site-link">www.miriamrodriguez.com</a>
 					</div>
@@ -75,11 +75,17 @@ body-class: index bodyLayout-unique
 			</div>
 			<div class="medium-6 columns">
 				<div class="img-wrap show-for-medium">
-					<img src="/img/projects/miriam-rodriguez/miriam-rodriguez-900w.png" alt="Screenshot of miriamrodriguez.com">
+					<picture>
+						<source srcset="/img/projects/miriam-rodriguez/index/projectBanner/primary/miriam-rodriguez.webp, /img/projects/miriam-rodriguez/index/projectBanner/primary/miriam-rodriguez_2x.webp 2x" type="image/webp">
+						<img srcset="/img/projects/miriam-rodriguez/index/projectBanner/primary/miriam-rodriguez_2x.jpg 2x" src="/img/projects/miriam-rodriguez/index/projectBanner/primary/miriam-rodriguez.jpg" alt="Screenshot of miriamrodriguez.com">
+					</picture>
 				</div>
 			</div>
 		</div>
-		<img class="bg-screenshot" style="user-select: none;pointer-events: none;" src="/img/projects/miriam-rodriguez/miriam-rodriguez-900w.png" alt="Screenshot of miriamrodriguez.com">
+		<picture class="show-for-medium bg-screenshot">
+			<source srcset="/img/projects/miriam-rodriguez/index/projectBanner/secondary/miriam-rodriguez.webp, img/projects/miriam-rodriguez/index/projectBanner/secondary/miriam-rodriguez_2x.webp 2x" type="image/webp">
+			<img srcset="/img/projects/miriam-rodriguez/index/projectBanner/secondary/miriam-rodriguez_2x.jpg 2x" src="/img/projects/miriam-rodriguez/index/projectBanner/secondary/miriam-rodriguez.jpg" alt="Screenshot of houstonpals.com">
+		</picture>
 	</div>
 </section>
 
@@ -92,7 +98,10 @@ body-class: index bodyLayout-unique
 		<div class="row">
 			<div class="medium-6 columns">
 				<div class="img-wrap float-right show-for-medium">
-					<img src="/img/projects/houston-pals/houston-pals-900w.png" alt="Screenshot of houstonpals.com">
+					<picture>
+						<source srcset="/img/projects/houston-pals/index/projectBanner/primary/houston-pals.webp, /img/projects/houston-pals/index/projectBanner/primary/houston-pals_2x.webp 2x" type="image/webp">
+						<img srcset="/img/projects/houston-pals/index/projectBanner/primary/houston-pals_2x.jpg 2x" src="/img/projects/houston-pals/index/projectBanner/primary/houston-pals.jpg" alt="Screenshot of houstonpals.com">
+					</picture>
 				</div>
 			</div>
 			<div class="medium-6 columns text-center medium-text-left">
@@ -105,7 +114,10 @@ body-class: index bodyLayout-unique
 				</div>
 			</div>
 		</div>
-		<img class="bg-screenshot" style="user-select: none;pointer-events: none;" src="/img/projects/houston-pals/houston-pals-900w.png" alt="Screenshot of houstonpals.com">
+		<picture class="show-for-medium bg-screenshot">
+			<source srcset="/img/projects/houston-pals/index/projectBanner/secondary/houston-pals.webp, /img/projects/houston-pals/index/projectBanner/secondary/houston-pals_2x.webp 2x" type="image/webp">
+			<img srcset="/img/projects/houston-pals/index/projectBanner/secondary/houston-pals_2x.jpg 2x" src="/img/projects/houston-pals/index/projectBanner/secondary/houston-pals.jpg" alt="Screenshot of houstonpals.com">
+		</picture>
 	</div>
 </section>
 
