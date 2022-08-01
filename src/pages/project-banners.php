@@ -22,7 +22,11 @@ body-class: index bodyLayout-unique
 			</div>
 			<div class="medium-6 columns">
 				<div class="img-wrap show-for-medium">
-					<img src="/img/projects/miriam-rodriguez/miriam-rodriguez.png" alt="Screenshot of miriamrodriguez.com">
+					<!-- <img src="/img/projects/miriam-rodriguez/miriam-rodriguez.png" alt="Screenshot of miriamrodriguez.com"> -->
+					<picture>
+						<source srcset="/img/projects/miriam-rodriguez/index/projectBanner/primary/miriam-rodriguez.webp, /img/projects/miriam-rodriguez/index/projectBanner/primary/miriam-rodriguez_2x.webp 2x" type="image/webp">
+						<img srcset="/img/projects/miriam-rodriguez/index/projectBanner/primary/miriam-rodriguez_2x.jpg 2x" src="/img/projects/miriam-rodriguez/index/projectBanner/primary/miriam-rodriguez.jpg" alt="Screenshot of miriamrodriguez.com">
+					</picture>
 				</div>
 			</div>
 		</div>
