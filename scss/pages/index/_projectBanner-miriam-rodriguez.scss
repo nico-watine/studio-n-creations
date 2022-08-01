@@ -67,16 +67,26 @@
 		}
 	}
 
-	img.bg-screenshot {
+	.bg-screenshot {
 		position: absolute;
 		box-shadow: $z-5;
 		top: 0;
+		right: 0;
 		z-index: -1;
-
-		@include breakpoint(medium) {
-			width: 490px;
-			top: -575px;
-			right: 0;
-		}
+		// user-select: none;
+		// pointer-events: none;
 	}
+
+	// img.bg-screenshot {
+	// 	position: absolute;
+	// 	box-shadow: $z-5;
+	// 	top: 0;
+	// 	z-index: -1;
+
+	// 	@include breakpoint(medium) {
+	// 		width: 490px;
+	// 		top: -575px;
+	// 		right: 0;
+	// 	}
+	// }
 }

@@ -8469,16 +8469,13 @@ form#index-contact-form span.input-group-label.error {
   .projectBanner#miriam-rodriguez .img-wrap img {
     box-shadow: 0 17px 17px 0 rgba(0, 0, 0, 0.15), 0 17px 17px 0 rgba(0, 0, 0, 0.15), 0 27px 55px 0 rgba(0, 0, 0, 0.3), 0 27px 55px 0 rgba(0, 0, 0, 0.3);
     max-width: 475px; }
-  .projectBanner#miriam-rodriguez img.bg-screenshot {
+  .projectBanner#miriam-rodriguez .bg-screenshot {
     position: absolute;
     box-shadow: 0 1.0625rem 1.0625rem 0 rgba(0, 0, 0, 0.15), 0 1.6875rem 3.4375rem 0 rgba(0, 0, 0, 0.3);
     top: 0;
+    right: 0;
     z-index: -1; }
-    @media print, screen and (min-width: 40em) {
-      .projectBanner#miriam-rodriguez img.bg-screenshot {
-        width: 490px;
-        top: -575px;
-        right: 0; } }
+
 #index #mobileNavBar-wrapper {
   position: absolute;
   right: 0;

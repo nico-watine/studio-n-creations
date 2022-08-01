@@ -30,7 +30,11 @@ body-class: index bodyLayout-unique
 				</div>
 			</div>
 		</div>
-		<img class="bg-screenshot" style="user-select: none;pointer-events: none;" src="/img/projects/miriam-rodriguez/miriam-rodriguez.png" alt="">
+		<!-- <img class="bg-screenshot" style="user-select: none;pointer-events: none;" src="/img/projects/miriam-rodriguez/miriam-rodriguez.png" alt=""> -->
+		<picture class="show-for-medium bg-screenshot">
+			<source srcset="/img/projects/miriam-rodriguez/index/projectBanner/secondary/miriam-rodriguez.webp, img/projects/miriam-rodriguez/index/projectBanner/secondary/miriam-rodriguez_2x.webp 2x" type="image/webp">
+			<img srcset="/img/projects/miriam-rodriguez/index/projectBanner/secondary/miriam-rodriguez_2x.jpg 2x" src="/img/projects/miriam-rodriguez/index/projectBanner/secondary/miriam-rodriguez.jpg" alt="Screenshot of houstonpals.com">
+		</picture>
 	</div>
 </section>
 
