@@ -61,7 +61,7 @@ body-class: index bodyLayout-unique
 	<h2 class="mb-16 text-center text-white ff-monospace">Featured Projects</h2>
 </div>
 
-<section class="projectBanner overflow-hidden position-relative" id="miriam-rodriguez">
+<!-- <section class="projectBanner overflow-hidden position-relative" id="miriam-rodriguez">
 	<div class="bg-blur position-relative">
 		<div class="row">
 			<div class="medium-6 columns text-center medium-text-left">
@@ -80,6 +80,33 @@ body-class: index bodyLayout-unique
 			</div>
 		</div>
 		<img class="bg-screenshot" style="user-select: none;pointer-events: none;" src="/img/projects/miriam-rodriguez/miriam-rodriguez-900w.png" alt="Screenshot of miriamrodriguez.com">
+	</div>
+</section> -->
+<section class="projectBanner overflow-hidden position-relative" id="miriam-rodriguez">
+	<div class="bg-blur position-relative">
+		<div class="row">
+			<div class="medium-6 columns text-center medium-text-left">
+				<div class="prose-wrap color-white display-inline-block text-left">
+					<h3 class="monospace text-center mb-20">Miriam Rodríguez</h3>
+					<p>International bridal couturier Miriam Rodríguez hired me to create her bilingual online portfolio so she could expand her business and capitalize on her booming <a href="https://instagram.com/realmiriamrodriguez?igshid=YmMyMTA2M2Y=" target="_blank">Instagram profile</a>.</p>
+					<div class="text-center">
+						<a href="https://miriamrodriguez.com/" class="site-link">www.miriamrodriguez.com</a>
+					</div>
+				</div>
+			</div>
+			<div class="medium-6 columns">
+				<div class="img-wrap show-for-medium">
+					<picture>
+						<source srcset="/img/projects/miriam-rodriguez/index/projectBanner/primary/miriam-rodriguez.webp, /img/projects/miriam-rodriguez/index/projectBanner/primary/miriam-rodriguez_2x.webp 2x" type="image/webp">
+						<img srcset="/img/projects/miriam-rodriguez/index/projectBanner/primary/miriam-rodriguez_2x.jpg 2x" src="/img/projects/miriam-rodriguez/index/projectBanner/primary/miriam-rodriguez.jpg" alt="Screenshot of miriamrodriguez.com">
+					</picture>
+				</div>
+			</div>
+		</div>
+		<picture class="show-for-medium bg-screenshot">
+			<source srcset="/img/projects/miriam-rodriguez/index/projectBanner/secondary/miriam-rodriguez.webp, img/projects/miriam-rodriguez/index/projectBanner/secondary/miriam-rodriguez_2x.webp 2x" type="image/webp">
+			<img srcset="/img/projects/miriam-rodriguez/index/projectBanner/secondary/miriam-rodriguez_2x.jpg 2x" src="/img/projects/miriam-rodriguez/index/projectBanner/secondary/miriam-rodriguez.jpg" alt="Screenshot of houstonpals.com">
+		</picture>
 	</div>
 </section>
 
