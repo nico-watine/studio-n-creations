@@ -8693,6 +8693,19 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/img\/_dev\/v1.png" : {
+      "ft" : 32768,
+      "iS" : 3026624,
+      "oA" : 1,
+      "oAP" : "\/img\/_dev\/v1.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/img\/assets\/icons\/facebook_2x.png" : {
       "ft" : 32768,
       "iS" : 721,
@@ -9271,7 +9284,7 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/img\/projects\/_dev\/tacupra.png" : {
+    "\/img\/projects\/_dev\/Tacupra.png" : {
       "ft" : 32768,
       "iS" : 3722883,
       "oA" : 1,
