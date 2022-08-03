@@ -44,4 +44,6 @@
 .index-webpage-collage-container {
 	background: $deep-blue url('/img/_dev/angled.jpg') center center/cover no-repeat;
 	background: $deep-blue url('/img/_dev/flat.jpg') center center/cover no-repeat;
+	background: $deep-blue url('/img/_dev/v1.png') center center/cover no-repeat;
+	background-blend-mode: multiply;
 }
