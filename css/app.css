@@ -8394,7 +8394,8 @@ form#index-contact-form span.input-group-label.error {
     margin-bottom: 50px; }
     .projectBanner#hpals .prose-wrap p {
       font-size: 18px;
-      max-width: 400px; }
+      max-width: 400px;
+      text-shadow: 0 1px 4px rgba(0, 0, 0, 0.5); }
       .projectBanner#hpals .prose-wrap p a {
         color: #fff;
         text-decoration: underline; }
@@ -8447,7 +8448,8 @@ form#index-contact-form span.input-group-label.error {
         float: right; } }
     .projectBanner#miriam-rodriguez .prose-wrap p {
       font-size: 18px;
-      max-width: 400px; }
+      max-width: 400px;
+      text-shadow: 0 1px 4px rgba(0, 0, 0, 0.5); }
       .projectBanner#miriam-rodriguez .prose-wrap p a {
         color: #fff;
         text-decoration: underline; }
