@@ -8654,25 +8654,12 @@
       "sC" : 0,
       "tS" : 0
     },
-    "\/img\/_dev\/newdemo-header-background.jpg" : {
-      "ft" : 16384,
-      "iS" : 185418,
-      "jF" : 0,
-      "oA" : 1,
-      "oAP" : "\/img\/_dev\/newdemo-header-background.jpg",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/img\/_dev\/tf-homepage-new-avada7.jpg" : {
+    "\/img\/_dev\/angled.jpg" : {
       "ft" : 16384,
       "iS" : 79056,
       "jF" : 0,
       "oA" : 1,
-      "oAP" : "\/img\/_dev\/tf-homepage-new-avada7.jpg",
+      "oAP" : "\/img\/_dev\/angled.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -8680,11 +8667,24 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/img\/_dev\/X Theme Review - Ultimate WordPress Theme 2022 - aThemes.png" : {
+    "\/img\/_dev\/flat.jpg" : {
+      "ft" : 16384,
+      "iS" : 185418,
+      "jF" : 0,
+      "oA" : 1,
+      "oAP" : "\/img\/_dev\/flat.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/img\/_dev\/tiled.png" : {
       "ft" : 32768,
       "iS" : 89662,
       "oA" : 1,
-      "oAP" : "\/img\/_dev\/X Theme Review - Ultimate WordPress Theme 2022 - aThemes.png",
+      "oAP" : "\/img\/_dev\/tiled.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -9271,7 +9271,7 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/img\/projects\/_dev\/Tacupra.png" : {
+    "\/img\/projects\/_dev\/tacupra.png" : {
       "ft" : 32768,
       "iS" : 3722883,
       "oA" : 1,
