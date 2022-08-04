@@ -9007,6 +9007,45 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/img\/index\/webpage-collage-bg\/640x800.jpg" : {
+      "ft" : 16384,
+      "iS" : 62421,
+      "jF" : 0,
+      "oA" : 1,
+      "oAP" : "\/img\/index\/webpage-collage-bg\/640x800.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/img\/index\/webpage-collage-bg\/1024x800.jpg" : {
+      "ft" : 16384,
+      "iS" : 85192,
+      "jF" : 0,
+      "oA" : 1,
+      "oAP" : "\/img\/index\/webpage-collage-bg\/1024x800.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/img\/index\/webpage-collage-bg\/1440x810.jpg" : {
+      "ft" : 16384,
+      "iS" : 113997,
+      "jF" : 0,
+      "oA" : 1,
+      "oAP" : "\/img\/index\/webpage-collage-bg\/1440x810.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/img\/index\/website-mashup-video\/studio-n-creations-website-mashup-poster.jpg" : {
       "ft" : 16384,
       "iS" : 56597,
