@@ -48,6 +48,10 @@
 	background-blend-mode: multiply;
 
 	@include breakpoint(medium) {
+		background: #a9a9a9 url('/img/_dev/1024x800.jpg') center center/cover no-repeat;
+	}
+
+	@include breakpoint(large) {
 		background: #a9a9a9 url('/img/_dev/1440-25-888.jpg') center center/cover no-repeat;
 	}
 }

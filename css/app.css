@@ -8500,6 +8500,9 @@ form#index-contact-form span.input-group-label.error {
   background-blend-mode: multiply; }
   @media print, screen and (min-width: 40em) {
     .index-webpage-collage-container {
+      background: #a9a9a9 url("/img/_dev/1024x800.jpg") center center/cover no-repeat; } }
+  @media print, screen and (min-width: 64em) {
+    .index-webpage-collage-container {
       background: #a9a9a9 url("/img/_dev/1440-25-888.jpg") center center/cover no-repeat; } }
 #web-development .page-intro-prose {
   margin-bottom: 2.5rem; }
