@@ -8496,11 +8496,11 @@ form#index-contact-form span.input-group-label.error {
       margin: 0; }
 
 .index-webpage-collage-container {
-  background: #566372 url("/img/_dev/v1.png") center center/cover no-repeat;
-  background: #566372 url("/img/_dev/1440-25.jpg") center center/cover no-repeat;
-  background: #a9a9a9 url("/img/_dev/1440-25-888.jpg") center center/cover no-repeat;
+  background: #a9a9a9 url("/img/_dev/640x800.jpg") center center/cover no-repeat;
   background-blend-mode: multiply; }
-
+  @media print, screen and (min-width: 40em) {
+    .index-webpage-collage-container {
+      background: #a9a9a9 url("/img/_dev/1440-25-888.jpg") center center/cover no-repeat; } }
 #web-development .page-intro-prose {
   margin-bottom: 2.5rem; }
   @media print, screen and (min-width: 40em) {
