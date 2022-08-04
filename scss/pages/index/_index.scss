@@ -20,7 +20,6 @@
 
 #index {
 	.intro-slogan {
-		background: $deep-blue;
 		padding: rem-calc(60) 0;
 
 		h2 {
@@ -38,5 +37,18 @@
 				margin: 0;
 			}
 		}
+	}
+}
+
+.index-webpage-collage-container {
+	background: #a9a9a9 url('/img/index/webpage-collage-bg/640x800.jpg') center center/cover no-repeat;
+	background-blend-mode: multiply;
+
+	@include breakpoint(medium) {
+		background: #a9a9a9 url('/img/index/webpage-collage-bg/1024x800.jpg') center center/cover no-repeat;
+	}
+
+	@include breakpoint(large) {
+		background: #a9a9a9 url('/img/index/webpage-collage-bg/1440x810.jpg') center center/cover no-repeat;
 	}
 }

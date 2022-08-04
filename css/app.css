@@ -8257,7 +8257,6 @@ footer {
     transform: translateX(-50%) translateY(-50%); }
 
 #index .about-me {
-  background: #566372;
   padding-bottom: 30px; }
   #index .about-me .prose-wrap {
     background: #f4f4f4;
@@ -8484,7 +8483,6 @@ form#index-contact-form span.input-group-label.error {
   z-index: 100; }
 
 #index .intro-slogan {
-  background: #566372;
   padding: 3.75rem 0; }
   #index .intro-slogan h2 {
     color: #fff;
@@ -8497,6 +8495,15 @@ form#index-contact-form span.input-group-label.error {
     #index .intro-slogan .prose p {
       margin: 0; }
 
+.index-webpage-collage-container {
+  background: #a9a9a9 url("/img/index/webpage-collage-bg/640x800.jpg") center center/cover no-repeat;
+  background-blend-mode: multiply; }
+  @media print, screen and (min-width: 40em) {
+    .index-webpage-collage-container {
+      background: #a9a9a9 url("/img/index/webpage-collage-bg/1024x800.jpg") center center/cover no-repeat; } }
+  @media print, screen and (min-width: 64em) {
+    .index-webpage-collage-container {
+      background: #a9a9a9 url("/img/index/webpage-collage-bg/1440x810.jpg") center center/cover no-repeat; } }
 #web-development .page-intro-prose {
   margin-bottom: 2.5rem; }
   @media print, screen and (min-width: 40em) {
