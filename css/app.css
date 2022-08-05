@@ -8930,12 +8930,16 @@ img.mfp-img {
     bottom: 0; }
     .graphic-branding .jdf-blog-link .prose-wrap a {
       color: #fff; }
+      .graphic-branding .jdf-blog-link .prose-wrap a:hover p {
+        text-decoration: none; }
+        .graphic-branding .jdf-blog-link .prose-wrap a:hover p span {
+          border-bottom: 4px solid #1779ba; }
     .graphic-branding .jdf-blog-link .prose-wrap .h4 {
       font-size: 24px;
       text-shadow: 0 0 4px rgba(0, 0, 0, 0.5);
-      border-bottom: 2px solid #1779BA;
-      display: inline-block;
       margin-bottom: 4px; }
+      .graphic-branding .jdf-blog-link .prose-wrap .h4 span {
+        border-bottom: 4px solid #1779ba; }
     .graphic-branding .jdf-blog-link .prose-wrap p {
       text-shadow: 0 0 4px rgba(0, 0, 0, 0.5);
       font-size: 18px;

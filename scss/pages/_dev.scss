@@ -22,18 +22,30 @@
 
 			a {
 				color: #fff;
+
+				&:hover {
+					p {
+						text-decoration: none;
+
+						span {
+							border-bottom: 4px solid #1779ba;
+						}
+					}
+				}
 			}
 
 			.h4 {
 				font-size: 24px;
 				text-shadow: 0 0 4px rgba(0,0,0,.50);
-				border-bottom: 2px solid #1779BA;
-				display: inline-block;
 				margin-bottom: 4px;
+
+				span {
+					border-bottom: 4px solid #1779ba;
+				}
 			}
 
 			p {
-				text-shadow: 0 0 4px rgba(0,0,0,0.50);
+				text-shadow: 0 0 4px rgba(0,0,0,.50);
 				font-size: 18px;
 				text-decoration: underline;
 			}
