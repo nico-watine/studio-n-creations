@@ -8911,56 +8911,15 @@ img.mfp-img {
     padding-left: 6px;
     padding-right: 6px; } }
 
-#index .graphic-branding#dev {
-  background: #fff; }
-  #index .graphic-branding#dev .prose {
-    padding: 1.875rem 1rem; }
-  #index .graphic-branding#dev .logos-row {
-    background: #f9f9f9; }
-    #index .graphic-branding#dev .logos-row .dynasty-sports-report-wrapper,
-    #index .graphic-branding#dev .logos-row .column-1 {
-      background: #1e73bd; }
-    #index .graphic-branding#dev .logos-row .dynasty-sports-report-wrapper img {
-      max-width: 270px; }
-    #index .graphic-branding#dev .logos-row .dmesa-home-wrapper img {
-      max-width: 250px; }
-      @media print, screen and (max-width: 39.99875em) {
-        #index .graphic-branding#dev .logos-row .dmesa-home-wrapper img {
-          margin: 1.875rem 0; } }
-    #index .graphic-branding#dev .logos-row .jardin-de-france-wrapper {
-      background: #fff; }
-      @media print, screen and (max-width: 39.99875em) {
-        #index .graphic-branding#dev .logos-row .jardin-de-france-wrapper img {
-          width: 100%;
-          height: auto; } }
-@media print, screen and (min-width: 40em) and (max-width: 63.99875em) {
-  #index .graphic-branding#dev .logos-row {
-    position: relative; }
-    #index .graphic-branding#dev .logos-row .column-1,
-    #index .graphic-branding#dev .logos-row .column-2 {
-      position: absolute;
-      height: 100%; }
-      #index .graphic-branding#dev .logos-row .column-1 img,
-      #index .graphic-branding#dev .logos-row .column-2 img {
-        position: absolute;
-        top: 50%;
-        left: 50%;
-        transform: translate(-50%, -50%); }
-    #index .graphic-branding#dev .logos-row .dmesa-home-wrapper img {
-      width: 100%;
-      padding: 0 0.625rem; }
-    #index .graphic-branding#dev .logos-row .dynasty-sports-report-wrapper img {
-      width: 100%;
-      padding: 0 0.625rem; } }
-
-@media print, screen and (min-width: 64em) {
-  #index .graphic-branding#dev .logos-row {
-    margin-top: 0; }
-    #index .graphic-branding#dev .logos-row .column-1 {
-      background: none; }
-    #index .graphic-branding#dev .logos-row .dmesa-home-img {
-      padding: 1.875rem 0.625rem; }
-    #index .graphic-branding#dev .logos-row .jardin-de-france-wrapper img {
-      max-width: none;
-      height: 100%;
-      overflow: hidden; } }
+.graphic-branding .jdf-blog-link {
+  position: relative; }
+  .graphic-branding .jdf-blog-link:after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: linear-gradient(90deg, #5ac4be, #5ac4be);
+    opacity: .7;
+    mix-blend-mode: multiply; }

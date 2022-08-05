@@ -8,7 +8,7 @@ og-image: /img/assets/og-images/index/studio-n-creations-og-image-1.png
 body-id: index
 body-class: index bodyLayout-unique
 ---
-<section class="graphic-branding" id="dev">
+<section class="graphic-branding">
 	<div class="row collapse">
 		<div class="medium-push-1 medium-11 large-4 large-push-0 columns">
 			<div class="prose">
@@ -28,7 +28,9 @@ body-class: index bodyLayout-unique
 					<img src="/img/projects/dmesa/dmesa-logo.svg" alt="d'Mesa Home logo" title="d'Mesa Home logo">
 				</div>
 				<div class="medium-5 large-8 columns jardin-de-france-wrapper column-3">
-					<img srcset="{{ cdn }}/img/projects/jardin-de-france-tx/index/graphic-design/jardin-de-france-price-tag_2x.jpg 2x" src="{{ cdn }}/img/projects/jardin-de-france-tx/index/graphic-design/jardin-de-france-price-tag.jpg" alt="Jardin de France TX logo" title="Jardin de France TX product price tag design">
+					<div class="jdf-blog-link">
+						<img srcset="{{ cdn }}/img/projects/jardin-de-france-tx/index/graphic-design/jardin-de-france-price-tag_2x.jpg 2x" src="{{ cdn }}/img/projects/jardin-de-france-tx/index/graphic-design/jardin-de-france-price-tag.jpg" alt="Jardin de France TX logo" title="Jardin de France TX product price tag design">
+					</div>
 				</div>
 			</div>
 		</div>
