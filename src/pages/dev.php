@@ -30,7 +30,7 @@ body-class: index bodyLayout-unique
 				<div class="medium-5 large-8 columns jardin-de-france-wrapper column-3">
 					<div class="jdf-blog-link">
 						<div class="prose-wrap">
-							<a href="#">
+							<a href="/blog/new-printed-material-for-jardin-de-france-tx/">
 								<h4 class="h4 monospace">Blog Post</h4>
 								<p class="m-0">Designing the Jardin de France Product&nbsp;Tags</p>
 							</a>
