@@ -9271,7 +9271,7 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/img\/projects\/_dev\/tacupra.png" : {
+    "\/img\/projects\/_dev\/Tacupra.png" : {
       "ft" : 32768,
       "iS" : 3722883,
       "oA" : 1,
@@ -10793,6 +10793,14 @@
       "oAP" : "\/src\/layouts\/default.html",
       "oF" : 0
     },
+    "\/src\/pages\/dev.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/src\/pages\/dev.php",
+      "oF" : 0
+    },
     "\/src\/pages\/index.php" : {
       "cB" : 0,
       "ft" : 8192,
@@ -10807,14 +10815,6 @@
       "hM" : 0,
       "oA" : 1,
       "oAP" : "\/src\/pages\/our-services\/web-development.php",
-      "oF" : 0
-    },
-    "\/src\/pages\/project-banners.php" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/src\/pages\/project-banners.php",
       "oF" : 0
     },
     "\/src\/partials\/_notes.txt" : {
