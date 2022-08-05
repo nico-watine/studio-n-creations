@@ -8928,8 +8928,7 @@ img.mfp-img {
     width: 100%;
     padding: 16px;
     bottom: 0; }
-    .graphic-branding .jdf-blog-link .prose-wrap a,
-    .graphic-branding .jdf-blog-link .prose-wrap a * {
+    .graphic-branding .jdf-blog-link .prose-wrap a {
       color: #fff; }
     .graphic-branding .jdf-blog-link .prose-wrap .h4 {
       font-size: 24px;
