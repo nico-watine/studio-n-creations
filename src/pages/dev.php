@@ -31,7 +31,7 @@ body-class: index bodyLayout-unique
 					<div class="jdf-blog-link">
 						<div class="prose-wrap">
 							<h4 class="h4 monospace">Blog Post</h4>
-							<p class="m-0">Designing the Jardin de France Product Tags</p>
+							<p class="m-0">Designing the Jardin de France Product&nbsp;Tags</p>
 						</div>
 						<img srcset="{{ cdn }}/img/projects/jardin-de-france-tx/index/graphic-design/jardin-de-france-price-tag_2x.jpg 2x" src="{{ cdn }}/img/projects/jardin-de-france-tx/index/graphic-design/jardin-de-france-price-tag.jpg" alt="Jardin de France TX logo" title="Jardin de France TX product price tag design">
 					</div>
