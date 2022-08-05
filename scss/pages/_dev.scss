@@ -19,7 +19,11 @@
 			width: 100%;
 			padding: 16px;
 			bottom: 0;
-			color: #fff;
+
+			a,
+			a * {
+				color: #fff;
+			}
 
 			.h4 {
 				font-size: 24px;
