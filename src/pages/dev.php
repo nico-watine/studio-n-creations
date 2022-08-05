@@ -29,6 +29,9 @@ body-class: index bodyLayout-unique
 				</div>
 				<div class="medium-5 large-8 columns jardin-de-france-wrapper column-3">
 					<div class="jdf-blog-link">
+						<div class="prose">
+							<h4 class="h4 monospace">Blog Post</h4>
+						</div>
 						<img srcset="{{ cdn }}/img/projects/jardin-de-france-tx/index/graphic-design/jardin-de-france-price-tag_2x.jpg 2x" src="{{ cdn }}/img/projects/jardin-de-france-tx/index/graphic-design/jardin-de-france-price-tag.jpg" alt="Jardin de France TX logo" title="Jardin de France TX product price tag design">
 					</div>
 				</div>
