@@ -8,7 +8,7 @@ og-image: /img/assets/og-images/index/studio-n-creations-og-image-1.png
 body-id: index
 body-class: index bodyLayout-unique
 ---
-<section class="graphic-branding">
+<section class="graphic-branding" id="dev">
 	<div class="row collapse">
 		<div class="medium-push-1 medium-11 large-4 large-push-0 columns">
 			<div class="prose">
