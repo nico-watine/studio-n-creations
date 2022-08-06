@@ -143,7 +143,17 @@ body-class: index bodyLayout-unique
 					<img src="/img/projects/dmesa/dmesa-logo.svg" alt="d'Mesa Home logo" title="d'Mesa Home logo">
 				</div>
 				<div class="medium-5 large-8 columns jardin-de-france-wrapper column-3">
-					<img srcset="{{ cdn }}/img/projects/jardin-de-france-tx/index/graphic-design/jardin-de-france-price-tag_2x.jpg 2x" src="{{ cdn }}/img/projects/jardin-de-france-tx/index/graphic-design/jardin-de-france-price-tag.jpg" alt="Jardin de France TX logo" title="Jardin de France TX product price tag design">
+					<div class="jdf-blog-link">
+						<div class="link-wrap">
+							<a href="https://studioncreations.com/blog/new-printed-material-for-jardin-de-france-tx/">
+								<div class="prose-wrap">
+									<h4 class="h4 monospace"><span>Article</span></h4>
+									<p class="m-0"><span>Designing the Jardin de France Product&nbsp;Tags</span></p>
+								</div>
+							</a>
+						</div>
+						<img srcset="{{ cdn }}/img/projects/jardin-de-france-tx/index/graphic-design/jardin-de-france-price-tag_2x.jpg 2x" src="{{ cdn }}/img/projects/jardin-de-france-tx/index/graphic-design/jardin-de-france-price-tag.jpg" alt="Jardin de France TX logo" title="Jardin de France TX product price tag design">
+					</div>
 				</div>
 			</div>
 		</div>
