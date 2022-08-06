@@ -10528,6 +10528,21 @@
       "pg" : 0,
       "sct" : 1
     },
+    "\/scss\/pages\/_dev.scss" : {
+      "aP" : 1,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/css\/_dev.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 1
+    },
     "\/scss\/pages\/index\/_about-me.scss" : {
       "aP" : 1,
       "bl" : 0,
@@ -10793,6 +10808,14 @@
       "oAP" : "\/src\/layouts\/default.html",
       "oF" : 0
     },
+    "\/src\/pages\/dev.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/src\/pages\/dev.php",
+      "oF" : 0
+    },
     "\/src\/pages\/index.php" : {
       "cB" : 0,
       "ft" : 8192,
@@ -10807,14 +10830,6 @@
       "hM" : 0,
       "oA" : 1,
       "oAP" : "\/src\/pages\/our-services\/web-development.php",
-      "oF" : 0
-    },
-    "\/src\/pages\/project-banners.php" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/src\/pages\/project-banners.php",
       "oF" : 0
     },
     "\/src\/partials\/_notes.txt" : {
