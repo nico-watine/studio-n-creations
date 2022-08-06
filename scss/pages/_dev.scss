@@ -12,7 +12,7 @@
 			background-image: linear-gradient(180deg, rgba(68,68,68,.00) 0%, rgba(51,51,51,.50) 100%);
 			mix-blend-mode: multiply;
 
-			@include breakpoint(large) {
+			@include breakpoint(1200) {
 				background-image: none;
 			}
 		}
@@ -30,6 +30,14 @@
 		}
 
 		.prose-wrap {
+
+			@include breakpoint(1200) {
+				background: rgba(68,68,68,.50);
+				display: inline-block;
+				padding: 16px;
+				border-radius: 16px;
+			}
+
 			.h4 {
 				font-size: 24px;
 				text-shadow: 0 0 4px rgba(0,0,0,.50);
