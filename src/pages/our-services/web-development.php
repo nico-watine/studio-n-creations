@@ -58,7 +58,7 @@ body-class: bodyLayout-default
 		<div class="row" style="margin-bottom: 20px;">
 			<div class="medium-5 columns">
 				<div class="icon">
-					<img src="{{ cdn }}/img/our-services/web-development/new-project-workflow/server.svg" alt="Hosting Server Icon" title="Server Hosting Icon">
+					<img src="{{ cdn }}/img/our-services/web-development/new-project-workflow/server.svg" loading="lazy" alt="Hosting Server Icon" title="Server Hosting Icon">
 				</div>
 				<div class="prose text-center medium-text-left">
 					<h4>Hosting</h4>
@@ -67,7 +67,7 @@ body-class: bodyLayout-default
 			</div>
 			<div class="medium-7 columns">
 				<div class="icon">
-					<img src="{{ cdn }}/img/our-services/web-development/new-project-workflow/wrench.svg" alt="Maintenance Wrench" title="Maintenance Wrench Icon">
+					<img src="{{ cdn }}/img/our-services/web-development/new-project-workflow/wrench.svg" loading="lazy" alt="Maintenance Wrench" title="Maintenance Wrench Icon">
 				</div>
 				<div class="prose text-center medium-text-left">
 					<h4>Maintenance</h4>
@@ -86,20 +86,20 @@ body-class: bodyLayout-default
 	</div>
 	<div class="row">
 		<div class="medium-3 large-push-2 large-2 columns medium-text-right large-text-center show-for-medium">
-			<img class="html5-logo" src="{{ cdn }}/img/our-services/web-development/design-into-code-conversion/html5-logo.svg" alt="HTML5 Logo" title="HTML5 Logo">
+			<img class="html5-logo" src="{{ cdn }}/img/our-services/web-development/design-into-code-conversion/html5-logo.svg" loading="lazy" alt="HTML5 Logo" title="HTML5 Logo">
 		</div>
 		<div class="medium-9 large-8 columns">
 			<h4>If you already have a collection of web page mockups, I can transform the designs into a fully-coded, functioning website.</h4>
 			<div class="row nestedRow">
 				<div class="hide-for-medium text-center">
 					<div class="small-4 columns">
-						<img class="html5-logo" src="{{ cdn }}/img/our-services/web-development/design-into-code-conversion/html5-logo-square.svg" alt="HTML5 Logo" title="HTML5 Logo">
+						<img class="html5-logo" src="{{ cdn }}/img/our-services/web-development/design-into-code-conversion/html5-logo-square.svg" loading="lazy" alt="HTML5 Logo" title="HTML5 Logo">
 					</div>
 					<div class="small-4 columns">
-						<img srcset="{{ cdn }}/img/our-services/web-development/design-into-code-conversion/photoshop-2021_2x.png 2x" src="{{ cdn }}/img/our-services/web-development/design-into-code-conversion/photoshop-2021.png" alt="Adobe Photoshop logo" title="Adobe Photoshop logo">
+						<img srcset="{{ cdn }}/img/our-services/web-development/design-into-code-conversion/photoshop-2021_2x.png 2x" src="{{ cdn }}/img/our-services/web-development/design-into-code-conversion/photoshop-2021.png" loading="lazy" alt="Adobe Photoshop logo" title="Adobe Photoshop logo">
 					</div>
 					<div class="small-4 columns">
-						<img srcset="{{ cdn }}/img/our-services/web-development/design-into-code-conversion/sketch-app-2021_2x.png 2x" src="{{ cdn }}/img/our-services/web-development/design-into-code-conversion/sketch-app-2021.png" alt="Sketch App logo" title="Sketch App logo">
+						<img srcset="{{ cdn }}/img/our-services/web-development/design-into-code-conversion/sketch-app-2021_2x.png 2x" src="{{ cdn }}/img/our-services/web-development/design-into-code-conversion/sketch-app-2021.png" loading="lazy" alt="Sketch App logo" title="Sketch App logo">
 					</div>
 				</div>
 				<div class="medium-6 columns">
@@ -107,10 +107,10 @@ body-class: bodyLayout-default
 				</div>
 				<div class="show-for-medium">
 					<div class="small-6 medium-3 columns">
-						<img srcset="{{ cdn }}/img/our-services/web-development/design-into-code-conversion/photoshop-2021_2x.png 2x" src="{{ cdn }}/img/our-services/web-development/design-into-code-conversion/photoshop-2021.png" alt="Adobe Photoshop logo" title="Adobe Photoshop logo">
+						<img srcset="{{ cdn }}/img/our-services/web-development/design-into-code-conversion/photoshop-2021_2x.png 2x" src="{{ cdn }}/img/our-services/web-development/design-into-code-conversion/photoshop-2021.png" loading="lazy" alt="Adobe Photoshop logo" title="Adobe Photoshop logo">
 					</div>
 					<div class="small-6 medium-3 columns">
-						<img srcset="{{ cdn }}/img/our-services/web-development/design-into-code-conversion/sketch-app-2021_2x.png 2x" src="{{ cdn }}/img/our-services/web-development/design-into-code-conversion/sketch-app-2021.png" alt="Sketch App logo" title="Sketch App logo">
+						<img srcset="{{ cdn }}/img/our-services/web-development/design-into-code-conversion/sketch-app-2021_2x.png 2x" src="{{ cdn }}/img/our-services/web-development/design-into-code-conversion/sketch-app-2021.png" loading="lazy" alt="Sketch App logo" title="Sketch App logo">
 					</div>
 				</div>
 			</div>
