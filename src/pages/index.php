@@ -79,14 +79,14 @@ body-class: index bodyLayout-unique
 				<div class="img-wrap show-for-medium">
 					<picture>
 						<source srcset="/img/projects/miriam-rodriguez/index/projectBanner/primary/miriam-rodriguez.webp, /img/projects/miriam-rodriguez/index/projectBanner/primary/miriam-rodriguez_2x.webp 2x" type="image/webp">
-						<img srcset="/img/projects/miriam-rodriguez/index/projectBanner/primary/miriam-rodriguez_2x.jpg 2x" src="/img/projects/miriam-rodriguez/index/projectBanner/primary/miriam-rodriguez.jpg" alt="Screenshot of miriamrodriguez.com">
+						<img srcset="/img/projects/miriam-rodriguez/index/projectBanner/primary/miriam-rodriguez_2x.jpg 2x" src="/img/projects/miriam-rodriguez/index/projectBanner/primary/miriam-rodriguez.jpg" loading="lazy" alt="Screenshot of miriamrodriguez.com">
 					</picture>
 				</div>
 			</div>
 		</div>
 		<picture class="show-for-medium bg-screenshot">
 			<source srcset="/img/projects/miriam-rodriguez/index/projectBanner/secondary/miriam-rodriguez.webp, img/projects/miriam-rodriguez/index/projectBanner/secondary/miriam-rodriguez_2x.webp 2x" type="image/webp">
-			<img srcset="/img/projects/miriam-rodriguez/index/projectBanner/secondary/miriam-rodriguez_2x.jpg 2x" src="/img/projects/miriam-rodriguez/index/projectBanner/secondary/miriam-rodriguez.jpg" alt="Screenshot of houstonpals.com">
+			<img srcset="/img/projects/miriam-rodriguez/index/projectBanner/secondary/miriam-rodriguez_2x.jpg 2x" src="/img/projects/miriam-rodriguez/index/projectBanner/secondary/miriam-rodriguez.jpg" loading="lazy" alt="Screenshot of houstonpals.com">
 		</picture>
 	</div>
 </section>
@@ -102,7 +102,7 @@ body-class: index bodyLayout-unique
 				<div class="img-wrap float-right show-for-medium">
 					<picture>
 						<source srcset="/img/projects/houston-pals/index/projectBanner/primary/houston-pals.webp, /img/projects/houston-pals/index/projectBanner/primary/houston-pals_2x.webp 2x" type="image/webp">
-						<img srcset="/img/projects/houston-pals/index/projectBanner/primary/houston-pals_2x.jpg 2x" src="/img/projects/houston-pals/index/projectBanner/primary/houston-pals.jpg" alt="Screenshot of houstonpals.com">
+						<img srcset="/img/projects/houston-pals/index/projectBanner/primary/houston-pals_2x.jpg 2x" src="/img/projects/houston-pals/index/projectBanner/primary/houston-pals.jpg" loading="lazy" alt="Screenshot of houstonpals.com">
 					</picture>
 				</div>
 			</div>
@@ -118,7 +118,7 @@ body-class: index bodyLayout-unique
 		</div>
 		<picture class="show-for-medium bg-screenshot">
 			<source srcset="/img/projects/houston-pals/index/projectBanner/secondary/houston-pals.webp, /img/projects/houston-pals/index/projectBanner/secondary/houston-pals_2x.webp 2x" type="image/webp">
-			<img srcset="/img/projects/houston-pals/index/projectBanner/secondary/houston-pals_2x.jpg 2x" src="/img/projects/houston-pals/index/projectBanner/secondary/houston-pals.jpg" alt="Screenshot of houstonpals.com">
+			<img srcset="/img/projects/houston-pals/index/projectBanner/secondary/houston-pals_2x.jpg 2x" src="/img/projects/houston-pals/index/projectBanner/secondary/houston-pals.jpg" loading="lazy" alt="Screenshot of houstonpals.com">
 		</picture>
 	</div>
 </section>
@@ -135,12 +135,12 @@ body-class: index bodyLayout-unique
 			<div class="row logos-row collapse">
 				<div class="medium-4 columns text-center column-1">
 					<div class="dynasty-sports-report-wrapper">
-						<img src="/img/projects/dynasty-sports-report/dynasty-sports-report-logo.svg" alt="Dynasty Sports Report logo" title="DynastySportsReport.com website logo">
+						<img src="/img/projects/dynasty-sports-report/dynasty-sports-report-logo.svg" loading="lazy" alt="Dynasty Sports Report logo" title="DynastySportsReport.com website logo">
 					</div>
-					<img class="dmesa-home-img show-for-large" src="/img/projects/dmesa/dmesa-logo.svg" alt="d'Mesa Home logo" title="d'Mesa Home logo">
+					<img class="dmesa-home-img show-for-large" src="/img/projects/dmesa/dmesa-logo.svg" loading="lazy" alt="d'Mesa Home logo" title="d'Mesa Home logo">
 				</div>
 				<div class="medium-push-4 medium-3 columns hide-for-large text-center dmesa-home-wrapper column-2">
-					<img src="/img/projects/dmesa/dmesa-logo.svg" alt="d'Mesa Home logo" title="d'Mesa Home logo">
+					<img src="/img/projects/dmesa/dmesa-logo.svg" loading="lazy" alt="d'Mesa Home logo" title="d'Mesa Home logo">
 				</div>
 				<div class="medium-5 large-8 columns jardin-de-france-wrapper column-3">
 					<div class="jdf-blog-link">
@@ -152,7 +152,7 @@ body-class: index bodyLayout-unique
 								</div>
 							</a>
 						</div>
-						<img srcset="{{ cdn }}/img/projects/jardin-de-france-tx/index/graphic-design/jardin-de-france-price-tag_2x.jpg 2x" src="{{ cdn }}/img/projects/jardin-de-france-tx/index/graphic-design/jardin-de-france-price-tag.jpg" alt="Jardin de France TX logo" title="Jardin de France TX product price tag design">
+						<img srcset="{{ cdn }}/img/projects/jardin-de-france-tx/index/graphic-design/jardin-de-france-price-tag_2x.jpg 2x" src="{{ cdn }}/img/projects/jardin-de-france-tx/index/graphic-design/jardin-de-france-price-tag.jpg" loading="lazy" alt="Jardin de France TX logo" title="Jardin de France TX product price tag design">
 					</div>
 				</div>
 			</div>
