@@ -7,6 +7,8 @@ head:
 
 CSS:
 	✔	Remove all lato-300 font-weight CSS entries @done (22-07-11 12:51)
+	☐	Standardize font-families across all heading sizes
+	☐	Standardize all font-weight across all typography
 
 Index - About:
 	✔	"contact me" hover underline @done (22-07-30 12:45)
