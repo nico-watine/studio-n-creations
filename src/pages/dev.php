@@ -15,11 +15,10 @@ body-class: index bodyLayout-unique
 <section class="index-blog-roll-section">
 	<div class="row expanded collapse article-list">
 		<div class="medium-6 columns">
-			<a href="" class="unit-link" style="display: block;position: relative;">
-				<div class="unit-text-wrapper" style="bottom: 16px;position: absolute; z-index: 3;">
-					<h1 class="headline">Lorem ipsum dolor</h1>
-					<h2 class="subhead">Sit amet, consectetur adipisicing</h2>
-					<p>Corporis animi impedit odit</p>
+			<a href="" class="article-unit-link" style="display: block;position: relative;">
+				<div class="prose" style="bottom: 16px;position: absolute; z-index: 3;">
+					<h3 class="headline">Lorem ipsum dolor</h3>
+					<h5 class="article-category">Sit amet, consectetur adipisicing</h5>
 				</div>
 				<img src="https://studioncreations.com/wp-content/uploads/2022/01/iFixit-Toolkit-Review-Feature-Image-1024x409.jpg" alt="">
 			</a>
