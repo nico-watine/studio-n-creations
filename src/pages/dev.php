@@ -15,7 +15,14 @@ body-class: index bodyLayout-unique
 <section class="index-blog-roll-section">
 	<div class="row expanded collapse article-list">
 		<div class="medium-6 columns">
-
+			<a href="" class="unit-link" style="display: block;position: relative;">
+				<div class="unit-text-wrapper" style="bottom: 16px;position: absolute; z-index: 3;">
+					<h1 class="headline">Lorem ipsum dolor</h1>
+					<h2 class="subhead">Sit amet, consectetur adipisicing</h2>
+					<p>Corporis animi impedit odit</p>
+				</div>
+				<img src="https://via.placeholder.com/400" alt="">
+			</a>
 		</div>
 		<div class="medium-6 columns"></div>
 	</div>
