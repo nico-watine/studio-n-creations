@@ -8968,8 +8968,12 @@ img.mfp-img {
     background-color: #a1a1a1;
     mix-blend-mode: multiply; }
   .index-blog-roll-section a.article-unit-link .prose {
-    bottom: 16px;
+    bottom: 0;
+    padding: 0 16px 16px;
     position: absolute;
-    z-index: 3; }
-  .index-blog-roll-section a.article-unit-link .headline {
+    z-index: 10; }
+  .index-blog-roll-section a.article-unit-link .article-headline {
     text-transform: initial; }
+  .index-blog-roll-section a.article-unit-link .article-headline,
+  .index-blog-roll-section a.article-unit-link .article-category {
+    margin: 0; }
