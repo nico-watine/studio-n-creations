@@ -15,6 +15,10 @@ Index - About:
 	✔	webpage-collage background, similar to shown on avada sales page @done (22-08-04 11:54)
 	✔	optimize new collage img @done (22-08-04 11:54)
 
+Index Blog Roll:
+	☐	Get img URLs from wordpress directory
+
+
 Image Optimization:
 	Index:
 		✔	add lazy-loading attribute where possible ( loading="lazy" ) @done (22-08-07 14:38)
