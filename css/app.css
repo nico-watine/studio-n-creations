@@ -8956,8 +8956,11 @@ img.mfp-img {
 
 .index-blog-roll-section a.article-unit-link {
   display: block;
-  position: relative; }
+  position: relative;
+  color: #fff; }
   .index-blog-roll-section a.article-unit-link .prose {
     bottom: 16px;
     position: absolute;
     z-index: 3; }
+  .index-blog-roll-section a.article-unit-link .headline {
+    text-transform: initial; }

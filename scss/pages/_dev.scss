@@ -2,11 +2,16 @@
 	a.article-unit-link {
 		display: block;
 		position: relative;
+		color: #fff;
 
 		.prose {
 			bottom: 16px;
 			position: absolute;
 			z-index: 3;
+		}
+
+		.headline {
+			text-transform: initial;
 		}
 	}
 }
