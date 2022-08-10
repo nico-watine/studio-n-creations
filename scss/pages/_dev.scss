@@ -4,6 +4,12 @@
 		position: relative;
 		color: #fff;
 
+		&:hover {
+			.article-headline {
+				text-decoration: underline;
+			}
+		}
+
 		&:after {
 			content: '';
 			position: absolute;

@@ -8958,6 +8958,8 @@ img.mfp-img {
   display: block;
   position: relative;
   color: #fff; }
+  .index-blog-roll-section a.article-unit-link:hover .article-headline {
+    text-decoration: underline; }
   .index-blog-roll-section a.article-unit-link:after {
     content: '';
     position: absolute;
