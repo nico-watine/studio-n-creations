@@ -16,7 +16,7 @@ body-class: index bodyLayout-unique
 	<div class="row expanded collapse article-list">
 		<div class="medium-6 columns">
 			<a href="" class="article-unit-link">
-				<div class="prose">
+				<div class="prose-wrap">
 					<h5 class="ff-monospace article-category">Product Review</h5>
 					<h3 class="ff-sans-serif article-headline">Is the iFixit Pro Tech Toolkit worth it?</h3>
 				</div>

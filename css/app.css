@@ -8967,7 +8967,7 @@ img.mfp-img {
     height: 100%;
     background-color: #a1a1a1;
     mix-blend-mode: multiply; }
-  .index-blog-roll-section a.article-unit-link .prose {
+  .index-blog-roll-section a.article-unit-link .prose-wrap {
     bottom: 0;
     padding: 0 16px 16px;
     position: absolute;
