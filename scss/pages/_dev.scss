@@ -1,0 +1,12 @@
+.index-blog-roll-section {
+	a.article-unit-link {
+		display: block;
+		position: relative;
+
+		.prose {
+			bottom: 16px;
+			position: absolute;
+			z-index: 3;
+		}
+	}
+}

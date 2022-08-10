@@ -8953,3 +8953,11 @@ img.mfp-img {
   .mfp-container {
     padding-left: 6px;
     padding-right: 6px; } }
+
+.index-blog-roll-section a.article-unit-link {
+  display: block;
+  position: relative; }
+  .index-blog-roll-section a.article-unit-link .prose {
+    bottom: 16px;
+    position: absolute;
+    z-index: 3; }

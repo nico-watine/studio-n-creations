@@ -15,8 +15,8 @@ body-class: index bodyLayout-unique
 <section class="index-blog-roll-section">
 	<div class="row expanded collapse article-list">
 		<div class="medium-6 columns">
-			<a href="" class="article-unit-link" style="display: block;position: relative;">
-				<div class="prose" style="bottom: 16px;position: absolute; z-index: 3;">
+			<a href="" class="article-unit-link">
+				<div class="prose">
 					<h5 class="article-category">Product Review</h5>
 					<h3 class="headline">Is the iFixit Pro Tech Toolkit worth it?</h3>
 				</div>
