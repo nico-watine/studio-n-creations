@@ -8958,6 +8958,15 @@ img.mfp-img {
   display: block;
   position: relative;
   color: #fff; }
+  .index-blog-roll-section a.article-unit-link:after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #a1a1a1;
+    mix-blend-mode: multiply; }
   .index-blog-roll-section a.article-unit-link .prose {
     bottom: 16px;
     position: absolute;
