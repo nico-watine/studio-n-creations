@@ -21,7 +21,7 @@ body-class: index bodyLayout-unique
 					<h2 class="subhead">Sit amet, consectetur adipisicing</h2>
 					<p>Corporis animi impedit odit</p>
 				</div>
-				<img src="https://via.placeholder.com/400" alt="">
+				<img src="https://studioncreations.com/wp-content/uploads/2022/01/iFixit-Toolkit-Review-Feature-Image-1024x409.jpg" alt="">
 			</a>
 		</div>
 		<div class="medium-6 columns"></div>
