@@ -8976,4 +8976,6 @@ img.mfp-img {
     text-transform: initial; }
   .index-blog-roll-section a.article-unit-link .article-headline,
   .index-blog-roll-section a.article-unit-link .article-category {
-    margin: 0; }
+    margin: 0;
+    text-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    line-height: 1.2; }
