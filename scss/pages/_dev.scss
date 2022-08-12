@@ -29,9 +29,9 @@
 		.prose-wrap {
 			bottom: 0;
 			padding: 0 16px 16px;
-			// position: absolute;
 			z-index: 10;
 			@include horizontal-center;
+
 			width: 300px;
 
 			@include breakpoint(500) {
