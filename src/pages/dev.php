@@ -24,7 +24,7 @@ body-class: index bodyLayout-unique
 			</a>
 			<a href="" class="article-unit-link">
 				<div class="prose-wrap">
-					<h5 class="ff-monospace article-category">Product Review</h5>
+					<h5 class="ff-monospace article-category">Pro Tips</h5>
 					<h3 class="ff-sans-serif article-headline">Increasing WordPress’ 8MB limit with MAMP Pro</h3>
 				</div>
 				<img src="https://studioncreations.com/wp-content/uploads/2022/01/iFixit-Toolkit-Review-Feature-Image-1024x409.jpg" alt="">
@@ -33,7 +33,7 @@ body-class: index bodyLayout-unique
 		<div class="medium-6 columns">
 			<a href="" class="article-unit-link">
 				<div class="prose-wrap">
-					<h5 class="ff-monospace article-category">Product Review</h5>
+					<h5 class="ff-monospace article-category">Guest Post</h5>
 					<h3 class="ff-sans-serif article-headline">Four Benefits from Coding Bootcamps to your Career Journey</h3>
 				</div>
 				<img src="https://studioncreations.com/wp-content/uploads/2022/01/iFixit-Toolkit-Review-Feature-Image-1024x409.jpg" alt="">
