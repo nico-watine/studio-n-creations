@@ -22,7 +22,29 @@ body-class: index bodyLayout-unique
 				</div>
 				<img src="https://studioncreations.com/wp-content/uploads/2022/01/iFixit-Toolkit-Review-Feature-Image-1024x409.jpg" alt="">
 			</a>
+			<a href="" class="article-unit-link">
+				<div class="prose-wrap">
+					<h5 class="ff-monospace article-category">Product Review</h5>
+					<h3 class="ff-sans-serif article-headline">Is the iFixit Pro Tech Toolkit worth it?</h3>
+				</div>
+				<img src="https://studioncreations.com/wp-content/uploads/2022/01/iFixit-Toolkit-Review-Feature-Image-1024x409.jpg" alt="">
+			</a>
 		</div>
-		<div class="medium-6 columns"></div>
+		<div class="medium-6 columns">
+			<a href="" class="article-unit-link">
+				<div class="prose-wrap">
+					<h5 class="ff-monospace article-category">Product Review</h5>
+					<h3 class="ff-sans-serif article-headline">Is the iFixit Pro Tech Toolkit worth it?</h3>
+				</div>
+				<img src="https://studioncreations.com/wp-content/uploads/2022/01/iFixit-Toolkit-Review-Feature-Image-1024x409.jpg" alt="">
+			</a>
+			<a href="" class="article-unit-link">
+				<div class="prose-wrap">
+					<h5 class="ff-monospace article-category">Product Review</h5>
+					<h3 class="ff-sans-serif article-headline">Is the iFixit Pro Tech Toolkit worth it?</h3>
+				</div>
+				<img src="https://studioncreations.com/wp-content/uploads/2022/01/iFixit-Toolkit-Review-Feature-Image-1024x409.jpg" alt="">
+			</a>
+		</div>
 	</div>
 </section>
