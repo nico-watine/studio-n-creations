@@ -8997,5 +8997,7 @@ img.mfp-img {
     text-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
     line-height: 1.2; }
   .index-blog-roll-section a.article-unit-link .article-headline {
-    text-transform: initial;
-    font-size: 21px; }
+    text-transform: initial; }
+    @media screen and (max-width: 47.4375em) {
+      .index-blog-roll-section a.article-unit-link .article-headline {
+        font-size: 21px; } }
