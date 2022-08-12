@@ -35,12 +35,17 @@
 			bottom: 0;
 			padding: 0 16px 16px;
 			z-index: 10;
+			width: 100%;
+			max-width: 300px;
+
 			@include horizontal-center;
 
-			width: 300px;
-
 			@include breakpoint(500) {
-				width: 400px;
+				max-width: 400px;
+			}
+
+			@include breakpoint(medium) {
+				max-width: none;
 			}
 		}
 

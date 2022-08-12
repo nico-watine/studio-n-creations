@@ -8980,13 +8980,17 @@ img.mfp-img {
     bottom: 0;
     padding: 0 16px 16px;
     z-index: 10;
+    width: 100%;
+    max-width: 300px;
     position: absolute;
     left: 50%;
-    transform: translateX(-50%);
-    width: 300px; }
+    transform: translateX(-50%); }
     @media screen and (min-width: 31.25em) {
       .index-blog-roll-section a.article-unit-link .prose-wrap {
-        width: 400px; } }
+        max-width: 400px; } }
+    @media print, screen and (min-width: 40em) {
+      .index-blog-roll-section a.article-unit-link .prose-wrap {
+        max-width: none; } }
   .index-blog-roll-section a.article-unit-link .article-headline,
   .index-blog-roll-section a.article-unit-link .article-category {
     margin: 0;
