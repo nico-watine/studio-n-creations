@@ -8960,7 +8960,8 @@ img.mfp-img {
   color: #fff; }
   .index-blog-roll-section a.article-unit-link img {
     height: 200px;
-    object-fit: cover; }
+    object-fit: cover;
+    width: 100%; }
   .index-blog-roll-section a.article-unit-link:hover .article-headline {
     text-decoration: underline; }
   .index-blog-roll-section a.article-unit-link:after {
