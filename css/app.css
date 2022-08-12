@@ -8980,6 +8980,9 @@ img.mfp-img {
     left: 50%;
     transform: translateX(-50%);
     width: 300px; }
+    @media screen and (min-width: 31.25em) {
+      .index-blog-roll-section a.article-unit-link .prose-wrap {
+        width: 400px; } }
   .index-blog-roll-section a.article-unit-link .article-headline,
   .index-blog-roll-section a.article-unit-link .article-category {
     margin: 0;
