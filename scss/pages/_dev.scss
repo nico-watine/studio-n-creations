@@ -28,15 +28,17 @@
 			z-index: 10;
 		}
 
-		.article-headline {
-			text-transform: initial;
-		}
-
 		.article-headline,
 		.article-category {
 			margin: 0;
 			text-shadow: 0 0 10px rgba(0,0,0,.50);
 			line-height: 1.2;
 		}
+
+		.article-headline {
+			text-transform: initial;
+			font-size: 21px;
+		}
+
 	}
 }

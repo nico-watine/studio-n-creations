@@ -8974,10 +8974,11 @@ img.mfp-img {
     padding: 0 16px 16px;
     position: absolute;
     z-index: 10; }
-  .index-blog-roll-section a.article-unit-link .article-headline {
-    text-transform: initial; }
   .index-blog-roll-section a.article-unit-link .article-headline,
   .index-blog-roll-section a.article-unit-link .article-category {
     margin: 0;
     text-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
     line-height: 1.2; }
+  .index-blog-roll-section a.article-unit-link .article-headline {
+    text-transform: initial;
+    font-size: 21px; }
