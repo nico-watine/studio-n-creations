@@ -8962,6 +8962,9 @@ img.mfp-img {
     height: 200px;
     object-fit: cover;
     width: 100%; }
+    @media print, screen and (min-width: 40em) {
+      .index-blog-roll-section a.article-unit-link img {
+        height: 240px; } }
   .index-blog-roll-section a.article-unit-link:hover .article-headline {
     text-decoration: underline; }
   .index-blog-roll-section a.article-unit-link:after {
