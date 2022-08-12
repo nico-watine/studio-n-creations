@@ -56,6 +56,12 @@
 			line-height: 1.2;
 		}
 
+		.article-category {
+			@include breakpoint(760 up) {
+				font-size: 18px;
+			}
+		}
+
 		.article-headline {
 			text-transform: initial;
 
