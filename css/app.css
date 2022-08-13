@@ -8992,7 +8992,9 @@ img.mfp-img {
       .index-blog-roll-section a.article-unit-link .prose-wrap {
         max-width: none; } }
   .index-blog-roll-section a.article-unit-link #read-more {
-    z-index: 10; }
+    z-index: 10;
+    text-align: center;
+    width: 100%; }
     .index-blog-roll-section a.article-unit-link #read-more:after {
       content: '>';
       color: #0079ff; }

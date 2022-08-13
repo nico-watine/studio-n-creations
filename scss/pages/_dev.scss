@@ -51,6 +51,8 @@
 
 		#read-more {
 			z-index: 10;
+			text-align: center;
+			width: 100%;
 
 			&:after {
 				content: '>';
