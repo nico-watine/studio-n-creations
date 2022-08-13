@@ -10,6 +10,7 @@ body-class: index bodyLayout-unique
 ---
 <!-- https://studioncreations.com/wp-content/uploads/2022/06/Apple-TV-Sleep-Timer-Featured-image-1024x409.jpg -->
 <!-- https://studioncreations.com/wp-content/uploads/2022/06/4-Coding-Bootcamp-Career-Benefits-Feature-image-1024x409.jpg -->
+<!-- https://studioncreations.com/wp-content/uploads/2022/06/4-Coding-Bootcamp-Career-Benefits-Feature-image-768x307.jpg -->
 <!-- https://studioncreations.com/wp-content/uploads/2022/01/iFixit-Toolkit-Review-Feature-Image-1024x409.jpg -->
 <!-- https://studioncreations.com/wp-content/uploads/2018/08/wordpress-mamp-feature-image-1024x409.png -->
 <section class="index-blog-roll-section">
