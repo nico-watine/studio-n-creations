@@ -13,6 +13,12 @@ body-class: index bodyLayout-unique
 <!-- https://studioncreations.com/wp-content/uploads/2022/01/iFixit-Toolkit-Review-Feature-Image-1024x409.jpg -->
 <!-- https://studioncreations.com/wp-content/uploads/2018/08/wordpress-mamp-feature-image-1024x409.png -->
 <section class="index-blog-roll-section">
+	<div class="row py-40 text-center">
+		<div class="column">
+			<h2 class="ff-monospace color-white">Studio N Creations Blog</h2>
+			<h4 class="color-white">Nico’s Projects & Pro-Tips</h4>
+		</div>
+	</div>
 	<div class="row expanded collapse article-list">
 		<div class="medium-6 columns">
 			<a href="https://studioncreations.com/blog/ifixit-pro-tech-toolkit-review/" class="article-unit-link">
