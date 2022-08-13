@@ -8956,6 +8956,28 @@ img.mfp-img {
 
 .index-blog-roll-section {
   background: #566372; }
+  .index-blog-roll-section .section-title {
+    text-align: center !important; }
+    .index-blog-roll-section .section-title::before, .index-blog-roll-section .section-title::after {
+      display: table;
+      content: ' ';
+      flex-basis: 0;
+      order: 1; }
+    .index-blog-roll-section .section-title::after {
+      clear: both; }
+    .index-blog-roll-section .section-title::after {
+      position: relative !important;
+      width: 150px;
+      border-bottom: 4px solid #fff;
+      margin: 8px auto 0; }
+    .index-blog-roll-section .section-title a {
+      color: #fff; }
+      .index-blog-roll-section .section-title a:hover {
+        text-decoration: underline; }
+      .index-blog-roll-section .section-title a:after {
+        content: '>';
+        margin-left: 16px;
+        color: #0079ff; }
   .index-blog-roll-section a.article-unit-link {
     display: block;
     position: relative;
