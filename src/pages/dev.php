@@ -39,7 +39,7 @@ body-class: index bodyLayout-unique
 				<img src="https://studioncreations.com/wp-content/uploads/2022/06/4-Coding-Bootcamp-Career-Benefits-Feature-image-1024x409.jpg" alt="">
 			</a>
 			<a href="https://studioncreations.com/blog/" class="article-unit-link">
-				<div class="prose-wrap" id="read-more">
+				<div class="" id="read-more">
 					<!-- <h5 class="ff-monospace article-category">Blog Roll</h5> -->
 					<h3 class="ff-sans-serif article-headline">More Articles &gt;</h3>
 				</div>
