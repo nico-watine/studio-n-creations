@@ -50,12 +50,16 @@
 		}
 
 		// .prose-wrap#read-more {
+		// #read-more {
+			// .article-headline {
+			// 	@include absolute-center;
+			// 	z-index: 10;
+			// 	text-align: center;
+			// }
+		// }
+
 		#read-more {
-			.article-headline {
-				@include absolute-center;
-				z-index: 10;
-				text-align: center;
-			}
+			z-index: 10;
 		}
 
 		.article-headline,

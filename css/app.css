@@ -8991,13 +8991,8 @@ img.mfp-img {
     @media print, screen and (min-width: 40em) {
       .index-blog-roll-section a.article-unit-link .prose-wrap {
         max-width: none; } }
-  .index-blog-roll-section a.article-unit-link #read-more .article-headline {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    z-index: 10;
-    text-align: center; }
+  .index-blog-roll-section a.article-unit-link #read-more {
+    z-index: 10; }
   .index-blog-roll-section a.article-unit-link .article-headline,
   .index-blog-roll-section a.article-unit-link .article-category {
     margin: 0;
