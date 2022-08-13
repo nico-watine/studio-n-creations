@@ -8967,6 +8967,8 @@ img.mfp-img {
         height: 240px; } }
   .index-blog-roll-section a.article-unit-link:hover .article-headline {
     text-decoration: underline; }
+  .index-blog-roll-section a.article-unit-link:hover:after {
+    background-color: #c8dc66; }
   .index-blog-roll-section a.article-unit-link:after {
     content: '';
     position: absolute;

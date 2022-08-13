@@ -18,6 +18,10 @@
 			.article-headline {
 				text-decoration: underline;
 			}
+
+			&:after {
+				background-color: #c8dc66;
+			}
 		}
 
 		&:after {
