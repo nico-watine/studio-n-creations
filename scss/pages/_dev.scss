@@ -1,4 +1,24 @@
 .index-blog-roll-section {
+	background: $deep-blue;
+
+	.section-title {
+		@include separator(center, 4px, 150px, #fff, 8px);
+
+		a {
+			color: #fff;
+
+			&:hover {
+				text-decoration: underline;
+			}
+
+			&:after {
+				content: '>';
+				margin-left: 16px;
+				color: #0079ff;
+			}
+		}
+	}
+
 	a.article-unit-link {
 		display: block;
 		position: relative;
