@@ -43,6 +43,7 @@ body-class: index bodyLayout-unique
 					<h5 class="ff-monospace article-category">Guest Post</h5>
 					<h3 class="ff-sans-serif article-headline">Four Benefits from Coding Bootcamps to your Career Journey</h3>
 				</div>
+				<!-- <img src="https://studioncreations.com/wp-content/uploads/2022/06/4-Coding-Bootcamp-Career-Benefits-Feature-image-768x307.jpg" srcset="https://studioncreations.com/wp-content/uploads/2022/06/4-Coding-Bootcamp-Career-Benefits-Feature-image-1024x409.jpg 1200w" alt="Image description"> -->
 				<img src="https://studioncreations.com/wp-content/uploads/2022/06/4-Coding-Bootcamp-Career-Benefits-Feature-image-1024x409.jpg" alt="">
 			</a>
 			<a href="https://studioncreations.com/blog/" class="article-unit-link">
