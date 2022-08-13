@@ -51,6 +51,11 @@
 
 		#read-more {
 			z-index: 10;
+
+			&:after {
+				content: '>';
+				color: #0079ff;
+			}
 		}
 
 		.article-headline,

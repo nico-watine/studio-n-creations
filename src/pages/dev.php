@@ -39,7 +39,7 @@ body-class: index bodyLayout-unique
 				<img src="https://studioncreations.com/wp-content/uploads/2022/06/4-Coding-Bootcamp-Career-Benefits-Feature-image-1024x409.jpg" alt="">
 			</a>
 			<a href="https://studioncreations.com/blog/" class="article-unit-link">
-				<h3 class="ff-sans-serif article-headline absolute-center" id="read-more">More Articles &gt;</h3>
+				<h3 class="ff-sans-serif article-headline absolute-center" id="read-more">More Articles</h3>
 				<img src="https://studioncreations.com/wp-content/uploads/2022/06/Apple-TV-Sleep-Timer-Featured-image-1024x409.jpg" alt="">
 			</a>
 		</div>
