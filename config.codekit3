@@ -7871,6 +7871,12 @@
       "oF" : 0,
       "pg" : 0
     },
+    "\/dist" : {
+      "ft" : 65536,
+      "oA" : 1,
+      "oAP" : "\/dist",
+      "oF" : 0
+    },
     "\/fonts\/lato-v17-latin-300.woff" : {
       "cB" : 0,
       "ft" : 8192,
@@ -8563,7 +8569,7 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/img\/projects\/_dev\/Tacupra.png" : {
+    "\/img\/projects\/_dev\/tacupra.png" : {
       "ft" : 32768,
       "iS" : 3722883,
       "oA" : 1,
@@ -9920,6 +9926,21 @@
       "ma" : 0,
       "oA" : 1,
       "oAP" : "\/css\/_graphic-branding.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 1
+    },
+    "\/scss\/pages\/index\/_index-blog-roll-section.scss" : {
+      "aP" : 1,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/css\/_index-blog-roll-section.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,

@@ -2,7 +2,7 @@
 	background: $deep-blue;
 
 	.section-title {
-		@include separator(center, 4px, 150px, #fff, 8px);
+		@include separator(center, 4px, rem-calc(150), #fff, rem-calc(8));
 
 		a {
 			color: #fff;
@@ -13,7 +13,7 @@
 
 			&:after {
 				content: '>';
-				margin-left: 16px;
+				margin-left: rem-calc(16);
 				color: #0079ff;
 			}
 		}
@@ -25,12 +25,12 @@
 		color: #fff;
 
 		img {
-			height: 200px;
+			height: rem-calc(200);
 			object-fit: cover;
 			width: 100%;
 
 			@include breakpoint(medium) {
-				height: 240px;
+				height: rem-calc(240);
 			}
 		}
 
@@ -57,15 +57,15 @@
 
 		.prose-wrap {
 			bottom: 0;
-			padding: 0 16px 16px;
+			padding: rem-calc(0 16 16);
 			z-index: 10;
 			width: 100%;
-			max-width: 300px;
+			max-width: rem-calc(300);
 
 			@include horizontal-center;
 
 			@include breakpoint(500) {
-				max-width: 400px;
+				max-width: rem-calc(400);
 			}
 
 			@include breakpoint(medium) {
@@ -87,13 +87,13 @@
 		.article-headline,
 		.article-category {
 			margin: 0;
-			text-shadow: 0 0 10px rgba(0,0,0,.50);
+			text-shadow: 0 0 rem-calc(10) rgba(0,0,0,.50);
 			line-height: 1.2;
 		}
 
 		.article-category {
 			@include breakpoint(760 up) {
-				font-size: 18px;
+				font-size: rem-calc(18);
 			}
 		}
 
@@ -101,7 +101,7 @@
 			text-transform: initial;
 
 			@include breakpoint(759 down) {
-				font-size: 21px;
+				font-size: rem-calc(21);
 			}
 		}
 	}
