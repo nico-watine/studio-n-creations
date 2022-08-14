@@ -8290,28 +8290,28 @@ footer {
       clear: both; }
     .index-blog-roll-section .section-title::after {
       position: relative !important;
-      width: 150px;
+      width: 9.375rem;
       border-bottom: 4px solid #fff;
-      margin: 8px auto 0; }
+      margin: 0.5rem auto 0; }
     .index-blog-roll-section .section-title a {
       color: #fff; }
       .index-blog-roll-section .section-title a:hover {
         text-decoration: underline; }
       .index-blog-roll-section .section-title a:after {
         content: '>';
-        margin-left: 16px;
+        margin-left: 1rem;
         color: #0079ff; }
   .index-blog-roll-section a.article-unit-link {
     display: block;
     position: relative;
     color: #fff; }
     .index-blog-roll-section a.article-unit-link img {
-      height: 200px;
+      height: 12.5rem;
       object-fit: cover;
       width: 100%; }
       @media print, screen and (min-width: 40em) {
         .index-blog-roll-section a.article-unit-link img {
-          height: 240px; } }
+          height: 15rem; } }
     .index-blog-roll-section a.article-unit-link:hover .article-headline {
       text-decoration: underline; }
     .index-blog-roll-section a.article-unit-link:hover:after {
@@ -8327,16 +8327,16 @@ footer {
       mix-blend-mode: multiply; }
     .index-blog-roll-section a.article-unit-link .prose-wrap {
       bottom: 0;
-      padding: 0 16px 16px;
+      padding: 0 1rem 1rem;
       z-index: 10;
       width: 100%;
-      max-width: 300px;
+      max-width: 18.75rem;
       position: absolute;
       left: 50%;
       transform: translateX(-50%); }
       @media screen and (min-width: 31.25em) {
         .index-blog-roll-section a.article-unit-link .prose-wrap {
-          max-width: 400px; } }
+          max-width: 25rem; } }
       @media print, screen and (min-width: 40em) {
         .index-blog-roll-section a.article-unit-link .prose-wrap {
           max-width: none; } }
@@ -8350,16 +8350,16 @@ footer {
     .index-blog-roll-section a.article-unit-link .article-headline,
     .index-blog-roll-section a.article-unit-link .article-category {
       margin: 0;
-      text-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+      text-shadow: 0 0 0.625rem rgba(0, 0, 0, 0.5);
       line-height: 1.2; }
     @media screen and (min-width: 47.5em) {
       .index-blog-roll-section a.article-unit-link .article-category {
-        font-size: 18px; } }
+        font-size: 1.125rem; } }
     .index-blog-roll-section a.article-unit-link .article-headline {
       text-transform: initial; }
       @media screen and (max-width: 47.4375em) {
         .index-blog-roll-section a.article-unit-link .article-headline {
-          font-size: 21px; } }
+          font-size: 1.3125rem; } }
 #index .graphic-branding {
   background: #fff; }
   #index .graphic-branding .prose {
