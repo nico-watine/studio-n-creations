@@ -189,7 +189,6 @@ body-class: index bodyLayout-unique
 								<div class="prose-wrap">
 									<h4 class="h4 monospace"><span>Article</span></h4>
 									<p class="m-0">Designing the Jardin de France Product&nbsp;Tags</p>
-									<!-- <p class="m-0"><span>Designing the Jardin de France Product&nbsp;Tags</span></p> -->
 								</div>
 							</a>
 						</div>
