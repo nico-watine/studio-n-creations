@@ -119,12 +119,12 @@ body-class: bodyLayout-default
 </section>
 
 <section class="blog-roll-section">
-	<div class="row py-40 text-center">
+	<!-- <div class="row py-40 text-center">
 		<div class="column">
 			<h2 class="ff-monospace section-title"><a href="https://studioncreations.com/blog/">Studio N Creations Blog</a></h2>
 			<h4 class="color-white section-subhead">Nico’s Projects & Pro-Tips</h4>
 		</div>
-	</div>
+	</div> -->
 	<div class="row expanded collapse article-list">
 		<div class="medium-6 columns">
 			<a href="https://studioncreations.com/blog/ifixit-pro-tech-toolkit-review/" class="article-unit-link">
