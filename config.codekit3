@@ -9316,6 +9316,21 @@
       "pg" : 0,
       "sct" : 1
     },
+    "\/scss\/blocks\/_blog-roll-section.scss" : {
+      "aP" : 1,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/css\/_blog-roll-section.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 1
+    },
     "\/scss\/blocks\/_contact-banner.scss" : {
       "aP" : 1,
       "bl" : 0,
