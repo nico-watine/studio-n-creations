@@ -26,21 +26,27 @@ h6 {
 }
 
 h5,
-h6 {
+.h5,
+h6,
+.h6 {
 	text-transform: uppercase;
 }
 
+.h5,
 h5 {
 	letter-spacing: rem-calc(1.2);
 }
 
+.h6,
 h6 {
 	letter-spacing: rem-calc(1);
 }
 
 @include breakpoint(medium) {
 	h5,
-	h6 {
+	.h5,
+	h6,
+	.h6 {
 		letter-spacing: rem-calc(1.5);
 	}
 }
@@ -53,5 +59,3 @@ h6 {
 .text-shadow-black {
 	text-shadow: rem-calc(-2) rem-calc(3) 0 rgba(0,0,0,.80);
 }
-
-

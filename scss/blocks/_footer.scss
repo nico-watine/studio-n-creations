@@ -6,7 +6,10 @@ footer {
 	// mix-blend-mode: multiply;
 	padding: rem-calc(80 0);
 
-	* {
-		// color: #fff;
+	.meta-nav {
+		a {
+			line-height: 1.4;
+			color: #fff;
+		}
 	}
 }
