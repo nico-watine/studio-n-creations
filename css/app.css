@@ -8222,13 +8222,15 @@ footer {
         justify-content: flex-end; } }
     footer .meta-nav a {
       line-height: 1.6;
-      color: #fff; }
-      @media print, screen and (max-width: 39.99875em) {
-        footer .meta-nav a {
-          text-decoration: underline; } }
+      color: #fff;
+      text-decoration: underline;
+      text-decoration-color: #0079ff;
+      text-decoration-thickness: 2px;
+      text-underline-offset: 4px; }
       footer .meta-nav a:hover {
         text-decoration: underline;
-        text-decoration-thickness: 3px; }
+        text-decoration-thickness: 4px;
+        text-decoration-color: #0079ff; }
 
 .contact-banner .modalTrigger {
   margin: 1.25rem 0;

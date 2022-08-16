@@ -19,13 +19,15 @@ footer {
 		a {
 			line-height: 1.6;
 			color: #fff;
-			@include breakpoint(small only) {
-				text-decoration: underline;
-			}
+			text-decoration: underline;
+			text-decoration-color: #0079ff;
+			text-decoration-thickness: 2px;
+			text-underline-offset: 4px;
 
 			&:hover {
 				text-decoration: underline;
-				text-decoration-thickness: 3px;
+				text-decoration-thickness: 4px;
+				text-decoration-color: #0079ff;
 			}
 		}
 	}
