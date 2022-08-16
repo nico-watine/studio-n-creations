@@ -2,9 +2,32 @@ footer {
 	margin-top: rem-calc(40);
 	border-top: rem-calc(3) solid #5a5a5a;
 	background: rgba(110,110,110,.80);
+	// background: #6f6f6f;
+	// mix-blend-mode: multiply;
 	padding: rem-calc(80 0);
 
-	* {
-		color: #fff;
+	.meta-nav {
+		-ms-flex-pack: center;
+		justify-content: center;
+
+		@include breakpoint(large) {
+			display: inline-block;
+			-ms-flex-pack: end;
+			justify-content: flex-end;
+		}
+
+		a {
+			line-height: 1.6;
+			color: #fff;
+			text-decoration: underline;
+			text-decoration-color: #0079ff;
+			text-decoration-thickness: 2px;
+			text-underline-offset: 4px;
+
+			&:hover {
+				text-decoration-thickness: 4px;
+				text-decoration-color: #0079ff;
+			}
+		}
 	}
 }

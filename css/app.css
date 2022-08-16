@@ -7355,18 +7355,24 @@ h6 {
   font-weight: 300; }
 
 h5,
-h6 {
+.h5,
+h6,
+.h6 {
   text-transform: uppercase; }
 
+.h5,
 h5 {
   letter-spacing: 0.075rem; }
 
+.h6,
 h6 {
   letter-spacing: 0.0625rem; }
 
 @media print, screen and (min-width: 40em) {
   h5,
-  h6 {
+  .h5,
+  h6,
+  .h6 {
     letter-spacing: 0.09375rem; } }
 
 .text-shadow-black {
@@ -8206,8 +8212,24 @@ footer {
   border-top: 0.1875rem solid #5a5a5a;
   background: rgba(110, 110, 110, 0.8);
   padding: 5rem 0; }
-  footer * {
-    color: #fff; }
+  footer .meta-nav {
+    -ms-flex-pack: center;
+    justify-content: center; }
+    @media print, screen and (min-width: 64em) {
+      footer .meta-nav {
+        display: inline-block;
+        -ms-flex-pack: end;
+        justify-content: flex-end; } }
+    footer .meta-nav a {
+      line-height: 1.6;
+      color: #fff;
+      text-decoration: underline;
+      text-decoration-color: #0079ff;
+      text-decoration-thickness: 2px;
+      text-underline-offset: 4px; }
+      footer .meta-nav a:hover {
+        text-decoration-thickness: 4px;
+        text-decoration-color: #0079ff; }
 
 .contact-banner .modalTrigger {
   margin: 1.25rem 0;
