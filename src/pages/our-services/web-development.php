@@ -127,7 +127,7 @@ body-class: bodyLayout-default
 	</div>
 	<div class="row expanded collapse article-list">
 		<div class="medium-6 columns">
-			<a href="https://studioncreations.com/blog/ifixit-pro-tech-toolkit-review/" class="article-unit-link">
+			<a href="https://studioncreations.com/blog/install-windows-11-on-2015-macbook-pro-with-boot-camp/" class="article-unit-link">
 				<div class="prose-wrap">
 					<h5 class="ff-monospace article-category">Tutorial Walkthrough</h5>
 					<h3 class="ff-sans-serif article-headline">Install Windows 11 on a 2015 MacBook Pro</h3>
