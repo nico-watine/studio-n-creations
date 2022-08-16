@@ -132,7 +132,7 @@ body-class: bodyLayout-default
 					<h5 class="ff-monospace article-category">Product Review</h5>
 					<h3 class="ff-sans-serif article-headline">Is the iFixit Pro Tech Toolkit worth it?</h3>
 				</div>
-				<img src="https://studioncreations.com/wp-content/uploads/2022/01/iFixit-Toolkit-Review-Feature-Image-768x307.jpg" loading="lazy" alt="A view of the iFixit Pro Toolkit opened up">
+				<img src="https://studioncreations.com/wp-content/uploads/2021/12/MacBook-Pro-2015-Windows-11-Feature-Image-768x307.jpg" loading="lazy" alt="A 2015 MacBook Pro with Windows 11 installed">
 			</a>
 			<!-- <a href="https://studioncreations.com/blog/increasing-wordpress-8mb-limit-with-mamp-pro/" class="article-unit-link">
 				<div class="prose-wrap">
