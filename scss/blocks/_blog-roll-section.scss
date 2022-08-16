@@ -14,7 +14,7 @@
 			&:after {
 				content: '>';
 				margin-left: rem-calc(16);
-				color: #0079ff;
+				color: $macos-blue;
 			}
 		}
 	}
@@ -80,7 +80,7 @@
 
 			&:after {
 				content: '>';
-				color: #0079ff;
+				color: $macos-blue;
 			}
 		}
 

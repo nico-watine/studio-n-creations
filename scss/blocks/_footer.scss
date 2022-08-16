@@ -20,13 +20,13 @@ footer {
 			line-height: 1.6;
 			color: #fff;
 			text-decoration: underline;
-			text-decoration-color: #0079ff;
+			text-decoration-color: $macos-blue;
 			text-decoration-thickness: 2px;
 			text-underline-offset: 4px;
 
 			&:hover {
 				text-decoration-thickness: 4px;
-				text-decoration-color: #0079ff;
+				text-decoration-color: $macos-blue;
 			}
 		}
 	}
