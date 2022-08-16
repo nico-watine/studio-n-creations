@@ -134,22 +134,22 @@ body-class: bodyLayout-default
 				</div>
 				<img src="https://studioncreations.com/wp-content/uploads/2022/01/iFixit-Toolkit-Review-Feature-Image-768x307.jpg" loading="lazy" alt="A view of the iFixit Pro Toolkit opened up">
 			</a>
-			<a href="https://studioncreations.com/blog/increasing-wordpress-8mb-limit-with-mamp-pro/" class="article-unit-link">
+			<!-- <a href="https://studioncreations.com/blog/increasing-wordpress-8mb-limit-with-mamp-pro/" class="article-unit-link">
 				<div class="prose-wrap">
 					<h5 class="ff-monospace article-category">Pro Tips</h5>
 					<h3 class="ff-sans-serif article-headline">Increasing WordPress’ 8MB limit with MAMP Pro</h3>
 				</div>
 				<img src="https://studioncreations.com/wp-content/uploads/2018/08/wordpress-mamp-feature-image-768x307.png" loading="lazy" alt="A collage of the Wordpress, MAMP and PHP logos">
-			</a>
+			</a> -->
 		</div>
 		<div class="medium-6 columns">
-			<a href="https://studioncreations.com/blog/four-benefits-from-coding-bootcamps-to-your-career-journey/" class="article-unit-link">
+			<!-- <a href="https://studioncreations.com/blog/four-benefits-from-coding-bootcamps-to-your-career-journey/" class="article-unit-link">
 				<div class="prose-wrap">
 					<h5 class="ff-monospace article-category">Guest Post</h5>
 					<h3 class="ff-sans-serif article-headline">Four Benefits from Coding Bootcamps to your Career Journey</h3>
 				</div>
 				<img src="https://studioncreations.com/wp-content/uploads/2022/06/4-Coding-Bootcamp-Career-Benefits-Feature-image-768x307.jpg" loading="lazy" alt="A woman writing on sticky notes placed on a window">
-			</a>
+			</a> -->
 			<a href="https://studioncreations.com/blog/" class="article-unit-link">
 				<h3 class="ff-sans-serif article-headline absolute-center" id="read-more">More Articles</h3>
 				<img src="https://studioncreations.com/wp-content/uploads/2022/06/Apple-TV-Sleep-Timer-Featured-image-768x307.jpg" loading="lazy" alt="A perspective photo of the Home App on an iPhone with a picture of an Apple TV">
