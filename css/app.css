@@ -8223,6 +8223,9 @@ footer {
     footer .meta-nav a {
       line-height: 1.6;
       color: #fff; }
+      @media print, screen and (max-width: 39.99875em) {
+        footer .meta-nav a {
+          text-decoration: underline; } }
       footer .meta-nav a:hover {
         text-decoration: underline;
         text-decoration-thickness: 3px; }

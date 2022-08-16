@@ -19,6 +19,9 @@ footer {
 		a {
 			line-height: 1.6;
 			color: #fff;
+			@include breakpoint(small only) {
+				text-decoration: underline;
+			}
 
 			&:hover {
 				text-decoration: underline;
