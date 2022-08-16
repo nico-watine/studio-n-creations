@@ -7,6 +7,10 @@ footer {
 	padding: rem-calc(80 0);
 
 	.meta-nav {
+		@include breakpoint(large) {
+			display: inline-block;
+		}
+
 		a {
 			line-height: 1.6;
 			color: #fff;
