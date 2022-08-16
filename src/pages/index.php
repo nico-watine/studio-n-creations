@@ -123,7 +123,7 @@ body-class: index bodyLayout-unique
 	</div>
 </section>
 
-<section class="index-blog-roll-section">
+<section class="blog-roll-section">
 	<div class="row py-40 text-center">
 		<div class="column">
 			<h2 class="ff-monospace section-title"><a href="https://studioncreations.com/blog/">Studio N Creations Blog</a></h2>
