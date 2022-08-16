@@ -8473,11 +8473,13 @@ footer {
   .graphic-branding .jdf-blog-link .prose-wrap p {
     text-shadow: 0 0 4px rgba(0, 0, 0, 0.5);
     font-size: 18px;
-    text-decoration: underline; }
+    text-decoration: underline;
+    text-decoration-color: #0079ff;
+    text-decoration-thickness: 2px;
+    text-underline-offset: 4px; }
   .graphic-branding .jdf-blog-link .prose-wrap:hover p {
-    text-decoration: none; }
-    .graphic-branding .jdf-blog-link .prose-wrap:hover p span {
-      border-bottom: 4px solid #0079ff; }
+    text-decoration-thickness: 4px;
+    text-decoration-color: #0079ff; }
 
 #index .contact-form {
   padding: 2.5rem 0; }
