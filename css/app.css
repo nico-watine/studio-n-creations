@@ -8212,15 +8212,20 @@ footer {
   border-top: 0.1875rem solid #5a5a5a;
   background: rgba(110, 110, 110, 0.8);
   padding: 5rem 0; }
-  @media print, screen and (min-width: 64em) {
-    footer .meta-nav {
-      display: inline-block; } }
-  footer .meta-nav a {
-    line-height: 1.6;
-    color: #fff; }
-    footer .meta-nav a:hover {
-      text-decoration: underline;
-      text-decoration-thickness: 3px; }
+  footer .meta-nav {
+    -ms-flex-pack: center;
+    justify-content: center; }
+    @media print, screen and (min-width: 64em) {
+      footer .meta-nav {
+        display: inline-block;
+        -ms-flex-pack: end;
+        justify-content: flex-end; } }
+    footer .meta-nav a {
+      line-height: 1.6;
+      color: #fff; }
+      footer .meta-nav a:hover {
+        text-decoration: underline;
+        text-decoration-thickness: 3px; }
 
 .contact-banner .modalTrigger {
   margin: 1.25rem 0;

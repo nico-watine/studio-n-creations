@@ -7,8 +7,13 @@ footer {
 	padding: rem-calc(80 0);
 
 	.meta-nav {
+		-ms-flex-pack: center;
+		justify-content: center;
+
 		@include breakpoint(large) {
 			display: inline-block;
+			-ms-flex-pack: end;
+			justify-content: flex-end;
 		}
 
 		a {
