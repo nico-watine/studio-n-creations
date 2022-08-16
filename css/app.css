@@ -8213,8 +8213,10 @@ footer {
   background: rgba(110, 110, 110, 0.8);
   padding: 5rem 0; }
   footer .meta-nav a {
-    line-height: 1.4;
+    line-height: 1.6;
     color: #fff; }
+    footer .meta-nav a:hover {
+      text-decoration: underline; }
 
 .contact-banner .modalTrigger {
   margin: 1.25rem 0;
