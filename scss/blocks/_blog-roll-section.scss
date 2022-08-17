@@ -1,5 +1,5 @@
 .blog-roll-section {
-	background: $deep-blue;
+	background: $snc-dull-blue;
 
 	.section-title {
 		@include separator(center, 4px, rem-calc(150), #fff, rem-calc(8));
@@ -9,12 +9,14 @@
 
 			&:hover {
 				text-decoration: underline;
+				text-underline-offset: 8px;
+				text-decoration-color: $macos-blue;
 			}
 
 			&:after {
 				content: '>';
 				margin-left: rem-calc(16);
-				color: #0079ff;
+				color: $macos-blue;
 			}
 		}
 	}
@@ -37,6 +39,8 @@
 		&:hover {
 			.article-headline {
 				text-decoration: underline;
+				text-underline-offset: 4px;
+				text-decoration-color: $macos-blue;
 			}
 
 			&:after {
@@ -80,7 +84,7 @@
 
 			&:after {
 				content: '>';
-				color: #0079ff;
+				color: $macos-blue;
 			}
 		}
 
