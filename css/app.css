@@ -8266,7 +8266,9 @@ footer {
     .blog-roll-section .section-title a {
       color: #fff; }
       .blog-roll-section .section-title a:hover {
-        text-decoration: underline; }
+        text-decoration: underline;
+        text-underline-offset: 8px;
+        text-decoration-color: #0079ff; }
       .blog-roll-section .section-title a:after {
         content: '>';
         margin-left: 1rem;

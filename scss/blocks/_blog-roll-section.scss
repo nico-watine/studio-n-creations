@@ -9,6 +9,8 @@
 
 			&:hover {
 				text-decoration: underline;
+				text-underline-offset: 8px;
+				text-decoration-color: $macos-blue;
 			}
 
 			&:after {
