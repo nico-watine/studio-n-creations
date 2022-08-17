@@ -8327,9 +8327,6 @@ footer {
       z-index: 10;
       text-align: center;
       width: 100%; }
-      .blog-roll-section a.article-unit-link #read-more:after {
-        content: '>';
-        color: #0079ff; }
     .blog-roll-section a.article-unit-link .article-headline,
     .blog-roll-section a.article-unit-link .article-category {
       margin: 0;
@@ -8340,6 +8337,10 @@ footer {
         font-size: 1.125rem; } }
     .blog-roll-section a.article-unit-link .article-headline {
       text-transform: initial; }
+      .blog-roll-section a.article-unit-link .article-headline:after {
+        content: '>';
+        margin-left: 0.375rem;
+        color: #0079ff; }
       @media screen and (max-width: 47.4375em) {
         .blog-roll-section a.article-unit-link .article-headline {
           font-size: 1.3125rem; } }
