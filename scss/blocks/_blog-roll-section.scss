@@ -39,6 +39,8 @@
 		&:hover {
 			.article-headline {
 				text-decoration: underline;
+				text-underline-offset: 4px;
+				text-decoration-color: $macos-blue;
 			}
 
 			&:after {

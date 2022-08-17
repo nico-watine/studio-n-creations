@@ -8285,7 +8285,9 @@ footer {
         .blog-roll-section a.article-unit-link img {
           height: 15rem; } }
     .blog-roll-section a.article-unit-link:hover .article-headline {
-      text-decoration: underline; }
+      text-decoration: underline;
+      text-underline-offset: 4px;
+      text-decoration-color: #0079ff; }
     .blog-roll-section a.article-unit-link:hover:after {
       background-image: linear-gradient(180deg, #c8dc66 0%, #0079ff 100%); }
     .blog-roll-section a.article-unit-link:after {
