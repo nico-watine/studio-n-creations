@@ -136,7 +136,6 @@
 		}
 
 		.prose-wrap {
-
 			@include breakpoint(1200) {
 				background: rgba(68,68,68,.50);
 				display: inline-block;
@@ -150,7 +149,7 @@
 				margin-bottom: 4px;
 
 				span {
-					border-bottom: 4px solid #1779ba;
+					border-bottom: 4px solid $macos-blue;
 				}
 			}
 
@@ -158,15 +157,15 @@
 				text-shadow: 0 0 4px rgba(0,0,0,.50);
 				font-size: 18px;
 				text-decoration: underline;
+				text-decoration-color: $macos-blue;
+				text-decoration-thickness: 2px;
+				text-underline-offset: 4px;
 			}
 
 			&:hover {
 				p {
-					text-decoration: none;
-
-					span {
-						border-bottom: 4px solid #1779ba;
-					}
+					text-decoration-thickness: 4px;
+					text-decoration-color: $macos-blue;
 				}
 			}
 		}
