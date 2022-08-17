@@ -45,6 +45,7 @@
 
 			&:after {
 				background-image: linear-gradient(180deg, #c8dc66 0%, #0079ff 100%);
+				// background-image: linear-gradient(180deg, #0079ff 0%, #c8dc66 100%);
 			}
 		}
 
@@ -103,6 +104,12 @@
 
 		.article-headline {
 			text-transform: initial;
+
+			&:after {
+				content: '>';
+				margin-left: rem-calc(6);
+				color: $macos-blue;
+			}
 
 			@include breakpoint(759 down) {
 				font-size: rem-calc(21);

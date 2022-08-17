@@ -8340,6 +8340,10 @@ footer {
         font-size: 1.125rem; } }
     .blog-roll-section a.article-unit-link .article-headline {
       text-transform: initial; }
+      .blog-roll-section a.article-unit-link .article-headline:after {
+        content: '>';
+        margin-left: 0.375rem;
+        color: #0079ff; }
       @media screen and (max-width: 47.4375em) {
         .blog-roll-section a.article-unit-link .article-headline {
           font-size: 1.3125rem; } }
