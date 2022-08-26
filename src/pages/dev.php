@@ -9,7 +9,7 @@ body-id: index
 body-class: index bodyLayout-unique
 ---
 <section class="web-development-steps-1-2-3" style="padding-top: 60px;">
-	<div class="grid-x align-middle step-wrap step-1" style="margin-bottom: 60px;">
+	<div class="grid-x align-middle step-wrap step-1">
 		<div class="cell large-6">
 			<img src="https://via.placeholder.com/1920x1080" alt="" style="height: 360px; width: 100%; object-fit: cover;">
 		</div>
@@ -20,7 +20,7 @@ body-class: index bodyLayout-unique
 			</div>
 		</div>
 	</div>
-	<div class="grid-x align-middle step-wrap step-2" style="margin-bottom: 60px;">
+	<div class="grid-x align-middle step-wrap step-2">
 		<div class="cell large-6" style="padding-right: 30px;">
 			<div class="prose-wrap float-right" style="max-width: 440px;">
 				<h2 class="h3 mb-16"><span class="h5 display-block">Step 2</span> Design Phase</h2>
@@ -31,7 +31,7 @@ body-class: index bodyLayout-unique
 			<img src="https://via.placeholder.com/1920x1080" alt="" style="height: 360px; width: 100%; object-fit: cover;">
 		</div>
 	</div>
-	<div class="grid-x align-middle step-wrap step-3" style="margin-bottom: 60px;">
+	<div class="grid-x align-middle step-wrap step-3">
 		<div class="cell large-6">
 			<img src="https://via.placeholder.com/1920x1080" alt="" style="height: 360px; width: 100%; object-fit: cover;">
 		</div>
