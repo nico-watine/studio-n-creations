@@ -11,7 +11,7 @@ body-class: index bodyLayout-unique
 <section class="web-development-steps-1-2-3" style="padding-top: 60px;">
 	<div class="grid-x align-middle step-wrap step-1">
 		<div class="cell large-6">
-			<img src="https://via.placeholder.com/1920x1080" alt="" style="height: 360px; width: 100%; object-fit: cover;">
+			<img src="https://via.placeholder.com/1920x1080" alt="">
 		</div>
 		<div class="cell large-6" style="padding-left: 30px;">
 			<div class="prose-wrap" style="max-width: 440px;">
@@ -28,12 +28,12 @@ body-class: index bodyLayout-unique
 			</div>
 		</div>
 		<div class="cell large-6">
-			<img src="https://via.placeholder.com/1920x1080" alt="" style="height: 360px; width: 100%; object-fit: cover;">
+			<img src="https://via.placeholder.com/1920x1080" alt="">
 		</div>
 	</div>
 	<div class="grid-x align-middle step-wrap step-3">
 		<div class="cell large-6">
-			<img src="https://via.placeholder.com/1920x1080" alt="" style="height: 360px; width: 100%; object-fit: cover;">
+			<img src="https://via.placeholder.com/1920x1080" alt="">
 		</div>
 		<div class="cell large-6" style="padding-left: 30px;">
 			<div class="prose-wrap" style="max-width: 440px;">

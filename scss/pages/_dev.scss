@@ -1,5 +1,11 @@
 .web-development-steps-1-2-3 {
 	.step-wrap {
 		margin-bottom: 60px;
+
+		img {
+			height: 360px;
+			width: 100%;
+			object-fit: cover;
+		}
 	}
 }
