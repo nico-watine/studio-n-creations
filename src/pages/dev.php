@@ -9,7 +9,7 @@ body-id: index
 body-class: index bodyLayout-unique
 ---
 <section class="web-development-steps-1-2-3" style="padding-top: 60px;">
-	<div class="grid-x align-middle">
+	<div class="grid-x align-middle step-1">
 		<div class="cell large-6">
 			<img src="https://via.placeholder.com/1920x1080" alt="">
 		</div>
