@@ -9081,3 +9081,5 @@ img.mfp-img {
     height: 360px;
     width: 100%;
     object-fit: cover; }
+  .web-development-steps-1-2-3 .step-wrap .prose-wrap {
+    max-width: 440px; }
