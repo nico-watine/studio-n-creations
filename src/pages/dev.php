@@ -28,12 +28,12 @@ body-class: index bodyLayout-unique
 			</div>
 		</div>
 		<div class="cell large-6">
-			<img src="https://via.placeholder.com/1920x1080" alt="">
+			<img src="https://via.placeholder.com/1920x1080" alt="" style="height: 360px; width: 100%; object-fit: cover;">
 		</div>
 	</div>
 	<div class="grid-x align-middle step-3" style="margin-bottom: 60px;">
 		<div class="cell large-6">
-			<img src="https://via.placeholder.com/1920x1080" alt="">
+			<img src="https://via.placeholder.com/1920x1080" alt="" style="height: 360px; width: 100%; object-fit: cover;">
 		</div>
 		<div class="cell large-6" style="padding-left: 30px;">
 			<div class="prose-wrap" style="max-width: 440px;">
