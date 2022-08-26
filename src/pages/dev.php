@@ -21,7 +21,7 @@ body-class: index bodyLayout-unique
 		</div>
 	</div>
 	<div class="grid-x align-middle step-wrap step-2">
-		<div class="cell large-6" style="padding-right: 30px;">
+		<div class="cell large-6">
 			<div class="prose-wrap float-right">
 				<h2 class="h3 mb-16"><span class="h5 display-block">Step 2</span> Design Phase</h2>
 				<p class="lead">Next comes the design process, during which the site’s graphics are visualized and prose is written. After our close consultation, I'll provide mockups and a style guide.</p>
