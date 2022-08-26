@@ -20,15 +20,15 @@ body-class: index bodyLayout-unique
 			</div>
 		</div>
 	</div>
-	<div class="grid-x align-middle step-2">
+	<div class="grid-x align-middle step-2" style="margin-bottom: 60px;">
+		<div class="cell large-6" style="padding-right: 30px;">
+			<div class="prose-wrap float-right" style="max-width: 440px;">
+				<h2 class="h3 mb-16"><span class="h5 display-block">Step 1</span> Project Mapping</h2>
+				<p class="lead">Next comes the design process, during which the site’s graphics are visualized and prose is written. After our close consultation, I'll provide mockups and a style guide.</p>
+			</div>
+		</div>
 		<div class="cell large-6">
 			<img src="https://via.placeholder.com/1920x1080" alt="">
-		</div>
-		<div class="cell large-6" style="padding-left: 30px;">
-			<div class="prose-wrap" style="max-width: 440px;">
-				<h2 class="h3 mb-16"><span class="h5 display-block">Step 1</span> Project Mapping</h2>
-				<p class="lead">First we establish your project goals and how to achieve them with a well-crafted content strategy.</p>
-			</div>
 		</div>
 	</div>
 </section>
