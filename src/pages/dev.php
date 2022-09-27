@@ -8,7 +8,7 @@ og-image: /img/assets/og-images/index/studio-n-creations-og-image-1.png
 body-id: index
 body-class: index bodyLayout-unique
 ---
-<section class="web-development-steps-1-2-3" style="padding-top: 60px;">
+<section class="web-development-steps-1-2-3-4" style="padding-top: 60px;">
 	<div class="grid-x align-middle step-wrap step-1">
 		<div class="cell large-6">
 			<img src="https://via.placeholder.com/1920x1080" alt="">
@@ -39,6 +39,25 @@ body-class: index bodyLayout-unique
 			<div class="prose-wrap">
 				<h2 class="h3 ff-monospace mb-16"><span class="h5 display-block">Step 3</span> Development Stage</h2>
 				<p class="lead">With the content established and a solid user experience defined, the project gets developed into a functioning website. I utilize the industry’s latest technologies to ensure optimal performance on all device platforms and screen sizes.</p>
+			</div>
+		</div>
+	</div>
+	<div class="step-4" style="padding-top: 40px; padding-bottom: 80px; background: #fff;">
+		<div class="float-center" style="width: 470px;">
+			<h2 class="display-inline-block h3 ff-monospace mb-20"><span class="h5 display-block">Step 4</span> Post-Production Actions</h2>
+		</div>
+		<div class="row">
+			<div class="medium-6 columns">
+				<div class="hosting-prose-wrap float-right" style="width: 370px;">
+					<h4>Hosting</h4>
+					<p>After local project development is complete, I then host the website on secure, high-performance servers and publish the site online.</p>
+				</div>
+			</div>
+			<div class="medium-6 columns">
+				<div class="maintenance-prose-wrap" style="width: 370px;">
+					<h4>Maintenance</h4>
+					<p>Once the site is live, we’ll go over project upkeep. I provide hassle-free maintenace options so you can focus on your business and not your website’s performance and reliability.</p>
+				</div>
 			</div>
 		</div>
 	</div>

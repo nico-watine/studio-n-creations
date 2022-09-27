@@ -9075,18 +9075,18 @@ img.mfp-img {
     padding-left: 6px;
     padding-right: 6px; } }
 
-.web-development-steps-1-2-3 .step-wrap {
+.web-development-steps-1-2-3-4 .step-wrap {
   margin-bottom: 60px; }
-  .web-development-steps-1-2-3 .step-wrap img {
+  .web-development-steps-1-2-3-4 .step-wrap img {
     height: 360px;
     width: 100%;
     object-fit: cover; }
-  .web-development-steps-1-2-3 .step-wrap .prose-wrap {
+  .web-development-steps-1-2-3-4 .step-wrap .prose-wrap {
     max-width: 440px; }
 
-.web-development-steps-1-2-3 .step-wrap.step-1 .prose-wrap,
-.web-development-steps-1-2-3 .step-wrap.step-3 .prose-wrap {
+.web-development-steps-1-2-3-4 .step-wrap.step-1 .prose-wrap,
+.web-development-steps-1-2-3-4 .step-wrap.step-3 .prose-wrap {
   margin-left: 30px; }
 
-.web-development-steps-1-2-3 .step-wrap.step-2 .prose-wrap {
+.web-development-steps-1-2-3-4 .step-wrap.step-2 .prose-wrap {
   margin-right: 30px; }
