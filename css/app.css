@@ -9091,41 +9091,44 @@ img.mfp-img {
 .web-development-steps-1-2-3-4 .step-wrap.step-2 .prose-wrap {
   margin-right: 30px; }
 
-.web-development-steps-1-2-3-4 .step-4 .section-title-wrap {
-  max-width: 19.375rem;
-  width: 100%; }
-  @media screen and (min-width: 31.25em) {
-    .web-development-steps-1-2-3-4 .step-4 .section-title-wrap {
-      max-width: 29.375rem; } }
-.web-development-steps-1-2-3-4 .step-4 .float-wrap {
-  margin: 0 auto;
-  max-width: 23.75rem;
-  width: 100%; }
-  @media screen and (min-width: 31.25em) {
-    .web-development-steps-1-2-3-4 .step-4 .float-wrap {
-      max-width: 28.75rem; } }
-  @media print, screen and (min-width: 64em) {
-    .web-development-steps-1-2-3-4 .step-4 .float-wrap {
-      margin: unset; } }
-.web-development-steps-1-2-3-4 .step-4 .float-wrap#hosting-info {
-  margin-top: 20px;
-  margin-bottom: 40px; }
-  @media print, screen and (min-width: 64em) {
-    .web-development-steps-1-2-3-4 .step-4 .float-wrap#hosting-info {
-      margin: unset;
-      float: right; } }
-.web-development-steps-1-2-3-4 .step-4 .icon-wrap {
-  width: 50px;
-  float: left;
-  padding-top: 30px; }
-  @media screen and (min-width: 31.25em) {
-    .web-development-steps-1-2-3-4 .step-4 .icon-wrap {
-      width: 70px; } }
-.web-development-steps-1-2-3-4 .step-4 .prose-wrap {
-  max-width: 23.125rem;
-  width: 100%;
-  padding-left: 60px; }
-  @media screen and (min-width: 31.25em) {
-    .web-development-steps-1-2-3-4 .step-4 .prose-wrap {
-      padding-left: 0;
-      margin-left: 88px; } }
+.web-development-steps-1-2-3-4 .step-4 {
+  padding-top: 40px;
+  padding-bottom: 80px; }
+  .web-development-steps-1-2-3-4 .step-4 .section-title-wrap {
+    max-width: 19.375rem;
+    width: 100%; }
+    @media screen and (min-width: 31.25em) {
+      .web-development-steps-1-2-3-4 .step-4 .section-title-wrap {
+        max-width: 29.375rem; } }
+  .web-development-steps-1-2-3-4 .step-4 .float-wrap {
+    margin: 0 auto;
+    max-width: 23.75rem;
+    width: 100%; }
+    @media screen and (min-width: 31.25em) {
+      .web-development-steps-1-2-3-4 .step-4 .float-wrap {
+        max-width: 28.75rem; } }
+    @media print, screen and (min-width: 64em) {
+      .web-development-steps-1-2-3-4 .step-4 .float-wrap {
+        margin: unset; } }
+  .web-development-steps-1-2-3-4 .step-4 .float-wrap#hosting-info {
+    margin-top: 20px;
+    margin-bottom: 40px; }
+    @media print, screen and (min-width: 64em) {
+      .web-development-steps-1-2-3-4 .step-4 .float-wrap#hosting-info {
+        margin: unset;
+        float: right; } }
+  .web-development-steps-1-2-3-4 .step-4 .icon-wrap {
+    width: 50px;
+    float: left;
+    padding-top: 30px; }
+    @media screen and (min-width: 31.25em) {
+      .web-development-steps-1-2-3-4 .step-4 .icon-wrap {
+        width: 70px; } }
+  .web-development-steps-1-2-3-4 .step-4 .prose-wrap {
+    max-width: 23.125rem;
+    width: 100%;
+    padding-left: 60px; }
+    @media screen and (min-width: 31.25em) {
+      .web-development-steps-1-2-3-4 .step-4 .prose-wrap {
+        padding-left: 0;
+        margin-left: 88px; } }

@@ -42,7 +42,7 @@ body-class: index bodyLayout-unique
 			</div>
 		</div>
 	</div>
-	<div class="step-4" style="padding-top: 40px; padding-bottom: 80px; background: #fff;">
+	<div class="step-4" style="background: #fff;">
 		<div class="section-title-wrap float-center">
 			<h2 class="display-inline-block h3 ff-monospace mb-20"><span class="h5 display-block">Step 4</span> Post-Production Actions</h2>
 		</div>
