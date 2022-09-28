@@ -27,11 +27,18 @@
 	}
 
 	.step-4 {
-		.hosting-info {
-			.float-wrap {
-				@include breakpoint(large) {
-					float: right;
-				}
+		.float-wrap {
+			margin: 0 auto;
+			width: 460px;
+		}
+
+		.float-wrap#hosting-info {
+			margin-top: 20px;
+			margin-bottom: 40px;
+
+			@include breakpoint(large) {
+				margin: unset;
+				float: right;
 			}
 		}
 	}

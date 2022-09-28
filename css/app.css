@@ -9091,6 +9091,14 @@ img.mfp-img {
 .web-development-steps-1-2-3-4 .step-wrap.step-2 .prose-wrap {
   margin-right: 30px; }
 
-@media print, screen and (min-width: 64em) {
-  .web-development-steps-1-2-3-4 .step-4 .hosting-info .float-wrap {
-    float: right; } }
+.web-development-steps-1-2-3-4 .step-4 .float-wrap {
+  margin: 0 auto;
+  width: 460px; }
+
+.web-development-steps-1-2-3-4 .step-4 .float-wrap#hosting-info {
+  margin-top: 20px;
+  margin-bottom: 40px; }
+  @media print, screen and (min-width: 64em) {
+    .web-development-steps-1-2-3-4 .step-4 .float-wrap#hosting-info {
+      margin: unset;
+      float: right; } }
