@@ -49,7 +49,7 @@ body-class: index bodyLayout-unique
 		<div class="row">
 			<div class="large-6 columns hosting-info">
 				<div class="float-wrap" id="hosting-info">
-					<div class="icon" style="width: 70px; float: left; padding-top: 30px;">
+					<div class="icon-wrap">
 						<img src="{{ cdn }}/img/our-services/web-development/new-project-workflow/wrench.svg" loading="lazy" alt="Maintenance Wrench" title="Maintenance Wrench Icon">
 					</div>
 					<div class="prose-wrap" style="width: 370px; margin-left: 88px;">
@@ -60,7 +60,7 @@ body-class: index bodyLayout-unique
 			</div>
 			<div class="large-6 columns maintenance-info">
 				<div class="float-wrap">
-					<div class="icon" style="width: 70px; float: left; padding-top: 30px;">
+					<div class="icon-wrap">
 						<img src="{{ cdn }}/img/our-services/web-development/new-project-workflow/wrench.svg" loading="lazy" alt="Maintenance Wrench" title="Maintenance Wrench Icon">
 					</div>
 					<div class="prose-wrap" style="width: 370px; margin-left: 88px;">

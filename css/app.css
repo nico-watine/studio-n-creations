@@ -9102,3 +9102,7 @@ img.mfp-img {
     .web-development-steps-1-2-3-4 .step-4 .float-wrap#hosting-info {
       margin: unset;
       float: right; } }
+.web-development-steps-1-2-3-4 .step-4 .icon-wrap {
+  width: 70px;
+  float: left;
+  padding-top: 30px; }
