@@ -1,4 +1,4 @@
-.web-development-steps-1-2-3 {
+.web-development-steps-1-2-3-4 {
 	.step-wrap {
 		margin-bottom: 60px;
 
@@ -23,6 +23,65 @@
 	.step-wrap.step-2 {
 		.prose-wrap {
 			margin-right: 30px;
+		}
+	}
+
+	.step-4 {
+		padding-top: 40px;
+		padding-bottom: 80px;
+
+		.section-title-wrap {
+			max-width: rem-calc(310);
+			width: 100%;
+
+			@include breakpoint(500) {
+				max-width: rem-calc(470);
+			}
+		}
+
+		.float-wrap {
+			margin: 0 auto;
+			max-width: rem-calc(380);
+			width: 100%;
+
+			@include breakpoint(500) {
+				max-width: rem-calc(460);
+			}
+
+			@include breakpoint(large) {
+				margin: unset;
+			}
+		}
+
+		.float-wrap#hosting-info {
+			margin-top: 20px;
+			margin-bottom: 40px;
+
+			@include breakpoint(large) {
+				margin: unset;
+				float: right;
+			}
+		}
+
+		.icon-wrap {
+			width: 50px;
+			float: left;
+			padding-top: 30px;
+
+			@include breakpoint(500) {
+				width: 70px;
+			}
+		}
+
+		.prose-wrap {
+			max-width: rem-calc(370);
+			width: 100%;
+			padding-left: 60px;
+
+			@include breakpoint(500) {
+				padding-left: 0;
+				margin-left: 88px;
+			}
 		}
 	}
 }
