@@ -48,7 +48,7 @@ body-class: index bodyLayout-unique
 		</div>
 		<div class="row">
 			<div class="medium-6 columns hosting-info">
-				<div class="float-right">
+				<div class="float-wrap">
 					<div class="icon" style="width: 70px; float: left; padding-top: 30px;">
 						<img src="{{ cdn }}/img/our-services/web-development/new-project-workflow/wrench.svg" loading="lazy" alt="Maintenance Wrench" title="Maintenance Wrench Icon">
 					</div>
