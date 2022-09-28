@@ -47,14 +47,20 @@ body-class: index bodyLayout-unique
 			<h2 class="display-inline-block h3 ff-monospace mb-20"><span class="h5 display-block">Step 4</span> Post-Production Actions</h2>
 		</div>
 		<div class="row">
-			<div class="medium-6 columns">
-				<div class="hosting-prose-wrap float-right" style="width: 370px;">
+			<div class="medium-6 columns hosting-info">
+				<div class="icon" style="width: 70px; float: left; padding-top: 30px;">
+					<img src="{{ cdn }}/img/our-services/web-development/new-project-workflow/wrench.svg" loading="lazy" alt="Maintenance Wrench" title="Maintenance Wrench Icon">
+				</div>
+				<div class="prose-wrap" style="width: 370px; margin-left: 88px;">
 					<h4>Hosting</h4>
 					<p>After local project development is complete, I then host the website on secure, high-performance servers and publish the site online.</p>
 				</div>
 			</div>
-			<div class="medium-6 columns">
-				<div class="maintenance-prose-wrap" style="width: 370px;">
+			<div class="medium-6 columns maintenance-info">
+				<div class="icon" style="width: 70px; float: left; padding-top: 30px;">
+					<img src="{{ cdn }}/img/our-services/web-development/new-project-workflow/wrench.svg" loading="lazy" alt="Maintenance Wrench" title="Maintenance Wrench Icon">
+				</div>
+				<div class="prose-wrap" style="width: 370px; margin-left: 88px;">
 					<h4>Maintenance</h4>
 					<p>Once the site is live, we’ll go over project upkeep. I provide hassle-free maintenace options so you can focus on your business and not your website’s performance and reliability.</p>
 				</div>
