@@ -52,7 +52,7 @@ body-class: index bodyLayout-unique
 					<div class="icon-wrap">
 						<img src="{{ cdn }}/img/our-services/web-development/new-project-workflow/wrench.svg" loading="lazy" alt="Maintenance Wrench" title="Maintenance Wrench Icon">
 					</div>
-					<div class="prose-wrap" style="width: 370px; margin-left: 88px;">
+					<div class="prose-wrap">
 						<h4>Hosting</h4>
 						<p>After local project development is complete, I then host the website on secure, high-performance servers and publish the site online.</p>
 					</div>
@@ -63,7 +63,7 @@ body-class: index bodyLayout-unique
 					<div class="icon-wrap">
 						<img src="{{ cdn }}/img/our-services/web-development/new-project-workflow/wrench.svg" loading="lazy" alt="Maintenance Wrench" title="Maintenance Wrench Icon">
 					</div>
-					<div class="prose-wrap" style="width: 370px; margin-left: 88px;">
+					<div class="prose-wrap">
 						<h4>Maintenance</h4>
 						<p>Once the site is live, we’ll go over project upkeep. I provide hassle-free maintenace options so you can focus on your business and not your website’s performance and reliability.</p>
 					</div>
