@@ -9092,18 +9092,18 @@ img.mfp-img {
   margin-right: 30px; }
 
 .web-development-steps-1-2-3-4 .step-4 .section-title-wrap {
-  max-width: 310px;
+  max-width: 19.375rem;
   width: 100%; }
   @media screen and (min-width: 31.25em) {
     .web-development-steps-1-2-3-4 .step-4 .section-title-wrap {
-      max-width: 470px; } }
+      max-width: 29.375rem; } }
 .web-development-steps-1-2-3-4 .step-4 .float-wrap {
   margin: 0 auto;
-  max-width: 380px;
+  max-width: 23.75rem;
   width: 100%; }
   @media screen and (min-width: 31.25em) {
     .web-development-steps-1-2-3-4 .step-4 .float-wrap {
-      max-width: 460px; } }
+      max-width: 28.75rem; } }
   @media print, screen and (min-width: 64em) {
     .web-development-steps-1-2-3-4 .step-4 .float-wrap {
       margin: unset; } }
@@ -9122,7 +9122,7 @@ img.mfp-img {
     .web-development-steps-1-2-3-4 .step-4 .icon-wrap {
       width: 70px; } }
 .web-development-steps-1-2-3-4 .step-4 .prose-wrap {
-  max-width: 370px;
+  max-width: 23.125rem;
   width: 100%;
   padding-left: 60px; }
   @media screen and (min-width: 31.25em) {

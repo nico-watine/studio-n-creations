@@ -28,21 +28,21 @@
 
 	.step-4 {
 		.section-title-wrap {
-			max-width: 310px;
+			max-width: rem-calc(310);
 			width: 100%;
 
 			@include breakpoint(500) {
-				max-width: 470px;
+				max-width: rem-calc(470);
 			}
 		}
 
 		.float-wrap {
 			margin: 0 auto;
-			max-width: 380px;
+			max-width: rem-calc(380);
 			width: 100%;
 
 			@include breakpoint(500) {
-				max-width: 460px;
+				max-width: rem-calc(460);
 			}
 
 			@include breakpoint(large) {
@@ -71,7 +71,7 @@
 		}
 
 		.prose-wrap {
-			max-width: 370px;
+			max-width: rem-calc(370);
 			width: 100%;
 			padding-left: 60px;
 
