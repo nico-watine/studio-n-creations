@@ -38,7 +38,16 @@
 
 		.float-wrap {
 			margin: 0 auto;
-			width: 460px;
+			max-width: 380px;
+			width: 100%;
+
+			@include breakpoint(500) {
+				max-width: 460px;
+			}
+
+			@include breakpoint(large) {
+				margin: unset;
+			}
 		}
 
 		.float-wrap#hosting-info {
@@ -52,14 +61,24 @@
 		}
 
 		.icon-wrap {
-			width: 70px;
+			width: 50px;
 			float: left;
 			padding-top: 30px;
+
+			@include breakpoint(500) {
+				width: 70px;
+			}
 		}
 
 		.prose-wrap {
-			width: 370px;
-			margin-left: 88px;
+			max-width: 370px;
+			width: 100%;
+			padding-left: 60px;
+
+			@include breakpoint(500) {
+				padding-left: 0;
+				margin-left: 88px;
+			}
 		}
 	}
 }

@@ -9099,8 +9099,14 @@ img.mfp-img {
       max-width: 470px; } }
 .web-development-steps-1-2-3-4 .step-4 .float-wrap {
   margin: 0 auto;
-  width: 460px; }
-
+  max-width: 380px;
+  width: 100%; }
+  @media screen and (min-width: 31.25em) {
+    .web-development-steps-1-2-3-4 .step-4 .float-wrap {
+      max-width: 460px; } }
+  @media print, screen and (min-width: 64em) {
+    .web-development-steps-1-2-3-4 .step-4 .float-wrap {
+      margin: unset; } }
 .web-development-steps-1-2-3-4 .step-4 .float-wrap#hosting-info {
   margin-top: 20px;
   margin-bottom: 40px; }
@@ -9109,10 +9115,17 @@ img.mfp-img {
       margin: unset;
       float: right; } }
 .web-development-steps-1-2-3-4 .step-4 .icon-wrap {
-  width: 70px;
+  width: 50px;
   float: left;
   padding-top: 30px; }
-
+  @media screen and (min-width: 31.25em) {
+    .web-development-steps-1-2-3-4 .step-4 .icon-wrap {
+      width: 70px; } }
 .web-development-steps-1-2-3-4 .step-4 .prose-wrap {
-  width: 370px;
-  margin-left: 88px; }
+  max-width: 370px;
+  width: 100%;
+  padding-left: 60px; }
+  @media screen and (min-width: 31.25em) {
+    .web-development-steps-1-2-3-4 .step-4 .prose-wrap {
+      padding-left: 0;
+      margin-left: 88px; } }
