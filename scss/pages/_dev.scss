@@ -27,6 +27,15 @@
 	}
 
 	.step-4 {
+		.section-title-wrap {
+			max-width: 310px;
+			width: 100%;
+
+			@include breakpoint(500) {
+				max-width: 470px;
+			}
+		}
+
 		.float-wrap {
 			margin: 0 auto;
 			width: 460px;

@@ -9091,6 +9091,12 @@ img.mfp-img {
 .web-development-steps-1-2-3-4 .step-wrap.step-2 .prose-wrap {
   margin-right: 30px; }
 
+.web-development-steps-1-2-3-4 .step-4 .section-title-wrap {
+  max-width: 310px;
+  width: 100%; }
+  @media screen and (min-width: 31.25em) {
+    .web-development-steps-1-2-3-4 .step-4 .section-title-wrap {
+      max-width: 470px; } }
 .web-development-steps-1-2-3-4 .step-4 .float-wrap {
   margin: 0 auto;
   width: 460px; }
