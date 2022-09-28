@@ -9090,3 +9090,7 @@ img.mfp-img {
 
 .web-development-steps-1-2-3-4 .step-wrap.step-2 .prose-wrap {
   margin-right: 30px; }
+
+@media print, screen and (min-width: 64em) {
+  .web-development-steps-1-2-3-4 .step-4 .hosting-info .float-wrap {
+    float: right; } }

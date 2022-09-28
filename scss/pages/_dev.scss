@@ -25,4 +25,14 @@
 			margin-right: 30px;
 		}
 	}
+
+	.step-4 {
+		.hosting-info {
+			.float-wrap {
+				@include breakpoint(large) {
+					float: right;
+				}
+			}
+		}
+	}
 }
