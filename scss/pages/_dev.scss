@@ -28,6 +28,21 @@
 		.step-wrap.step-1,
 		.step-wrap.step-3 {
 			.prose-wrap {
+				margin-left: 16px;
+			}
+		}
+
+		.step-wrap.step-2 {
+			.prose-wrap {
+				margin-right: 16px;
+			}
+		}
+	}
+
+	@include breakpoint(large) {
+		.step-wrap.step-1,
+		.step-wrap.step-3 {
+			.prose-wrap {
 				margin-left: 30px;
 			}
 		}
