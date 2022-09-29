@@ -9078,18 +9078,26 @@ img.mfp-img {
 .web-development-steps-1-2-3-4 .step-wrap {
   margin-bottom: 60px; }
   .web-development-steps-1-2-3-4 .step-wrap img {
-    height: 360px;
+    height: 160px;
     width: 100%;
-    object-fit: cover; }
+    object-fit: cover;
+    margin-bottom: 16px; }
+    @media print, screen and (min-width: 40em) {
+      .web-development-steps-1-2-3-4 .step-wrap img {
+        height: 360px;
+        margin-bottom: 0; } }
   .web-development-steps-1-2-3-4 .step-wrap .prose-wrap {
     max-width: 440px; }
+    .web-development-steps-1-2-3-4 .step-wrap .prose-wrap h2,
+    .web-development-steps-1-2-3-4 .step-wrap .prose-wrap p {
+      padding: 0 16px; }
 
-.web-development-steps-1-2-3-4 .step-wrap.step-1 .prose-wrap,
-.web-development-steps-1-2-3-4 .step-wrap.step-3 .prose-wrap {
-  margin-left: 30px; }
-
-.web-development-steps-1-2-3-4 .step-wrap.step-2 .prose-wrap {
-  margin-right: 30px; }
+@media print, screen and (min-width: 40em) {
+  .web-development-steps-1-2-3-4 .step-wrap.step-1 .prose-wrap,
+  .web-development-steps-1-2-3-4 .step-wrap.step-3 .prose-wrap {
+    margin-left: 30px; }
+  .web-development-steps-1-2-3-4 .step-wrap.step-2 .prose-wrap {
+    margin-right: 30px; } }
 
 .web-development-steps-1-2-3-4 .step-4 {
   padding-top: 40px;

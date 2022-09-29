@@ -10,12 +10,13 @@ body-class: index bodyLayout-unique
 ---
 <section class="web-development-steps-1-2-3-4" style="padding-top: 60px;">
 	<div class="grid-x align-middle step-wrap step-1">
-		<div class="cell large-6">
+		<div class="cell large-6 show-for-medium">
 			<img src="https://via.placeholder.com/1920x1080" alt="">
 		</div>
 		<div class="cell large-6">
 			<div class="prose-wrap">
 				<h2 class="h3 ff-monospace mb-16"><span class="h5 display-block">Step 1</span> Project Mapping</h2>
+				<img class="hide-for-medium" src="https://via.placeholder.com/1920x1080" alt="">
 				<p class="lead">First we establish your project goals and how to achieve them with a well-crafted content strategy.</p>
 			</div>
 		</div>
