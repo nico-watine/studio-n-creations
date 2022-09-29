@@ -8085,6 +8085,19 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/img\/dev\/1440-25-888.jpg" : {
+      "ft" : 16384,
+      "iS" : 113997,
+      "jF" : 0,
+      "oA" : 1,
+      "oAP" : "\/img\/dev\/1440-25-888.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/img\/index\/about-us\/hello-lanyard_2x.jpg" : {
       "ft" : 16384,
       "iS" : 36555,
