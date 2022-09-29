@@ -8,7 +8,7 @@ og-image: /img/assets/og-images/index/studio-n-creations-og-image-1.png
 body-id: index
 body-class: index bodyLayout-unique
 ---
-<header class="web-development-header" style="margin-bottom: 60px; background: #fff;">
+<header class="web-development-header">
 	<div class="grid-container">
 		<div class="grid-x grid-padding-x align-middle" style="height: 500px;">
 			<div class="cell">
