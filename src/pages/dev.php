@@ -25,10 +25,11 @@ body-class: index bodyLayout-unique
 		<div class="cell large-6">
 			<div class="prose-wrap float-right">
 				<h2 class="h3 ff-monospace mb-16"><span class="h5 display-block">Step 2</span> Design Phase</h2>
+				<img class="hide-for-medium" src="https://via.placeholder.com/1920x1080" alt="">
 				<p class="lead">Next comes the design process, during which the site’s graphics are visualized and prose is written. After our close consultation, I'll provide mockups and a style guide.</p>
 			</div>
 		</div>
-		<div class="cell large-6">
+		<div class="cell show-for-medium large-6">
 			<img src="https://via.placeholder.com/1920x1080" alt="">
 		</div>
 	</div>
