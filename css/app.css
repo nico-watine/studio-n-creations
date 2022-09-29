@@ -9081,7 +9081,8 @@ img.mfp-img {
     height: 200px;
     width: 100%;
     object-fit: cover;
-    margin-bottom: 16px; }
+    margin-bottom: 16px;
+    max-width: 740px; }
     @media print, screen and (min-width: 40em) {
       .web-development-steps-1-2-3-4 .step-wrap img {
         height: 360px;

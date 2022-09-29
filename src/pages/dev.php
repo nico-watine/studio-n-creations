@@ -10,7 +10,7 @@ body-class: index bodyLayout-unique
 ---
 <section class="web-development-steps-1-2-3-4" style="padding-top: 60px;">
 	<div class="grid-x align-middle step-wrap step-1">
-		<div class="cell medium-6 show-for-medium">
+		<div class="cell medium-6 show-for-medium text-right">
 			<img src="https://via.placeholder.com/1920x1080" alt="">
 		</div>
 		<div class="cell medium-6">
@@ -34,7 +34,7 @@ body-class: index bodyLayout-unique
 		</div>
 	</div>
 	<div class="grid-x align-middle step-wrap step-3">
-		<div class="cell show-for-medium medium-6">
+		<div class="cell show-for-medium medium-6 text-right">
 			<img src="https://via.placeholder.com/1920x1080" alt="">
 		</div>
 		<div class="cell medium-6">

@@ -7,6 +7,7 @@
 			width: 100%;
 			object-fit: cover;
 			margin-bottom: 16px;
+			max-width: 740px;
 
 			@include breakpoint(medium) {
 				height: 360px;
