@@ -12,8 +12,8 @@ body-class: index bodyLayout-unique
 	<div class="grid-container">
 		<div class="grid-x grid-padding-x align-middle" style="height: 500px;">
 			<div class="cell">
-				<h1 class="ff-monospace">Web Development</h1>
-				<h4 style="max-width: 600px;">I offer a personalized website design and creation experience. My workflow for any new web project consists of 4 steps.</h4>
+				<h1 class="headline ff-monospace">Web Development</h1>
+				<h4 class="subhead" style="max-width: 600px;">I offer a personalized website design and creation experience. My workflow for any new web project consists of 4 steps.</h4>
 			</div>
 		</div>
 	</div>
