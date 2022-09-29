@@ -9078,13 +9078,10 @@ img.mfp-img {
 .web-development-steps-1-2-3-4 .step-wrap {
   margin-bottom: 60px; }
   .web-development-steps-1-2-3-4 .step-wrap img {
-    height: 160px;
+    height: 200px;
     width: 100%;
     object-fit: cover;
     margin-bottom: 16px; }
-    @media screen and (min-width: 32.5em) {
-      .web-development-steps-1-2-3-4 .step-wrap img {
-        height: 200px; } }
     @media print, screen and (min-width: 40em) {
       .web-development-steps-1-2-3-4 .step-wrap img {
         height: 360px;

@@ -3,14 +3,10 @@
 		margin-bottom: 60px;
 
 		img {
-			height: 160px;
+			height: 200px;
 			width: 100%;
 			object-fit: cover;
 			margin-bottom: 16px;
-
-			@include breakpoint(520) {
-				height: 200px;
-			}
 
 			@include breakpoint(medium) {
 				height: 360px;
