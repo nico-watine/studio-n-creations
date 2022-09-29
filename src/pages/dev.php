@@ -8,6 +8,15 @@ og-image: /img/assets/og-images/index/studio-n-creations-og-image-1.png
 body-id: index
 body-class: index bodyLayout-unique
 ---
+<header class="web-development-header">
+	<div class="grid-container">
+		<div class="grid-x grid-padding-x align-middle" style="height: 500px;">
+			<div class="cell">
+				<h1 class="ff-monospace">Web Development</h1>
+			</div>
+		</div>
+	</div>
+</header>
 <section class="web-development-steps-1-2-3-4" style="padding-top: 60px;">
 	<div class="grid-x align-middle step-wrap step-1">
 		<div class="cell medium-6 show-for-medium text-right">
