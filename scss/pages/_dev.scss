@@ -2,6 +2,12 @@
 	background: #a9a9a9 url('/img/dev/1440-25-888.jpg') center/cover no-repeat;
 	background-blend-mode: multiply;
 	margin-bottom: 60px;
+
+	.headline,
+	.subhead {
+		color: #fff;
+		text-shadow: 0 0 10px #000000;
+	}
 }
 
 .web-development-steps-1-2-3-4 {
