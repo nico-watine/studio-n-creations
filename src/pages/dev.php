@@ -14,7 +14,7 @@ body-class: index bodyLayout-unique
 			<div class="cell">
 				<div class="prose-wrap">
 					<!-- <h1 class="h2 m-0" style="text-transform: unset;">Services</h1> -->
-					<h1 class="h1 heading ff-monospace">Web Development <span class="h2" style="float: left; margin-top: -20px; line-height: 0; text-transform: none;">Services</span></h1>
+					<h1 class="h1 heading ff-monospace">Web Development <span class="h2" style="float: left; margin-top: -30px; line-height: 0; text-transform: none;">Services</span></h1>
 					<h4 class="subhead" style="max-width: 600px;">I offer a personalized website design and creation experience. My workflow for any new web project consists of 4 steps.</h4>
 				</div>
 			</div>
