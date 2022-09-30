@@ -9079,6 +9079,8 @@ img.mfp-img {
   background: #a9a9a9 url("/img/dev/1440-25-888.jpg") center/cover no-repeat;
   background-blend-mode: multiply;
   margin-bottom: 60px; }
+  .web-development-header .content-wrap {
+    height: 500px; }
   .web-development-header .prose-wrap {
     color: #fff;
     text-shadow: 0 0 10px #000000; }

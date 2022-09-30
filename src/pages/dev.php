@@ -10,7 +10,7 @@ body-class: index bodyLayout-unique
 ---
 <header class="web-development-header">
 	<div class="grid-container">
-		<div class="grid-x grid-padding-x align-middle" style="height: 500px;">
+		<div class="grid-x grid-padding-x align-middle content-wrap">
 			<div class="cell">
 				<div class="prose-wrap">
 					<h1 class="h2 m-0" style="line-height: 1; text-transform: unset;">Services</h1>
