@@ -9076,9 +9076,15 @@ img.mfp-img {
     padding-right: 6px; } }
 
 .web-development-header {
-  background: #a9a9a9 url("/img/dev/1440-25-888.jpg") center/cover no-repeat;
+  background: #a9a9a9 url("/img/index/webpage-collage-bg/640x800.jpg") center/cover no-repeat;
   background-blend-mode: multiply;
   margin-bottom: 60px; }
+  @media print, screen and (min-width: 40em) {
+    .web-development-header {
+      background-image: url("/img/index/webpage-collage-bg/1024x800.jpg"); } }
+  @media print, screen and (min-width: 64em) {
+    .web-development-header {
+      background-image: url("/img/index/webpage-collage-bg/1440x810.jpg"); } }
   .web-development-header .content-wrap {
     height: 31.25rem; }
   .web-development-header .prose-wrap {
