@@ -9,11 +9,18 @@
 
 	.prose-wrap {
 		color: #fff;
-		text-shadow: 0 0 10px #000000;
+		text-shadow: 0 0 10px #000;
 	}
 
 	.heading {
 		line-height: 1.2;
+
+		span {
+			float: left;
+			margin-top: -30px;
+			line-height: 0;
+			text-transform: none;
+		}
 	}
 }
 
