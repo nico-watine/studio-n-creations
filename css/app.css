@@ -9084,6 +9084,8 @@ img.mfp-img {
   .web-development-header .prose-wrap {
     color: #fff;
     text-shadow: 0 0 10px #000000; }
+  .web-development-header .heading {
+    line-height: 1.2; }
 
 .web-development-steps-1-2-3-4 .step-wrap {
   margin-bottom: 60px; }
