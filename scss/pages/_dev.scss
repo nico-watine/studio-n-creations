@@ -13,6 +13,10 @@
 
 	.content-wrap {
 		height: rem-calc(500);
+
+		@include breakpoint(large) {
+			height: rem-calc(640);
+		}
 	}
 
 	.prose-wrap {
