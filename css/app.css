@@ -9095,10 +9095,12 @@ img.mfp-img {
         max-width: 490px; } }
     @media print, screen and (min-width: 40em) {
       .web-development-header .heading {
-        max-width: 600px; } }
+        max-width: 600px;
+        line-height: 1; } }
     @media screen and (min-width: 47.5em) {
       .web-development-header .heading {
-        max-width: 800px; } }
+        max-width: 800px;
+        line-height: 1.2; } }
     .web-development-header .heading span {
       float: left;
       margin-top: -150px;
@@ -9110,6 +9112,9 @@ img.mfp-img {
       @media screen and (min-width: 34.375em) {
         .web-development-header .heading span {
           margin-top: -90px; } }
+      @media print, screen and (min-width: 40em) {
+        .web-development-header .heading span {
+          margin-top: -190px; } }
       @media screen and (min-width: 47.5em) {
         .web-development-header .heading span {
           margin-top: -120px; } }

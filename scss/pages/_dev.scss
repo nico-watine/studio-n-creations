@@ -26,10 +26,12 @@
 
 		@include breakpoint(medium) {
 			max-width: 600px;
+			line-height: 1;
 		}
 
 		@include breakpoint(760) {
 			max-width: 800px;
+			line-height: 1.2;
 		}
 
 		span {
@@ -44,6 +46,10 @@
 
 			@include breakpoint(550) {
 				margin-top: -90px;
+			}
+
+			@include breakpoint(medium) {
+				margin-top: -190px;
 			}
 
 			@include breakpoint(760) {
