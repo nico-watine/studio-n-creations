@@ -9085,13 +9085,39 @@ img.mfp-img {
     color: #fff;
     text-shadow: 0 0 10px #000; }
   .web-development-header .heading {
-    line-height: 1.2; }
+    line-height: 1.2;
+    max-width: 400px; }
+    @media screen and (max-width: 25em) {
+      .web-development-header .heading {
+        font-size: 2.75rem; } }
+    @media screen and (min-width: 34.375em) {
+      .web-development-header .heading {
+        max-width: 490px; } }
+    @media print, screen and (min-width: 40em) {
+      .web-development-header .heading {
+        max-width: 600px; } }
+    @media screen and (min-width: 47.5em) {
+      .web-development-header .heading {
+        max-width: 800px; } }
     .web-development-header .heading span {
       float: left;
-      margin-top: -30px;
+      margin-top: -150px;
       line-height: 0;
       text-transform: none; }
-
+      @media screen and (max-width: 25em) {
+        .web-development-header .heading span {
+          margin-top: -135px; } }
+      @media screen and (min-width: 34.375em) {
+        .web-development-header .heading span {
+          margin-top: -90px; } }
+      @media screen and (min-width: 47.5em) {
+        .web-development-header .heading span {
+          margin-top: -120px; } }
+  .web-development-header .subhead {
+    max-width: 480px; }
+    @media print, screen and (min-width: 40em) {
+      .web-development-header .subhead {
+        max-width: 600px; } }
 .web-development-steps-1-2-3-4 .step-wrap {
   margin-bottom: 60px; }
   .web-development-steps-1-2-3-4 .step-wrap img {

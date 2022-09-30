@@ -14,12 +14,49 @@
 
 	.heading {
 		line-height: 1.2;
+		max-width: 400px;
+
+		@include breakpoint(400 down) {
+			font-size: rem-calc(44);
+		}
+
+		@include breakpoint(550) {
+			max-width: 490px;
+		}
+
+		@include breakpoint(medium) {
+			max-width: 600px;
+		}
+
+		@include breakpoint(760) {
+			max-width: 800px;
+		}
 
 		span {
 			float: left;
-			margin-top: -30px;
+			margin-top: -150px;
 			line-height: 0;
 			text-transform: none;
+
+			@include breakpoint(400 down) {
+				margin-top: -135px;
+			}
+
+			@include breakpoint(550) {
+				margin-top: -90px;
+			}
+
+			@include breakpoint(760) {
+				margin-top: -120px;
+			}
+		}
+	}
+
+	.subhead {
+		max-width: 480px;
+
+		@include breakpoint(medium) {
+			max-width: 600px;
 		}
 	}
 }
