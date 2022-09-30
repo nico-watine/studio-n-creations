@@ -4,65 +4,65 @@
 	margin-bottom: 60px;
 
 	.content-wrap {
-		height: 500px;
+		height: rem-calc(500)
 	}
 
 	.prose-wrap {
 		color: #fff;
-		text-shadow: 0 0 10px #000;
+		text-shadow: 0 0 rem-calc(10) #000;
 	}
 
 	.heading {
 		line-height: 1.2;
-		max-width: 400px;
+		max-width: rem-calc(400);
 
 		@include breakpoint(400 down) {
 			font-size: rem-calc(44);
 		}
 
 		@include breakpoint(550) {
-			max-width: 490px;
+			max-width: rem-calc(490);
 		}
 
 		@include breakpoint(medium) {
-			max-width: 600px;
+			max-width: rem-calc(600);
 			line-height: 1;
 		}
 
 		@include breakpoint(760) {
-			max-width: 800px;
+			max-width: rem-calc(800);
 			line-height: 1.2;
 		}
 
 		span {
 			float: left;
-			margin-top: -150px;
+			margin-top: rem-calc(-150);
 			line-height: 0;
 			text-transform: none;
 
 			@include breakpoint(400 down) {
-				margin-top: -135px;
+				margin-top: rem-calc(-135);
 			}
 
 			@include breakpoint(550) {
-				margin-top: -90px;
+				margin-top: rem-calc(-90);
 			}
 
 			@include breakpoint(medium) {
-				margin-top: -190px;
+				margin-top: rem-calc(-190);
 			}
 
 			@include breakpoint(760) {
-				margin-top: -120px;
+				margin-top: rem-calc(-120);
 			}
 		}
 	}
 
 	.subhead {
-		max-width: 480px;
+		max-width: rem-calc(480);
 
 		@include breakpoint(medium) {
-			max-width: 600px;
+			max-width: rem-calc(600);
 		}
 	}
 }
