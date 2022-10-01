@@ -9167,10 +9167,11 @@ img.mfp-img {
 .web-development-steps-1-2-3-4 .step-4 {
   background: #999999 url("/img/our-services/web-development/server-stack.jpg") center/cover no-repeat;
   background-blend-mode: multiply;
-  padding-top: 40px;
+  padding-top: 80px;
   padding-bottom: 80px;
   color: #fff;
-  text-shadow: 0 0 10px #000000; }
+  text-shadow: 0 0 10px #000000;
+  margin-bottom: 60px; }
   .web-development-steps-1-2-3-4 .step-4 .section-title-wrap {
     max-width: 19.375rem;
     width: 100%; }
