@@ -137,8 +137,12 @@
 	}
 
 	.step-4 {
+		background: #999999 url('/img/our-services/web-development/server-stack.jpg') center/cover no-repeat;
+		background-blend-mode: multiply;
 		padding-top: 40px;
 		padding-bottom: 80px;
+		color: #fff;
+		text-shadow: 0 0 10px #000000;
 
 		.section-title-wrap {
 			max-width: rem-calc(310);
