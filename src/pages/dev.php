@@ -23,12 +23,12 @@ body-class: index bodyLayout-unique
 <section class="web-development-steps-1-2-3-4">
 	<div class="grid-x align-middle step-wrap step-1">
 		<div class="cell medium-6 show-for-medium text-right">
-			<img src="https://via.placeholder.com/1920x1080" alt="">
+			<img src="/img/our-services/web-development/project-mapping.jpg" alt="">
 		</div>
 		<div class="cell medium-6">
 			<div class="prose-wrap">
 				<h2 class="h3 ff-monospace mb-16"><span class="h5 display-block">Step 1</span> Project Mapping</h2>
-				<img class="hide-for-medium" src="https://via.placeholder.com/1920x1080" alt="">
+				<img class="hide-for-medium" src="/img/our-services/web-development/project-mapping.jpg" alt="">
 				<p class="lead">First we establish your project goals and how to achieve them with a well-crafted content strategy.</p>
 			</div>
 		</div>
@@ -37,22 +37,22 @@ body-class: index bodyLayout-unique
 		<div class="cell medium-6">
 			<div class="prose-wrap float-right">
 				<h2 class="h3 ff-monospace mb-16"><span class="h5 display-block">Step 2</span> Design Phase</h2>
-				<img class="hide-for-medium" src="https://via.placeholder.com/1920x1080" alt="">
+				<img class="hide-for-medium" src="/img/our-services/web-development/design-phase.jpg" alt="">
 				<p class="lead">Next comes the design process, during which the site’s graphics are visualized and prose is written. After our close consultation, I'll provide mockups and a style guide.</p>
 			</div>
 		</div>
 		<div class="cell show-for-medium medium-6">
-			<img src="https://via.placeholder.com/1920x1080" alt="">
+			<img src="/img/our-services/web-development/design-phase.jpg" alt="">
 		</div>
 	</div>
 	<div class="grid-x align-middle step-wrap step-3">
 		<div class="cell show-for-medium medium-6 text-right">
-			<img src="https://via.placeholder.com/1920x1080" alt="">
+			<img src="/img/our-services/web-development/development-stage.jpg" alt="">
 		</div>
 		<div class="cell medium-6">
 			<div class="prose-wrap">
 				<h2 class="h3 ff-monospace mb-16"><span class="h5 display-block">Step 3</span> Development Stage</h2>
-				<img class="hide-for-medium" src="https://via.placeholder.com/1920x1080" alt="">
+				<img class="hide-for-medium" src="/img/our-services/web-development/development-stage.jpg" alt="">
 				<p class="lead">With the content established and a solid user experience defined, the project gets developed into a functioning website. I utilize the industry’s latest technologies to ensure optimal performance on all device platforms and screen sizes.</p>
 			</div>
 		</div>
