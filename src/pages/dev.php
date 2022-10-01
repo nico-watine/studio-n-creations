@@ -87,3 +87,29 @@ body-class: index bodyLayout-unique
 		</div>
 	</div>
 </section>
+
+<section class="blog-roll-section">
+	<div class="row py-40 text-center">
+		<div class="column">
+			<h2 class="h3 ff-monospace section-title"><a href="https://studioncreations.com/blog/">From the Blog</a></h2>
+			<!-- <h4 class="color-white section-subhead">Nico’s Projects & Pro-Tips</h4> -->
+		</div>
+	</div>
+	<div class="row expanded collapse article-list">
+		<div class="medium-6 columns">
+			<a href="https://studioncreations.com/blog/install-windows-11-on-2015-macbook-pro-with-boot-camp/" class="article-unit-link">
+				<div class="prose-wrap">
+					<h5 class="ff-monospace article-category">Tutorial Walkthrough</h5>
+					<h3 class="ff-sans-serif article-headline">Install Windows 11 on a 2015 MacBook Pro</h3>
+				</div>
+				<img src="https://studioncreations.com/wp-content/uploads/2021/12/MacBook-Pro-2015-Windows-11-Feature-Image-768x307.jpg" loading="lazy" alt="A 2015 MacBook Pro with Windows 11 installed">
+			</a>
+		</div>
+		<div class="medium-6 columns">
+			<a href="https://studioncreations.com/blog/" class="article-unit-link">
+				<h3 class="ff-sans-serif article-headline absolute-center" id="read-more">More Articles</h3>
+				<img src="https://studioncreations.com/wp-content/uploads/2022/06/Apple-TV-Sleep-Timer-Featured-image-768x307.jpg" loading="lazy" alt="A perspective photo of the Home App on an iPhone with a picture of an Apple TV">
+			</a>
+		</div>
+	</div>
+</section>
