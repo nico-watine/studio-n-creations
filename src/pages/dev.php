@@ -47,15 +47,12 @@ body-class: index bodyLayout-unique
 	</div>
 	<div class="grid-x align-middle step-wrap step-3">
 		<div class="cell show-for-medium medium-6 text-right">
-			<!-- <img src="/img/our-services/web-development/development-stage.jpg" alt=""> -->
-			<!-- <img src="/img/our-services/web-development/code-close-up.jpg" alt=""> -->
 			<img src="/img/our-services/web-development/iris-blur-1.jpg" alt="">
 		</div>
 		<div class="cell medium-6">
 			<div class="prose-wrap">
 				<h2 class="h3 ff-monospace mb-16"><span class="h5 display-block">Step 3</span> Development Stage</h2>
-				<!-- <img class="hide-for-medium" src="/img/our-services/web-development/development-stage.jpg" alt=""> -->
-				<img src="/img/our-services/web-development/code-close-up.jpg" alt="" class="hide-for-medium">
+				<img src="/img/our-services/web-development/iris-blur-1.jpg" alt="" class="hide-for-medium">
 				<p class="lead">With the content established and a solid user experience defined, the project gets developed into a functioning website. I utilize the industry’s latest technologies to ensure optimal performance on all device platforms and screen sizes.</p>
 			</div>
 		</div>
