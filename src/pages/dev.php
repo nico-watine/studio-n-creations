@@ -65,7 +65,7 @@ body-class: index bodyLayout-unique
 			<div class="large-6 columns hosting-info">
 				<div class="float-wrap" id="hosting-info">
 					<div class="icon-wrap">
-						<img src="{{ cdn }}/img/our-services/web-development/new-project-workflow/server.svg" loading="lazy" alt="Hosting Server Icon" title="Server Hosting Icon">
+						<img src="{{ cdn }}/img/our-services/web-development/new-project-workflow/server.svg" loading="lazy" alt="Hosting Server Icon" title="Hosting Server Icon">
 					</div>
 					<div class="prose-wrap">
 						<h4>Hosting</h4>
@@ -76,7 +76,7 @@ body-class: index bodyLayout-unique
 			<div class="large-6 columns maintenance-info">
 				<div class="float-wrap">
 					<div class="icon-wrap">
-						<img src="{{ cdn }}/img/our-services/web-development/new-project-workflow/wrench.svg" loading="lazy" alt="Maintenance Wrench" title="Maintenance Wrench Icon">
+						<img src="{{ cdn }}/img/our-services/web-development/new-project-workflow/wrench.svg" loading="lazy" alt="Maintenance Wrench Icon" title="Maintenance Wrench Icon">
 					</div>
 					<div class="prose-wrap">
 						<h4>Maintenance</h4>
