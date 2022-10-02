@@ -1,116 +1,86 @@
 ---
 url: /our-services/web-development
 title: Web Design & Development Services
-description: One of the key services I offer is website design & development.
-og-title: Web Design & Development Services
+description: One of the key services I offer is custom website design & development.
+og-title: Custom Web Design & Development Services
 og-description: One of the key services I offer is website design, code development and a unique project experience.
 og-image: /img/assets/og-images/index/studio-n-creations-og-image-1.png
-body-id: web-development
-body-class: bodyLayout-default
+body-id: index
+body-class:
 ---
-<section id="new-project-workflow">
-	<div class="row page-intro-prose">
-		<div class="medium-10 medium-push-1 large-7 large-push-2 columns end">
-			<h2>I offer a personalized website design and creation experience.</h2>
-			<p class="h4 font-weight-normal">My workflow for any new web project consists of 4 steps:</p>
-		</div>
-	</div>
-	<div class="row" data-equalizer data-equalize-on="large">
-		<div class="medium-10 medium-push-1 large-6 large-push-0 columns">
-			<div class="workflowCard text-center" id="site-layout-planning" data-equalizer-watch>
-				<div class="workflowCard-title">
-					<h3 class="color-white text-shadow-black m-0">1. Site Layout Planning</h3>
-				</div>
-				<div class="workflowCard-description">
-					<p class="color-white m-0">This includes the content strategy of what info will be presented on&nbsp;the&nbsp;website.</p>
-				</div>
-			</div>
-		</div>
-		<div class="medium-10 medium-push-1 large-6 large-push-0 end columns">
-			<div class="workflowCard text-center" id="design-phase" data-equalizer-watch>
-				<div class="workflowCard-title">
-					<h3 class="m-0">2. Design Phase</h3>
-				</div>
-				<div class="workflowCard-description">
-					<p class="color-white m-0">I consult with my clients closely throughout the design process to ensure full satisfaction with the site’s look&nbsp;and&nbsp;feel.</p>
+<header class="web-development-header">
+	<div class="grid-container">
+		<div class="grid-x grid-padding-x align-middle content-wrap">
+			<div class="cell">
+				<div class="prose-wrap">
+					<h1 class="h1 heading ff-monospace">Web Development <span class="h2">Services</span></h1>
+					<h4 class="subhead m-0">I offer a personalized website design and creation experience. My workflow for any new web project consists of 4 steps.</h4>
 				</div>
 			</div>
 		</div>
 	</div>
-	<div class="row">
-		<div class="medium-10 medium-push-1 large-8 large-push-2 columns end">
-			<div class="workflowCard text-center" id="coding-development-stage">
-				<div class="workflowCard-title">
-					<h3 class="color-white text-shadow-black m-0">3. Coding &amp; Development Stage</h3>
-				</div>
-				<div class="workflowCard-description">
-					<p class="color-white m-0">I then code the approved design into a functioning website, using the industry’s latest methods&nbsp;and&nbsp;standards.</p>
-				</div>
+</header>
+<section class="web-development-steps-1-2-3-4">
+	<div class="grid-x align-middle step-wrap step-1">
+		<div class="cell medium-6 show-for-medium text-right">
+			<img src="/img/our-services/web-development/project-mapping.jpg" loading="lazy" alt="Close-up of a white board with journey map wireframes">
+		</div>
+		<div class="cell medium-6">
+			<div class="prose-wrap">
+				<h2 class="h3 ff-monospace mb-16"><span class="h5 display-block">Step 1</span> Project Mapping</h2>
+				<img class="hide-for-medium" src="/img/our-services/web-development/project-mapping.jpg" loading="lazy" alt="Close-up of a white board with journey map wireframes">
+				<p class="lead">First we establish your project goals and how to achieve them with a well-crafted content strategy.</p>
 			</div>
 		</div>
 	</div>
-	<div id="post-production-actions">
+	<div class="grid-x align-middle step-wrap step-2">
+		<div class="cell medium-6">
+			<div class="prose-wrap float-right">
+				<h2 class="h3 ff-monospace mb-16"><span class="h5 display-block">Step 2</span> Design Phase</h2>
+				<img class="hide-for-medium" src="/img/our-services/web-development/design-phase.jpg" loading="lazy" alt="People collaborating over website UI graphic styles">
+				<p class="lead">Next comes the design process, during which the site’s graphics are visualized and prose is written. After our close consultation, I'll provide mockups and a style guide.</p>
+			</div>
+		</div>
+		<div class="cell show-for-medium medium-6">
+			<img src="/img/our-services/web-development/design-phase.jpg" loading="lazy" alt="People collaborating over website UI graphic styles">
+		</div>
+	</div>
+	<div class="grid-x align-middle step-wrap step-3">
+		<div class="cell show-for-medium medium-6 text-right">
+			<img src="/img/our-services/web-development/code-close-up.jpg" loading="lazy" alt="Close-up view of HTML code">
+		</div>
+		<div class="cell medium-6">
+			<div class="prose-wrap">
+				<h2 class="h3 ff-monospace mb-16"><span class="h5 display-block">Step 3</span> Development Stage</h2>
+				<img src="/img/our-services/web-development/code-close-up.jpg" loading="lazy" alt="Close-up view of HTML code" class="hide-for-medium">
+				<p class="lead">With the content established and a solid user experience defined, the project gets developed into a functioning website. I utilize the industry’s latest technologies to ensure optimal performance on all device platforms and screen sizes.</p>
+			</div>
+		</div>
+	</div>
+	<div class="step-4">
+		<div class="section-title-wrap float-center">
+			<h2 class="display-inline-block h3 ff-monospace mb-20"><span class="h5 display-block">Step 4</span> Post-Production Actions</h2>
+		</div>
 		<div class="row">
-			<div class="columns">
-				<h3 class="text-center">4. Post-Production Actions</h3>
-			</div>
-		</div>
-		<div class="row" style="margin-bottom: 20px;">
-			<div class="medium-5 columns">
-				<div class="icon">
-					<img src="{{ cdn }}/img/our-services/web-development/new-project-workflow/server.svg" loading="lazy" alt="Hosting Server Icon" title="Server Hosting Icon">
-				</div>
-				<div class="prose text-center medium-text-left">
-					<h4>Hosting</h4>
-					<p>Once the site has been completed in full, I then host the website on private servers and publish the site online.</p>
+			<div class="large-6 columns hosting-info">
+				<div class="float-wrap" id="hosting-info">
+					<div class="icon-wrap">
+						<img src="{{ cdn }}/img/our-services/web-development/new-project-workflow/server.svg" loading="lazy" alt="Hosting Server Icon" title="Hosting Server Icon">
+					</div>
+					<div class="prose-wrap">
+						<h4>Hosting</h4>
+						<p>After local project development is complete, I then host the website on secure, high-performance servers and publish the site online.</p>
+					</div>
 				</div>
 			</div>
-			<div class="medium-7 columns">
-				<div class="icon">
-					<img src="{{ cdn }}/img/our-services/web-development/new-project-workflow/wrench.svg" loading="lazy" alt="Maintenance Wrench" title="Maintenance Wrench Icon">
-				</div>
-				<div class="prose text-center medium-text-left">
-					<h4>Maintenance</h4>
-					<p>After this, I discuss with my client about the extent to which they want to be involved in the site’s upkeep. I provide hassle-free site maintenace options so the client can focus on their business and not their website’s performance and reliability.</p>
-				</div>
-			</div>
-		</div>
-	</div>
-</section>
-<section id="design-into-code-conversion" class="color-white">
-	<div class="row">
-		<div class="medium-push-1 medium-11 large-push-2 large-10 columns">
-			<h5 class="subHeading monospace">Service Offered</h5>
-			<h2 class="heading"><span class="monospace">Design into Code</span> conversion</h2>
-		</div>
-	</div>
-	<div class="row">
-		<div class="medium-3 large-push-2 large-2 columns medium-text-right large-text-center show-for-medium">
-			<img class="html5-logo" src="{{ cdn }}/img/our-services/web-development/design-into-code-conversion/html5-logo.svg" loading="lazy" alt="HTML5 Logo" title="HTML5 Logo">
-		</div>
-		<div class="medium-9 large-8 columns">
-			<h4>If you already have a collection of web page mockups, I can transform the designs into a fully-coded, functioning website.</h4>
-			<div class="row nestedRow">
-				<div class="hide-for-medium text-center">
-					<div class="small-4 columns">
-						<img class="html5-logo" src="{{ cdn }}/img/our-services/web-development/design-into-code-conversion/html5-logo-square.svg" loading="lazy" alt="HTML5 Logo" title="HTML5 Logo">
+			<div class="large-6 columns maintenance-info">
+				<div class="float-wrap">
+					<div class="icon-wrap">
+						<img src="{{ cdn }}/img/our-services/web-development/new-project-workflow/wrench.svg" loading="lazy" alt="Maintenance Wrench Icon" title="Maintenance Wrench Icon">
 					</div>
-					<div class="small-4 columns">
-						<img srcset="{{ cdn }}/img/our-services/web-development/design-into-code-conversion/photoshop-2021_2x.png 2x" src="{{ cdn }}/img/our-services/web-development/design-into-code-conversion/photoshop-2021.png" loading="lazy" alt="Adobe Photoshop logo" title="Adobe Photoshop logo">
-					</div>
-					<div class="small-4 columns">
-						<img srcset="{{ cdn }}/img/our-services/web-development/design-into-code-conversion/sketch-app-2021_2x.png 2x" src="{{ cdn }}/img/our-services/web-development/design-into-code-conversion/sketch-app-2021.png" loading="lazy" alt="Sketch App logo" title="Sketch App logo">
-					</div>
-				</div>
-				<div class="medium-6 columns">
-					<p>I work with both <strong>Photoshop</strong> and <strong>Sketch App</strong> when converting files into functioning <strong>HTML5</strong>.</p>
-				</div>
-				<div class="show-for-medium">
-					<div class="small-6 medium-3 columns">
-						<img srcset="{{ cdn }}/img/our-services/web-development/design-into-code-conversion/photoshop-2021_2x.png 2x" src="{{ cdn }}/img/our-services/web-development/design-into-code-conversion/photoshop-2021.png" loading="lazy" alt="Adobe Photoshop logo" title="Adobe Photoshop logo">
-					</div>
-					<div class="small-6 medium-3 columns">
-						<img srcset="{{ cdn }}/img/our-services/web-development/design-into-code-conversion/sketch-app-2021_2x.png 2x" src="{{ cdn }}/img/our-services/web-development/design-into-code-conversion/sketch-app-2021.png" loading="lazy" alt="Sketch App logo" title="Sketch App logo">
+					<div class="prose-wrap">
+						<h4>Maintenance</h4>
+						<p>Once the site is live, we’ll go over project upkeep. I provide hassle-free maintenace options so you can focus on your business and not your website’s performance and reliability.</p>
 					</div>
 				</div>
 			</div>
@@ -122,7 +92,7 @@ body-class: bodyLayout-default
 	<div class="row py-40 text-center">
 		<div class="column">
 			<h2 class="h3 ff-monospace section-title"><a href="https://studioncreations.com/blog/">From the Blog</a></h2>
-			<!-- <h4 class="color-white section-subhead">Nico’s Projects & Pro-Tips</h4> -->
+			<h4 class="color-white section-subhead">Nico’s Projects & Pro-Tips</h4>
 		</div>
 	</div>
 	<div class="row expanded collapse article-list">
