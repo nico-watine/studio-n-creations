@@ -10,6 +10,7 @@ CSS:
 	☐	Standardize font-families across all heading sizes
 	☐	Standardize all font-weight across all typography
 	✔	Play with "mac-blue" #0079ff for certain text links @done (22-08-16 23:16)
+	☐	Standardize <footer> across all layouts and scss
 
 Index - About:
 	✔	"contact me" hover underline @done (22-07-30 12:45)
