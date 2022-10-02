@@ -5,7 +5,7 @@ description: One of the key services I offer is custom website design & developm
 og-title: Custom Web Design & Development Services
 og-description: One of the key services I offer is website design, code development and a unique project experience.
 og-image: /img/assets/og-images/index/studio-n-creations-og-image-1.png
-body-id: web-development
+body-id: index
 body-class:
 ---
 <header class="web-development-header">
