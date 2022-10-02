@@ -48,7 +48,8 @@ body-class: index bodyLayout-unique
 	<div class="grid-x align-middle step-wrap step-3">
 		<div class="cell show-for-medium medium-6 text-right">
 			<!-- <img src="/img/our-services/web-development/development-stage.jpg" alt=""> -->
-			<img src="/img/our-services/web-development/code-close-up.jpg" alt="">
+			<!-- <img src="/img/our-services/web-development/code-close-up.jpg" alt=""> -->
+			<img src="/img/our-services/web-development/iris-blur-1.jpg" alt="">
 		</div>
 		<div class="cell medium-6">
 			<div class="prose-wrap">
