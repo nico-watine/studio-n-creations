@@ -8278,6 +8278,19 @@
       "oAP" : "\/img\/index\/website-mashup-video\/studio-n-creations-website-mashup.webm",
       "oF" : 0
     },
+    "\/img\/our-services\/web-development\/code-close-up.jpg" : {
+      "ft" : 16384,
+      "iS" : 69715,
+      "jF" : 0,
+      "oA" : 1,
+      "oAP" : "\/img\/our-services\/web-development\/code-close-up.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/img\/our-services\/web-development\/design-into-code-conversion\/html5-logo-square.svg" : {
       "ft" : 2097152,
       "miP" : 0,
