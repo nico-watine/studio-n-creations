@@ -15,6 +15,7 @@ body-class: index bodyLayout-unique
 				<div class="grid-container">
 					<h1>Studio N Creations</h1>
 					<h2>Web Design |&nbsp;Site&nbsp;Maintenance</h2>
+					<img src="/img/assets/icons/arrow-circle-down.svg" alt="">
 				</div>
 			</div>
 		</div>
