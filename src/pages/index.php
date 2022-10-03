@@ -15,6 +15,9 @@ body-class: index bodyLayout-unique
 				<div class="grid-container">
 					<h1>Studio N Creations</h1>
 					<h2>Web Design |&nbsp;Site&nbsp;Maintenance</h2>
+					<div data-magellan data-threshold="0">
+						<a href="#main-content-section"><img src="/img/assets/icons/arrow-circle-down.svg" alt=""></a>
+					</div>
 				</div>
 			</div>
 		</div>
@@ -29,7 +32,7 @@ body-class: index bodyLayout-unique
 	</div>
 </header>
 
-<main class="index-webpage-collage-container">
+<main class="index-webpage-collage-container" id="main-content-section" data-magellan-target="main-content-section">
 	<section class="intro-slogan">
 		<div class="row">
 			<div class="medium-6 columns medium-text-right">
