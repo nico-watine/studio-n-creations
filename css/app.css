@@ -8683,7 +8683,8 @@ form#index-contact-form span.input-group-label.error {
     .web-development-header {
       background-image: url("/img/index/webpage-collage-bg/1440x810.jpg"); } }
   .web-development-header .content-wrap {
-    height: 31.25rem; }
+    height: 31.25rem;
+    padding-top: 6.25rem; }
     @media print, screen and (min-width: 64em) {
       .web-development-header .content-wrap {
         height: 40rem; } }
