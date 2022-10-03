@@ -15,12 +15,16 @@ body-class:
 				<div class="prose-wrap">
 					<h1 class="h1 heading ff-monospace">Web Development <span class="h2">Services</span></h1>
 					<h4 class="subhead m-0">I offer a personalized website design and creation experience. My workflow for any new web project consists of 4 steps.</h4>
+					<div class="pt-16" data-magellan data-threshold="60">
+						<a href="#main-content-section"><img src="/img/assets/icons/arrow-circle-down.svg" alt=""></a>
+					</div>
 				</div>
 			</div>
 		</div>
 	</div>
 </header>
-<section class="web-development-steps-1-2-3-4">
+
+<section class="web-development-steps-1-2-3-4" id="main-content-section" data-magellan-target="main-content-section">
 	<div class="grid-x align-middle step-wrap step-1">
 		<div class="cell medium-6 show-for-medium text-right">
 			<img src="/img/our-services/web-development/project-mapping.jpg" loading="lazy" alt="Close-up of a white board with journey map wireframes">
