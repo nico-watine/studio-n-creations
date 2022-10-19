@@ -9100,8 +9100,15 @@ img.mfp-img {
     padding-left: 6px;
     padding-right: 6px; } }
 
+.small-business-banner .prose-wrap {
+  margin-left: auto;
+  margin-right: auto; }
+  @media print, screen and (min-width: 64em) {
+    .small-business-banner .prose-wrap {
+      float: right; } }
 .small-business-banner a.web-development-button {
   padding: 0.875rem 1.25rem;
+  text-align: center;
   color: #fff;
   border-radius: 0.1875rem;
   margin: 1.25rem 0 0.125rem;
