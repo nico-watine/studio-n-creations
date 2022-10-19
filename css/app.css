@@ -9099,3 +9099,11 @@ img.mfp-img {
   .mfp-container {
     padding-left: 6px;
     padding-right: 6px; } }
+
+.small-business-banner a.web-development-button {
+  padding: 0.875rem 1.25rem;
+  color: #fff;
+  border-radius: 0.1875rem;
+  margin: 1.25rem 0 0.125rem;
+  background: #566372;
+  display: inline-block; }
