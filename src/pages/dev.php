@@ -37,7 +37,7 @@ body-class: index bodyLayout-unique
 	</section>
 	<section class="small-business-banner" style="background: #fff; padding-top: 40px; padding-bottom: 60px;">
 		<div class="row text-center">
-			<h2 style="margin-bottom: 40px;">Small business is my specialty.</h2>
+			<h2 style="margin-bottom: 40px;">Small business is my&nbsp;specialty.</h2>
 		</div>
 		<div class="row">
 			<div class="medium-7 columns">
