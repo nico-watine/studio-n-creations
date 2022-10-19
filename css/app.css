@@ -9118,4 +9118,8 @@ img.mfp-img {
     border-radius: 0.1875rem;
     margin: 1.25rem 0 0.125rem;
     background: #566372;
-    display: inline-block; }
+    display: inline-block;
+    box-shadow: -0.25rem 0.25rem 0 0 #fff; }
+    .small-business-banner a.web-development-button:hover {
+      box-shadow: -0.25rem 0.125rem 0 0 #fff;
+      margin: 1.375rem 0 0; }

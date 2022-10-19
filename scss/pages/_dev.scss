@@ -21,5 +21,11 @@
 		margin: rem-calc(20 0 2);
 		background: $snc-dull-blue;
 		display: inline-block;
+		box-shadow: rem-calc(-4) rem-calc(4) 0 0 #fff;
+
+		&:hover {
+			box-shadow: rem-calc(-4) rem-calc(2) 0 0 #fff;
+			margin: rem-calc(22 0 0);
+		}
 	}
 }
