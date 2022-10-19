@@ -9101,7 +9101,9 @@ img.mfp-img {
     padding-right: 6px; } }
 
 .small-business-banner {
-  padding: 2.5rem 0 3.75rem; }
+  padding: 2.5rem 0 3.75rem;
+  background: rgba(241, 241, 241, 0.8);
+  backdrop-filter: blur(2px); }
   .small-business-banner .prose-wrap {
     margin-left: auto;
     margin-right: auto;

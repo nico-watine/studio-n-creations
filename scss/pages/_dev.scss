@@ -1,5 +1,7 @@
 .small-business-banner {
 	padding: rem-calc(40 0 60);
+	background: rgba(241,241,241,.8);
+	backdrop-filter: blur(2px);
 
 	.prose-wrap {
 		margin-left: auto;

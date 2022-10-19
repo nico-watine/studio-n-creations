@@ -35,19 +35,21 @@ body-class: index bodyLayout-unique
 			</div>
 		</div>
 	</section>
-	<section class="small-business-banner" style="background: #fff;">
-		<div class="row text-center">
-			<h2 class="mb-40">Small business is my&nbsp;specialty.</h2>
-		</div>
-		<div class="row">
-			<div class="medium-7 columns">
-				<div class="prose-wrap">
-					<p>My services include setting up Shopify stores and  Wordpress blogs, but my specialty is custom website design and development for small businesses. I have experience in setting companies up with a professional online presence that delivers success, and the most effective way of achieving that is with a bespoke website.</p>
+	<section class="small-business-banner">
+		<!-- <div class="position-absolute"> -->
+			<div class="row text-center">
+				<h2 class="mb-40">Small business is my&nbsp;specialty.</h2>
+			</div>
+			<div class="row">
+				<div class="medium-7 columns">
+					<div class="prose-wrap">
+						<p>My services include setting up Shopify stores and  Wordpress blogs, but my specialty is custom website design and development for small businesses. I have experience in setting companies up with a professional online presence that delivers success, and the most effective way of achieving that is with a bespoke website.</p>
+					</div>
+				</div>
+				<div class="medium-5 columns text-center medium-text-left">
+					<a href="#" class="h4 ff-monospace web-development-button">Here’s my process</a>
 				</div>
 			</div>
-			<div class="medium-5 columns text-center medium-text-left">
-				<a href="#" class="h4 ff-monospace web-development-button">Here’s my process</a>
-			</div>
-		</div>
+		<!-- </div> -->
 	</section>
 </main>
