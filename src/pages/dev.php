@@ -35,13 +35,13 @@ body-class: index bodyLayout-unique
 			</div>
 		</div>
 	</section>
-	<section class="small-business-banner" style="background: #fff; padding-top: 40px; padding-bottom: 60px;">
+	<section class="small-business-banner" style="background: #fff;">
 		<div class="row text-center">
-			<h2 style="margin-bottom: 40px;">Small business is my&nbsp;specialty.</h2>
+			<h2 class="mb-40">Small business is my&nbsp;specialty.</h2>
 		</div>
 		<div class="row">
 			<div class="medium-7 columns">
-				<div class="prose-wrap" style="max-width: 470px;">
+				<div class="prose-wrap">
 					<p>My services include setting up Shopify stores and  Wordpress blogs, but my specialty is custom website design and development for small businesses. I have experience in setting companies up with a professional online presence that delivers success, and the most effective way of achieving that is with a bespoke website.</p>
 				</div>
 			</div>

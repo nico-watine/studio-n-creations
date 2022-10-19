@@ -1,7 +1,11 @@
 .small-business-banner {
+	padding: rem-calc(40 0 60);
+
 	.prose-wrap {
 		margin-left: auto;
 		margin-right: auto;
+		max-width: rem-calc(470);
+
 		@include breakpoint(large) {
 			float: right;
 		}
@@ -9,17 +13,11 @@
 
 	a.web-development-button {
 		padding: rem-calc(14) rem-calc(20);
-		// box-shadow: rem-calc(-4) rem-calc(4) 0 0 rgba(163,163,202,.80);
 		text-align: center;
 		color: #fff;
 		border-radius: rem-calc(3);
 		margin: rem-calc(20 0 2);
 		background: $snc-dull-blue;
 		display: inline-block;
-
-		// &:hover {
-		// 	box-shadow: rem-calc(-4) rem-calc(2) 0 0 rgba(163,163,202,.80);
-		// 	margin: rem-calc(22 0 0);
-		// }
 	}
 }
