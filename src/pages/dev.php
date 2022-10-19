@@ -8,30 +8,6 @@ og-image: /img/assets/og-images/index/studio-n-creations-og-image-1.png
 body-id: index
 body-class: index bodyLayout-unique
 ---
-<header class="splash-video-header grid-x position-relative overflow-hidden">
-	<div class="grid-container fluid width-100">
-		<div class="grid-x grid-padding-x align-middle prose-grid">
-			<div class="prose-cell cell color-white large-text-center">
-				<div class="grid-container">
-					<h1>Studio N Creations</h1>
-					<h2>Web Design |&nbsp;Site&nbsp;Maintenance</h2>
-					<div data-magellan data-threshold="0">
-						<a href="#main-content-section"><img src="/img/assets/icons/arrow-circle-down.svg" alt=""></a>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
-	<div class="grid-x position-absolute backgroundVideo-container width-100 height-100">
-		<div class="cell">
-			<video playsinline autoplay muted loop preload="" poster="{{ cdn }}/img/index/website-mashup-video/studio-n-creations-website-mashup-poster.jpg" id="backgroundVideo">
-				<source src="{{ cdn }}/img/index/website-mashup-video/studio-n-creations-website-mashup.webm" type="video/webm">
-				<source src="{{ cdn }}/img/index/website-mashup-video/studio-n-creations-website-mashup.mp4" type="video/mp4">
-			</video>
-		</div>
-	</div>
-</header>
-
 <main class="index-webpage-collage-container" id="main-content-section" data-magellan-target="main-content-section">
 	<section class="intro-slogan">
 		<div class="row">
@@ -56,6 +32,21 @@ body-class: index bodyLayout-unique
 						<p>I’m located in Houston, TX, and am available for hire anywhere. Please <a data-open="contactModal">contact me</a> and let’s see when we can get started — I’m only a message away.</p>
 					</div>
 				</div>
+			</div>
+		</div>
+	</section>
+	<section class="small-business-banner">
+		<div class="row text-center">
+			<h2 class="mb-40">Small business is my&nbsp;specialty.</h2>
+		</div>
+		<div class="row">
+			<div class="medium-7 columns">
+				<div class="prose-wrap">
+					<p>My services include setting up Shopify stores and  Wordpress blogs, but my specialty is custom website design and development for small businesses. I have experience in setting companies up with a professional online presence that delivers success, and the most effective way of achieving that is with a bespoke website.</p>
+				</div>
+			</div>
+			<div class="medium-5 columns text-center medium-text-left">
+				<a href="#" class="h4 ff-monospace web-development-button">Here’s my process</a>
 			</div>
 		</div>
 	</section>
