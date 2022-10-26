@@ -150,12 +150,12 @@ body-class: index bodyLayout-unique
 	</div>
 	<div class="row expanded collapse article-list">
 		<div class="medium-6 columns">
-			<a href="https://studioncreations.com/blog/increasing-wordpress-8mb-limit-with-mamp-pro/" class="article-unit-link">
+			<a href="https://studioncreations.com/blog/install-windows-11-on-any-intel-macbook-pro-macbook-air-or-imac/" class="article-unit-link">
 				<div class="prose-wrap">
-					<h5 class="ff-monospace article-category">Pro Tips</h5>
-					<h3 class="ff-sans-serif article-headline">Increasing WordPress’ 8MB limit with MAMP Pro</h3>
+					<h5 class="ff-monospace article-category">Tutorial Walkthrough</h5>
+					<h3 class="ff-sans-serif article-headline">Install Windows 11 on any Intel MacBook Pro, MacBook Air or iMac</h3>
 				</div>
-				<img src="https://studioncreations.com/wp-content/uploads/2018/08/wordpress-mamp-feature-image-768x307.png" loading="lazy" alt="A collage of the Wordpress, MAMP and PHP logos">
+				<img src="https://studioncreations.com/wp-content/uploads/2022/10/Windows-11-Intel-Mac-Feature-Image-768x307.jpg" loading="lazy" alt="A graphic of an iMac and MacBook Pro with the Windows 11 logo">
 			</a>
 			<a href="https://studioncreations.com/blog/ifixit-pro-tech-toolkit-review/" class="article-unit-link">
 				<div class="prose-wrap">
