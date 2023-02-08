@@ -14,7 +14,7 @@ body-class: index bodyLayout-unique
 			<div class="prose-cell cell color-white large-text-center">
 				<div class="grid-container">
 					<h1>Studio N Creations</h1>
-					<h2>Web Design |&nbsp;Site&nbsp;Maintenance</h2>
+					<h2>Web Development |&nbsp;Site&nbsp;Maintenance</h2>
 					<div data-magellan data-threshold="0">
 						<a href="#main-content-section"><img src="/img/assets/icons/arrow-circle-down.svg" alt=""></a>
 					</div>
